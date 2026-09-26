@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SUCs aggregate: August and September",
+      "agency": "Various SUCs",
+      "category": "Salary Increase under E.O. No. 64",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 1348870729,
+        "Total": 1348870729
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SUCs aggregate: October",
+      "agency": "Various SUCs",
+      "category": "FY 2024 PS Deficiency",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 223441656,
+        "Total": 223441656
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SUCs aggregate: October",
+      "agency": "Various SUCs",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 25085271,
+        "Monetization of Leave Credits": 1583395,
+        "Total": 26668666
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SUCs aggregate: November",
+      "agency": "Various SUCs",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 55737706,
+        "Monetization of Leave Credits": 23420906,
+        "Total": 79158612
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SUCs aggregate: November",
+      "agency": "Various SUCs",
+      "category": "FY 2022 PBB and FY 2024 PS Deficiency",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 14343512,
+        "Other PS Deficiencies": 491058578,
+        "Total": 505402090
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SUCs aggregate: December",
+      "agency": "Various SUCs",
+      "category": "FY 2024 PS Deficiency",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 457191027,
+        "Total": 457191027
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SUCs aggregate: December",
+      "agency": "Various SUCs",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 12143814,
+        "Monetization of Leave Credits": 25544024,
+        "Total": 37687838
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Department subtotal",
+      "agency": "SUCs",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 1348870729,
+        "FY 2022 PBB": 14343512,
+        "Other PS Deficiencies": 1218499214,
+        "Total": 2581713455
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Department subtotal",
+      "agency": "SUCs",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 92966791,
+        "Monetization of Leave Credits": 50548325,
+        "Total": 143515116
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 23,
+      "printedPage": 23,
+      "scope": "Department subtotal",
+      "agency": "SUCs",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 2725228571,
+        "Total": 2725228571
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Department subtotal",
+      "agency": "DOE",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 1370282,
+        "Other PS Deficiencies": 64750985,
+        "Total": 66121267
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Department subtotal",
+      "agency": "DOE",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 3943003,
+        "Monetization of Leave Credits": 240157,
+        "Total": 4183160
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 23,
+      "printedPage": 23,
+      "scope": "Department subtotal",
+      "agency": "DOE",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 70304427,
+        "Total": 70304427
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Department subtotal",
+      "agency": "DENR",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 284985591,
+        "Other PS Deficiencies": 201237022,
+        "Total": 486222613
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Department subtotal",
+      "agency": "DENR",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 39457899,
+        "Monetization of Leave Credits": 8553369,
+        "Total": 48011268
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 23,
+      "printedPage": 23,
+      "scope": "Department subtotal",
+      "agency": "DENR",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 534233881,
+        "Total": 534233881
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DENR - Office of the Secretary",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2308870,
+        "Monetization of Leave Credits": 2684702,
+        "Total": 4993572
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SAROs issued in November aggregate",
+      "agency": "DENR - Office of the Secretary",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 22086833,
+        "Monetization of Leave Credits": 2548599,
+        "Total": 24635432
+      }
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "sourceAnnex": "J",
+  "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-annex-v1/Annex-J-Compliance-G.R.-No.-271059.pdf",
+  "transcriptionMethod": "visual review of rendered page images; no text extraction or OCR",
+  "schemaVersion": "annex-j-certificates-v1",
+  "documents": [
+    {
+      "documentId": "J-p18",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 11322166522.77,
+          "amountText": "Eleven Billion, Three Hundred Twenty-Two Million, One Hundred Sixty-Six Thousand, Five Hundred Twenty-Two and 77/100 Pesos (P11,322,166,522.77)",
+          "amountType": "actual interest income earned from National Government deposits",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 1700000000,
+        "amountText": "One Billion, Seven Hundred Million Pesos (P1,700,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "Interest income on National Government deposits",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          19
+        ],
+        "relationshipNote": "Page 19 is explicitly supplemental to this certification dated 17 September 2024."
+      },
+      "sourcePage": 18,
+      "reviewNotes": "Stamped 17 September 2024. States actual interest income for 1 January–30 August 2024 had exceeded the FY 2024 program. Certified income, not a release."
+    },
+    {
+      "documentId": "J-p19",
+      "documentType": "Supplemental certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-11-29",
+      "coveredPeriod": "2024-09-02/2024-11-22",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 5704196546.35,
+          "amountText": "Five Billion, Seven Hundred Four Million, One Hundred Ninety-Six Thousand, Five Hundred Forty-Six and 35/100 Pesos (P5,704,196,546.35)",
+          "amountType": "additional interest income on National Government deposits",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Interest income on National Government deposits",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          18
+        ],
+        "relationshipNote": "Explicitly states it is supplemental to the certification on interest income on NG deposits dated 17 September 2024 on source page 18."
+      },
+      "sourcePage": 19,
+      "reviewNotes": "Stamped 29 November 2024. Additional interest earned from 2 September to 22 November 2024; period follows page 18's 30 August cutoff."
+    },
+    {
+      "documentId": "J-p20",
+      "documentType": "Transmittal letter with summarized collection report",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2024-08-27",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-01-01/2023-12-31",
+      "reportedAmounts": [
+        {
+          "amountPesos": 5454077278.98,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q1"
+        },
+        {
+          "amountPesos": 8181380624.66,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q2"
+        },
+        {
+          "amountPesos": 7582872092.4,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q3"
+        },
+        {
+          "amountPesos": 8708988347.63,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q4"
+        },
+        {
+          "amountPesos": 29927318343.67,
+          "amountType": "reported annual total collected duties on rice imports",
+          "period": "2023"
+        },
+        {
+          "amountPesos": 10000000000.0,
+          "amountType": "portion to be allotted to the Rice Competitiveness Enhancement Fund (RCEF)",
+          "period": "2023 collection"
+        },
+        {
+          "amountPesos": 19927318343.67,
+          "amountType": "excess tariff revenues for inclusion in GAA of following year",
+          "period": "2023 collection"
+        }
+      ],
+      "collectionCategory": "Rice import duties / tariff revenues",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          21,
+          22,
+          23,
+          24
+        ],
+        "relationshipNote": "Pages 21–24 are BOC supporting letters with monthly schedules corresponding to the four quarterly amounts summarized here."
+      },
+      "sourcePage": 20,
+      "reviewNotes": "Receipt markings include DBM receipt stamp 18 September 2024 and BTr receipt stamp 06 September 2024. The printed quarterly totals sum to the printed P29,927,318,343.67 annual total. The letter says P10bn is for RCEF and P19,927,318,343.67 is excess tariff revenue; it also says for BOC collection-performance purposes this amount still forms part of 2023 collection. This is BOC correspondence/reporting, not a BTr certification or a release. Quarter 4 differs by P0.03 from the supporting page 24 total."
+    },
+    {
+      "documentId": "J-p21",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2023-06-08",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-01-01/2023-03-31",
+      "reportedAmounts": [
+        {
+          "amountPesos": 1277505603.7,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-01"
+        },
+        {
+          "amountPesos": 927316304.17,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-02"
+        },
+        {
+          "amountPesos": 3249255371.11,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-03"
+        },
+        {
+          "amountPesos": 5454077278.98,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q1"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 1 schedule supports and exactly matches the Q1 amount in the BOC annual summary on source page 20."
+      },
+      "sourcePage": 21,
+      "reviewNotes": "Commissioner's signature date appears as 19 June 2023. Visible receipt markings include 05 July 2023 and a 05 June 2023 stamp that predates the letter's printed 08 June 2023 date; record as visible stamp date, not letter date. Monthly amounts add exactly to P5,454,077,278.98. BOC correspondence, not a BTr certification or release."
+    },
+    {
+      "documentId": "J-p22",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2023-09-05",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-04-01/2023-06-30",
+      "reportedAmounts": [
+        {
+          "amountPesos": 3639422800.3,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-04"
+        },
+        {
+          "amountPesos": 2643498743.26,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-05"
+        },
+        {
+          "amountPesos": 1898459081.1,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-06"
+        },
+        {
+          "amountPesos": 8181380624.66,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q2"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 2 schedule supports and exactly matches the Q2 amount in the BOC annual summary on source page 20."
+      },
+      "sourcePage": 22,
+      "reviewNotes": "Commissioner's signature date stamp appears 08 September 2023. Monthly amounts add exactly to P8,181,380,624.66. BOC correspondence, not a BTr certification or release."
+    },
+    {
+      "documentId": "J-p23",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2023-10-24",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-07-01/2023-09-30",
+      "reportedAmounts": [
+        {
+          "amountPesos": 1232396881.56,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-07"
+        },
+        {
+          "amountPesos": 2498409393.7,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-08"
+        },
+        {
+          "amountPesos": 3852065817.14,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-09"
+        },
+        {
+          "amountPesos": 7582872092.4,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q3"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 3 schedule supports and exactly matches the Q3 amount in the BOC annual summary on source page 20."
+      },
+      "sourcePage": 23,
+      "reviewNotes": "Commissioner's signature date stamp appears 09 November 2023; DBM and BTr receipt stamps appear 14 November 2023. Monthly amounts add exactly to P7,582,872,092.40. BOC correspondence, not a BTr certification or release."
+    },
+    {
+      "documentId": "J-p24",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2024-01-24",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-10-01/2023-12-31",
+      "reportedAmounts": [
+        {
+          "amountPesos": 1586507341.08,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-10"
+        },
+        {
+          "amountPesos": 2726681710.95,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-11"
+        },
+        {
+          "amountPesos": 4395799295.63,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-12"
+        },
+        {
+          "amountPesos": 8708988347.66,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q4"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 4 schedule supports the Q4 amount in the BOC annual summary on source page 20, but the printed total differs by P0.03."
+      },
+      "sourcePage": 24,
+      "reviewNotes": "Commissioner's signature date stamp appears 26 January 2024; DBM and BTr received stamps appear 29 January 2024. The three monthly amounts add to P8,708,988,347.66 as printed here, which is P0.03 above the P8,708,988,347.63 Q4 amount on page 20. BOC correspondence, not a BTr certification or release."
+    }
+  ],
+  "reconciliation": {
+    "pageCount": 7,
+    "riceImportDutyAnnualSummaryPage20Pesos": 29927318343.67,
+    "riceImportDutyQuarterAmountsPage20SumPesos": 29927318343.67,
+    "riceImportDutyQuarterAmountsFromSupportingLettersPesos": 29927318343.7,
+    "annualSummaryQ4Pesos": 8708988347.63,
+    "q4SupportingLetterMonthlySumAndPrintedTotalPesos": 8708988347.66,
+    "q4DifferencePesos": 0.03,
+    "notes": [
+      "Pages 21–24 are BOC supporting letters for Q1–Q4 2023 and each quarterly amount matches the Q1–Q3 summary on page 20; Q4 is P0.03 higher on the supporting letter (page 24).",
+      "The quarterly amounts printed on page 20 sum exactly to its reported P29,927,318,343.67 annual total. Replacing the Q4 amount with page 24's monthly sum yields P29,927,318,343.70.",
+      "Page 20 allocates P10,000,000,000 to RCEF and identifies P19,927,318,343.67 as excess tariff revenues for the following year's GAA; it states these amounts remain part of 2023 collection for BOC collection-performance accounting.",
+      "Page 19 is a supplemental BTr certification for interest on NG deposits; pages 20–24 are separate BOC rice-duty correspondence and do not form a continuation of the BTr certificates."
+    ]
+  }
+}

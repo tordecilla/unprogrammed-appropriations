@@ -1,0 +1,1103 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 8,
+  "printedPage": 368,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "notes": [
+    "Footnote: For BSGC: PS and MOOE are Subsidy and CO are Equity."
+  ],
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Environment and Natural Resources (DENR)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 9586727,
+          "maintenanceAndOtherOperatingExpenses": 7717647,
+          "capitalOutlaysAndNetLending": 2961518,
+          "financialExpenses": 0,
+          "total": 20265892
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 8292916,
+          "maintenanceAndOtherOperatingExpenses": 8781130,
+          "capitalOutlaysAndNetLending": 2881888,
+          "financialExpenses": 0,
+          "total": 19955934
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 9413945,
+          "maintenanceAndOtherOperatingExpenses": 9138770,
+          "capitalOutlaysAndNetLending": 2773756,
+          "financialExpenses": 0,
+          "total": 21326471
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Environmental Management Bureau",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Environment and Natural Resources (DENR)",
+        "Environmental Management Bureau"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1304045,
+          "maintenanceAndOtherOperatingExpenses": 1227009,
+          "capitalOutlaysAndNetLending": 279193,
+          "financialExpenses": 0,
+          "total": 2810247
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1158897,
+          "maintenanceAndOtherOperatingExpenses": 1304989,
+          "capitalOutlaysAndNetLending": 619709,
+          "financialExpenses": 0,
+          "total": 3083595
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1337494,
+          "maintenanceAndOtherOperatingExpenses": 1441228,
+          "capitalOutlaysAndNetLending": 687781,
+          "financialExpenses": 0,
+          "total": 3466503
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Mines and Geosciences Bureau",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Environment and Natural Resources (DENR)",
+        "Mines and Geosciences Bureau"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 969685,
+          "maintenanceAndOtherOperatingExpenses": 648293,
+          "capitalOutlaysAndNetLending": 168078,
+          "financialExpenses": 0,
+          "total": 1786056
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 850958,
+          "maintenanceAndOtherOperatingExpenses": 907746,
+          "capitalOutlaysAndNetLending": 169364,
+          "financialExpenses": 0,
+          "total": 1928068
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 979826,
+          "maintenanceAndOtherOperatingExpenses": 859850,
+          "capitalOutlaysAndNetLending": 230804,
+          "financialExpenses": 0,
+          "total": 2070480
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "National Mapping and Resource Information Authority",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Environment and Natural Resources (DENR)",
+        "National Mapping and Resource Information Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 568419,
+          "maintenanceAndOtherOperatingExpenses": 1046798,
+          "capitalOutlaysAndNetLending": 36746,
+          "financialExpenses": 0,
+          "total": 1651963
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 513314,
+          "maintenanceAndOtherOperatingExpenses": 1229538,
+          "capitalOutlaysAndNetLending": 175467,
+          "financialExpenses": 0,
+          "total": 1918319
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 560079,
+          "maintenanceAndOtherOperatingExpenses": 1352918,
+          "capitalOutlaysAndNetLending": 92915,
+          "financialExpenses": 0,
+          "total": 2005912
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "National Water Resources Board",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Environment and Natural Resources (DENR)",
+        "National Water Resources Board"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 92367,
+          "maintenanceAndOtherOperatingExpenses": 81819,
+          "capitalOutlaysAndNetLending": 40334,
+          "financialExpenses": 0,
+          "total": 214520
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 85524,
+          "maintenanceAndOtherOperatingExpenses": 152508,
+          "capitalOutlaysAndNetLending": 28705,
+          "financialExpenses": 0,
+          "total": 266737
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 90461,
+          "maintenanceAndOtherOperatingExpenses": 152437,
+          "capitalOutlaysAndNetLending": 59055,
+          "financialExpenses": 0,
+          "total": 301953
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Palawan Council for Sustainable Development Staff",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Environment and Natural Resources (DENR)",
+        "Palawan Council for Sustainable Development Staff"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 70070,
+          "maintenanceAndOtherOperatingExpenses": 56127,
+          "capitalOutlaysAndNetLending": 750,
+          "financialExpenses": 0,
+          "total": 126947
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 61935,
+          "maintenanceAndOtherOperatingExpenses": 69034,
+          "capitalOutlaysAndNetLending": 8609,
+          "financialExpenses": 0,
+          "total": 139578
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 70328,
+          "maintenanceAndOtherOperatingExpenses": 73062,
+          "capitalOutlaysAndNetLending": 27545,
+          "financialExpenses": 0,
+          "total": 170935
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Department of Finance (DOF)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 16119228,
+          "maintenanceAndOtherOperatingExpenses": 42492856,
+          "capitalOutlaysAndNetLending": 4188357,
+          "financialExpenses": 519540,
+          "total": 63319981
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 13459538,
+          "maintenanceAndOtherOperatingExpenses": 12304035,
+          "capitalOutlaysAndNetLending": 6695632,
+          "financialExpenses": 30893,
+          "total": 32490098
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 15513187,
+          "maintenanceAndOtherOperatingExpenses": 13237130,
+          "capitalOutlaysAndNetLending": 5729653,
+          "financialExpenses": 26682,
+          "total": 34506652
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 516812,
+          "maintenanceAndOtherOperatingExpenses": 542272,
+          "capitalOutlaysAndNetLending": 47488,
+          "financialExpenses": 0,
+          "total": 1106572
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 428252,
+          "maintenanceAndOtherOperatingExpenses": 491254,
+          "capitalOutlaysAndNetLending": 47461,
+          "financialExpenses": 0,
+          "total": 966967
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 522613,
+          "maintenanceAndOtherOperatingExpenses": 665827,
+          "capitalOutlaysAndNetLending": 64475,
+          "financialExpenses": 0,
+          "total": 1252915
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Bureau of Customs",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Bureau of Customs"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 3263763,
+          "maintenanceAndOtherOperatingExpenses": 1389021,
+          "capitalOutlaysAndNetLending": 639726,
+          "financialExpenses": 0,
+          "total": 5292510
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 2068348,
+          "maintenanceAndOtherOperatingExpenses": 1892192,
+          "capitalOutlaysAndNetLending": 1702868,
+          "financialExpenses": 0,
+          "total": 5663408
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 2433653,
+          "maintenanceAndOtherOperatingExpenses": 3185505,
+          "capitalOutlaysAndNetLending": 1289214,
+          "financialExpenses": 0,
+          "total": 6908372
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Bureau of Internal Revenue",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Bureau of Internal Revenue"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 10878317,
+          "maintenanceAndOtherOperatingExpenses": 5008648,
+          "capitalOutlaysAndNetLending": 951639,
+          "financialExpenses": 54406,
+          "total": 16893010
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 9718724,
+          "maintenanceAndOtherOperatingExpenses": 6056675,
+          "capitalOutlaysAndNetLending": 1881548,
+          "financialExpenses": 30893,
+          "total": 17687840
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 11098558,
+          "maintenanceAndOtherOperatingExpenses": 6798366,
+          "capitalOutlaysAndNetLending": 1231237,
+          "financialExpenses": 26682,
+          "total": 19154843
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Bureau of Local Government Finance",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Bureau of Local Government Finance"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 240584,
+          "maintenanceAndOtherOperatingExpenses": 195125,
+          "capitalOutlaysAndNetLending": 22267,
+          "financialExpenses": 0,
+          "total": 457976
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 237063,
+          "maintenanceAndOtherOperatingExpenses": 109825,
+          "capitalOutlaysAndNetLending": 90084,
+          "financialExpenses": 0,
+          "total": 436972
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 263595,
+          "maintenanceAndOtherOperatingExpenses": 651800,
+          "capitalOutlaysAndNetLending": 80804,
+          "financialExpenses": 0,
+          "total": 996199
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Bureau of the Treasury",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Bureau of the Treasury"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 618210,
+          "maintenanceAndOtherOperatingExpenses": 35068539,
+          "capitalOutlaysAndNetLending": 2489625,
+          "financialExpenses": 465134,
+          "total": 38641508
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 507690,
+          "maintenanceAndOtherOperatingExpenses": 3250770,
+          "capitalOutlaysAndNetLending": 2703001,
+          "financialExpenses": 0,
+          "total": 6461461
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 606568,
+          "maintenanceAndOtherOperatingExpenses": 1357484,
+          "capitalOutlaysAndNetLending": 2736937,
+          "financialExpenses": 0,
+          "total": 4700989
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Central Board of Assessment Appeals",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Central Board of Assessment Appeals"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 16270,
+          "maintenanceAndOtherOperatingExpenses": 1956,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 18226
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 15184,
+          "maintenanceAndOtherOperatingExpenses": 2867,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 18051
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 14795,
+          "maintenanceAndOtherOperatingExpenses": 3540,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 18335
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Insurance Commission",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Insurance Commission"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 395173,
+          "maintenanceAndOtherOperatingExpenses": 237026,
+          "capitalOutlaysAndNetLending": 5689,
+          "financialExpenses": 0,
+          "total": 637888
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 318997,
+          "maintenanceAndOtherOperatingExpenses": 434582,
+          "capitalOutlaysAndNetLending": 246650,
+          "financialExpenses": 0,
+          "total": 1000229
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 385376,
+          "maintenanceAndOtherOperatingExpenses": 496573,
+          "capitalOutlaysAndNetLending": 304496,
+          "financialExpenses": 0,
+          "total": 1186445
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "National Tax Research Center",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "National Tax Research Center"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 109363,
+          "maintenanceAndOtherOperatingExpenses": 29873,
+          "capitalOutlaysAndNetLending": 28305,
+          "financialExpenses": 0,
+          "total": 167541
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 86599,
+          "maintenanceAndOtherOperatingExpenses": 36619,
+          "capitalOutlaysAndNetLending": 20895,
+          "financialExpenses": 0,
+          "total": 144113
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 98547,
+          "maintenanceAndOtherOperatingExpenses": 38144,
+          "capitalOutlaysAndNetLending": 17260,
+          "financialExpenses": 0,
+          "total": 153951
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Privatization and Management Office",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Finance (DOF)",
+        "Privatization and Management Office"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 80736,
+          "maintenanceAndOtherOperatingExpenses": 20396,
+          "capitalOutlaysAndNetLending": 3618,
+          "financialExpenses": 0,
+          "total": 104750
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 78681,
+          "maintenanceAndOtherOperatingExpenses": 29251,
+          "capitalOutlaysAndNetLending": 3125,
+          "financialExpenses": 0,
+          "total": 111057
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 89482,
+          "maintenanceAndOtherOperatingExpenses": 39891,
+          "capitalOutlaysAndNetLending": 5230,
+          "financialExpenses": 0,
+          "total": 134603
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Department of Foreign Affairs (DFA)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Foreign Affairs (DFA)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 10173824,
+          "maintenanceAndOtherOperatingExpenses": 9983922,
+          "capitalOutlaysAndNetLending": 955634,
+          "financialExpenses": 0,
+          "total": 21113380
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 9877463,
+          "maintenanceAndOtherOperatingExpenses": 15614916,
+          "capitalOutlaysAndNetLending": 2360420,
+          "financialExpenses": 0,
+          "total": 27852799
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 11712748,
+          "maintenanceAndOtherOperatingExpenses": 15205710,
+          "capitalOutlaysAndNetLending": 3170472,
+          "financialExpenses": 0,
+          "total": 30088930
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Foreign Affairs (DFA)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 10075267,
+          "maintenanceAndOtherOperatingExpenses": 9895518,
+          "capitalOutlaysAndNetLending": 945508,
+          "financialExpenses": 0,
+          "total": 20916293
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 9784304,
+          "maintenanceAndOtherOperatingExpenses": 15467806,
+          "capitalOutlaysAndNetLending": 2354675,
+          "financialExpenses": 0,
+          "total": 27606785
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 11595159,
+          "maintenanceAndOtherOperatingExpenses": 15019451,
+          "capitalOutlaysAndNetLending": 3165615,
+          "financialExpenses": 0,
+          "total": 29780225
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Foreign Service Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Foreign Affairs (DFA)",
+        "Foreign Service Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 69176,
+          "maintenanceAndOtherOperatingExpenses": 28027,
+          "capitalOutlaysAndNetLending": 5677,
+          "financialExpenses": 0,
+          "total": 102880
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 58674,
+          "maintenanceAndOtherOperatingExpenses": 93724,
+          "capitalOutlaysAndNetLending": 4370,
+          "financialExpenses": 0,
+          "total": 156768
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 78011,
+          "maintenanceAndOtherOperatingExpenses": 93762,
+          "capitalOutlaysAndNetLending": 1100,
+          "financialExpenses": 0,
+          "total": 172873
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Technical Cooperation Council of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Foreign Affairs (DFA)",
+        "Technical Cooperation Council of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 2466,
+          "maintenanceAndOtherOperatingExpenses": 2698,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 5164
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 2135,
+          "maintenanceAndOtherOperatingExpenses": 2989,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 5124
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 2366,
+          "maintenanceAndOtherOperatingExpenses": 29091,
+          "capitalOutlaysAndNetLending": 280,
+          "financialExpenses": 0,
+          "total": 31737
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "UNESCO National Commission of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Foreign Affairs (DFA)",
+        "UNESCO National Commission of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 13127,
+          "maintenanceAndOtherOperatingExpenses": 35504,
+          "capitalOutlaysAndNetLending": 2649,
+          "financialExpenses": 0,
+          "total": 51280
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 12643,
+          "maintenanceAndOtherOperatingExpenses": 27969,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 40612
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 14199,
+          "maintenanceAndOtherOperatingExpenses": 36521,
+          "capitalOutlaysAndNetLending": 1800,
+          "financialExpenses": 0,
+          "total": 52520
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Presidential Commission on Visiting Forces",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Foreign Affairs (DFA)",
+        "Presidential Commission on Visiting Forces"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 13788,
+          "maintenanceAndOtherOperatingExpenses": 22175,
+          "capitalOutlaysAndNetLending": 1800,
+          "financialExpenses": 0,
+          "total": 37763
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 19707,
+          "maintenanceAndOtherOperatingExpenses": 22428,
+          "capitalOutlaysAndNetLending": 1375,
+          "financialExpenses": 0,
+          "total": 43510
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 23013,
+          "maintenanceAndOtherOperatingExpenses": 26885,
+          "capitalOutlaysAndNetLending": 1677,
+          "financialExpenses": 0,
+          "total": 51575
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Department of Health (DOH)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Health (DOH)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 94894881,
+          "maintenanceAndOtherOperatingExpenses": 159482111,
+          "capitalOutlaysAndNetLending": 23518304,
+          "financialExpenses": 0,
+          "total": 277895296
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 86783224,
+          "maintenanceAndOtherOperatingExpenses": 124997520,
+          "capitalOutlaysAndNetLending": 41580025,
+          "financialExpenses": 0,
+          "total": 253360769
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 108879316,
+          "maintenanceAndOtherOperatingExpenses": 122317056,
+          "capitalOutlaysAndNetLending": 29371641,
+          "financialExpenses": 0,
+          "total": 260568013
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Health (DOH)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 94769244,
+          "maintenanceAndOtherOperatingExpenses": 159050175,
+          "capitalOutlaysAndNetLending": 23498510,
+          "financialExpenses": 0,
+          "total": 277317929
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 86663564,
+          "maintenanceAndOtherOperatingExpenses": 124771683,
+          "capitalOutlaysAndNetLending": 41554206,
+          "financialExpenses": 0,
+          "total": 252989453
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 108741711,
+          "maintenanceAndOtherOperatingExpenses": 122083222,
+          "capitalOutlaysAndNetLending": 29365734,
+          "financialExpenses": 0,
+          "total": 260190667
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "National Nutrition Council",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Health (DOH)",
+        "National Nutrition Council"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 95076,
+          "maintenanceAndOtherOperatingExpenses": 416898,
+          "capitalOutlaysAndNetLending": 16804,
+          "financialExpenses": 0,
+          "total": 528778
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 92115,
+          "maintenanceAndOtherOperatingExpenses": 208510,
+          "capitalOutlaysAndNetLending": 18475,
+          "financialExpenses": 0,
+          "total": 319100
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 101970,
+          "maintenanceAndOtherOperatingExpenses": 209786,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 311756
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 8,
+      "printedPage": 368,
+      "particulars": "Philippine National AIDS Council",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Health (DOH)",
+        "Philippine National AIDS Council"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 30561,
+          "maintenanceAndOtherOperatingExpenses": 15038,
+          "capitalOutlaysAndNetLending": 2990,
+          "financialExpenses": 0,
+          "total": 48589
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 27545,
+          "maintenanceAndOtherOperatingExpenses": 17327,
+          "capitalOutlaysAndNetLending": 7344,
+          "financialExpenses": 0,
+          "total": 52216
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 35635,
+          "maintenanceAndOtherOperatingExpenses": 24048,
+          "capitalOutlaysAndNetLending": 5907,
+          "financialExpenses": 0,
+          "total": 65590
+        }
+      }
+    }
+  ]
+}

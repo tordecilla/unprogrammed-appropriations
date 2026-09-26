@@ -1,0 +1,46 @@
+﻿{
+    "version":  1,
+    "grain":  "report-level note or visible subtotal not attributed to a numbered SARO",
+    "records":  [
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  66,
+                        "printedPage":  66,
+                        "scope":  "Various SAROs issued in August and September; DPWH salary-increase aggregate",
+                        "agency":  "Department of Public Works and Highways â€” Office of the Secretary",
+                        "category":  "For payment of Personnel Benefits",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Salary Increase":  393593319,
+                                        "Total":  393593319
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  66,
+                        "printedPage":  66,
+                        "scope":  "Various SAROs issued in October; DPWH terminal-leave aggregate",
+                        "agency":  "Department of Public Works and Highways â€” Office of the Secretary",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  13129079,
+                                        "Total":  13129079
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  66,
+                        "printedPage":  66,
+                        "scope":  "Various SAROs issued in November; DPWH terminal-leave and monetization aggregate",
+                        "agency":  "Department of Public Works and Highways â€” Office of the Secretary",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  17310670,
+                                        "Monetization of Leave Credits":  423367,
+                                        "Total":  17734037
+                                    }
+                    }
+                ]
+}

@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "grain": "separate visible aggregates labelled Various SAROs; not distinct SARO rows",
+  "records": [
+    {
+      "annexId": "F",
+      "sourcePage": 19,
+      "printedPage": 19,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Department of Public Works and Highways ? Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "TL/RG": 5448110,
+        "MLC": 8121042,
+        "Other PS Deficiencies": 216396000,
+        "Total": 229965152
+      }
+    },
+    {
+      "annexId": "F",
+      "sourcePage": 19,
+      "printedPage": 19,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Department of Science and Technology ? Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 6144217,
+        "Total": 6144217
+      }
+    },
+    {
+      "annexId": "F",
+      "sourcePage": 19,
+      "printedPage": 19,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Department of Science and Technology ? National Academy of Science and Technology",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "TL/RG": 1269783,
+        "Other PS Deficiencies": 819093,
+        "Total": 2088876
+      }
+    },
+    {
+      "annexId": "F",
+      "sourcePage": 19,
+      "printedPage": 19,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Department of Science and Technology ? Philippine Nuclear Research Institute",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "TL/RG": 799350,
+        "Other PS Deficiencies": 4415469,
+        "Total": 5214819
+      }
+    },
+    {
+      "annexId": "F",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Department of Social Welfare and Development ? Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "TL/RG": 3656467,
+        "MLC": 625205,
+        "Other PS Deficiencies": 1761484509,
+        "Total": 1765766181
+      }
+    },
+    {
+      "annexId": "F",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Department of Tourism ? Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "TL/RG": 2887227,
+        "Other PS Deficiencies": 16681164,
+        "Total": 19568391
+      }
+    },
+    {
+      "annexId": "F",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Department of Trade and Industry ? Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "TL/RG": 4476591,
+        "MLC": 662916,
+        "Other PS Deficiencies": 437850748,
+        "Total": 442990255
+      }
+    },
+    {
+      "annexId": "F",
+      "sourcePage": 22,
+      "printedPage": 22,
+      "scope": "Various SAROs aggregate; not a numbered SARO row",
+      "agency": "Cooperative Development Authority",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "TL/RG": 1788278,
+        "MLC": 835972,
+        "Other PS Deficiencies": 48817726,
+        "Total": 51441976
+      }
+    }
+  ]
+}

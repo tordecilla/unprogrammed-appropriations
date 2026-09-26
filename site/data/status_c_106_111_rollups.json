@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "grain": "separate visible Various SAROs aggregates and DOTr subtotal rollups; not additional numbered SARO leaves",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 110,
+      "printedPage": 110,
+      "scope": "Various SAROs issued in September; DOTr Office of the Secretary salary-increase aggregate",
+      "agency": "DOTr ? Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 106937000,
+        "Total": 106937000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 110,
+      "printedPage": 110,
+      "scope": "Various SAROs issued in October; DOTr Office of the Secretary benefits aggregate",
+      "agency": "DOTr ? Office of the Secretary",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 893147,
+        "Monetization of Leave Credits": 2943355,
+        "Total": 3836502
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 110,
+      "printedPage": 110,
+      "scope": "Various SAROs issued in November; DOTr Office of the Secretary benefits aggregate",
+      "agency": "DOTr ? Office of the Secretary",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2497526,
+        "Monetization of Leave Credits": 3982995,
+        "Total": 6480521
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 110,
+      "printedPage": 110,
+      "scope": "Various SAROs issued in December; DOTr Office of the Secretary benefits aggregate",
+      "agency": "DOTr ? Office of the Secretary",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 7654587,
+        "Total": 7654587
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 106,
+      "printedPage": 106,
+      "scope": "DOTr department-level printed summary row; benefit totals are not apportioned to the adjacent named SAROs",
+      "agency": "DOTr",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 154891753,
+        "FY 2022 PBB": 323090855,
+        "Other PS Deficiencies": 1302849595,
+        "Total": 1780832203
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 106,
+      "printedPage": 106,
+      "scope": "DOTr department-level printed summary row; benefit totals are not apportioned to the adjacent named SAROs",
+      "agency": "DOTr",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 81275880,
+        "Monetization of Leave Credits": 9323499,
+        "Total": 90599379
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 106,
+      "printedPage": 106,
+      "scope": "Office of the Secretary printed summary row; benefit totals are not apportioned to the adjacent named SAROs",
+      "agency": "DOTr ? Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 115154753,
+        "Other PS Deficiencies": 310801764,
+        "Total": 425956517
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 106,
+      "printedPage": 106,
+      "scope": "Office of the Secretary printed summary row; benefit totals are not apportioned to the adjacent named SAROs",
+      "agency": "DOTr ? Office of the Secretary",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 11045260,
+        "Monetization of Leave Credits": 6926350,
+        "Total": 17971610
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 107,
+      "printedPage": 107,
+      "scope": "DOTr department total summary; includes records preceding this staged page range",
+      "agency": "DOTr",
+      "category": "Overall printed TOTAL columns",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 1871431582,
+        "MOOE": 0,
+        "CO": 68627160531,
+        "Total": 70498592113
+      },
+      "reviewNote": "The visible total includes rows outside the current pp106?111 staging batch; do not allocate its amount among adjacent rows."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 107,
+      "printedPage": 107,
+      "scope": "DOTr Office of the Secretary total summary; includes records preceding this staged page range",
+      "agency": "DOTr ? Office of the Secretary",
+      "category": "Overall printed TOTAL columns",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 443928127,
+        "MOOE": 0,
+        "CO": 68627160531,
+        "Total": 69071088658
+      },
+      "reviewNote": "Office summary components reconcile to PS + CO. CO includes prior FAP and counterpart records, not only those transcribed here."
+    }
+  ]
+}

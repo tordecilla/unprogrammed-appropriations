@@ -1,0 +1,294 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0000868",
+    "date": "2024-03-04",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 funding requirements for the implementation of the Philippines Multi-Sectoral Nutrition Project (Loan No. 9382-PH), chargeable against the Unprogrammed Appropriations - Support to Foreign-Assisted Projects (UA-SFAPs) under the FY 2024 General Appropriations Act (GAA), Republic Act No. 11975",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 1039871786,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 1039871786,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0002527",
+    "date": "2024-05-03",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the civil works and salaries of the project staffs under the Health System Enhancement to Address and Limit COVID-19 Project 1 (HEAL 1), a foreign loan assistance from Asian Development Bank (Loan No. 3961-PHI dated September 18, 2020)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 16111735,
+        "pdfPage": 32
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 37711891,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 53823626,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0004262",
+    "date": "2024-06-11",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the salaries of the project staffs covering the period of July to December 2024, chargeable against the Philippines COVID-19 Emergency Response Project 2 (PCERP 2), a foreign loan assistance from International Bank for Reconstruction and Development, Loan No. 9220-PH",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 11600000,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 11600000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0005240",
+    "date": "2024-07-05",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the payment of Public Health Emergency Benefits and Allowances of eligible public and private health care workers (HCWs) and Non-HCWs",
+    "allocations": [
+      {
+        "category": "Public Health Emergency Benefits and Allowances for Health Care and Non-Health Care Workers",
+        "expenseClass": "MOOE",
+        "amountPesos": 27453233268,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 27453233268,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0015788",
+    "date": "2024-09-27",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the construction, completion, and equipping of three (3) DOH health facilities",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 3370000000,
+        "pdfPage": 33
+      }
+    ],
+    "reportedTotalPesos": 3370000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0017131",
+    "date": "2024-10-28",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of the Medical Assistance to Indigent and Financially-Incapacitated Patients Program",
+    "allocations": [
+      {
+        "category": "Priority Social Programs for Health (including Health Facilities Enhancement Program), Social Welfare and Development, Higher Education and Technical Vocational Education",
+        "expenseClass": "CO",
+        "amountPesos": 10000000000,
+        "pdfPage": 33
+      }
+    ],
+    "reportedTotalPesos": 10000000000,
+    "reviewNote": "The leaf amount is under the CO column on page 33; the rolled-up total on page 35 appears under MOOE, so the class placement merits review."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0017879",
+    "date": "2024-11-18",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 3328665107,
+        "pdfPage": 34
+      }
+    ],
+    "reportedTotalPesos": 3328665107,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0018223",
+    "date": "2024-11-26",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the procurement of various medical equipment for DOH hospitals, LGU hospitals, and Primary Care Facilities",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 2816080507,
+        "pdfPage": 33
+      }
+    ],
+    "reportedTotalPesos": 2816080507,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0019124",
+    "date": "2024-12-18",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 725769725,
+        "pdfPage": 34
+      }
+    ],
+    "reportedTotalPesos": 725769725,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0018655",
+    "date": "2024-12-05",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the procurement of various medical equipment for DOH hospitals, LGU hospitals, and Primary Care Facilities",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 1285000000,
+        "pdfPage": 33
+      }
+    ],
+    "reportedTotalPesos": 1285000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "printedPage": 32,
+    "saroNumber": "SARO-BMB-B-24-0019208",
+    "date": "2024-12-19",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the procurement of various medical equipment for DOH hospitals, LGU hospitals, and Primary Care Facilities",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 1698584248,
+        "pdfPage": 33
+      }
+    ],
+    "reportedTotalPesos": 1698584248,
+    "reviewNote": null
+  }
+]

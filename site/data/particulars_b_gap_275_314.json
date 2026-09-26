@@ -1,0 +1,131 @@
+[
+  {
+    "documentId": "B-p275-276",
+    "amountStage": "status_unresolved",
+    "formStatusNote": "Both pages have a watermark that visually appears to read CANCELLED; the p277 advice reports the same SARO amount as issued. The status conflict is unresolved in these sources.",
+    "saroNumber": "SARO-BMB-B-24-0000187",
+    "pageStart": 275,
+    "pageEnd": 276,
+    "dateOfIssue": "2024-02-02",
+    "department": "Department of Social Welfare and Development (DSWD)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "20 001 0100000 (B1420)",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 9382-PH, Philippines Multisectoral Nutrition Project (PMNP).",
+    "totalAmountPesos": 67962856,
+    "amountInWords": "SIXTY-SEVEN MILLION NINE HUNDRED SIXTY-TWO THOUSAND EIGHT HUNDRED FIFTY-SIX PESOS ONLY",
+    "signedBy": "Amenah F. Pangandaman, Department Secretary",
+    "validUntil": "2025-12-31",
+    "reviewNote": "Both pages bear a large diagonal watermark that visually appears to read CANCELLED. The p277 signed advice names SARO-BMB-B-24-0000187 and states that ₱67,962,856.00 was released. Preserve the conflicting status evidence; do not infer that the watermark is immaterial or that the advice resolves cancellation status.",
+    "particulars": [
+      {
+        "sourcePage": 275,
+        "mfoPapCode": "310100300005000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO : Well-being of poor families improved",
+          "PROMOTIVE SOCIAL WELFARE PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippines Multi - Sectoral Nutrition Project"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 67862856
+      },
+      {
+        "sourcePage": 276,
+        "mfoPapCode": "310100300005000",
+        "description": "Computer Software",
+        "programPath": [
+          "Operations",
+          "OO : Well-being of poor families improved",
+          "PROMOTIVE SOCIAL WELFARE PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippines Multi - Sectoral Nutrition Project",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060602000",
+        "amountPesos": 100000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p308",
+    "amountStage": "status_unresolved",
+    "formStatusNote": "The form has a watermark that visually appears to read CANCELLED; the p309 advice reports the same SARO amount as issued. The status conflict is unresolved in these sources.",
+    "saroNumber": "SARO-BMB-A-24-0004360",
+    "pageStart": 308,
+    "dateOfIssue": "2024-06-13",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "38 001 0100000 (B5082)",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the Loan Proceeds requirements for the implementation of the Maritime Safety Capability Improvement Project Phase 1 as financed by the Japan International Cooperation Agency under Loan Agreement No. PH-P257.",
+    "totalAmountPesos": 29413784,
+    "amountInWords": "TWENTY-NINE MILLION FOUR HUNDRED THIRTEEN THOUSAND SEVEN HUNDRED EIGHTY-FOUR PESOS ONLY",
+    "signedBy": "Amenah F. Pangandaman, Secretary",
+    "validUntil": "2025-12-31",
+    "reviewNote": "The form bears a large diagonal watermark that visually appears to read CANCELLED. The p309 signed advice states that SARO-BMB-A-24-0004360 was issued for ₱29,413,784.00; retain the watermark and advice as separate status evidence.",
+    "particulars": [
+      {
+        "sourcePage": 308,
+        "mfoPapCode": "320200300001000",
+        "description": "Seaport Systems",
+        "programPath": [
+          "Operations",
+          "OO : Air and water transport facilities and services improved",
+          "MARITIME INFRASTRUCTURE PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Maritime Safety Capability Improvement Project, Phase 1",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403007",
+        "amountPesos": 29413784
+      }
+    ]
+  },
+  {
+    "documentId": "B-p314",
+    "amountStage": "status_unresolved",
+    "formStatusNote": "The form has a watermark that visually appears to read CANCELLED. No matching issued-SARO advice was identified in the reviewed pages; the status is unresolved.",
+    "saroNumber": "SARO-BMB-A-24-0011674",
+    "pageStart": 314,
+    "dateOfIssue": "2024-09-06",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "38 001 0100000 (B5082)",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the Loan Proceeds requirements for the implementation of the New Cebu International Container Port Project as financed by the Export-Import Bank of Korea under Loan Agreement No. PHL-19.",
+    "totalAmountPesos": 1884077510,
+    "amountInWords": "ONE BILLION EIGHT HUNDRED EIGHTY-FOUR MILLION SEVENTY-SEVEN THOUSAND FIVE HUNDRED TEN PESOS ONLY",
+    "signedBy": "Amenah F. Pangandaman, Department Secretary",
+    "validUntil": "2025-12-31",
+    "reviewNote": "The form bears a large diagonal watermark that visually appears to read CANCELLED. No matching release advice is included in the visually reviewed gap pages; preserve this status note rather than assuming the watermark is immaterial.",
+    "particulars": [
+      {
+        "sourcePage": 314,
+        "mfoPapCode": "320200300004000",
+        "description": "Seaport Systems",
+        "programPath": [
+          "Operations",
+          "OO : Air and water transport facilities and services improved",
+          "MARITIME INFRASTRUCTURE PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "New Cebu International Container Port Project",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403007",
+        "amountPesos": 1884077510
+      }
+    ]
+  }
+]

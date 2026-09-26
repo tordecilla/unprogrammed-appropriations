@@ -1,0 +1,72 @@
+﻿[
+  {
+    "id": "H-p001",
+    "page": 1,
+    "saroNumber": "SARO-BMB-B-26-0000181",
+    "date": "February 11, 2026",
+    "agency": "Department of Social Welfare and Development (DSWD)",
+    "amountPesos": 9553523000,
+    "purpose": "To cover the funding requirements for the implementation of the Panahon ng Pagkilos: Philippine Community Resilience Project (PCRP) under Loan Agreement No. 98460-PH dated September 8, 2025, foreign loan assistance from International Bank for Reconstruction and Development."
+  },
+  {
+    "id": "H-p002",
+    "page": 2,
+    "saroNumber": "SARO-BMB-B-26-0000181",
+    "date": "February 11, 2026",
+    "agency": "Department of Social Welfare and Development (DSWD)",
+    "amountPesos": 9553523000,
+    "purpose": "To cover the funding requirements for the implementation of the Panahon ng Pagkilos: Philippine Community Resilience Project (PCRP) under Loan Agreement No. 98460-PH dated September 8, 2025, foreign loan assistance from the International Bank for Reconstruction and Development."
+  },
+  {
+    "id": "H-p003",
+    "page": 3,
+    "saroNumber": "SARO-BMB-A-26-0000542",
+    "date": "March 05, 2026",
+    "agency": "Department of Transportation (DOTr)",
+    "amountPesos": 736701928,
+    "purpose": "To cover the loan proceeds requirements for the implementation of the New Communications, Navigation and Surveillance/Air Traffic Management (CNS/ATM) Systems Development Project which is finance by the Japan International Cooperation Agency under Loan Agreement No. PH-P228."
+  },
+  {
+    "id": "H-p004-005",
+    "page": 4,
+    "pageEnd": 5,
+    "saroNumber": "SARO-BMB-A-26-0000984",
+    "date": "March 24, 2026",
+    "agency": "Department of Transportation (DOTr)",
+    "amountPesos": 22881267144,
+    "purpose": "To cover the Loan Proceeds requirement for the implementation of the North-South Commuter Railway System, as financed by Asian Development Bank under Loan Agreement Nos. 3796-PHI, 4188-PHI and 4589-PHI."
+  },
+  {
+    "id": "H-p006",
+    "page": 6,
+    "saroNumbers": ["SARO-BMB-A-26-0000983", "SARO-BMB-A-26-0000984"],
+    "date": "March 24, 2026",
+    "agency": "Department of Transportation (DOTr)",
+    "amountPesos": 44165200322,
+    "amountBreakdown": [
+      {"saroNumber": "SARO-BMB-A-26-0000983", "purpose": "NSCR System and MMSP Phase I under Japan International Cooperation Agency", "amountPesos": 21283933178},
+      {"saroNumber": "SARO-BMB-A-26-0000984", "purpose": "NSCR System under Asian Development Bank", "amountPesos": 22881267144}
+    ],
+    "purpose": "Loan Proceeds (LP) requirements for the implementation of the North-South Commuter Railway (NSCR) System and the Metro Manila Subway Project (MMSP) Phase I",
+    "ambiguities": "The advice total covers two SAROs. Their individual amounts and project/funder descriptions are transcribed from the table; the letter's total is P44,165,200,322.00."
+  },
+  {
+    "id": "H-p007-008",
+    "page": 7,
+    "pageEnd": 8,
+    "saroNumber": "SARO-BMB-A-26-0000983",
+    "date": "March 24, 2026",
+    "agency": "Department of Transportation (DOTr)",
+    "amountPesos": 21283933178,
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of the Metro Manila Subway Project Phase I and North-South Commuter Railway System, as financed by Japan International Cooperation Agency under Loan Agreement Nos. PH-P267/PH-P275/PH-P279 and PH-P262/PH-P270/PH-P276/PH-P277, respectively."
+  },
+  {
+    "id": "H-p009",
+    "page": 9,
+    "saroNumber": "SARO-BMB-C-26-0000410",
+    "date": "March 02, 2026",
+    "agency": "Philippine Competition Commission",
+    "amountPesos": 326048000,
+    "purpose": "To cover the loan proceeds requirements of PCC’s Foreign-Assisted Project, or the \"Capacity Building to Foster Competition Project\"."
+  }
+]

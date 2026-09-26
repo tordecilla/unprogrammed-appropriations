@@ -1,0 +1,173 @@
+﻿{
+    "version":  1,
+    "grain":  "report-level note or visible subtotal not attributed to a numbered SARO",
+    "records":  [
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  58,
+                        "printedPage":  58,
+                        "scope":  "Various SAROs issued in November; PVAO-Proper pension aggregate",
+                        "agency":  "Philippine Veterans Affairs Office (PVAO) â€” Proper",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Pension":  126860530,
+                                        "Total":  126860530
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  58,
+                        "printedPage":  58,
+                        "scope":  "Various SAROs issued in November; Veterans Memorial Medical Center terminal-leave aggregate",
+                        "agency":  "Veterans Memorial Medical Center",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  8516758,
+                                        "Total":  8516758
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  58,
+                        "printedPage":  58,
+                        "scope":  "Various SAROs issued in October; Philippine Army terminal-leave aggregate",
+                        "agency":  "Philippine Army (Land Forces)",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  140465881,
+                                        "Total":  140465881
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  58,
+                        "printedPage":  58,
+                        "scope":  "Various SAROs issued in November; Philippine Army terminal-leave aggregate",
+                        "agency":  "Philippine Army (Land Forces)",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  410662300,
+                                        "Total":  410662300
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  58,
+                        "printedPage":  58,
+                        "scope":  "Various SAROs issued in November; Philippine Air Force terminal-leave aggregate",
+                        "agency":  "Philippine Air Force (Air Forces)",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  55048730,
+                                        "Total":  55048730
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  58,
+                        "printedPage":  58,
+                        "scope":  "Various SAROs issued in November; Philippine Navy terminal-leave aggregate",
+                        "agency":  "Philippine Navy (Naval Forces)",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  352103856,
+                                        "Total":  352103856
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  59,
+                        "printedPage":  59,
+                        "scope":  "Printed agency subtotal; Office of Civil Defense",
+                        "agency":  "Office of Civil Defense",
+                        "category":  "Printed agency subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "FY 2022 PBB":  12342013,
+                                        "Other PS Deficiencies":  50057026,
+                                        "Terminal Leave/Retirement Gratuity":  546372,
+                                        "Total":  62945411
+                                    },
+                        "reviewNote":  "Other PS Deficiencies subtotal combines the two visible numbered-row amounts â‚±31,099,115 and â‚±18,957,911."
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  59,
+                        "printedPage":  59,
+                        "scope":  "Printed agency subtotal; PVAO-Proper",
+                        "agency":  "Philippine Veterans Affairs Office (PVAO) â€” Proper",
+                        "category":  "Printed agency subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Other PS Deficiencies":  10211994,
+                                        "Pension":  126860530,
+                                        "Total":  137072524
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  59,
+                        "printedPage":  59,
+                        "scope":  "Printed agency subtotal; Philippine Army",
+                        "agency":  "Philippine Army (Land Forces)",
+                        "category":  "Printed agency subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "FY 2022 PBB":  1720524739,
+                                        "Terminal Leave/Retirement Gratuity":  564405051,
+                                        "Pension and Gratuity Fund Total":  564405051,
+                                        "Total":  2284929790
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  59,
+                        "printedPage":  59,
+                        "scope":  "Printed agency subtotal; Philippine Air Force",
+                        "agency":  "Philippine Air Force (Air Forces)",
+                        "category":  "Printed agency subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "FY 2022 PBB":  305472582,
+                                        "Terminal Leave/Retirement Gratuity":  151324153,
+                                        "Pension and Gratuity Fund Total":  151324153,
+                                        "Total":  456796735
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  59,
+                        "printedPage":  59,
+                        "scope":  "Printed agency subtotal; Philippine Navy",
+                        "agency":  "Philippine Navy (Naval Forces)",
+                        "category":  "Printed agency subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Other PS Deficiencies":  210588822,
+                                        "Terminal Leave/Retirement Gratuity":  352103856,
+                                        "Pension and Gratuity Fund Total":  352103856,
+                                        "Total":  562692678
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  59,
+                        "printedPage":  59,
+                        "scope":  "Printed department subtotal; Philippine Veterans Affairs Office",
+                        "agency":  "Philippine Veterans Affairs Office (PVAO)",
+                        "category":  "Department subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Personnel Services":  10211994,
+                                        "Pension and Gratuity Fund":  126860530,
+                                        "Total":  137072524
+                                    }
+                    }
+                ]
+}

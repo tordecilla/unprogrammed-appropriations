@@ -1,0 +1,46 @@
+{
+  "records": {
+    "B-p207": {
+      "sourcePage": 207,
+      "saroNumber": "SARO-BMB-A-24-0018351",
+      "date": "2024-11-28",
+      "agency": "Department of Public Works and Highways (DPWH)",
+      "amountPesos": 1000000000,
+      "purpose": "To cover the implementation of various disaster-related infrastructures projects, with details in Attachment I."
+    },
+    "B-p210": {
+      "sourcePage": 210,
+      "saroNumber": "SARO-BMB-A-24-0018374",
+      "date": "2024-11-28",
+      "agency": "Department of Public Works and Highways (DPWH)",
+      "amountPesos": 3018250000,
+      "purpose": "To cover the implementation of various priority projects which are essential for the achievement of the objectives outlined in the President's Eight-Point Socioeconomic Agenda, with details in Annex A."
+    },
+    "B-p342": {
+      "sourcePage": 342,
+      "saroNumber": "SARO-BMB-C-24-0016977",
+      "date": "2024-10-17",
+      "agency": "Bureau of the Treasury",
+      "amountPesos": 5000000000,
+      "purpose": "To cover the additional funding of the Government of the Philippines (GoP) Counterpart of the Jalaur River Multipurpose Project Stage II of the National Irrigation Administration."
+    },
+    "B-p224": {
+      "sourcePage": 224,
+      "registryStatus": "not indexed in documents.json",
+      "saroNumber": "SARO-BMB-A-24-0018926",
+      "date": "2024-12-13",
+      "agency": "Department of Public Works and Highways (DPWH)",
+      "amountPesos": 1104184931,
+      "purpose": "To cover the implementation of various disaster-related infrastructure projects, with details in Attachment I."
+    },
+    "B-p349": {
+      "sourcePage": 349,
+      "registryStatus": "not indexed in documents.json",
+      "saroNumber": "SARO-LGRCB-24-0018178",
+      "date": "2024-11-25",
+      "agency": "Bureau of the Treasury",
+      "amountPesos": 4320000000,
+      "purpose": "To cover the funding requirements for the implementation of priority projects of recipient local government units under the Support to the Barangay Development Program of the NTF-ELCAC per attached Schedule A, chargeable against the Unprogrammed Appropriations, FY 2024 General Appropriations Act, Republic Act No. 11975."
+    }
+  }
+}

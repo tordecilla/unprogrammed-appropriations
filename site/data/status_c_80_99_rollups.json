@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 83,
+      "printedPage": 80,
+      "scope": "DSWD department subtotal",
+      "agency": "Department of Social Welfare and Development (DSWD)",
+      "category": "Department subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "SAGIP MOOE": 16890000000,
+        "FAPS MOOE": 4006789864,
+        "FAPS CO": 190412521,
+        "FAPS Total": 4197202385,
+        "Government Counterpart of Foreign-Assisted Projects MOOE": 383228871,
+        "Personnel Benefits Total": 1242345064,
+        "Pension and Gratuity Fund Total": 4791398,
+        "PS": 1247136462,
+        "MOOE": 21280018735,
+        "CO": 190412521,
+        "Grand Total": 22717567718
+      },
+      "reviewNote": "Visible department total spans pp. 80–83; program allocations and grand total are read from the continuation pages."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 83,
+      "printedPage": 80,
+      "scope": "DSWD Office of the Secretary agency subtotal",
+      "agency": "Department of Social Welfare and Development (DSWD) — Office of the Secretary",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "SAGIP MOOE": 16890000000,
+        "FAPS MOOE": 4006789864,
+        "FAPS CO": 190412521,
+        "FAPS Total": 4197202385,
+        "Government Counterpart of Foreign-Assisted Projects MOOE": 383228871,
+        "Salary Increase": 243521345,
+        "FY 2022 PBB": 998823719,
+        "Personnel Benefits Total": 1242345064,
+        "Terminal Leave/Retirement Gratuity": 4791398,
+        "PS": 1247136462,
+        "MOOE": 21280018735,
+        "CO": 190412521,
+        "Agency Total": 22717567718
+      },
+      "reviewNote": "The Office of the Secretary subtotal equals the DSWD department row on these pages. Values span pp. 80–83."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 86,
+      "printedPage": 84,
+      "scope": "National Commission on Indigenous Peoples agency subtotal",
+      "agency": "National Commission on Indigenous Peoples",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Terminal Leave/Retirement Gratuity": 3744787, "Pension and Gratuity Fund Total": 3744787, "Agency Total": 3744787 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 87,
+      "printedPage": 84,
+      "scope": "Presidential Commission for the Urban Poor agency subtotal",
+      "agency": "Presidential Commission for the Urban Poor",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Other PS Deficiencies": 5479727, "Terminal Leave/Retirement Gratuity": 812751, "Personnel Benefits Total": 5479727, "Pension and Gratuity Fund Total": 812751, "PS": 6292478, "Agency Total": 6292478 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 87,
+      "printedPage": 84,
+      "scope": "National Authority for Child Care agency subtotal",
+      "agency": "National Authority for Child Care",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Other PS Deficiencies": 66751920, "Personnel Benefits Total": 66751920, "Agency Total": 66751920 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 87,
+      "printedPage": 84,
+      "scope": "Department of Tourism department subtotal",
+      "agency": "Department of Tourism (DOT)",
+      "category": "Department subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 25637000, "FY 2022 PBB": 2941182, "Other PS Deficiencies": 5495737, "Personnel Benefits Total": 34073919, "Terminal Leave/Retirement Gratuity": 5547816, "Pension and Gratuity Fund Total": 5547816, "PS": 39621735, "Department Total": 39621735 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 87,
+      "printedPage": 84,
+      "scope": "DOT Office of the Secretary agency subtotal",
+      "agency": "Department of Tourism (DOT) — Office of the Secretary",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 21106000, "Personnel Benefits Total": 21106000, "Terminal Leave/Retirement Gratuity": 5196121, "Pension and Gratuity Fund Total": 5196121, "PS": 26302121, "Agency Total": 26302121 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 87,
+      "printedPage": 84,
+      "scope": "Intramuros Administration agency subtotal",
+      "agency": "Intramuros Administration",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 1666000, "FY 2022 PBB": 1121431, "Other PS Deficiencies": 4767638, "Personnel Benefits Total": 7555069, "Terminal Leave/Retirement Gratuity": 285318, "Pension and Gratuity Fund Total": 285318, "PS": 7840387, "Agency Total": 7840387 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 87,
+      "printedPage": 84,
+      "scope": "National Parks Development Committee agency subtotal",
+      "agency": "National Parks Development Committee",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 2459000, "FY 2022 PBB": 1819751, "Personnel Benefits Total": 4278751, "Terminal Leave/Retirement Gratuity": 66377, "Pension and Gratuity Fund Total": 66377, "PS": 4345128, "Agency Total": 4345128 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 90,
+      "printedPage": 88,
+      "scope": "Department of Trade and Industry department subtotal",
+      "agency": "Department of Trade and Industry (DTI)",
+      "category": "Department subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 117103000, "Other PS Deficiencies": 181824299, "Personnel Benefits Total": 298927299, "Terminal Leave/Retirement Gratuity": 7261759, "Monetization of Leave Credits": 4639625, "Pension and Gratuity Fund Total": 11901384, "CARS Program MOOE": 410824940, "PS": 310828683, "MOOE": 1118591071, "CO": 3942400, "Grand Total": 1433362154 },
+      "reviewNote": "Department row has additional program columns on p. 91; the printed department grand total is transcribed as shown."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 91,
+      "printedPage": 88,
+      "scope": "DTI Office of the Secretary agency subtotal",
+      "agency": "Department of Trade and Industry (DTI) — Office of the Secretary",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 79350000, "Other PS Deficiencies": 105723475, "Personnel Benefits Total": 185073475, "Terminal Leave/Retirement Gratuity": 3946797, "Monetization of Leave Credits": 2533853, "Pension and Gratuity Fund Total": 6480650, "Foreign-Assisted Projects MOOE": 707766131, "Foreign-Assisted Projects CO": 3942400, "PS": 191554125, "MOOE": 707766131, "CO": 3942400, "Agency Total": 903262656 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 90,
+      "printedPage": 88,
+      "scope": "Construction Industry Authority of the Philippines agency subtotal",
+      "agency": "Construction Industry Authority of the Philippines (CIAP)",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 3262000, "Other PS Deficiencies": 8741758, "Personnel Benefits Total": 12003758, "Terminal Leave/Retirement Gratuity": 1804541, "Pension and Gratuity Fund Total": 1804541, "PS": 13808299, "Agency Total": 13808299 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 90,
+      "printedPage": 88,
+      "scope": "Cooperative Development Authority agency subtotal",
+      "agency": "Cooperative Development Authority",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 22507000, "Other PS Deficiencies": 47819915, "Personnel Benefits Total": 70326915, "Terminal Leave/Retirement Gratuity": 788047, "Monetization of Leave Credits": 2009148, "Pension and Gratuity Fund Total": 2797195, "PS": 73124110, "Agency Total": 73124110 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 90,
+      "printedPage": 88,
+      "scope": "Board of Investments agency subtotal",
+      "agency": "Board of Investments",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 7512000, "Other PS Deficiencies": 15418659, "Personnel Benefits Total": 22930659, "Terminal Leave/Retirement Gratuity": 265519, "Monetization of Leave Credits": 96624, "Pension and Gratuity Fund Total": 362143, "PS": 23292802, "Agency Total": 23292802 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 95,
+      "printedPage": 92,
+      "scope": "Department of Economy, Planning, and Development (NEDA) department subtotal",
+      "agency": "National Economic and Development Authority (NEDA)",
+      "category": "Department subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 142196000, "FY 2022 PBB": 5796380, "Other PS Deficiencies": 152026963, "Personnel Benefits Total": 300019343, "Terminal Leave/Retirement Gratuity": 52238890, "Monetization of Leave Credits": 2981957, "Pension and Gratuity Fund Total": 55220847, "PS": 355240190, "MOOE": 3631784000, "Grand Total": 3987024190 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 95,
+      "printedPage": 92,
+      "scope": "NEDA Office of the Secretary agency subtotal",
+      "agency": "National Economic and Development Authority (NEDA) — Office of the Secretary",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 45344000, "Other PS Deficiencies": 14638123, "Personnel Benefits Total": 59982123, "Terminal Leave/Retirement Gratuity": 12964514, "Monetization of Leave Credits": 639043, "Pension and Gratuity Fund Total": 13603557, "PS": 73585680, "Agency Total": 73585680 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 95,
+      "printedPage": 92,
+      "scope": "Commission on Population and Development agency subtotal",
+      "agency": "Commission on Population and Development",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 8281000, "FY 2022 PBB": 5796380, "Personnel Benefits Total": 14077380, "PS": 14077380, "Agency Total": 14077380 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 95,
+      "printedPage": 92,
+      "scope": "Philippine National Volunteer Service Coordinating Agency subtotal",
+      "agency": "Philippine National Volunteer Service Coordinating Agency",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 813000, "Other PS Deficiencies": 606190, "Personnel Benefits Total": 1419190, "Terminal Leave/Retirement Gratuity": 148625, "Pension and Gratuity Fund Total": 148625, "PS": 1567815, "Agency Total": 1567815 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 95,
+      "printedPage": 92,
+      "scope": "Philippine Trade Training Center agency subtotal",
+      "agency": "Philippine Trade Training Center",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Other PS Deficiencies": 2183855, "Personnel Benefits Total": 2183855, "Agency Total": 2183855 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 95,
+      "printedPage": 92,
+      "scope": "Design Center of the Philippines agency subtotal",
+      "agency": "Design Center of the Philippines",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 2745000, "Other PS Deficiencies": 4120492, "Personnel Benefits Total": 6865492, "Agency Total": 6865492 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 98,
+      "printedPage": 96,
+      "scope": "Public-Private Partnership Center of the Philippines agency subtotal",
+      "agency": "Public-Private Partnership Center of the Philippines",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 5697000, "Other PS Deficiencies": 18108989, "Personnel Benefits Total": 23805989, "Terminal Leave/Retirement Gratuity": 1217317, "Pension and Gratuity Fund Total": 1217317, "PS": 25023306, "Agency Total": 25023306 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 98,
+      "printedPage": 96,
+      "scope": "Tariff Commission agency subtotal",
+      "agency": "Tariff Commission",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 2805000, "Other PS Deficiencies": 4584330, "Personnel Benefits Total": 7389330, "Monetization of Leave Credits": 196804, "Pension and Gratuity Fund Total": 196804, "PS": 7586134, "Agency Total": 7586134 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 98,
+      "printedPage": 96,
+      "scope": "Philippine Statistical Research and Training Institute agency subtotal",
+      "agency": "Philippine Statistical Research and Training Institute",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "Salary Increase": 1525000, "Other PS Deficiencies": 3568608, "Personnel Benefits Total": 5093608, "Terminal Leave/Retirement Gratuity": 21521, "Pension and Gratuity Fund Total": 21521, "PS": 5115129, "Agency Total": 5115129 }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 99,
+      "printedPage": 96,
+      "scope": "Philippine Statistics Authority agency subtotal",
+      "agency": "Philippine Statistics Authority",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": { "SAGIP MOOE": 3631784000, "Salary Increase": 77731000, "Other PS Deficiencies": 110520723, "Personnel Benefits Total": 188251723, "Terminal Leave/Retirement Gratuity": 37886913, "Monetization of Leave Credits": 2146110, "Pension and Gratuity Fund Total": 40033023, "PS": 228284746, "MOOE": 3631784000, "Agency Total": 3860068746 },
+      "reviewNote": "The agency line includes the separate census project amount and personnel subtotal; overall total is printed on p. 99."
+    }
+  ]
+}

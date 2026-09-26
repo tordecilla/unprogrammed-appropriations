@@ -1,0 +1,142 @@
+[
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0018136","date":"2024-11-22","department":"DOJ","agency":"Office of the Government Corporate Counsel",
+    "purpose":"For payment of Pension of one (1) personnel",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Pension","amountPesos":328110,"pdfPage":50}],"reportedTotalPesos":328110,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0018356","date":"2024-11-28","department":"DOJ","agency":"Office of the Government Corporate Counsel",
+    "purpose":"FY 2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":33379000,"pdfPage":50}],"reportedTotalPesos":33379000,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0017951","date":"2024-11-20","department":"DOJ","agency":"Office of the Solicitor General",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":44556762,"pdfPage":50}],"reportedTotalPesos":44556762,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0018168","date":"2024-11-25","department":"DOJ","agency":"Office of the Solicitor General",
+    "purpose":"For payment of PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":20967970,"pdfPage":50}],"reportedTotalPesos":20967970,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0017452","date":"2024-11-05","department":"DOJ","agency":"Parole and Probation Administration",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":2549964,"pdfPage":50}],"reportedTotalPesos":2549964,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0018710","date":"2024-12-09","department":"DOJ","agency":"Parole and Probation Administration",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":3278625,"pdfPage":50}],"reportedTotalPesos":3278625,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0017484","date":"2024-11-06","department":"Office of the President","agency":"Presidential Commission on Good Government",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":330721,"pdfPage":50}],"reportedTotalPesos":330721,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0018488","date":"2024-12-02","department":"Office of the President","agency":"Presidential Commission on Good Government",
+    "purpose":"For payment of FY2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":9101874,"pdfPage":50}],"reportedTotalPesos":9101874,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0017726","date":"2024-11-14","department":"DOJ","agency":"Public Attorney's Office",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":486593,"pdfPage":50}],"reportedTotalPesos":486593,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0018485","date":"2024-12-02","department":"DOJ","agency":"Public Attorney's Office",
+    "purpose":"For payment of FY2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":119037577,"pdfPage":50}],"reportedTotalPesos":119037577,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0017373","date":"2024-10-30","department":"DOJ","agency":"Office for Alternative Dispute Resolution",
+    "purpose":"FY 2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":14776043,"pdfPage":50}],"reportedTotalPesos":14776043,
+    "reviewNote":"Row continues across pp. 48–51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-D-24-0017093","date":"2024-10-22","department":"DOLE","agency":"National Conciliation and Mediation Board",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":1417658,"pdfPage":50}],"reportedTotalPesos":1417658,
+    "reviewNote":"Row begins on p. 48 and continues through p. 51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":48,"sourcePages":[48,49,50,51],"printedPage":48,
+    "saroNumber":"SARO-BMB-B-24-0018988","date":"2024-12-16","department":"DOLE","agency":"National Conciliation and Mediation Board",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":1312040,"pdfPage":50}],"reportedTotalPesos":1312040,
+    "reviewNote":"Row begins on p. 48 and continues through p. 51; amount appears on p. 50."
+  },
+  {
+    "annexId":"C","pdfPage":52,"sourcePages":[52,53,54,55],"printedPage":52,
+    "saroNumber":"SARO-BMB-D-24-0017545","date":"2024-11-07","department":"DOLE","agency":"National Labor Relations Commission",
+    "purpose":"For payment of FY2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":102775662,"pdfPage":54}],"reportedTotalPesos":102775662,
+    "reviewNote":"Row continues across pp. 52–55; amount appears on p. 54."
+  },
+  {
+    "annexId":"C","pdfPage":52,"sourcePages":[52,53,54,55],"printedPage":52,
+    "saroNumber":"SARO-BMB-D-24-0017592","date":"2024-11-08","department":"DOLE","agency":"National Wages and Productivity Commission",
+    "purpose":"For payment of FY2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":7727552,"pdfPage":54}],"reportedTotalPesos":7727552,
+    "reviewNote":"Row continues across pp. 52–55; amount appears on p. 54."
+  },
+  {
+    "annexId":"C","pdfPage":52,"sourcePages":[52,53,54,55],"printedPage":52,
+    "saroNumber":"SARO-BMB-B-24-0002569","date":"2024-05-06","department":"DOLE","agency":"Technical Education and Skills Development Authority",
+    "purpose":"To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 4268-PH, Supporting Innovation in the Philippine Technical and Vocational Education and Training System (SIPTVETS) Project",
+    "allocations":[{"category":"Support to Foreign-Assisted Projects (FAPS)","expenseClass":"MOOE","amountPesos":285792000,"pdfPage":52},{"category":"Support to Foreign-Assisted Projects (FAPS)","expenseClass":"CO","amountPesos":1269000000,"pdfPage":52}],
+    "reportedTotalPesos":1554792000,"reviewNote":"Long leaf row continues across pp. 52–55; allocations appear on p. 52."
+  },
+  {
+    "annexId":"C","pdfPage":52,"sourcePages":[52,53,54,55],"printedPage":52,
+    "saroNumber":"SARO-BMB-B-24-0014656","date":"2024-09-13","department":"DOLE","agency":"Technical Education and Skills Development Authority",
+    "purpose":"To cover the FY 2024 Government of the Philippines Counterpart for the implementation of the Foreign-Assisted Project under Loan Agreement No. 4268-PH, Supporting Innovation in the Philippine Technical and Vocational Education and Training System (SIPTVETS) Project",
+    "allocations":[{"category":"For Government Counterpart of Foreign-Assisted Projects","expenseClass":"MOOE","amountPesos":52472979,"pdfPage":53}],
+    "reportedTotalPesos":52472979,"reviewNote":"Long leaf row continues across pp. 52–55; amount appears on p. 53."
+  },
+  {
+    "annexId":"C","pdfPage":52,"sourcePages":[52,53,54,55],"printedPage":52,
+    "saroNumber":"SARO-BMB-B-24-0019409","date":"2024-12-23","department":"DOLE","agency":"Technical Education and Skills Development Authority",
+    "purpose":"For payment of FY 2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":34311453,"pdfPage":54}],"reportedTotalPesos":34311453,
+    "reviewNote":"Row continues across pp. 52–55; amount appears on p. 54."
+  },
+  {
+    "annexId":"C","pdfPage":52,"sourcePages":[52,53,54,55],"printedPage":52,
+    "saroNumber":"SARO-BMB-D-24-0016534","date":"2024-10-07","department":"DND","agency":"Office of the Secretary",
+    "purpose":"FY 2024 PS Deficiency",
+    "allocations":[{"category":"For payment of Personnel Benefits","expenseClass":"Other PS Deficiencies","amountPesos":26794540,"pdfPage":54}],"reportedTotalPesos":26794540,
+    "reviewNote":"Row continues across pp. 52–55; amount appears on p. 54."
+  },
+  {
+    "annexId":"C","pdfPage":52,"sourcePages":[52,53,54,55],"printedPage":52,
+    "saroNumber":"SARO-BMB-D-24-0018989","date":"2024-12-16","department":"DND","agency":"Office of the Secretary",
+    "purpose":"For payment of terminal leave benefits",
+    "allocations":[{"category":"Pension and Gratuity Fund","expenseClass":"Terminal Leave/Retirement Gratuity","amountPesos":142861,"pdfPage":54}],"reportedTotalPesos":142861,
+    "reviewNote":"Row continues across pp. 52–55; amount appears on p. 54."
+  }
+]

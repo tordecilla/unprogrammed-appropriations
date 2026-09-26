@@ -1,0 +1,1099 @@
+﻿{
+    "sourceAnnex":  "M",
+    "table":  "B.9",
+    "sourcePage":  12,
+    "printedPage":  372,
+    "unit":  "thousand pesos",
+    "currency":  "PHP",
+    "columnOrder":  "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+    "rows":  [
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Science Education Institute",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Science and Technology (DOST)",
+                                           "Science Education Institute"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  60725,
+                                                "maintenanceAndOtherOperatingExpenses":  7294161,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  7354886
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  52900,
+                                                "maintenanceAndOtherOperatingExpenses":  7404152,
+                                                "capitalOutlaysAndNetLending":  35200,
+                                                "financialExpenses":  0,
+                                                "total":  7492252
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  66856,
+                                                "maintenanceAndOtherOperatingExpenses":  7537426,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  7604282
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Science and Technology Information Institute",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Science and Technology (DOST)",
+                                           "Science and Technology Information Institute"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  57279,
+                                                "maintenanceAndOtherOperatingExpenses":  71239,
+                                                "capitalOutlaysAndNetLending":  15640,
+                                                "financialExpenses":  0,
+                                                "total":  144158
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  50734,
+                                                "maintenanceAndOtherOperatingExpenses":  81780,
+                                                "capitalOutlaysAndNetLending":  13481,
+                                                "financialExpenses":  0,
+                                                "total":  145995
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  62947,
+                                                "maintenanceAndOtherOperatingExpenses":  98224,
+                                                "capitalOutlaysAndNetLending":  13455,
+                                                "financialExpenses":  0,
+                                                "total":  174626
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Technology Application and Promotion Institute",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Science and Technology (DOST)",
+                                           "Technology Application and Promotion Institute"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  71690,
+                                                "maintenanceAndOtherOperatingExpenses":  189661,
+                                                "capitalOutlaysAndNetLending":  10502,
+                                                "financialExpenses":  0,
+                                                "total":  271853
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  65087,
+                                                "maintenanceAndOtherOperatingExpenses":  153713,
+                                                "capitalOutlaysAndNetLending":  16398,
+                                                "financialExpenses":  0,
+                                                "total":  235198
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  73436,
+                                                "maintenanceAndOtherOperatingExpenses":  171837,
+                                                "capitalOutlaysAndNetLending":  12908,
+                                                "financialExpenses":  0,
+                                                "total":  258181
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Department of Social Welfare and Development (DSWD)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  14288459,
+                                                "maintenanceAndOtherOperatingExpenses":  265909526,
+                                                "capitalOutlaysAndNetLending":  1329907,
+                                                "financialExpenses":  0,
+                                                "total":  281527892
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  11270794,
+                                                "maintenanceAndOtherOperatingExpenses":  205534246,
+                                                "capitalOutlaysAndNetLending":  731977,
+                                                "financialExpenses":  0,
+                                                "total":  217537017
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  16744201,
+                                                "maintenanceAndOtherOperatingExpenses":  203743656,
+                                                "capitalOutlaysAndNetLending":  2956763,
+                                                "financialExpenses":  0,
+                                                "total":  223444620
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Office of the Secretary",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "Office of the Secretary"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  12720031,
+                                                "maintenanceAndOtherOperatingExpenses":  264452145,
+                                                "capitalOutlaysAndNetLending":  1092599,
+                                                "financialExpenses":  0,
+                                                "total":  278264775
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  10781546,
+                                                "maintenanceAndOtherOperatingExpenses":  204567070,
+                                                "capitalOutlaysAndNetLending":  627613,
+                                                "financialExpenses":  0,
+                                                "total":  215976229
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  16048049,
+                                                "maintenanceAndOtherOperatingExpenses":  202649996,
+                                                "capitalOutlaysAndNetLending":  2844220,
+                                                "financialExpenses":  0,
+                                                "total":  221542265
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Council for the Welfare of Children",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "Council for the Welfare of Children"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  46010,
+                                                "maintenanceAndOtherOperatingExpenses":  92066,
+                                                "capitalOutlaysAndNetLending":  13679,
+                                                "financialExpenses":  0,
+                                                "total":  151755
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  43249,
+                                                "maintenanceAndOtherOperatingExpenses":  92773,
+                                                "capitalOutlaysAndNetLending":  14210,
+                                                "financialExpenses":  0,
+                                                "total":  150232
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  51234,
+                                                "maintenanceAndOtherOperatingExpenses":  135110,
+                                                "capitalOutlaysAndNetLending":  20598,
+                                                "financialExpenses":  0,
+                                                "total":  206942
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "National Council on Disability Affairs",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "National Council on Disability Affairs"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  42989,
+                                                "maintenanceAndOtherOperatingExpenses":  40147,
+                                                "capitalOutlaysAndNetLending":  6883,
+                                                "financialExpenses":  0,
+                                                "total":  90019
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  35206,
+                                                "maintenanceAndOtherOperatingExpenses":  36746,
+                                                "capitalOutlaysAndNetLending":  53393,
+                                                "financialExpenses":  0,
+                                                "total":  125345
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  41836,
+                                                "maintenanceAndOtherOperatingExpenses":  50398,
+                                                "capitalOutlaysAndNetLending":  82145,
+                                                "financialExpenses":  0,
+                                                "total":  174379
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Juvenile Justice and Welfare Council",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "Juvenile Justice and Welfare Council"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  54302,
+                                                "maintenanceAndOtherOperatingExpenses":  122973,
+                                                "capitalOutlaysAndNetLending":  839,
+                                                "financialExpenses":  0,
+                                                "total":  178114
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  47669,
+                                                "maintenanceAndOtherOperatingExpenses":  71991,
+                                                "capitalOutlaysAndNetLending":  3891,
+                                                "financialExpenses":  0,
+                                                "total":  123551
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  56717,
+                                                "maintenanceAndOtherOperatingExpenses":  76130,
+                                                "capitalOutlaysAndNetLending":  4750,
+                                                "financialExpenses":  0,
+                                                "total":  137597
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "National Anti-Poverty Commission",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "National Anti-Poverty Commission"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  79057,
+                                                "maintenanceAndOtherOperatingExpenses":  169599,
+                                                "capitalOutlaysAndNetLending":  2967,
+                                                "financialExpenses":  0,
+                                                "total":  251623
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  69495,
+                                                "maintenanceAndOtherOperatingExpenses":  280116,
+                                                "capitalOutlaysAndNetLending":  13750,
+                                                "financialExpenses":  0,
+                                                "total":  363361
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  87624,
+                                                "maintenanceAndOtherOperatingExpenses":  284729,
+                                                "capitalOutlaysAndNetLending":  2920,
+                                                "financialExpenses":  0,
+                                                "total":  375273
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "National Commission on Indigenous Peoples",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "National Commission on Indigenous Peoples"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  972076,
+                                                "maintenanceAndOtherOperatingExpenses":  561018,
+                                                "capitalOutlaysAndNetLending":  136721,
+                                                "financialExpenses":  0,
+                                                "total":  1669815
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  0,
+                                                "maintenanceAndOtherOperatingExpenses":  0,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  0
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  0,
+                                                "maintenanceAndOtherOperatingExpenses":  0,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  0
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Presidential Commission for the Urban Poor",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "Presidential Commission for the Urban Poor"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  123378,
+                                                "maintenanceAndOtherOperatingExpenses":  82153,
+                                                "capitalOutlaysAndNetLending":  7877,
+                                                "financialExpenses":  0,
+                                                "total":  213408
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  105458,
+                                                "maintenanceAndOtherOperatingExpenses":  103056,
+                                                "capitalOutlaysAndNetLending":  5800,
+                                                "financialExpenses":  0,
+                                                "total":  214314
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  128838,
+                                                "maintenanceAndOtherOperatingExpenses":  127956,
+                                                "capitalOutlaysAndNetLending":  2130,
+                                                "financialExpenses":  0,
+                                                "total":  258924
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "National Authority for Child Care",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Social Welfare and Development (DSWD)",
+                                           "National Authority for Child Care"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  250616,
+                                                "maintenanceAndOtherOperatingExpenses":  389425,
+                                                "capitalOutlaysAndNetLending":  68342,
+                                                "financialExpenses":  0,
+                                                "total":  708383
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  188171,
+                                                "maintenanceAndOtherOperatingExpenses":  382494,
+                                                "capitalOutlaysAndNetLending":  13320,
+                                                "financialExpenses":  0,
+                                                "total":  583985
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  329903,
+                                                "maintenanceAndOtherOperatingExpenses":  419337,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  749240
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Department of Tourism (DOT)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Tourism (DOT)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  814576,
+                                                "maintenanceAndOtherOperatingExpenses":  2021594,
+                                                "capitalOutlaysAndNetLending":  473465,
+                                                "financialExpenses":  49,
+                                                "total":  3309684
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  764466,
+                                                "maintenanceAndOtherOperatingExpenses":  2787673,
+                                                "capitalOutlaysAndNetLending":  345470,
+                                                "financialExpenses":  0,
+                                                "total":  3897609
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  899766,
+                                                "maintenanceAndOtherOperatingExpenses":  2570883,
+                                                "capitalOutlaysAndNetLending":  247646,
+                                                "financialExpenses":  0,
+                                                "total":  3718295
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Office of the Secretary",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Tourism (DOT)",
+                                           "Office of the Secretary"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  684094,
+                                                "maintenanceAndOtherOperatingExpenses":  1808102,
+                                                "capitalOutlaysAndNetLending":  335315,
+                                                "financialExpenses":  49,
+                                                "total":  2827560
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  656418,
+                                                "maintenanceAndOtherOperatingExpenses":  2414127,
+                                                "capitalOutlaysAndNetLending":  118376,
+                                                "financialExpenses":  0,
+                                                "total":  3188921
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  766145,
+                                                "maintenanceAndOtherOperatingExpenses":  2272073,
+                                                "capitalOutlaysAndNetLending":  154809,
+                                                "financialExpenses":  0,
+                                                "total":  3193027
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Intramuros Administration",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Tourism (DOT)",
+                                           "Intramuros Administration"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  44595,
+                                                "maintenanceAndOtherOperatingExpenses":  46572,
+                                                "capitalOutlaysAndNetLending":  43489,
+                                                "financialExpenses":  0,
+                                                "total":  134656
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  34754,
+                                                "maintenanceAndOtherOperatingExpenses":  193539,
+                                                "capitalOutlaysAndNetLending":  70684,
+                                                "financialExpenses":  0,
+                                                "total":  298977
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  48315,
+                                                "maintenanceAndOtherOperatingExpenses":  83730,
+                                                "capitalOutlaysAndNetLending":  27335,
+                                                "financialExpenses":  0,
+                                                "total":  159380
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "National Parks Development Committee",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Tourism (DOT)",
+                                           "National Parks Development Committee"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  73343,
+                                                "maintenanceAndOtherOperatingExpenses":  149955,
+                                                "capitalOutlaysAndNetLending":  94661,
+                                                "financialExpenses":  0,
+                                                "total":  317959
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  61436,
+                                                "maintenanceAndOtherOperatingExpenses":  170131,
+                                                "capitalOutlaysAndNetLending":  152710,
+                                                "financialExpenses":  0,
+                                                "total":  384277
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  66210,
+                                                "maintenanceAndOtherOperatingExpenses":  189502,
+                                                "capitalOutlaysAndNetLending":  65267,
+                                                "financialExpenses":  0,
+                                                "total":  320979
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Philippine Commission on Sports Scuba Diving",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Tourism (DOT)",
+                                           "Philippine Commission on Sports Scuba Diving"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  12544,
+                                                "maintenanceAndOtherOperatingExpenses":  16965,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  29509
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  11858,
+                                                "maintenanceAndOtherOperatingExpenses":  9876,
+                                                "capitalOutlaysAndNetLending":  3700,
+                                                "financialExpenses":  0,
+                                                "total":  25434
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  19096,
+                                                "maintenanceAndOtherOperatingExpenses":  25578,
+                                                "capitalOutlaysAndNetLending":  235,
+                                                "financialExpenses":  0,
+                                                "total":  44909
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Department of Trade and Industry (DTI)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Trade and Industry (DTI)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  3526102,
+                                                "maintenanceAndOtherOperatingExpenses":  5590572,
+                                                "capitalOutlaysAndNetLending":  568886,
+                                                "financialExpenses":  0,
+                                                "total":  9685560
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  3109572,
+                                                "maintenanceAndOtherOperatingExpenses":  5662324,
+                                                "capitalOutlaysAndNetLending":  927198,
+                                                "financialExpenses":  0,
+                                                "total":  9699094
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  3690507,
+                                                "maintenanceAndOtherOperatingExpenses":  5315682,
+                                                "capitalOutlaysAndNetLending":  945702,
+                                                "financialExpenses":  0,
+                                                "total":  9951891
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Office of the Secretary",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Trade and Industry (DTI)",
+                                           "Office of the Secretary"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  2500203,
+                                                "maintenanceAndOtherOperatingExpenses":  3935002,
+                                                "capitalOutlaysAndNetLending":  489544,
+                                                "financialExpenses":  0,
+                                                "total":  6924749
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  2214800,
+                                                "maintenanceAndOtherOperatingExpenses":  4372349,
+                                                "capitalOutlaysAndNetLending":  810899,
+                                                "financialExpenses":  0,
+                                                "total":  7398048
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  2633778,
+                                                "maintenanceAndOtherOperatingExpenses":  3866840,
+                                                "capitalOutlaysAndNetLending":  735594,
+                                                "financialExpenses":  0,
+                                                "total":  7236212
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Board of Investments",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Trade and Industry (DTI)",
+                                           "Board of Investments"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  209052,
+                                                "maintenanceAndOtherOperatingExpenses":  891896,
+                                                "capitalOutlaysAndNetLending":  8029,
+                                                "financialExpenses":  0,
+                                                "total":  1108977
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  180716,
+                                                "maintenanceAndOtherOperatingExpenses":  655718,
+                                                "capitalOutlaysAndNetLending":  42050,
+                                                "financialExpenses":  0,
+                                                "total":  878484
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  220159,
+                                                "maintenanceAndOtherOperatingExpenses":  798602,
+                                                "capitalOutlaysAndNetLending":  40771,
+                                                "financialExpenses":  0,
+                                                "total":  1059532
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Construction Industry Authority of the Philippines (CIAP)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Trade and Industry (DTI)",
+                                           "Construction Industry Authority of the Philippines (CIAP)"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  93915,
+                                                "maintenanceAndOtherOperatingExpenses":  90431,
+                                                "capitalOutlaysAndNetLending":  10706,
+                                                "financialExpenses":  0,
+                                                "total":  195052
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  83979,
+                                                "maintenanceAndOtherOperatingExpenses":  77141,
+                                                "capitalOutlaysAndNetLending":  3414,
+                                                "financialExpenses":  0,
+                                                "total":  164534
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  98995,
+                                                "maintenanceAndOtherOperatingExpenses":  70875,
+                                                "capitalOutlaysAndNetLending":  31013,
+                                                "financialExpenses":  0,
+                                                "total":  200883
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Cooperative Development Authority",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Trade and Industry (DTI)",
+                                           "Cooperative Development Authority"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  606339,
+                                                "maintenanceAndOtherOperatingExpenses":  567485,
+                                                "capitalOutlaysAndNetLending":  44414,
+                                                "financialExpenses":  0,
+                                                "total":  1218238
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  528295,
+                                                "maintenanceAndOtherOperatingExpenses":  416290,
+                                                "capitalOutlaysAndNetLending":  53674,
+                                                "financialExpenses":  0,
+                                                "total":  998259
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  618839,
+                                                "maintenanceAndOtherOperatingExpenses":  412703,
+                                                "capitalOutlaysAndNetLending":  109175,
+                                                "financialExpenses":  0,
+                                                "total":  1140717
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Design Center of the Philippines",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Trade and Industry (DTI)",
+                                           "Design Center of the Philippines"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  73273,
+                                                "maintenanceAndOtherOperatingExpenses":  67669,
+                                                "capitalOutlaysAndNetLending":  2900,
+                                                "financialExpenses":  0,
+                                                "total":  143842
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  62132,
+                                                "maintenanceAndOtherOperatingExpenses":  107136,
+                                                "capitalOutlaysAndNetLending":  8449,
+                                                "financialExpenses":  0,
+                                                "total":  177717
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  76181,
+                                                "maintenanceAndOtherOperatingExpenses":  116119,
+                                                "capitalOutlaysAndNetLending":  14809,
+                                                "financialExpenses":  0,
+                                                "total":  207109
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Philippine Trade Training Center",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Trade and Industry (DTI)",
+                                           "Philippine Trade Training Center"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  43320,
+                                                "maintenanceAndOtherOperatingExpenses":  38089,
+                                                "capitalOutlaysAndNetLending":  13293,
+                                                "financialExpenses":  0,
+                                                "total":  94702
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  39650,
+                                                "maintenanceAndOtherOperatingExpenses":  33690,
+                                                "capitalOutlaysAndNetLending":  8712,
+                                                "financialExpenses":  0,
+                                                "total":  82052
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  42555,
+                                                "maintenanceAndOtherOperatingExpenses":  50543,
+                                                "capitalOutlaysAndNetLending":  14340,
+                                                "financialExpenses":  0,
+                                                "total":  107438
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Department of Transportation (DOTr)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Transportation (DOTr)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  27928900,
+                                                "maintenanceAndOtherOperatingExpenses":  32187380,
+                                                "capitalOutlaysAndNetLending":  125616799,
+                                                "financialExpenses":  7840,
+                                                "total":  185740919
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  27398358,
+                                                "maintenanceAndOtherOperatingExpenses":  19050899,
+                                                "capitalOutlaysAndNetLending":  41541773,
+                                                "financialExpenses":  7068,
+                                                "total":  87998098
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  29467030,
+                                                "maintenanceAndOtherOperatingExpenses":  18217939,
+                                                "capitalOutlaysAndNetLending":  149639269,
+                                                "financialExpenses":  7068,
+                                                "total":  197331306
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  12,
+                     "printedPage":  372,
+                     "particulars":  "Office of the Secretary",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Department of Transportation (DOTr)",
+                                           "Office of the Secretary"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  3563062,
+                                                "maintenanceAndOtherOperatingExpenses":  26482550,
+                                                "capitalOutlaysAndNetLending":  122108364,
+                                                "financialExpenses":  7840,
+                                                "total":  152161816
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  3112865,
+                                                "maintenanceAndOtherOperatingExpenses":  10516175,
+                                                "capitalOutlaysAndNetLending":  37312305,
+                                                "financialExpenses":  7068,
+                                                "total":  50948413
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  3941137,
+                                                "maintenanceAndOtherOperatingExpenses":  9096316,
+                                                "capitalOutlaysAndNetLending":  145249489,
+                                                "financialExpenses":  7068,
+                                                "total":  158294010
+                                            }
+                               }
+                 }
+             ]
+}

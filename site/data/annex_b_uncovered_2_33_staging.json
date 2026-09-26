@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "source": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-annex-v1/Annex-B-Compliance-G.R.-No.271059.pdf",
+  "method": "Visual review of rendered PDF page images only; no PDF text extraction or OCR",
+  "records": [
+    {
+      "id": "B-uncovered-p002-advice",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "title": "Advice of SARO issued 01 1 05 428 — Department of Agrarian Reform",
+      "saroNumber": "SARO-BMB-E-24-0005622",
+      "date": "2024-07-12",
+      "agency": "Department of Agrarian Reform — Office of the Secretary, Central Office",
+      "amountPesos": 2884195000,
+      "amountStage": "released",
+      "reviewNotes": "One-page advice. States ₱2,884,195,000 released for the SPLIT project; variance ₱813,491,000 against requested ₱3,697,686,000 held for GOP counterpart pending BTr certification."
+    },
+    {
+      "id": "B-uncovered-p008-advice",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 8,
+      "pageEnd": 8,
+      "title": "Advice of SARO issued — PRDP-SU",
+      "saroNumber": "SARO-BMB-E-24-0001452",
+      "date": "2024-03-25",
+      "agency": "Department of Agriculture — Office of the Secretary, Central Office",
+      "amountPesos": 4067242000,
+      "amountStage": "released",
+      "reviewNotes": "Footer says Page 1 of 1. Advice releases ₱4,067,242,000 for PRDP-SU loan proceeds; printed variance ₱596,855,000 from requested ₱4,664,097,000 (₱20,251,000 over-computation and ₱576,604,000 GOP counterpart)."
+    },
+    {
+      "id": "B-uncovered-p011-advice",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 11,
+      "pageEnd": 11,
+      "title": "Advice of SARO issued 01 1 05 428 — MIADP",
+      "saroNumber": "SARO-BMB-E-24-0001777",
+      "date": "2024-04-05",
+      "agency": "Department of Agriculture — Office of the Secretary, Central Office",
+      "amountPesos": 464451000,
+      "amountStage": "released",
+      "reviewNotes": "Footer says Page 1 of 1. Advice releases ₱464,451,000 for Mindanao Inclusive Agriculture Development Project (MIADP); variance ₱90,512,000 from request ₱554,963,000 is held for GOP counterpart subject to BTr certification."
+    },
+    {
+      "id": "B-uncovered-p016-advice",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "title": "Advice of SARO issued 01 105 577 — Cold Storage Expansion Project",
+      "saroNumber": "SARO-BMB-E-24-0018213",
+      "date": "2024-11-26",
+      "agency": "Department of Agriculture — Office of the Secretary, Central Office",
+      "amountPesos": 1500000000,
+      "amountStage": "released",
+      "reviewNotes": "Footer says Page 1 of 1. One-page advice; distinct from the November 13 PRDP-AF2 records on pages 17–20."
+    },
+    {
+      "id": "B-context-p017-saro-0017722",
+      "annexId": "B",
+      "type": "SARO attachment",
+      "pageStart": 17,
+      "pageEnd": 17,
+      "title": "Special Allotment Release Order — PRDP-AF2 IBRD Loan 9271-PH",
+      "saroNumber": "SARO-BMB-E-24-0017722",
+      "date": "2024-11-13",
+      "agency": "Department of Agriculture — Office of the Secretary, Central Office",
+      "amountPesos": 817782999,
+      "amountStage": "released",
+      "reviewNotes": "Page 1 of 1. Directly referenced by the advice table repeated on pages 18 and 21; barcode visibly reads #SARO-2024-E01109B."
+    },
+    {
+      "id": "B-uncovered-p018-019-advice-copy1",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 18,
+      "pageEnd": 19,
+      "title": "Advice of SAROs issued (Fund Cluster 02) — PRDP-AF2 IBRD Loan 9271-PH",
+      "relatedSaroNumbers": [
+        "SARO-BMB-E-24-0017721",
+        "SARO-BMB-E-24-0017722"
+      ],
+      "date": "2024-11-13",
+      "agency": "Department of Agriculture — Office of the Secretary, Central Office",
+      "amountPesos": 964846326,
+      "amountStage": "released",
+      "reviewNotes": "Page 1 of 2 on PDF p.18 and signed continuation Page 2 of 2 on p.19. Printed table totals ₱147,063,327 + ₱817,782,999 = ₱964,846,326; those SARO numbers directly identify forms on PDF pp.20 and 17, respectively."
+    },
+    {
+      "id": "B-context-p020-saro-0017721",
+      "annexId": "B",
+      "type": "SARO attachment",
+      "pageStart": 20,
+      "pageEnd": 20,
+      "title": "Special Allotment Release Order — PRDP-AF2 IBRD Loan 9271-PH, government counterpart",
+      "saroNumber": "SARO-BMB-E-24-0017721",
+      "date": "2024-11-13",
+      "agency": "Department of Agriculture — Office of the Secretary, Central Office",
+      "amountPesos": 147063327,
+      "amountStage": "released",
+      "reviewNotes": "Page 1 of 1. Directly referenced by the advice table repeated on pages 18 and 21; barcode visibly reads #SARO-2024-E01108B."
+    },
+    {
+      "id": "B-uncovered-p021-022-advice-copy2",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 21,
+      "pageEnd": 22,
+      "title": "Duplicate physical copy: Advice of SAROs issued (Fund Cluster 02) — PRDP-AF2 IBRD Loan 9271-PH",
+      "relatedSaroNumbers": [
+        "SARO-BMB-E-24-0017721",
+        "SARO-BMB-E-24-0017722"
+      ],
+      "date": "2024-11-13",
+      "agency": "Department of Agriculture — Office of the Secretary, Central Office",
+      "amountPesos": 964846326,
+      "amountStage": "released",
+      "reviewNotes": "Page 1 of 2 on PDF p.21 and signed continuation Page 2 of 2 on p.22. Printed content, references, and total match the separate two-page copy on pp.18–19; recorded separately because it occupies distinct source pages."
+    },
+    {
+      "id": "B-uncovered-p025-blgf-advice",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 25,
+      "pageEnd": 25,
+      "title": "Advice of SARO issued (Fund Cluster 01) — Local Governance Reform Project",
+      "saroNumber": "SARO-BMB-A-24-0001988",
+      "date": "2024-04-16",
+      "agency": "Bureau of Local Government Finance",
+      "amountPesos": 119885000,
+      "amountStage": "released",
+      "reviewNotes": "One-page advice; DMS Reference No. 2024-BA-0036065-E. Printed variance ₱12,615,000 from requested ₱132,500,000 is identified as GOP counterpart."
+    },
+    {
+      "id": "B-uncovered-p033-blgf-advice-copy",
+      "annexId": "B",
+      "type": "Advice of SARO issued",
+      "pageStart": 33,
+      "pageEnd": 33,
+      "title": "Duplicate physical copy: Advice of SARO issued (Fund Cluster 01) — Local Governance Reform Project",
+      "saroNumber": "SARO-BMB-A-24-0001988",
+      "date": "2024-04-16",
+      "agency": "Bureau of Local Government Finance",
+      "amountPesos": 119885000,
+      "amountStage": "released",
+      "reviewNotes": "One-page advice; DMS Reference No. 2024-BA-0036065-E. Printed details match the separate page-25 copy, including SARO, amount, date, and variance; recorded separately because it occupies a distinct source page."
+    }
+  ]
+}

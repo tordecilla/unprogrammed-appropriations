@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "grain": "separate visible Various SAROs aggregates; not distinct numbered SARO leaves",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 122,
+      "printedPage": 122,
+      "sourcePages": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "scope": "Various SAROs issued in November; Mindanao Development Authority benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — Mindanao Development Authority",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 317883,
+        "Monetization of Leave Credits": 121000,
+        "Total": 438883
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 122,
+      "printedPage": 122,
+      "sourcePages": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "scope": "Various SAROs issued in November; National Historical Commission of the Philippines benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — National Historical Commission of the Philippines",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 89366,
+        "Monetization of Leave Credits": 278307,
+        "Total": 367673
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 126,
+      "printedPage": 126,
+      "sourcePages": [
+        124,
+        125,
+        126,
+        127
+      ],
+      "scope": "Various SARO issued in October; Philippine Drug Enforcement Agency benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — Philippine Drug Enforcement Agency",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2262366,
+        "Monetization of Leave Credits": 2524873,
+        "Total": 4787239
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 126,
+      "printedPage": 126,
+      "sourcePages": [
+        124,
+        125,
+        126,
+        127
+      ],
+      "scope": "Various SARO issued in November; Philippine Drug Enforcement Agency benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — Philippine Drug Enforcement Agency",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 5667019,
+        "Monetization of Leave Credits": 1190306,
+        "Total": 6857325
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 126,
+      "printedPage": 126,
+      "sourcePages": [
+        124,
+        125,
+        126,
+        127
+      ],
+      "scope": "Various SARO issued in December; Philippine Drug Enforcement Agency benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — Philippine Drug Enforcement Agency",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Monetization of Leave Credits": 2590746,
+        "Total": 2590746
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 126,
+      "printedPage": 126,
+      "sourcePages": [
+        124,
+        125,
+        126,
+        127
+      ],
+      "scope": "Various SAROs issued in November; Philippine Space Agency benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — Philippine Space Agency",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 43597,
+        "Total": 43597
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 126,
+      "printedPage": 126,
+      "sourcePages": [
+        124,
+        125,
+        126,
+        127
+      ],
+      "scope": "Various SAROs in September; Civil Service Commission Proper salary-increase aggregate",
+      "agency": "Civil Service Commission - Proper",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 62455000,
+        "Total": 62455000
+      }
+    }
+  ]
+}

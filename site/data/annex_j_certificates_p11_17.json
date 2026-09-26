@@ -1,0 +1,262 @@
+{
+  "sourceAnnex": "J",
+  "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-annex-v1/Annex-J-Compliance-G.R.-No.-271059.pdf",
+  "transcriptionMethod": "visual review of rendered page images; no text extraction or OCR",
+  "schemaVersion": "annex-j-certificates-v1",
+  "documents": [
+    {
+      "documentId": "J-p11",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 96454857018.05,
+          "amountText": "Ninety-Six Billion, Four Hundred Fifty-Four Million, Eight Hundred Fifty-Seven Thousand, Eighteen and 05/100 Pesos (P96,454,857,018.05)",
+          "amountType": "actual dividend collections remitted to National Government",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 16000000000,
+        "amountText": "Sixteen Billion Pesos (P16,000,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "Dividend collections",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          12
+        ],
+        "relationshipNote": "Page 12 is a supplementary certification to this dividend collections certification."
+      },
+      "sourcePage": 11,
+      "reviewNotes": "Standalone certification dated by stamp 17 September 2024. Covers 1 January–30 August 2024 and states collections already exceeded the FY 2024 program. Certified actual collections, not a release."
+    },
+    {
+      "documentId": "J-p12",
+      "documentType": "Supplemental certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-12-12",
+      "coveredPeriod": "2024-09-02/2024-12-05",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 40149945573.01,
+          "amountText": "Forty Billion, One Hundred Forty-Nine Million, Nine Hundred Forty-Five Thousand, Five Hundred Seventy-Three and 01/100 Pesos (P40,149,945,573.01)",
+          "amountType": "additional dividends remitted to National Government",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Dividend collections",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          11
+        ],
+        "relationshipNote": "Explicitly states this is supplemental to the dividend collections certification dated 17 September 2024 on source page 11."
+      },
+      "sourcePage": 12,
+      "reviewNotes": "Stamped 12 December 2024. Dates and amount cover dividends remitted from 2 September to 5 December 2024. Adds to the earlier stated dividend period without overlap in dates."
+    },
+    {
+      "documentId": "J-p13",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 13753818275.91,
+          "amountText": "Thirteen Billion, Seven Hundred Fifty-Three Million, Eight Hundred Eighteen Thousand, Two Hundred Seventy-Five and 91/100 Pesos (P13,753,818,275.91)",
+          "amountType": "interest income earned by BTr from National Government advances to GOCCs",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 58000000,
+        "amountText": "Fifty-Eight Million Pesos (P58,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "Interest income from NG advances to government-owned and controlled corporations (GOCCs)",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [],
+        "relationshipNote": null
+      },
+      "sourcePage": 13,
+      "reviewNotes": "Stamped 17 September 2024; also bears a handwritten 'TOP'S COPY' marking and round Bureau of the Treasury seal. States amount already exceeded the FY 2024 program. This category may overlap with broader investment income certified on page 15; do not aggregate without reconciliation."
+    },
+    {
+      "documentId": "J-p14",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 3733674570.09,
+          "amountText": "Three Billion, Seven Hundred Thirty-Three Million, Six Hundred Seventy-Four Thousand, Five Hundred Seventy and 9/100 Pesos (P3,733,674,570.09)",
+          "amountType": "additional revenue from remittance of balance of cancelled Domestic Letters of Credit",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Remittance of balance of cancelled Domestic Letters of Credit by the Department of Health (DOH)",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [],
+        "relationshipNote": null
+      },
+      "sourcePage": 14,
+      "reviewNotes": "Stamped 17 September 2024. The certificate states the period 1 January–30 August 2024 and identifies the source as cancelled DOH Domestic Letters of Credit."
+    },
+    {
+      "documentId": "J-p15",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-18",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 35253713264.33,
+          "amountText": "Thirty-Five Billion, Two Hundred Fifty-Three Million, Seven Hundred Thirteen Thousand, Two Hundred Sixty-Four and 33/100 Pesos (P35,253,713,264.33)",
+          "amountType": "total income from investments generated by BTr",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 17000000000,
+        "amountText": "Seventeen Billion Pesos (P17,000,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "BTr investment income; certificate says it supersedes the certification on Bond Sinking Fund (BSF) income dated 17 September 2024",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          16
+        ],
+        "relationshipNote": "Page 16 is a supplemental certification to this investment income certification; page 15 supersedes an earlier BSF income certification dated 17 September 2024 (earlier certificate page not identified here)."
+      },
+      "sourcePage": 15,
+      "reviewNotes": "Dated 18 September 2024. Covers 1 January–30 August 2024 and says income already exceeded the full-year program. Treat as superseding the prior BSF certification; do not count prior certification as an additional amount. Potential overlap with the narrower interest income on page 13 is unresolved."
+    },
+    {
+      "documentId": "J-p16",
+      "documentType": "Supplemental certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-11-29",
+      "coveredPeriod": "2024-09-02/2024-11-22",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 10547492112.08,
+          "amountText": "Ten Billion, Five Hundred Forty-Seven Million, Four Hundred Ninety-Two Thousand, One Hundred Twelve and 08/100 Pesos (P10,547,492,112.08)",
+          "amountType": "additional income from investments",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "BTr investment income",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          15
+        ],
+        "relationshipNote": "Explicitly states it is supplemental to the certification on income from investments dated 18 September 2024 on source page 15."
+      },
+      "sourcePage": 16,
+      "reviewNotes": "Stamped 29 November 2024. Stated earning period begins after page 15's 30 August cutoff; the reported period is 2 September–22 November 2024."
+    },
+    {
+      "documentId": "J-p17",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-09-16",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "additional revenue collected by National Government",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Upfront payment from San Miguel Corporation (SMC) to NG, through Manila International Airport Authority (MIAA), for the bid of the Ninoy Aquino International Airport (NAIA) Public-Private Partnership Project",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [],
+        "relationshipNote": null
+      },
+      "sourcePage": 17,
+      "reviewNotes": "Stamped 17 September 2024. States NG collected this additional revenue during 1 January–16 September 2024. It is a revenue certification for an upfront PPP bid payment, not a release."
+    }
+  ],
+  "reconciliation": {
+    "pageCount": 7,
+    "amountsBySourcePage": {
+      "11": 96454857018.05,
+      "12": 40149945573.01,
+      "13": 13753818275.91,
+      "14": 3733674570.09,
+      "15": 35253713264.33,
+      "16": 10547492112.08,
+      "17": 30000000000
+    },
+    "safeRelatedSubtotals": {
+      "dividendsPages11And12Pesos": 136604802591.06,
+      "investmentIncomePages15And16Pesos": 45801205376.41
+    },
+    "unresolvedComparability": [
+      "Page 13's P13,753,818,275.91 interest income from NG advances to GOCCs may be included in or overlap with the broader BTr investment income on page 15; do not add it to page 15 without source-level reconciliation.",
+      "Page 15 supersedes an earlier BSF income certification dated 17 September 2024. That superseded amount is not on pages 11–17 and should not be added as a separate receipt.",
+      "Pages 11 and 12 refer to actual dividend collections/remittances; pages 13–17 certify income or revenue amounts with differing bases. Their amounts should not be combined into a single release total."
+    ]
+  }
+}

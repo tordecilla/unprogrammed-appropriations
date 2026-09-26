@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Department subtotal",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "For Government Counterpart of Foreign-Assisted Projects",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 322209065,
+        "Total": 322209065
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Various SAROs issued in August and September aggregate",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "Salary Increase and FY 2022 PBB",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 20202249580,
+        "FY 2022 PBB": 4770435283,
+        "Total": 24972684863
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "FY 2022 PBB",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 2394056081,
+        "Total": 2394056081
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "Terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 44887421,
+        "Monetization of Leave Credits": 2758902,
+        "Total": 47646323
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Various SAROs issued in November aggregate",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "Terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 105985345,
+        "Monetization of Leave Credits": 8824132,
+        "Total": 114809477
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "Terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 60641211,
+        "Monetization of Leave Credits": 10217637,
+        "Total": 70858848
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 20202249580,
+        "FY 2022 PBB": 7164491364,
+        "Other PS Deficiencies": 5147161623,
+        "Total": 32513902567
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 18,
+      "printedPage": 18,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 211513977,
+        "Monetization of Leave Credits": 21800671,
+        "Total": 233314648
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 19,
+      "printedPage": 19,
+      "scope": "Department subtotal",
+      "agency": "DepEd",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 32781537539,
+        "MOOE": 322209065,
+        "Total": 33103746604
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 19,
+      "printedPage": 19,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DepEd - Office of the Secretary",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 32747217215,
+        "MOOE": 322209065,
+        "Total": 33069426280
+      }
+    }
+  ]
+}

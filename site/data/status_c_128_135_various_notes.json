@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "grain": "separate visible Various SAROs aggregates; not distinct numbered SARO leaves",
+  "records": [
+    {"annexId":"C","sourcePage":130,"printedPage":130,"sourcePages":[128,129,130,131],"scope":"Various SAROs issued in November; Commission on Human Rights (CHR) Proper benefits aggregate","agency":"Commission on Human Rights (CHR) — Proper","category":"Pension and Gratuity Fund","unit":"pesos","amounts":{"Terminal Leave/Retirement Gratuity":1289503,"Monetization of Leave Credits":151678,"Total":1441181}},
+    {"annexId":"C","sourcePage":134,"printedPage":134,"sourcePages":[132,133,134,135],"scope":"Various SAROs issued in November; Metropolitan Manila Development Authority terminal leave benefits","agency":"Allocation to Local Government Units (ALGU) — Metropolitan Manila Development Authority (MMDA)","category":"Pension and Gratuity Fund","unit":"pesos","amounts":{"Terminal Leave/Retirement Gratuity":800630,"Total":800630}},
+    {"annexId":"C","sourcePage":134,"printedPage":134,"sourcePages":[132,133,134,135],"scope":"Various SAROs issued in October; BARMM terminal leave benefits and separation incentives","agency":"Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)","category":"Pension and Gratuity Fund","unit":"pesos","amounts":{"Terminal Leave/Retirement Gratuity":23816330,"Separation Incentives":18352730,"Total":42169060}},
+    {"annexId":"C","sourcePage":134,"printedPage":134,"sourcePages":[132,133,134,135],"scope":"Various SAROs issued in November; BARMM terminal leave benefits, monetization of leave credits and separation incentives","agency":"Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)","category":"Pension and Gratuity Fund","unit":"pesos","amounts":{"Terminal Leave/Retirement Gratuity":12786278,"Monetization of Leave Credits":5742722,"Separation Incentives":27088498,"Total":45617498}},
+    {"annexId":"C","sourcePage":134,"printedPage":134,"sourcePages":[132,133,134,135],"scope":"Various SAROs issued in December; BARMM monetization of leave credits","agency":"Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)","category":"Pension and Gratuity Fund","unit":"pesos","amounts":{"Monetization of Leave Credits":10198364,"Total":10198364}}
+  ]
+}

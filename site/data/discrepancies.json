@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "scope": "Source-checked printed differences and evidence limits in the published annexes; corrected transcription errors are excluded",
+  "records": [
+    {
+      "id": "b-attachment-79-centavos",
+      "annex": "B",
+      "kind": "Amount difference",
+      "title": "Attachment I is ₱0.79 below its signed SARO",
+      "detail": "For SARO-BMB-A-24-0018926, the itemized schedule totals ₱1,104,184,930.21 and matches its own printed total. The signed order states ₱1,104,184,931.00. The 79-cent difference is retained; no project amount was adjusted.",
+      "sources": [
+        {
+          "label": "Signed SARO · p.224",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p224.pdf"
+        },
+        {
+          "label": "Attachment I · pp.225–227",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p225-227.pdf"
+        }
+      ],
+      "verification": "Printed totals independently re-read; project cells not re-read in this pass."
+    },
+    {
+      "id": "b-funding-year",
+      "annex": "B",
+      "kind": "Conflicting source text",
+      "title": "One NIA advice cites a different GAA year",
+      "detail": "For SARO-BMB-C-24-0002947 (₱2,088,715,216), the signed order and BTr advice cite the FY2024 GAA / RA 11975; the NIA recipient advice cites the FY2023 GAA / RA 11936. The SARO number, date, amount, and purpose otherwise identify one release. The conflicting year and statute remain visible.",
+      "sources": [
+        {
+          "label": "Signed SARO · p.336",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p336.pdf"
+        },
+        {
+          "label": "BTr advice · p.337",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p337-advice.pdf"
+        },
+        {
+          "label": "NIA advice · p.338",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p338-advice.pdf"
+        }
+      ],
+      "verification": "Year and statute independently re-read on all three documents."
+    },
+    {
+      "id": "b-cancelled-forms",
+      "annex": "B",
+      "kind": "Unresolved release status",
+      "title": "Three signed forms appear marked CANCELLED",
+      "detail": "SARO-BMB-B-24-0000187 (₱67,962,856) and SARO-BMB-A-24-0004360 (₱29,413,784) have apparent CANCELLED watermarks, while accompanying advice reports the same amounts released. SARO-BMB-A-24-0011674 (₱1,884,077,510) also has an apparent watermark, but no matching issued advice was identified. The records are flagged status_unresolved; their amounts are not treated as confirmed released merely from the form images.",
+      "sources": [
+        {
+          "label": "Form · pp.275–276",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p275-276.pdf"
+        },
+        {
+          "label": "Advice · p.277",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p277-advice.pdf"
+        },
+        {
+          "label": "Form · p.308",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p308.pdf"
+        },
+        {
+          "label": "Advice · pp.309–310",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p309-310-advice.pdf"
+        },
+        {
+          "label": "Form · p.314",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p314.pdf"
+        }
+      ],
+      "verification": "Watermarks and advice text independently re-read; actual release status remains unresolved."
+    },
+    {
+      "id": "b-missing-attachments",
+      "annex": "B",
+      "kind": "Missing referenced evidence",
+      "title": "Two SAROs have missing referenced project details",
+      "detail": "The ₱1,680,398,000 right-of-way schedule on pp.93–94 refers to Attachments V.1–V.9, which are not in the packet; its summary total matches the signed SARO. The ₱4,320,000,000 SARO on p.349 refers to an attached Schedule A, but p.349 is the packet's last page. Project details cannot be inferred from the missing attachments.",
+      "sources": [
+        {
+          "label": "ROW schedule · pp.93–94",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p93-94.pdf"
+        },
+        {
+          "label": "Related SARO · p.98",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p098.pdf"
+        },
+        {
+          "label": "Final SARO · p.349",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p349.pdf"
+        }
+      ],
+      "verification": "References and packet boundary independently rechecked."
+    },
+    {
+      "id": "b-pgn-crosswalk",
+      "annex": "B",
+      "kind": "Missing project crosswalk",
+      "title": "₱2,836,003,000 PGN Bridges release has no attached-schedule row",
+      "detail": "Advice pp.86–88 and signed SARO-BMB-A-24-0002834 on p.85 both show ₱2,836,003,000 for the PGN Island Bridges Project. The current attached-schedule project rows have no line for that SARO, leaving this amount out of the advice-to-project crosswalk. This is missing project-level source detail, not a disagreement between the advice and signed order.",
+      "sources": [
+        {
+          "label": "Signed SARO · p.85",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p085.pdf"
+        },
+        {
+          "label": "Advice · pp.86–88",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-documents-v1/B-p086-088-advice.pdf"
+        },
+        {
+          "label": "Crosswalk audit",
+          "href": "../audit/annex_b_advice_vs_schedules.md"
+        }
+      ],
+      "verification": "Signed p85 and advice p87 row independently re-read; no attached-schedule row indexed for this SARO."
+    },
+    {
+      "id": "c-ebudget-ten-pesos",
+      "annex": "C",
+      "kind": "Verified row sum versus printed subtotal",
+      "title": "eBudget row sum is ₱10 below the printed total",
+      "detail": "Funding source 10508462 has 4,166 transcribed transactions, matching the printed grand count. The rows total ₱56,894,199,169; the p.798 grand total is ₱56,894,199,179. The ₱10 gap first appears at the DepEd agency subtotal on p.661 and persists at the department subtotal on p.663 and grand total. No transaction amount was changed to force agreement with the printed totals.",
+      "sources": [
+        {
+          "label": "DepEd subtotal · p.661",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-listing-pages-v1/annex-c-p661.pdf"
+        },
+        {
+          "label": "Department subtotal · p.663",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-listing-pages-v1/annex-c-p663.pdf"
+        },
+        {
+          "label": "Grand total · p.798",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-listing-pages-v1/annex-c-p798.pdf"
+        },
+        {
+          "label": "Reconciliation note",
+          "href": "data/annex_c_10508462_reconciliation_note.md"
+        }
+      ],
+      "verification": "All 4,166 visible transaction lines on PDF pp.271–798 match the structured page counts. Fresh page-image PS and Total checks found no amount mismatch; independent second passes specifically cleared pp.345–362 (153 rows) and pp.662–729 (365 rows), where earlier reviewer counts were unreliable. The printed DepEd agency subtotal is ₱10 above its listed transaction amounts, and the same difference persists at the department and grand totals. Names, identifiers, and purpose text were not comprehensively re-audited."
+    },
+    {
+      "id": "c-special-purpose-scope",
+      "annex": "C",
+      "kind": "Unclear total scope",
+      "title": "A ₱4.32 billion gap matches a later ALGU SARO, without an explicit link",
+      "detail": "The p.131 Special Purpose Funds MOOE total is ₱30,565,877,216, while its visible BSGCs subtotal is ₱26,245,877,216. A separate p.135 ALGU SARO is exactly ₱4,320,000,000, but the report does not explicitly say that this ALGU line belongs in the Special Purpose Funds total. The figures are kept under their printed scopes.",
+      "sources": [
+        {
+          "label": "Special Purpose Funds · p.131",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-status-pages-v1/annex-c-p131.pdf"
+        },
+        {
+          "label": "ALGU SARO · p.135",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-status-pages-v1/annex-c-p135.pdf"
+        }
+      ],
+      "verification": "Both printed figures independently re-read; their relationship is not stated in the source."
+    },
+    {
+      "id": "j-purpose-17",
+      "annex": "J",
+      "kind": "Amount difference",
+      "title": "2024 Purpose 17 subtotal exceeds its detail by ₱841,500",
+      "detail": "The printed Purpose 17 subtotal is ₱40,877,513,688; the visibly transcribed release detail sums to ₱40,876,672,188. The 2024 BTr purpose subtotals add to its printed SARO-release total, while the leaf rows are ₱841,500 lower. Both the subtotal and leaf amounts are retained.",
+      "sources": [
+        {
+          "label": "2024 revenue status · p.1",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p001.pdf"
+        },
+        {
+          "label": "Continuation · p.2",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p002.pdf"
+        },
+        {
+          "label": "Structured cells",
+          "href": "data/revenue_status.csv"
+        }
+      ],
+      "verification": "All 17 visible leaf amounts and printed subtotal independently re-read."
+    },
+    {
+      "id": "j-rice-duty-three-centavos",
+      "annex": "J",
+      "kind": "Amount difference",
+      "title": "Rice-duty quarterly support is ₱0.03 above the annual summary",
+      "detail": "The three monthly amounts and Q4 total on p.24 give ₱8,708,988,347.66. The p.20 annual summary lists Q4 as ₱8,708,988,347.63. Consequently, supported quarters total ₱29,927,318,343.70 against the annual summary's ₱29,927,318,343.67. Both source figures remain in the certificate register.",
+      "sources": [
+        {
+          "label": "Annual summary · p.20",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p020.pdf"
+        },
+        {
+          "label": "Q4 support · p.24",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p024.pdf"
+        },
+        {
+          "label": "Reconciliation note",
+          "href": "../audit/annex_j_reconciliation.md"
+        }
+      ],
+      "verification": "Printed values on both pages independently re-read."
+    },
+    {
+      "id": "l-schedule-3",
+      "annex": "L",
+      "kind": "Row sums versus printed header",
+      "title": "Schedule 3 row sums differ from its repeated header",
+      "detail": "The 824 project rows put ₱23,302,000 more in GAAAO and the same amount less in FISARO than the printed header; total allotments still agree. Row-sum obligations are ₱50 above the header, unobligated balance ₱50 below, and unpaid obligations ₱50 above. The checked project rows balance internally. No row was changed to force agreement with the repeated header.",
+      "sources": [
+        {
+          "label": "Schedule 3 start · p.74",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-road-fund-pages-v1/annex-l-p074.pdf"
+        },
+        {
+          "label": "Class check · p.100",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-road-fund-pages-v1/annex-l-p100.pdf"
+        },
+        {
+          "label": "Class check · p.108",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-road-fund-pages-v1/annex-l-p108.pdf"
+        },
+        {
+          "label": "Class check · p.113",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-road-fund-pages-v1/annex-l-p113.pdf"
+        },
+        {
+          "label": "Full reconciliation",
+          "href": "../audit/annex_l_schedule3_reconciliation.md"
+        }
+      ],
+      "verification": "A fresh, explicit cell-by-cell image check covered all 824 rows on PDF pp.74–115: GAAAO, FISARO, obligations, disbursements, unobligated balance, and unpaid obligations, including blank class cells. Page-level row counts reconcile (237 + 396 + 191). No amount or column-placement mismatch was found. The differences are verified row sums versus the report's repeated header; its calculation is unexplained."
+    },
+    {
+      "id": "l-schedule-1-printed-arithmetic",
+      "annex": "L",
+      "kind": "Amount differences",
+      "title": "Two Schedule 1 rows have printed unpaid-balance arithmetic gaps",
+      "detail": "On p.22, printed disbursements of ₱45,033,640.91 plus unpaid obligations of ₱54,466,539.09 exceed printed obligations of ₱99,500,000 by ₱180. On p.24, ₱80,020,234.22 plus ₱19,299,765.78 fall ₱180,000 below printed obligations of ₱99,500,000. Independent image re-reading confirmed these exact row values; other previously flagged Schedule 1 rows were corrected as transcription errors.",
+      "sources": [
+        {
+          "label": "Schedule 1 row · p.22",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-road-fund-pages-v1/annex-l-p022.pdf"
+        },
+        {
+          "label": "Schedule 1 row · p.24",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-road-fund-pages-v1/annex-l-p024.pdf"
+        }
+      ],
+      "verification": "Both affected rows independently re-read from page images."
+    },
+    {
+      "id": "m-carabao-center",
+      "annex": "M",
+      "kind": "Amount difference",
+      "title": "One agency's 2025 expense classes exceed its printed total by ₱18 million",
+      "detail": "The Philippine Carabao Center row on p.1 prints PS 137,746, MOOE 553,534, and CO 182,890, all in thousand pesos. Those classes sum to 874,170 thousand pesos; the row total is 856,170 thousand. The ₱18 million gap also appears between summed 2025 MOOE detail and the printed MOOE grand total. Both printed values are retained.",
+      "sources": [
+        {
+          "label": "Agency row · p.1",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-agency-expenditure-pages-v1/annex-m-p001.pdf"
+        },
+        {
+          "label": "Grand totals · p.19",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-agency-expenditure-pages-v1/annex-m-p019.pdf"
+        },
+        {
+          "label": "Reconciliation note",
+          "href": "data/annex_m_reconciliation_note.md"
+        }
+      ],
+      "verification": "Printed agency row and grand-total cell independently re-read."
+    },
+    {
+      "id": "o-2014-instruments",
+      "annex": "O",
+      "kind": "Amount difference",
+      "title": "2014 domestic NG instruments are ₱1 million below their subtotal",
+      "detail": "The 2014 domestic national-government instrument rows sum to 220,494 million pesos, while their printed subtotal is 220,495 million. The instrument rows and subtotal are retained separately.",
+      "sources": [
+        {
+          "label": "Historical debt table · p.1",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-debt-pages-v1/annex-o-p001.pdf"
+        },
+        {
+          "label": "Reconciliation note",
+          "href": "data/debt_reference_reconciliation_note.md"
+        }
+      ],
+      "verification": "All listed 2014 instrument cells and subtotal independently re-read."
+    },
+    {
+      "id": "o-older-instruments",
+      "annex": "O",
+      "kind": "Missing component detail",
+      "title": "1986 and 1988 domestic NG subtotals lack instrument amounts",
+      "detail": "For 1986 and 1988, the transcribed domestic national-government instrument rows are zero, while printed subtotals are 13,845 and 25,710 million pesos. The source's general rounding note does not account for gaps of this size; the subtotals are retained without inventing instrument rows.",
+      "sources": [
+        {
+          "label": "Historical debt table · p.2",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-debt-pages-v1/annex-o-p002.pdf"
+        },
+        {
+          "label": "Reconciliation note",
+          "href": "data/debt_reference_reconciliation_note.md"
+        }
+      ],
+      "verification": "1986 and 1988 instrument columns and subtotals independently re-read."
+    },
+    {
+      "id": "p-2025-principal",
+      "annex": "P",
+      "kind": "Amount difference",
+      "title": "2025 principal components are ₱1 million below the printed total",
+      "detail": "Annex P prints domestic principal amortization of 987,050 million pesos and foreign principal of 219,094 million, which sum to 1,206,144 million. The printed principal total is 1,206,145 million. The source figures were rechecked visually and remain unchanged.",
+      "sources": [
+        {
+          "label": "Debt-service outlook · p.1",
+          "href": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-debt-pages-v1/annex-p-p001.pdf"
+        },
+        {
+          "label": "Reconciliation note",
+          "href": "data/debt_reference_reconciliation_note.md"
+        }
+      ],
+      "verification": "Domestic, foreign, and total cells independently re-read."
+    }
+  ]
+}

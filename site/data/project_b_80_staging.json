@@ -1,0 +1,40 @@
+[
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 80,
+    "parentDocumentId": "B-p80",
+    "saroNumber": "SARO-BMB-A-24-0002832",
+    "lineNumber": 1,
+    "description": "Priority Bridges crossing Pasig-Marikina River and Manggahan Floodway Bridges Construction Project, under China Government Financing Facility",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 178655100000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 80,
+    "parentDocumentId": "B-p80",
+    "saroNumber": "SARO-BMB-A-24-0002832",
+    "lineNumber": 2,
+    "description": "Samal Island Davao City Connector (SIDC) Project",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 308356000000,
+    "reviewNote": null
+  }
+]

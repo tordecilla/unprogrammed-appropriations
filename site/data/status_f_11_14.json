@@ -1,0 +1,433 @@
+[
+  {
+    "annexId": "F",
+    "pdfPage": 11,
+    "printedPage": 11,
+    "sourcePages": [
+      11,
+      12,
+      13
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018998",
+    "date": "2025-12-19",
+    "department": "Department of Health",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the salaries and other allowances of the project staffs under the Health System Enhancement to Address and Limit COVID-19 Project 1 (HEAL 1), ADB Loan No. 3961-PHI dated September 8, 2020",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "MOOE",
+        "amountPesos": 21733577,
+        "pdfPage": 11
+      }
+    ],
+    "reportedTotalPesos": 21733577,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 11,
+    "printedPage": 11,
+    "sourcePages": [
+      11,
+      12,
+      13
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018633",
+    "date": "2025-12-17",
+    "department": "Department of Health",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the procurement of various medical equipment and variation orders for the civil works of four (4) DOH health facilities under the Health System Enhancement to Address and Limit COVID-19 Project 1 (HEAL 1), ADB Loan No. 3961-PHI dated September 8, 2020",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 208048633,
+        "pdfPage": 11
+      }
+    ],
+    "reportedTotalPesos": 208048633,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 11,
+    "printedPage": 11,
+    "sourcePages": [
+      11,
+      12,
+      13
+    ],
+    "saroNumber": "SARO-BMB-B-25-0017949",
+    "date": "2025-12-19",
+    "department": "Department of Health",
+    "agency": "National Nutrition Council",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 852400,
+        "pdfPage": 13
+      }
+    ],
+    "reportedTotalPesos": 852400,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 11,
+    "printedPage": 11,
+    "sourcePages": [
+      11,
+      12,
+      13
+    ],
+    "saroNumber": "SARO-BMB-D-25-0018312",
+    "date": "2025-12-10",
+    "department": "Department of Human Settlements and Urban Development",
+    "agency": "Human Settlements Adjudication Commission",
+    "purpose": "For PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 9221671,
+        "pdfPage": 13
+      }
+    ],
+    "reportedTotalPesos": 9221671,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 11,
+    "printedPage": 11,
+    "sourcePages": [
+      11,
+      12,
+      13
+    ],
+    "saroNumber": "SARO-BMB-E-25-0014538",
+    "date": "2025-09-15",
+    "department": "Department of Information and Communications Technology",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the loan proceeds component of the Philippine Digital Infrastructure Project under IBRD Loan No. 9730-PH",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "MOOE",
+        "amountPesos": 262622000,
+        "pdfPage": 11
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 1356675000,
+        "pdfPage": 11
+      }
+    ],
+    "reportedTotalPesos": 1619297000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0018334",
+    "date": "2025-12-11",
+    "department": "Department of Justice",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of retirement gratuity differential",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 97451527,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 97451527,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0017303",
+    "date": "2025-11-27",
+    "department": "Department of Justice",
+    "agency": "Bureau of Corrections",
+    "purpose": "To cover the establishment of regional prison facilities of the DOJ-BuCor",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 2353040000,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 2353040000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0019029",
+    "date": "2025-12-19",
+    "department": "Department of Justice",
+    "agency": "Bureau of Immigration",
+    "purpose": "FY 2023 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2023 PBB",
+        "amountPesos": 33036537,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 33036537,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0018435",
+    "date": "2025-12-15",
+    "department": "Department of Justice",
+    "agency": "Office of the Solicitor General",
+    "purpose": "PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 32049490,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 32049490,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0017670",
+    "date": "2025-12-02",
+    "department": "Department of Justice",
+    "agency": "Parole and Probation Administration",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 2174595,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 2174595,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0019095",
+    "date": "2025-12-22",
+    "department": "Department of Justice",
+    "agency": "Office for Alternative Dispute Resolution",
+    "purpose": "FY 2023 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2023 PBB",
+        "amountPesos": 1013621,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 1013621,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-E-25-0018574",
+    "date": "2025-12-17",
+    "department": "Department of Labor and Employment",
+    "agency": "National Labor Relations Commission",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "MLC",
+        "amountPesos": 7463864,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 7463864,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-E-25-0019489",
+    "date": "2025-12-26",
+    "department": "Department of Labor and Employment",
+    "agency": "Professional Regulation Commission",
+    "purpose": "Additional FY 2023 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2023 PBB",
+        "amountPesos": 739874,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 739874,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018432",
+    "date": "2025-12-15",
+    "department": "Department of Migrant Workers",
+    "agency": "Office of the Secretary",
+    "purpose": "For PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 58388618,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 58388618,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0017724",
+    "date": "2025-12-04",
+    "department": "Department of National Defense",
+    "agency": "Philippine Air Force",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 78707225,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 78707225,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0017725",
+    "date": "2025-12-04",
+    "department": "Department of National Defense",
+    "agency": "Philippine Navy",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 80640534,
+        "pdfPage": 16
+      }
+    ],
+    "reportedTotalPesos": 80640534,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 14,
+    "printedPage": 14,
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "saroNumber": "SARO-BMB-D-25-0018797",
+    "date": "2025-12-18",
+    "department": "Department of National Defense",
+    "agency": "General Headquarters, AFP and AFP-Wide Service Support Units",
+    "purpose": "To cover the funding requirements for the implementation of various modernization projects under the Revised Armed Forces of the Philippines Modernization Program",
+    "allocations": [
+      {
+        "category": "Revised AFP Modernization Program",
+        "expenseClass": "CO",
+        "amountPesos": 15696253818,
+        "pdfPage": 15
+      }
+    ],
+    "reportedTotalPesos": 15696253818,
+    "reviewNote": null
+  }
+]

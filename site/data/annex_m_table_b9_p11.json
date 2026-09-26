@@ -1,0 +1,972 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 11,
+  "printedPage": 371,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Army (Land Forces)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of National Defense (DND)"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 99909087,
+          "maintenanceAndOtherOperatingExpenses": 18221051,
+          "capitalOutlaysAndNetLending": 3597279,
+          "financialExpenses": 0,
+          "total": 121727417
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 107990228,
+          "maintenanceAndOtherOperatingExpenses": 20264152,
+          "capitalOutlaysAndNetLending": 10019325,
+          "financialExpenses": 0,
+          "total": 138273705
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 109079397,
+          "maintenanceAndOtherOperatingExpenses": 21352503,
+          "capitalOutlaysAndNetLending": 11651645,
+          "financialExpenses": 0,
+          "total": 142083545
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Air Force (Air Forces)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of National Defense (DND)"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 18971783,
+          "maintenanceAndOtherOperatingExpenses": 23300455,
+          "capitalOutlaysAndNetLending": 3601668,
+          "financialExpenses": 0,
+          "total": 45873906
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 19864440,
+          "maintenanceAndOtherOperatingExpenses": 27243978,
+          "capitalOutlaysAndNetLending": 4513786,
+          "financialExpenses": 0,
+          "total": 51622204
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 20703159,
+          "maintenanceAndOtherOperatingExpenses": 29740431,
+          "capitalOutlaysAndNetLending": 8691218,
+          "financialExpenses": 0,
+          "total": 59134808
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Navy (Naval Forces)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of National Defense (DND)"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 23418771,
+          "maintenanceAndOtherOperatingExpenses": 14645800,
+          "capitalOutlaysAndNetLending": 4238802,
+          "financialExpenses": 0,
+          "total": 42303373
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 25398194,
+          "maintenanceAndOtherOperatingExpenses": 17862396,
+          "capitalOutlaysAndNetLending": 7816170,
+          "financialExpenses": 0,
+          "total": 51076760
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 27508077,
+          "maintenanceAndOtherOperatingExpenses": 23553747,
+          "capitalOutlaysAndNetLending": 8367977,
+          "financialExpenses": 0,
+          "total": 59429801
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Service Support Units (AFPWSSUs)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of National Defense (DND)",
+        "General Headquarters, AFP and AFP-Wide"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 66882265,
+          "maintenanceAndOtherOperatingExpenses": 16192411,
+          "capitalOutlaysAndNetLending": 41529739,
+          "financialExpenses": 0,
+          "total": 124604415
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 8200150,
+          "maintenanceAndOtherOperatingExpenses": 8164612,
+          "capitalOutlaysAndNetLending": 6779145,
+          "financialExpenses": 0,
+          "total": 23143907
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 7538741,
+          "maintenanceAndOtherOperatingExpenses": 11958829,
+          "capitalOutlaysAndNetLending": 6717903,
+          "financialExpenses": 0,
+          "total": 26215473
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Department of Public Works and Highways (DPWH)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Public Works and Highways (DPWH)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 14901379,
+          "maintenanceAndOtherOperatingExpenses": 16122017,
+          "capitalOutlaysAndNetLending": 1208689785,
+          "financialExpenses": 0,
+          "total": 1239713181
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 13181881,
+          "maintenanceAndOtherOperatingExpenses": 6929387,
+          "capitalOutlaysAndNetLending": 1068689040,
+          "financialExpenses": 0,
+          "total": 1088800308
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 15562458,
+          "maintenanceAndOtherOperatingExpenses": 26787695,
+          "capitalOutlaysAndNetLending": 838962406,
+          "financialExpenses": 0,
+          "total": 881312559
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Public Works and Highways (DPWH)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 14901379,
+          "maintenanceAndOtherOperatingExpenses": 16122017,
+          "capitalOutlaysAndNetLending": 1208689785,
+          "financialExpenses": 0,
+          "total": 1239713181
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 13181881,
+          "maintenanceAndOtherOperatingExpenses": 6929387,
+          "capitalOutlaysAndNetLending": 1068689040,
+          "financialExpenses": 0,
+          "total": 1088800308
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 15562458,
+          "maintenanceAndOtherOperatingExpenses": 26787695,
+          "capitalOutlaysAndNetLending": 838962406,
+          "financialExpenses": 0,
+          "total": 881312559
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Department of Science and Technology (DOST)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 5414754,
+          "maintenanceAndOtherOperatingExpenses": 19918966,
+          "capitalOutlaysAndNetLending": 2195785,
+          "financialExpenses": 0,
+          "total": 27529505
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 4971500,
+          "maintenanceAndOtherOperatingExpenses": 20793556,
+          "capitalOutlaysAndNetLending": 3229617,
+          "financialExpenses": 0,
+          "total": 28994673
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 5948766,
+          "maintenanceAndOtherOperatingExpenses": 21464474,
+          "capitalOutlaysAndNetLending": 2976265,
+          "financialExpenses": 0,
+          "total": 30389505
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1122947,
+          "maintenanceAndOtherOperatingExpenses": 5960531,
+          "capitalOutlaysAndNetLending": 228161,
+          "financialExpenses": 0,
+          "total": 7311639
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 978348,
+          "maintenanceAndOtherOperatingExpenses": 6207520,
+          "capitalOutlaysAndNetLending": 626776,
+          "financialExpenses": 0,
+          "total": 7812644
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1284636,
+          "maintenanceAndOtherOperatingExpenses": 6448967,
+          "capitalOutlaysAndNetLending": 271277,
+          "financialExpenses": 0,
+          "total": 8004880
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Advanced Science and Technology Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Advanced Science and Technology Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 82376,
+          "maintenanceAndOtherOperatingExpenses": 269617,
+          "capitalOutlaysAndNetLending": 24323,
+          "financialExpenses": 0,
+          "total": 376316
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 79451,
+          "maintenanceAndOtherOperatingExpenses": 305218,
+          "capitalOutlaysAndNetLending": 2750,
+          "financialExpenses": 0,
+          "total": 387419
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 90284,
+          "maintenanceAndOtherOperatingExpenses": 314554,
+          "capitalOutlaysAndNetLending": 2330,
+          "financialExpenses": 0,
+          "total": 407168
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Food and Nutrition Research Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Food and Nutrition Research Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 156224,
+          "maintenanceAndOtherOperatingExpenses": 426754,
+          "capitalOutlaysAndNetLending": 3962,
+          "financialExpenses": 0,
+          "total": 586940
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 141214,
+          "maintenanceAndOtherOperatingExpenses": 441775,
+          "capitalOutlaysAndNetLending": 210985,
+          "financialExpenses": 0,
+          "total": 793974
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 166865,
+          "maintenanceAndOtherOperatingExpenses": 335127,
+          "capitalOutlaysAndNetLending": 636517,
+          "financialExpenses": 0,
+          "total": 1138509
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Forest Products Research and Development Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Forest Products Research and Development Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 159326,
+          "maintenanceAndOtherOperatingExpenses": 69607,
+          "capitalOutlaysAndNetLending": 75792,
+          "financialExpenses": 0,
+          "total": 304725
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 152967,
+          "maintenanceAndOtherOperatingExpenses": 78522,
+          "capitalOutlaysAndNetLending": 18774,
+          "financialExpenses": 0,
+          "total": 250263
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 169609,
+          "maintenanceAndOtherOperatingExpenses": 86622,
+          "capitalOutlaysAndNetLending": 18040,
+          "financialExpenses": 0,
+          "total": 274271
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Industrial Technology Development Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Industrial Technology Development Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 315077,
+          "maintenanceAndOtherOperatingExpenses": 124090,
+          "capitalOutlaysAndNetLending": 62322,
+          "financialExpenses": 0,
+          "total": 501489
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 288182,
+          "maintenanceAndOtherOperatingExpenses": 172726,
+          "capitalOutlaysAndNetLending": 73590,
+          "financialExpenses": 0,
+          "total": 534498
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 329037,
+          "maintenanceAndOtherOperatingExpenses": 184897,
+          "capitalOutlaysAndNetLending": 92378,
+          "financialExpenses": 0,
+          "total": 606312
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Metals Industry Research and Development Center",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Metals Industry Research and Development Center"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 209489,
+          "maintenanceAndOtherOperatingExpenses": 74558,
+          "capitalOutlaysAndNetLending": 17061,
+          "financialExpenses": 0,
+          "total": 301108
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 187803,
+          "maintenanceAndOtherOperatingExpenses": 70228,
+          "capitalOutlaysAndNetLending": 26800,
+          "financialExpenses": 0,
+          "total": 284831
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 220745,
+          "maintenanceAndOtherOperatingExpenses": 74042,
+          "capitalOutlaysAndNetLending": 22000,
+          "financialExpenses": 0,
+          "total": 316787
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "National Academy of Science and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "National Academy of Science and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 22123,
+          "maintenanceAndOtherOperatingExpenses": 108105,
+          "capitalOutlaysAndNetLending": 20174,
+          "financialExpenses": 0,
+          "total": 150402
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 19503,
+          "maintenanceAndOtherOperatingExpenses": 131367,
+          "capitalOutlaysAndNetLending": 1290,
+          "financialExpenses": 0,
+          "total": 152160
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 23552,
+          "maintenanceAndOtherOperatingExpenses": 142715,
+          "capitalOutlaysAndNetLending": 6525,
+          "financialExpenses": 0,
+          "total": 172792
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "National Research Council of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "National Research Council of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 41299,
+          "maintenanceAndOtherOperatingExpenses": 196577,
+          "capitalOutlaysAndNetLending": 11675,
+          "financialExpenses": 0,
+          "total": 249551
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 39562,
+          "maintenanceAndOtherOperatingExpenses": 205519,
+          "capitalOutlaysAndNetLending": 2885,
+          "financialExpenses": 0,
+          "total": 247966
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 44371,
+          "maintenanceAndOtherOperatingExpenses": 210358,
+          "capitalOutlaysAndNetLending": 3635,
+          "financialExpenses": 0,
+          "total": 258364
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Atmospheric, Geophysical and Astronomical Services Administration",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Atmospheric, Geophysical and Astronomical Services Administration"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 716545,
+          "maintenanceAndOtherOperatingExpenses": 713848,
+          "capitalOutlaysAndNetLending": 398936,
+          "financialExpenses": 0,
+          "total": 1829329
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 647344,
+          "maintenanceAndOtherOperatingExpenses": 711791,
+          "capitalOutlaysAndNetLending": 611027,
+          "financialExpenses": 0,
+          "total": 1970162
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 763623,
+          "maintenanceAndOtherOperatingExpenses": 834003,
+          "capitalOutlaysAndNetLending": 576942,
+          "financialExpenses": 0,
+          "total": 2174568
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 220602,
+          "maintenanceAndOtherOperatingExpenses": 1373253,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1593855
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 199994,
+          "maintenanceAndOtherOperatingExpenses": 1456379,
+          "capitalOutlaysAndNetLending": 15305,
+          "financialExpenses": 0,
+          "total": 1671678
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 227770,
+          "maintenanceAndOtherOperatingExpenses": 1459077,
+          "capitalOutlaysAndNetLending": 12362,
+          "financialExpenses": 0,
+          "total": 1699209
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Council for Health Research and Development",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Council for Health Research and Development"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 63299,
+          "maintenanceAndOtherOperatingExpenses": 772454,
+          "capitalOutlaysAndNetLending": 14561,
+          "financialExpenses": 0,
+          "total": 850314
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 55988,
+          "maintenanceAndOtherOperatingExpenses": 831237,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 887225
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 70618,
+          "maintenanceAndOtherOperatingExpenses": 836201,
+          "capitalOutlaysAndNetLending": 3410,
+          "financialExpenses": 0,
+          "total": 910229
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Council for Industry, Energy and Emerging Technology Research and Development",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Council for Industry, Energy and Emerging Technology Research and Development"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 79018,
+          "maintenanceAndOtherOperatingExpenses": 834244,
+          "capitalOutlaysAndNetLending": 12749,
+          "financialExpenses": 0,
+          "total": 926011
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 79464,
+          "maintenanceAndOtherOperatingExpenses": 986184,
+          "capitalOutlaysAndNetLending": 2700,
+          "financialExpenses": 0,
+          "total": 1068348
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 88910,
+          "maintenanceAndOtherOperatingExpenses": 991625,
+          "capitalOutlaysAndNetLending": 5440,
+          "financialExpenses": 0,
+          "total": 1085975
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Institute of Volcanology and Seismology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Institute of Volcanology and Seismology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 188756,
+          "maintenanceAndOtherOperatingExpenses": 281682,
+          "capitalOutlaysAndNetLending": 323202,
+          "financialExpenses": 0,
+          "total": 793640
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 166046,
+          "maintenanceAndOtherOperatingExpenses": 326507,
+          "capitalOutlaysAndNetLending": 405432,
+          "financialExpenses": 0,
+          "total": 897985
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 197852,
+          "maintenanceAndOtherOperatingExpenses": 420665,
+          "capitalOutlaysAndNetLending": 369264,
+          "financialExpenses": 0,
+          "total": 987781
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Nuclear Research Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Nuclear Research Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 233888,
+          "maintenanceAndOtherOperatingExpenses": 166393,
+          "capitalOutlaysAndNetLending": 484754,
+          "financialExpenses": 0,
+          "total": 885035
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 208363,
+          "maintenanceAndOtherOperatingExpenses": 181601,
+          "capitalOutlaysAndNetLending": 644990,
+          "financialExpenses": 0,
+          "total": 1034954
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 245767,
+          "maintenanceAndOtherOperatingExpenses": 196548,
+          "capitalOutlaysAndNetLending": 461209,
+          "financialExpenses": 0,
+          "total": 903524
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Science High School System",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Science High School System"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1546256,
+          "maintenanceAndOtherOperatingExpenses": 864364,
+          "capitalOutlaysAndNetLending": 430243,
+          "financialExpenses": 0,
+          "total": 2840863
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1499233,
+          "maintenanceAndOtherOperatingExpenses": 919227,
+          "capitalOutlaysAndNetLending": 385600,
+          "financialExpenses": 0,
+          "total": 2804060
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1747683,
+          "maintenanceAndOtherOperatingExpenses": 925338,
+          "capitalOutlaysAndNetLending": 373100,
+          "financialExpenses": 0,
+          "total": 3046121
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 11,
+      "printedPage": 371,
+      "particulars": "Philippine Textile Research Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Science and Technology (DOST)",
+        "Philippine Textile Research Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 67835,
+          "maintenanceAndOtherOperatingExpenses": 127828,
+          "capitalOutlaysAndNetLending": 61728,
+          "financialExpenses": 0,
+          "total": 257391
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 59317,
+          "maintenanceAndOtherOperatingExpenses": 128110,
+          "capitalOutlaysAndNetLending": 135634,
+          "financialExpenses": 0,
+          "total": 323061
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 74205,
+          "maintenanceAndOtherOperatingExpenses": 196248,
+          "capitalOutlaysAndNetLending": 95473,
+          "financialExpenses": 0,
+          "total": 365926
+        }
+      }
+    }
+  ]
+}

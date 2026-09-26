@@ -1,0 +1,728 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0000187",
+    "date": "2024-02-02",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 9382-PH, Philippines Multisectoral Nutrition Project (PMNP)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 67862856,
+        "pdfPage": 80
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 100000,
+        "pdfPage": 80
+      }
+    ],
+    "reportedTotalPesos": 67962856,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0000204",
+    "date": "2024-02-02",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 9191-PH. Additional Funding for Kapit-Bisig Laban sa Kahirapan - Comprehensive and Integrated Delivery of Social Services: National Community Driven Development Project (AF KC NCDDP)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 3758107008,
+        "pdfPage": 80
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 23385300,
+        "pdfPage": 80
+      }
+    ],
+    "reportedTotalPesos": 3781492308,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0000428",
+    "date": "2024-02-15",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 9168-PH, Beneficiary FIRST - Fast, Innovative, and Responsive Service Transformation (Emergency Social Protection Project)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 126805000,
+        "pdfPage": 80
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 23343000,
+        "pdfPage": 80
+      }
+    ],
+    "reportedTotalPesos": 150148000,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0014654",
+    "date": "2024-09-13",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 9382-PH Philippines Multisectoral Nutrition Projects (PMNP)",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "MOOE",
+        "amountPesos": 383228871,
+        "pdfPage": 81
+      }
+    ],
+    "reportedTotalPesos": 383228871,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0016513",
+    "date": "2024-10-04",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the implementation of Assistance to Individuals in Crisis Situations Program",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 10000000000,
+        "pdfPage": 80
+      }
+    ],
+    "reportedTotalPesos": 10000000000,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0016565",
+    "date": "2024-10-07",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the implementation of the Philippine Food Stamp (Strategic Transfer and Alternative Measures Program)",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 1890000000,
+        "pdfPage": 80
+      }
+    ],
+    "reportedTotalPesos": 1890000000,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0017656",
+    "date": "2024-11-12",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 243521345,
+        "pdfPage": 82
+      }
+    ],
+    "reportedTotalPesos": 243521345,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0017631",
+    "date": "2024-11-11",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 9168-PH, Beneficiary FIRST - Fast, Innovative, and Responsive Service Transformation (Emergency Social Protection Project)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 54015000,
+        "pdfPage": 80
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 143584221,
+        "pdfPage": 80
+      }
+    ],
+    "reportedTotalPesos": 197599221,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0017813",
+    "date": "2024-11-15",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the implementation of Assistance to Individuals in Crisis Situations Program",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 5000000000,
+        "pdfPage": 80
+      }
+    ],
+    "reportedTotalPesos": 5000000000,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0018532",
+    "date": "2024-12-03",
+    "department": "DSWD",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 903798621,
+        "pdfPage": 82
+      }
+    ],
+    "reportedTotalPesos": 903798621,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0018220",
+    "date": "2024-11-26",
+    "department": "DSWD",
+    "agency": "Council for the Welfare of Children",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1200974,
+        "pdfPage": 82
+      }
+    ],
+    "reportedTotalPesos": 1200974,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0016700",
+    "date": "2024-10-11",
+    "department": "DSWD",
+    "agency": "National Council on Disability Affairs",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 233860,
+        "pdfPage": 82
+      }
+    ],
+    "reportedTotalPesos": 233860,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 80,
+    "sourcePages": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "printedPage": 80,
+    "saroNumber": "SARO-BMB-B-24-0018417",
+    "date": "2024-11-29",
+    "department": "DSWD",
+    "agency": "National Council on Disability Affairs",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 9474718,
+        "pdfPage": 82
+      }
+    ],
+    "reportedTotalPesos": 9474718,
+    "reviewNote": "Row continues across pp. 80?83; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0017590",
+    "date": "2024-11-08",
+    "department": "DSWD",
+    "agency": "National Anti-Poverty Commission",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 12117759,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 12117759,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0017638",
+    "date": "2024-11-11",
+    "department": "DSWD",
+    "agency": "National Commission on Indigenous Peoples",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 2737414,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 2737414,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0019214",
+    "date": "2024-12-19",
+    "department": "DSWD",
+    "agency": "National Commission on Indigenous Peoples",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1007373,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 1007373,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0017201",
+    "date": "2024-10-28",
+    "department": "DSWD",
+    "agency": "Presidential Commission for the Urban Poor",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 190849,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 190849,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0018107",
+    "date": "2024-11-21",
+    "department": "DSWD",
+    "agency": "Presidential Commission for the Urban Poor",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 5479727,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 5479727,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0018160",
+    "date": "2024-11-22",
+    "department": "DSWD",
+    "agency": "Presidential Commission for the Urban Poor",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 115972,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 115972,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0019206",
+    "date": "2024-12-19",
+    "department": "DSWD",
+    "agency": "Presidential Commission for the Urban Poor",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 505930,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 505930,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-00167832",
+    "date": "2024-10-14",
+    "department": "DSWD",
+    "agency": "National Authority for Child Care",
+    "purpose": "FY 2024 2nd PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 51426458,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 51426458,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading. SARO identifier is transcribed exactly as printed, including the eight-digit suffix 00167832."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-B-24-0019002",
+    "date": "2024-12-16",
+    "department": "DSWD",
+    "agency": "National Authority for Child Care",
+    "purpose": "FY 2024 3rd PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 15325462,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 15325462,
+    "reviewNote": "Department DSWD carries forward for these agency rows before the DOT department heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-A-24-0018723",
+    "date": "2024-12-09",
+    "department": "DOT",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1488359,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 1488359,
+    "reviewNote": "Row continues across pp. 84?87; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-A-24-0013416",
+    "date": "2024-09-10",
+    "department": "DOT",
+    "agency": "Intramuros Administration",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1666000,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 1666000,
+    "reviewNote": "Row continues across pp. 84?87; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-A-24-0013680",
+    "date": "2024-09-11",
+    "department": "DOT",
+    "agency": "Intramuros Administration",
+    "purpose": "FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 1121431,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 1121431,
+    "reviewNote": "Row continues across pp. 84?87; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-A-24-0018471",
+    "date": "2024-12-02",
+    "department": "DOT",
+    "agency": "Intramuros Administration",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 285318,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 285318,
+    "reviewNote": "Row continues across pp. 84?87; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 84,
+    "sourcePages": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "printedPage": 84,
+    "saroNumber": "SARO-BMB-A-24-0013418",
+    "date": "2024-09-10",
+    "department": "DOT",
+    "agency": "National Parks Development Committee",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 2459000,
+        "pdfPage": 86
+      }
+    ],
+    "reportedTotalPesos": 2459000,
+    "reviewNote": "Row continues across pp. 84?87; allocation page(s) cited in allocations."
+  }
+]

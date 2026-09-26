@@ -1,0 +1,40 @@
+[
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 67,
+    "parentDocumentId": "B-p67",
+    "saroNumber": "SARO-BMB-A-24-0000660",
+    "lineNumber": 1,
+    "description": "Metro Manila Flood Management Project, Phase I (MMFMP1)",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Flood Control Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 46022000000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 67,
+    "parentDocumentId": "B-p67",
+    "saroNumber": "SARO-BMB-A-24-0000660",
+    "lineNumber": 2,
+    "description": "Philippines Seismic Risk Reduction and Resilience Project (PSRRRP), IBRD Loan No. 9251-PH",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Other Structures"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 200000000,
+    "reviewNote": null
+  }
+]

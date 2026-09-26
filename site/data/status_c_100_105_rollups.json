@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 102,
+      "printedPage": 102,
+      "scope": "Various SAROs issued in November; Philippine Information Agency terminal-leave aggregate",
+      "agency": "Presidential Communications Office ? Philippine Information Agency",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 605939,
+        "Total": 605939
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 105,
+      "printedPage": 105,
+      "scope": "Office of the Secretary subtotal; not apportioned to the eight SAROs itemized on pp104-105",
+      "agency": "Department of Transportation (DOTr) ? Office of the Secretary",
+      "category": "For Government Counterpart of Foreign-Assisted Projects",
+      "unit": "pesos",
+      "amounts": {
+        "CO": 10382436371,
+        "Total": 10382436371
+      },
+      "reviewNote": "The source table prints this at the Office of the Secretary subtotal row. No individual SARO amount is visible in this category on p105; do not distribute it across the adjacent loan-proceeds rows."
+    }
+  ]
+}

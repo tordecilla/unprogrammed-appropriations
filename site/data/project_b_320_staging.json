@@ -1,0 +1,56 @@
+[
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 320,
+    "parentDocumentId": "B-p320",
+    "saroNumber": "SARO-BMB-A-24-0015538",
+    "lineNumber": 1,
+    "description": "Metro Manila Subway Project Phase I, as financed under Japan International Cooperation Agency (JICA) Loan Agreement (LA) Nos. PH-P267 and PH-P275",
+    "programPath": [
+      "Department of Transportation",
+      "Office of the Secretary",
+      "Purpose No. 17 - For Government Counterpart of Foreign-Assisted Projects, Unprogrammed Appropriations, FY 2024 General Appropriations Act, Republic Act No. 11975",
+      "Capital Outlays",
+      "Railway Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 161212700000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 320,
+    "parentDocumentId": "B-p320",
+    "saroNumber": "SARO-BMB-A-24-0015538",
+    "lineNumber": 2,
+    "description": "North-South Commuter Railway System, as financed under Asian Development Bank (ADB) LA Nos. 3796-PHI and 4188-PHI, and JICA LA Nos. PH-P262, PH-P270, PH-P277 and PH-P276",
+    "programPath": [
+      "Department of Transportation",
+      "Office of the Secretary",
+      "Purpose No. 17 - For Government Counterpart of Foreign-Assisted Projects, Unprogrammed Appropriations, FY 2024 General Appropriations Act, Republic Act No. 11975",
+      "Capital Outlays",
+      "Railway Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 556719865300,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 320,
+    "parentDocumentId": "B-p320",
+    "saroNumber": "SARO-BMB-A-24-0015538",
+    "lineNumber": 3,
+    "description": "Davao Public Transport Modernization Project, as financed under ADB LA Nos. 4324-PHI, 8450-PHI and 8449-PHI",
+    "programPath": [
+      "Department of Transportation",
+      "Office of the Secretary",
+      "Purpose No. 17 - For Government Counterpart of Foreign-Assisted Projects, Unprogrammed Appropriations, FY 2024 General Appropriations Act, Republic Act No. 11975",
+      "Capital Outlays",
+      "Other Infrastructure Assets"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 157583300000,
+    "reviewNote": null
+  }
+]

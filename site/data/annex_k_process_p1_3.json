@@ -1,0 +1,147 @@
+{
+  "sourceAnnex": "K",
+  "embeddedAnnex": "B",
+  "sourcePages": [1, 2, 3],
+  "printedPages": [1, 2, 3],
+  "title": "General Process Flow on the Release of Funds from Unprogrammed Appropriations (UA) — Release of Special Allotment Release Order (SARO)",
+  "rowGrain": "numbered process step, decision criterion, or required document",
+  "unit": null,
+  "currency": null,
+  "amounts": [],
+  "pages": [
+    {
+      "sourcePage": 1,
+      "printedPage": 1,
+      "entries": [
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "processStep",
+          "text": "The agency submits its special budget request (SBR) to DBM for release of SARO to be charged against UA, with prescribed documents specified in the DBM Citizen's Charter."
+        },
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "requiredDocument",
+          "text": "Budget Execution Document (BED) No. 1 — Financial Plan: estimated quarterly obligation program and expenditures to guide scheduling release of allotment order."
+        },
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "requiredDocument",
+          "text": "BED No. 2 — Physical Plan: performance indicators and targets of the specific agency request, broken down by quarter."
+        },
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "requiredDocument",
+          "text": "BED No. 3 — Monthly Disbursement Plan: projected monthly disbursement requirements for the specific agency request."
+        },
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "requiredDocumentGroup",
+          "group": "Foreign-Assisted Projects (FAPs)",
+          "items": [
+            "Project profile containing project name, implementing agency, total project cost, description, purpose, beneficiaries, implementation period, GOP/LP mix ratio if any, and financial and physical targets, among other information.",
+            "ICC Approval / ICC-Secretariat / NEDA Board Action Letter for additional work and change orders, if applicable.",
+            "Perfected loan agreement.",
+            "Approved Loan Effectivity issued by the DOF."
+          ]
+        },
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "requiredDocumentGroup",
+          "group": "Government-Owned or Controlled Corporations (GOCCs)",
+          "items": [
+            "Certification of receipt or deposits from the BTr on the availability of the balance.",
+            "Credit Advice from Bangko Sentral ng Pilipinas."
+          ]
+        },
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "requiredDocument",
+          "text": "Other pertinent documents, as may be applicable."
+        },
+        {
+          "section": "1.0 Submission of Agency Request",
+          "entryType": "processRule",
+          "text": "Under the Special Provisions of the UA in the General Appropriations Act, prior approval by the President is not required for release. Evaluation and processing of agency requests and subsequent approval for release fall within DBM's functional mandate."
+        }
+      ]
+    },
+    {
+      "sourcePage": 2,
+      "printedPage": 2,
+      "entries": [
+        {
+          "section": "2.0 Evaluation and Processing of Agency Requests",
+          "entryType": "processStep",
+          "text": "The concerned DBM Bureau/Service/Office (BSO) evaluates the agency SBR against existing evaluation parameters, including Alignment, Shovel-readiness, Absorptive Capacity, Fiscal Position and Prioritization (ASAFP), and checks the submitted documents."
+        },
+        {
+          "section": "2.0 Evaluation and Processing of Agency Requests",
+          "entryType": "decisionOutcomes",
+          "items": [
+            "Approval if the request and supporting documents are complete and in order, and evaluation establishes a need for release.",
+            "Disapproval if the request does not meet required criteria.",
+            "Return to the agency if required documents are missing."
+          ]
+        },
+        {
+          "section": "2.1 ASAFP Criteria",
+          "entryType": "criterion",
+          "items": [
+            "Alignment with the 8-point Socioeconomic Agenda as integrated in the Philippine Development Plan (PDP) 2023–2028, including prior approvals from relevant authorities such as NEDA.",
+            "Shovel-ready P/A/Ps must be effectively implemented, ready and expected to be completed within the validity period to avoid opportunity costs; location and beneficiaries should be clearly identified.",
+            "Absorptive capacity must be sustained at an adequate level to ensure efficient budget utilization; low absorptive capacity suggests inability to effectively utilize additional funds.",
+            "Fiscal position must be considered in light of limited resources; spending should be rationalized against the right priorities.",
+            "Agency budget prioritization should clearly exhibit the thrust accorded to the corresponding P/A/Ps."
+          ]
+        },
+        {
+          "section": "2.2 Preparation of Recommendation",
+          "entryType": "processStep",
+          "text": "If evaluation finds the request eligible for charging against UA, the concerned BSO prepares a memorandum for the Secretary, coursed through the Assistant Secretary and Undersecretary, with the Heads of the Budget Preparation and Execution Group (BPEG)."
+        },
+        {
+          "section": "2.2 Preparation of Recommendation",
+          "entryType": "requiredDocument",
+          "text": "The memorandum contains the BSO evaluation/analysis and recommendations and includes the Debit Voucher Form for forwarding to the UA Fund Administrator, with the corresponding amount charged against UA."
+        }
+      ]
+    },
+    {
+      "sourcePage": 3,
+      "printedPage": 3,
+      "entries": [
+        {
+          "section": "2.2 Preparation of Recommendation",
+          "entryType": "processRule",
+          "items": [
+            "For Budgetary Support to GOCCs (BSGC), NG advances for debt servicing of GOCC loan obligations and interest on NG advances are converted into subsidy; SARO issuance is for book-entry purposes only.",
+            "For Loan Proceeds (LP) of FAPs, the approved loan agreement is the basis of evaluation and recommendation, supported by complete documentary requirements.",
+            "For a request subject to availability of excess/new revenue (other than UA-SFAPs and UA-BSGC), the Bureau of the Treasury must certify availability of the excess/new revenue.",
+            "Before action documents are transmitted to BPEG Heads, the BSO first forwards them to the UA Fund Administrator for assignment of the Debit Voucher Number to control and monitor UA balances."
+          ]
+        },
+        {
+          "section": "2.3 Routing for BPEG Review",
+          "entryType": "processStep",
+          "text": "After completing the Debit Voucher Form, the UA Fund Administrator routes the memorandum for the Secretary, draft SARO, Debit Voucher, and pertinent documents to BPEG Heads for review."
+        },
+        {
+          "section": "2.4 Endorsement",
+          "entryType": "decisionRule",
+          "text": "If BPEG Heads find the request and supporting documents in order, compliant with prescribed UA guidelines, and justified, the draft release document is endorsed to the DBM Secretary."
+        },
+        {
+          "section": "3.0 Approval of Release Documents for the Release of Funds",
+          "entryType": "processStep",
+          "text": "If the recommendation is deemed meritorious, the Secretary approves/signs the SARO charged against UA."
+        },
+        {
+          "section": "3.2 Release",
+          "entryType": "processStep",
+          "text": "The document is released to the implementing agency through the DBM Action Document Releasing System (ADRS)."
+        }
+      ]
+    }
+  ],
+  "reviewNote": "No monetary amounts are presented on these process pages. Wrapper identifies this as Annex K; embedded page header identifies Annex B."
+}

@@ -1,0 +1,746 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Various SAROs issued in November",
+      "agency": "National Telecommunications Commission",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 3637428,
+        "Total": 3637428
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Various SAROs issued in December",
+      "agency": "National Telecommunications Commission",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 602550,
+        "Total": 602550
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "National Telecommunications Commission agency subtotal",
+      "agency": "National Telecommunications Commission",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Total": 21648154
+      },
+      "reviewNote": "Visible subtotal row; arithmetic reconciles to listed SARO and Various SARO rows."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Various SAROs issued in October",
+      "agency": "Department of the Interior and Local Government (DILG) ? Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 9901621,
+        "Total": 9901621
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Various SAROs issued in November",
+      "agency": "Department of the Interior and Local Government (DILG) ? Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 21557872,
+        "Total": 21557872
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Various SAROs issued in December",
+      "agency": "Department of the Interior and Local Government (DILG) ? Office of the Secretary",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 5087916,
+        "Total": 5087916
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "DILG Office of the Secretary subtotal",
+      "agency": "Department of the Interior and Local Government (DILG) ? Office of the Secretary",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 163375494,
+        "Monetization of Leave Credits": 4043893,
+        "Agency Total": 199922903
+      },
+      "reviewNote": "Printed 199,922,903 is the full Office of the Secretary subtotal across separate expense sections, not a sum of only the other cells currently mapped. The visible subtotal row spans Personnel Benefits and Pension and Gratuity Fund; precise cell-to-section attribution of the amount map should be checked against the scan."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "DILG department subtotal",
+      "agency": "Department of the Interior and Local Government (DILG)",
+      "category": "Department subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Total": 8768784307
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Bureau of Fire Protection agency subtotal",
+      "agency": "Bureau of Fire Protection",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 83368721,
+        "Total": 83368721
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Bureau of Jail Management and Penology agency subtotal",
+      "agency": "Bureau of Jail Management and Penology",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 182261494,
+        "Personnel Benefits Total": 409689175
+      },
+      "reviewNote": "Printed 409,689,175 is the Personnel Benefits section subtotal. Pension and Gratuity Fund cells on the same agency subtotal row are separate and must not be combined into this section total."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "Local Government Academy agency subtotal",
+      "agency": "Local Government Academy",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 430876,
+        "Other PS Deficiencies": 2420311,
+        "Total": 2851187
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "National Police Commission Various SAROs issued in December",
+      "agency": "National Police Commission",
+      "category": "For payment of terminal leave benefits and Pension",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 7621702,
+        "Total": 7621702
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 43,
+      "printedPage": 40,
+      "scope": "National Police Commission agency subtotal",
+      "agency": "National Police Commission",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 7539189,
+        "Agency Total": 10173300
+      },
+      "reviewNote": "Printed 10,173,300 appears in the overall total column. Its scope relative to the separately printed Personnel Benefits and Pension and Gratuity Fund subtotal cells cannot be confirmed from the visible row; retain as the printed agency total."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 47,
+      "printedPage": 44,
+      "scope": "Various SAROs issued in October",
+      "agency": "Philippine National Police",
+      "category": "For payment of pension, terminal leave benefits and retirement gratuity",
+      "unit": "pesos",
+      "amounts": {
+        "Pension": 29252771,
+        "Terminal Leave/Retirement Gratuity": 1716058189,
+        "Total": 1745310960
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 47,
+      "printedPage": 44,
+      "scope": "Various SAROs issued in November",
+      "agency": "Philippine National Police",
+      "category": "For payment of pension, terminal leave benefits and retirement gratuity",
+      "unit": "pesos",
+      "amounts": {
+        "Pension": 172021628,
+        "Terminal Leave/Retirement Gratuity": 1875837049,
+        "Total": 2047858677
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 47,
+      "printedPage": 44,
+      "scope": "Various SAROs issued in December",
+      "agency": "Philippine National Police",
+      "category": "For payment of pension, terminal leave benefits and retirement gratuity",
+      "unit": "pesos",
+      "amounts": {
+        "Pension": 316677395,
+        "Terminal Leave/Retirement Gratuity": 686871480,
+        "Total": 1003548875
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 47,
+      "printedPage": 44,
+      "scope": "Various SAROs issued in December",
+      "agency": "Philippine National Police",
+      "category": "For payment of FY2024 PS Deficiency",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 1510869815,
+        "Total": 1510869815
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 47,
+      "printedPage": 44,
+      "scope": "DOJ Office of the Secretary Various SAROs issued in October",
+      "agency": "Department of Justice (DOJ) ? Office of the Secretary",
+      "category": "For payment of pension, terminal leave benefits and retirement gratuity",
+      "unit": "pesos",
+      "amounts": {
+        "Pension": 73467204,
+        "Terminal Leave/Retirement Gratuity": 49885901,
+        "Total": 123353105
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 47,
+      "printedPage": 44,
+      "scope": "Bureau of Corrections Various SAROs issued in October",
+      "agency": "Bureau of Corrections",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 5156047,
+        "Total": 5156047
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 47,
+      "printedPage": 44,
+      "scope": "Land Registration Authority Various SAROs issued in December",
+      "agency": "Land Registration Authority",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 290559,
+        "Monetization of Leave Credits": 2144768,
+        "Total": 2435327
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 51,
+      "printedPage": 48,
+      "scope": "DOLE Office of the Secretary Various SAROs issued in October",
+      "agency": "Department of Labor and Employment (DOLE) ? Office of the Secretary",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2653190,
+        "Total": 2653190
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 51,
+      "printedPage": 48,
+      "scope": "DOLE Office of the Secretary Various SAROs issued in November",
+      "agency": "Department of Labor and Employment (DOLE) ? Office of the Secretary",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 11583343,
+        "Total": 11583343
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 51,
+      "printedPage": 48,
+      "scope": "DOLE Office of the Secretary Various SAROs issued in December",
+      "agency": "Department of Labor and Employment (DOLE) ? Office of the Secretary",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 1051166,
+        "Total": 1051166
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 51,
+      "printedPage": 48,
+      "scope": "DOLE Office of the Secretary subtotal",
+      "agency": "Department of Labor and Employment (DOLE) ? Office of the Secretary",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 15287699,
+        "Total": 15287699
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 51,
+      "printedPage": 48,
+      "scope": "National Conciliation and Mediation Board agency subtotal",
+      "agency": "National Conciliation and Mediation Board",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2729698,
+        "Total": 2729698
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 51,
+      "printedPage": 48,
+      "scope": "DOLE department subtotal",
+      "agency": "Department of Labor and Employment (DOLE)",
+      "category": "Department subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 319125713,
+        "MOOE": 338264979,
+        "CO": 1269000000,
+        "Total": 1926390692
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "National Labor Relations Commission Various SAROs issued in October",
+      "agency": "National Labor Relations Commission",
+      "category": "For payment of terminal leave benefits and retirement gratuity",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 16095630,
+        "Total": 16095630
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "National Labor Relations Commission Various SAROs issued in November",
+      "agency": "National Labor Relations Commission",
+      "category": "For payment of terminal leave benefits and retirement gratuity",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 16520255,
+        "Total": 16520255
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "National Labor Relations Commission Various SAROs issued in December",
+      "agency": "National Labor Relations Commission",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 218696,
+        "Monetization of Leave Credits": 236648,
+        "Total": 455344
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "National Labor Relations Commission agency subtotal",
+      "agency": "National Labor Relations Commission",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 102775662,
+        "Terminal Leave/Retirement Gratuity": 32834581,
+        "Monetization of Leave Credits": 236648,
+        "Total": 135846891
+      },
+      "reviewNote": "Subtotal reconciles to the three Various SAROs and PS deficiency shown for the agency."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "National Wages and Productivity Commission Various SAROs issued in November",
+      "agency": "National Wages and Productivity Commission",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 495149,
+        "Total": 495149
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "National Wages and Productivity Commission agency subtotal",
+      "agency": "National Wages and Productivity Commission",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Total": 8222701
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "Professional Regulation Commission Various SAROs issued in November",
+      "agency": "Professional Regulation Commission",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 272882,
+        "Total": 272882
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "Technical Education and Skills Development Authority Various SAROs issued in August and September",
+      "agency": "Technical Education and Skills Development Authority",
+      "category": "Implementation of Salary Increase under E.O. No. 64 and FY 2022 PBB",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 117156721,
+        "Total": 117156721
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "Technical Education and Skills Development Authority Various SAROs issued in October",
+      "agency": "Technical Education and Skills Development Authority",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 509669,
+        "Monetization of Leave Credits": 649952,
+        "Total": 1159621
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "Technical Education and Skills Development Authority Various SAROs issued in November",
+      "agency": "Technical Education and Skills Development Authority",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2035254,
+        "Total": 2035254
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "Technical Education and Skills Development Authority Various SAROs issued in December",
+      "agency": "Technical Education and Skills Development Authority",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 732339,
+        "Monetization of Leave Credits": 1370454,
+        "Total": 2102793
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "Technical Education and Skills Development Authority agency subtotal",
+      "agency": "Technical Education and Skills Development Authority",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 47731077,
+        "FY 2022 PBB": 69425644,
+        "Other PS Deficiencies": 34311453,
+        "Terminal Leave/Retirement Gratuity": 3277262,
+        "Monetization of Leave Credits": 2020406,
+        "Agency Total": 1764030821
+      },
+      "reviewNote": "Printed amount is the full agency subtotal; it includes Personnel Benefits, Pension and Gratuity Fund, MOOE, and CO cells shown on the row. Treat as agency-wide total, not as the sum of the listed PS cells alone."
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "Department of National Defense department subtotal",
+      "agency": "Department of National Defense (DND)",
+      "category": "Department subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 4467419057,
+        "CO": 10000000000,
+        "Total": 14467419057
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 55,
+      "printedPage": 52,
+      "scope": "DND Office of the Secretary agency subtotal",
+      "agency": "Department of National Defense (DND) ? Office of the Secretary",
+      "category": "Agency subtotal",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 26794540,
+        "Terminal Leave/Retirement Gratuity": 142861,
+        "Total": 26937401
+      }
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "Agency subtotal",
+      "printedPage": 48,
+      "agency": "Office of the Government Corporate Counsel",
+      "scope": "Office of the Government Corporate Counsel agency subtotal",
+      "amounts": {
+        "Pension": 328110,
+        "Total": 33707110,
+        "Other PS Deficiencies": 33379000
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "printedPage": 48,
+      "agency": "Office of the Solicitor General",
+      "scope": "Office of the Solicitor General Various SAROs issued in October",
+      "amounts": {
+        "Monetization of Leave Credits": 19532899,
+        "Terminal Leave/Retirement Gratuity": 1261324,
+        "Total": 20794223
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "For payment of terminal leave benefits",
+      "printedPage": 48,
+      "agency": "Office of the Solicitor General",
+      "scope": "Office of the Solicitor General Various SAROs issued in November",
+      "amounts": {
+        "Total": 44556762,
+        "Terminal Leave/Retirement Gratuity": 44556762
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "Agency subtotal",
+      "printedPage": 48,
+      "agency": "Office of the Solicitor General",
+      "scope": "Office of the Solicitor General agency subtotal",
+      "amounts": {
+        "Monetization of Leave Credits": 19532899,
+        "Terminal Leave/Retirement Gratuity": 45818086,
+        "Other PS Deficiencies": 20967970,
+        "Pension and Gratuity Fund Total": 65350985
+      },
+      "annexId": "C",
+      "reviewNote": "Printed 65,350,985 is the Pension and Gratuity Fund section subtotal, while Other PS Deficiencies 20,967,970 is the separate Personnel Benefits subtotal. These section amounts have distinct scopes."
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "For payment of FY2024 PS Deficiency",
+      "printedPage": 48,
+      "agency": "Parole and Probation Administration",
+      "scope": "Parole and Probation Administration Various SAROs issued in November",
+      "amounts": {
+        "Total": 41236575,
+        "Other PS Deficiencies": 41236575
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "Agency subtotal",
+      "printedPage": 48,
+      "agency": "Parole and Probation Administration",
+      "scope": "Parole and Probation Administration agency subtotal",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 5828589,
+        "Total": 47065164,
+        "Other PS Deficiencies": 41236575
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "Agency subtotal",
+      "printedPage": 48,
+      "agency": "Presidential Commission on Good Government",
+      "scope": "Presidential Commission on Good Government agency subtotal",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 330721,
+        "Total": 9432595,
+        "Other PS Deficiencies": 9101874
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "For payment of terminal leave benefits and retirement gratuity",
+      "printedPage": 48,
+      "agency": "Public Attorney's Office",
+      "scope": "Public Attorney's Office Various SAROs issued in October",
+      "amounts": {
+        "Total": 10904374,
+        "Terminal Leave/Retirement Gratuity": 10904374
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 51,
+      "category": "Agency subtotal",
+      "printedPage": 48,
+      "agency": "Public Attorney's Office",
+      "scope": "Public Attorney's Office agency subtotal",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 11390967,
+        "Total": 130428544,
+        "Other PS Deficiencies": 119037577
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 47,
+      "category": "Agency subtotal",
+      "printedPage": 44,
+      "agency": "Philippine National Police",
+      "scope": "Philippine National Police agency subtotal",
+      "amounts": {
+        "Pension": 517951794,
+        "Terminal Leave/Retirement Gratuity": 4278766718,
+        "Total": 8060696621,
+        "Other PS Deficiencies": 3263978109
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 47,
+      "category": "Agency subtotal",
+      "printedPage": 44,
+      "agency": "Department of Justice (DOJ) ? Office of the Secretary",
+      "scope": "DOJ Office of the Secretary agency subtotal",
+      "amounts": {
+        "Pension and Gratuity Fund subtotal": 130748532,
+        "FY 2022 PBB": 262609770,
+        "Total": 393358302
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 47,
+      "category": "Department subtotal",
+      "printedPage": 44,
+      "agency": "Department of Justice (DOJ)",
+      "scope": "Department of Justice department subtotal",
+      "amounts": {
+        "Pension and Gratuity Fund subtotal": 227424065,
+        "Total": 905648435,
+        "Personnel Benefits subtotal": 678224370
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 47,
+      "category": "Agency subtotal",
+      "printedPage": 44,
+      "agency": "Land Registration Authority",
+      "scope": "Land Registration Authority agency subtotal",
+      "amounts": {
+        "Monetization of Leave Credits": 2144768,
+        "Terminal Leave/Retirement Gratuity": 1851036,
+        "Total": 45875839,
+        "Other PS Deficiencies": 41880035
+      },
+      "annexId": "C"
+    },
+    {
+      "unit": "pesos",
+      "sourcePage": 47,
+      "category": "Agency subtotal",
+      "printedPage": 44,
+      "agency": "National Bureau of Investigation",
+      "scope": "National Bureau of Investigation agency subtotal",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 4294310,
+        "Total": 28240970,
+        "Other PS Deficiencies": 23946660
+      },
+      "annexId": "C"
+    }
+  ]
+}

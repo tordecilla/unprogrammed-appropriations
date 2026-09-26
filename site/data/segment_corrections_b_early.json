@@ -1,0 +1,37 @@
+[
+  {
+    "documentId": "B-p099",
+    "pageStart": 99,
+    "pageEnd": 99,
+    "actualSaroNumber": "SARO-BMB-A-24-0004247",
+    "note": "Printed footer on the rendered SARO page differs from documents.json, which lists 0014804."
+  },
+  {
+    "documentId": "B-p103",
+    "pageStart": 103,
+    "pageEnd": 103,
+    "actualSaroNumber": "SARO-BMB-A-24-0014804",
+    "note": "Printed footer on the rendered SARO page differs from documents.json, which lists 0014805."
+  },
+  {
+    "documentId": "B-p104",
+    "pageStart": 104,
+    "pageEnd": 104,
+    "actualSaroNumber": "SARO-BMB-A-24-0014805",
+    "note": "Printed footer on the rendered SARO page differs from documents.json, which lists 0014802."
+  },
+  {
+    "documentId": "B-p107",
+    "pageStart": 107,
+    "pageEnd": 107,
+    "actualSaroNumber": "SARO-BMB-A-24-0014802",
+    "note": "Printed footer on the rendered SARO page differs from documents.json, which lists 0014803."
+  },
+  {
+    "documentId": "B-p108",
+    "pageStart": 108,
+    "pageEnd": 108,
+    "actualSaroNumber": "SARO-BMB-A-24-0014803",
+    "note": "Printed footer on the rendered SARO page differs from documents.json, which lists 0016272."
+  }
+]

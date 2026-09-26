@@ -1,0 +1,1187 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 14,
+  "printedPage": 374,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Anti-Red Tape Authority",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Anti-Red Tape Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 223595,
+          "maintenanceAndOtherOperatingExpenses": 271442,
+          "capitalOutlaysAndNetLending": 21935,
+          "financialExpenses": 0,
+          "total": 516972
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 202652,
+          "maintenanceAndOtherOperatingExpenses": 179956,
+          "capitalOutlaysAndNetLending": 18090,
+          "financialExpenses": 0,
+          "total": 400698
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 217305,
+          "maintenanceAndOtherOperatingExpenses": 260926,
+          "capitalOutlaysAndNetLending": 18539,
+          "financialExpenses": 0,
+          "total": 496770
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Climate Change Commission",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Climate Change Commission"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 65311,
+          "maintenanceAndOtherOperatingExpenses": 117574,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 182885
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 56174,
+          "maintenanceAndOtherOperatingExpenses": 196079,
+          "capitalOutlaysAndNetLending": 7900,
+          "financialExpenses": 0,
+          "total": 260153
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 65519,
+          "maintenanceAndOtherOperatingExpenses": 113115,
+          "capitalOutlaysAndNetLending": 10000,
+          "financialExpenses": 0,
+          "total": 188634
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Commission on Filipinos Overseas",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Commission on Filipinos Overseas"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 75051,
+          "maintenanceAndOtherOperatingExpenses": 99402,
+          "capitalOutlaysAndNetLending": 15079,
+          "financialExpenses": 0,
+          "total": 189532
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 70007,
+          "maintenanceAndOtherOperatingExpenses": 156040,
+          "capitalOutlaysAndNetLending": 23932,
+          "financialExpenses": 0,
+          "total": 249979
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 82670,
+          "maintenanceAndOtherOperatingExpenses": 169200,
+          "capitalOutlaysAndNetLending": 18420,
+          "financialExpenses": 0,
+          "total": 270290
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Commission on Higher Education",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Commission on Higher Education"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 570697,
+          "maintenanceAndOtherOperatingExpenses": 29489488,
+          "capitalOutlaysAndNetLending": 307725,
+          "financialExpenses": 0,
+          "total": 30367910
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 495150,
+          "maintenanceAndOtherOperatingExpenses": 34361684,
+          "capitalOutlaysAndNetLending": 26316,
+          "financialExpenses": 0,
+          "total": 34883150
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 575284,
+          "maintenanceAndOtherOperatingExpenses": 33126762,
+          "capitalOutlaysAndNetLending": 295360,
+          "financialExpenses": 0,
+          "total": 33997406
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Commission on the Filipino Language",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Commission on the Filipino Language"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 52984,
+          "maintenanceAndOtherOperatingExpenses": 40040,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 93024
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 50297,
+          "maintenanceAndOtherOperatingExpenses": 54399,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 104696
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 58103,
+          "maintenanceAndOtherOperatingExpenses": 55798,
+          "capitalOutlaysAndNetLending": 4000,
+          "financialExpenses": 0,
+          "total": 117901
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Dangerous Drugs Board",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Dangerous Drugs Board"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 87082,
+          "maintenanceAndOtherOperatingExpenses": 326655,
+          "capitalOutlaysAndNetLending": 20634,
+          "financialExpenses": 0,
+          "total": 434371
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 75642,
+          "maintenanceAndOtherOperatingExpenses": 371994,
+          "capitalOutlaysAndNetLending": 56650,
+          "financialExpenses": 0,
+          "total": 504286
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 111184,
+          "maintenanceAndOtherOperatingExpenses": 426776,
+          "capitalOutlaysAndNetLending": 60210,
+          "financialExpenses": 0,
+          "total": 598170
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Energy Regulatory Commission",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Energy Regulatory Commission"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 443258,
+          "maintenanceAndOtherOperatingExpenses": 477177,
+          "capitalOutlaysAndNetLending": 15071,
+          "financialExpenses": 0,
+          "total": 935506
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 351444,
+          "maintenanceAndOtherOperatingExpenses": 529898,
+          "capitalOutlaysAndNetLending": 49537,
+          "financialExpenses": 0,
+          "total": 930879
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 343122,
+          "maintenanceAndOtherOperatingExpenses": 529781,
+          "capitalOutlaysAndNetLending": 32748,
+          "financialExpenses": 0,
+          "total": 905651
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Film Development Council of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Film Development Council of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 31016,
+          "maintenanceAndOtherOperatingExpenses": 300533,
+          "capitalOutlaysAndNetLending": 17428,
+          "financialExpenses": 0,
+          "total": 348977
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 27031,
+          "maintenanceAndOtherOperatingExpenses": 425912,
+          "capitalOutlaysAndNetLending": 53415,
+          "financialExpenses": 0,
+          "total": 506358
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 38257,
+          "maintenanceAndOtherOperatingExpenses": 268241,
+          "capitalOutlaysAndNetLending": 4701,
+          "financialExpenses": 0,
+          "total": 311199
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Games and Amusements Board",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Games and Amusements Board"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 100537,
+          "maintenanceAndOtherOperatingExpenses": 49354,
+          "capitalOutlaysAndNetLending": 1703,
+          "financialExpenses": 0,
+          "total": 151594
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 86748,
+          "maintenanceAndOtherOperatingExpenses": 68131,
+          "capitalOutlaysAndNetLending": 2990,
+          "financialExpenses": 0,
+          "total": 157869
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 97456,
+          "maintenanceAndOtherOperatingExpenses": 67792,
+          "capitalOutlaysAndNetLending": 3380,
+          "financialExpenses": 0,
+          "total": 168628
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Governance Commission for Government-Owned or Controlled Corporations",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Governance Commission for Government-Owned or Controlled Corporations"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 166379,
+          "maintenanceAndOtherOperatingExpenses": 173702,
+          "capitalOutlaysAndNetLending": 46424,
+          "financialExpenses": 0,
+          "total": 386505
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 139602,
+          "maintenanceAndOtherOperatingExpenses": 116365,
+          "capitalOutlaysAndNetLending": 10000,
+          "financialExpenses": 0,
+          "total": 265967
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 206017,
+          "maintenanceAndOtherOperatingExpenses": 188532,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 394549
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Mindanao Development Authority",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Mindanao Development Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 128356,
+          "maintenanceAndOtherOperatingExpenses": 148762,
+          "capitalOutlaysAndNetLending": 4437,
+          "financialExpenses": 0,
+          "total": 281555
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 113312,
+          "maintenanceAndOtherOperatingExpenses": 295273,
+          "capitalOutlaysAndNetLending": 207603,
+          "financialExpenses": 0,
+          "total": 616188
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 138196,
+          "maintenanceAndOtherOperatingExpenses": 159571,
+          "capitalOutlaysAndNetLending": 77266,
+          "financialExpenses": 0,
+          "total": 375033
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Movie and Television Review and Classification Board",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Movie and Television Review and Classification Board"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 54865,
+          "maintenanceAndOtherOperatingExpenses": 76237,
+          "capitalOutlaysAndNetLending": 1280,
+          "financialExpenses": 0,
+          "total": 132382
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 47544,
+          "maintenanceAndOtherOperatingExpenses": 114183,
+          "capitalOutlaysAndNetLending": 2350,
+          "financialExpenses": 0,
+          "total": 164077
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 55599,
+          "maintenanceAndOtherOperatingExpenses": 138226,
+          "capitalOutlaysAndNetLending": 27472,
+          "financialExpenses": 0,
+          "total": 221297
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "National Commission for Culture and the Arts - Proper",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "National Commission for Culture and the Arts - Proper"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 57285,
+          "maintenanceAndOtherOperatingExpenses": 773798,
+          "capitalOutlaysAndNetLending": 11772,
+          "financialExpenses": 0,
+          "total": 842855
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 51876,
+          "maintenanceAndOtherOperatingExpenses": 590792,
+          "capitalOutlaysAndNetLending": 15200,
+          "financialExpenses": 0,
+          "total": 657868
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 61119,
+          "maintenanceAndOtherOperatingExpenses": 643594,
+          "capitalOutlaysAndNetLending": 14760,
+          "financialExpenses": 0,
+          "total": 719473
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "National Historical Commission of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "National Historical Commission of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 122071,
+          "maintenanceAndOtherOperatingExpenses": 144155,
+          "capitalOutlaysAndNetLending": 55000,
+          "financialExpenses": 0,
+          "total": 321226
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 107081,
+          "maintenanceAndOtherOperatingExpenses": 228424,
+          "capitalOutlaysAndNetLending": 115192,
+          "financialExpenses": 0,
+          "total": 450697
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 125268,
+          "maintenanceAndOtherOperatingExpenses": 248206,
+          "capitalOutlaysAndNetLending": 188698,
+          "financialExpenses": 0,
+          "total": 562172
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "National Library of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "National Library of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 100284,
+          "maintenanceAndOtherOperatingExpenses": 91861,
+          "capitalOutlaysAndNetLending": 59482,
+          "financialExpenses": 0,
+          "total": 251627
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 86477,
+          "maintenanceAndOtherOperatingExpenses": 130683,
+          "capitalOutlaysAndNetLending": 85161,
+          "financialExpenses": 0,
+          "total": 302321
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 100343,
+          "maintenanceAndOtherOperatingExpenses": 138250,
+          "capitalOutlaysAndNetLending": 25454,
+          "financialExpenses": 0,
+          "total": 264047
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "National Archives of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "National Archives of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 100451,
+          "maintenanceAndOtherOperatingExpenses": 103296,
+          "capitalOutlaysAndNetLending": 498562,
+          "financialExpenses": 0,
+          "total": 702309
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 78039,
+          "maintenanceAndOtherOperatingExpenses": 115157,
+          "capitalOutlaysAndNetLending": 489113,
+          "financialExpenses": 0,
+          "total": 682309
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 94461,
+          "maintenanceAndOtherOperatingExpenses": 152518,
+          "capitalOutlaysAndNetLending": 6521,
+          "financialExpenses": 0,
+          "total": 253500
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "National Commission on Indigenous Peoples",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "National Commission on Indigenous Peoples"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 927345,
+          "maintenanceAndOtherOperatingExpenses": 347948,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1275293
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1061631,
+          "maintenanceAndOtherOperatingExpenses": 620280,
+          "capitalOutlaysAndNetLending": 130746,
+          "financialExpenses": 0,
+          "total": 1812657
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "National Intelligence Coordinating Agency",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "National Intelligence Coordinating Agency"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 970636,
+          "maintenanceAndOtherOperatingExpenses": 2456741,
+          "capitalOutlaysAndNetLending": 40406,
+          "financialExpenses": 0,
+          "total": 3467783
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 852497,
+          "maintenanceAndOtherOperatingExpenses": 1280916,
+          "capitalOutlaysAndNetLending": 109473,
+          "financialExpenses": 0,
+          "total": 2242886
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 963951,
+          "maintenanceAndOtherOperatingExpenses": 1795989,
+          "capitalOutlaysAndNetLending": 101075,
+          "financialExpenses": 0,
+          "total": 2861015
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "National Security Council",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "National Security Council"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 155164,
+          "maintenanceAndOtherOperatingExpenses": 399118,
+          "capitalOutlaysAndNetLending": 180713,
+          "financialExpenses": 0,
+          "total": 734995
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 127397,
+          "maintenanceAndOtherOperatingExpenses": 626213,
+          "capitalOutlaysAndNetLending": 143345,
+          "financialExpenses": 0,
+          "total": 896955
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 163607,
+          "maintenanceAndOtherOperatingExpenses": 871034,
+          "capitalOutlaysAndNetLending": 213252,
+          "financialExpenses": 0,
+          "total": 1247893
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Office of the Presidential Adviser on Peace, Reconciliation and Unity",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Office of the Presidential Adviser on Peace, Reconciliation and Unity"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 274017,
+          "maintenanceAndOtherOperatingExpenses": 1860654,
+          "capitalOutlaysAndNetLending": 4977293,
+          "financialExpenses": 0,
+          "total": 7111964
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 237252,
+          "maintenanceAndOtherOperatingExpenses": 1888117,
+          "capitalOutlaysAndNetLending": 4969609,
+          "financialExpenses": 0,
+          "total": 7094978
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 275902,
+          "maintenanceAndOtherOperatingExpenses": 2040675,
+          "capitalOutlaysAndNetLending": 4966860,
+          "financialExpenses": 0,
+          "total": 7283437
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Optical Media Board",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Optical Media Board"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 36599,
+          "maintenanceAndOtherOperatingExpenses": 6383,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 42982
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 34872,
+          "maintenanceAndOtherOperatingExpenses": 21027,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 55899
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 36277,
+          "maintenanceAndOtherOperatingExpenses": 27568,
+          "capitalOutlaysAndNetLending": 6000,
+          "financialExpenses": 0,
+          "total": 69845
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Philippine Competition Commission",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Philippine Competition Commission"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 267851,
+          "maintenanceAndOtherOperatingExpenses": 357499,
+          "capitalOutlaysAndNetLending": 13777,
+          "financialExpenses": 0,
+          "total": 639127
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 243746,
+          "maintenanceAndOtherOperatingExpenses": 225534,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 469280
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 255669,
+          "maintenanceAndOtherOperatingExpenses": 325957,
+          "capitalOutlaysAndNetLending": 6000,
+          "financialExpenses": 0,
+          "total": 587626
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Philippine Drug Enforcement Agency",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Philippine Drug Enforcement Agency"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 2232334,
+          "maintenanceAndOtherOperatingExpenses": 1242894,
+          "capitalOutlaysAndNetLending": 583360,
+          "financialExpenses": 0,
+          "total": 4058588
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 2017746,
+          "maintenanceAndOtherOperatingExpenses": 1446522,
+          "capitalOutlaysAndNetLending": 527400,
+          "financialExpenses": 0,
+          "total": 3991668
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 2278092,
+          "maintenanceAndOtherOperatingExpenses": 1469590,
+          "capitalOutlaysAndNetLending": 783875,
+          "financialExpenses": 0,
+          "total": 4531557
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Philippine Racing Commission",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Philippine Racing Commission"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 56015,
+          "maintenanceAndOtherOperatingExpenses": 131109,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 187124
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 48785,
+          "maintenanceAndOtherOperatingExpenses": 141100,
+          "capitalOutlaysAndNetLending": 5150,
+          "financialExpenses": 0,
+          "total": 195035
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 57689,
+          "maintenanceAndOtherOperatingExpenses": 146161,
+          "capitalOutlaysAndNetLending": 605,
+          "financialExpenses": 0,
+          "total": 204455
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Philippine Sports Commission",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Philippine Sports Commission"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 91611,
+          "maintenanceAndOtherOperatingExpenses": 972187,
+          "capitalOutlaysAndNetLending": 420,
+          "financialExpenses": 0,
+          "total": 1064218
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 82714,
+          "maintenanceAndOtherOperatingExpenses": 1049094,
+          "capitalOutlaysAndNetLending": 180000,
+          "financialExpenses": 0,
+          "total": 1311808
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 96242,
+          "maintenanceAndOtherOperatingExpenses": 463020,
+          "capitalOutlaysAndNetLending": 480405,
+          "financialExpenses": 0,
+          "total": 1039667
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Presidential Legislative Liaison Office",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Presidential Legislative Liaison Office"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 60420,
+          "maintenanceAndOtherOperatingExpenses": 68704,
+          "capitalOutlaysAndNetLending": 10000,
+          "financialExpenses": 0,
+          "total": 139124
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 60868,
+          "maintenanceAndOtherOperatingExpenses": 92518,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 153386
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Presidential Management Staff",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Presidential Management Staff"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 331538,
+          "maintenanceAndOtherOperatingExpenses": 477584,
+          "capitalOutlaysAndNetLending": 107911,
+          "financialExpenses": 0,
+          "total": 917033
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 285883,
+          "maintenanceAndOtherOperatingExpenses": 537436,
+          "capitalOutlaysAndNetLending": 49340,
+          "financialExpenses": 0,
+          "total": 872659
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 338122,
+          "maintenanceAndOtherOperatingExpenses": 523771,
+          "capitalOutlaysAndNetLending": 20680,
+          "financialExpenses": 0,
+          "total": 882573
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 14,
+      "printedPage": 374,
+      "particulars": "Philippine Space Agency",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Other Executive Offices (OEOs)",
+        "Philippine Space Agency"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 166591,
+          "maintenanceAndOtherOperatingExpenses": 1561858,
+          "capitalOutlaysAndNetLending": 71657,
+          "financialExpenses": 0,
+          "total": 1800106
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 135350,
+          "maintenanceAndOtherOperatingExpenses": 789426,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 924776
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 197306,
+          "maintenanceAndOtherOperatingExpenses": 496697,
+          "capitalOutlaysAndNetLending": 690650,
+          "financialExpenses": 0,
+          "total": 1384653
+        }
+      }
+    }
+  ]
+}

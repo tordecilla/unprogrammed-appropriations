@@ -1,0 +1,110 @@
+[
+  {
+    "annexId": "F",
+    "pdfPage": 2,
+    "printedPage": 2,
+    "sourcePages": [2, 4],
+    "saroNumber": "SARO-BMB-E-25-0009945",
+    "date": "2025-05-05",
+    "department": "Department of Agrarian Reform",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the LP component of the SPLIT Project for FY 2025",
+    "allocations": [
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "MOOE", "amountPesos": 4823663000, "pdfPage": 2 }
+    ],
+    "reviewNote": "Merged matching SARO row across printed pages 2 and 4. The FAP MOOE cell is legible as 4,823,663,000. Personnel Benefits cells on page 4 belong to a separate Various SAROs row and are excluded."
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 2,
+    "printedPage": 2,
+    "sourcePages": [2, 4],
+    "saroNumber": "SARO-BMB-E-25-0017097",
+    "date": "2025-11-24",
+    "department": "Department of Agrarian Reform",
+    "agency": "Office of the Secretary",
+    "purpose": "To effect the modification in the allotment from Maintenance and Other Operating Expenses (MOOE) to Capital Outlays (CO) to cover funding requirements for field validation, subdivision survey, redocumentation, registration and distribution, among others, for the continued implementation of the Support to Parcelization of Lands for Individual Titling Project",
+    "allocations": [
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "MOOE", "amountPesos": -587026340, "pdfPage": 2 },
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "CO", "amountPesos": 587026340, "pdfPage": 2 }
+    ],
+    "reviewNote": "The row is a reclassification with a negative MOOE cell and equal positive CO cell; retained as two nonzero leaf cells."
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 5,
+    "printedPage": 5,
+    "sourcePages": [5, 7],
+    "saroNumber": "SARO-BMB-F-25-0012308",
+    "date": "2025-07-18",
+    "department": "Department of Education",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the implementation of Computerization Program",
+    "allocations": [
+      { "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)", "expenseClass": "MOOE", "amountPesos": 9894466250, "pdfPage": 5 }
+    ],
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 5,
+    "printedPage": 5,
+    "sourcePages": [5, 6],
+    "saroNumber": "SARO-BMB-F-25-0015838",
+    "date": "2025-10-16",
+    "department": "Department of Education",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Government of the Philippines Counterpart requirements for the implementation of the Infrastructure for Safe and Resilient Schools Project, as financed by the International Bank for Reconstruction and Development under Loan Agreement No. 9704-PH",
+    "allocations": [
+      { "category": "For Government Counterpart of Foreign-Assisted Projects", "expenseClass": "MOOE", "amountPesos": 52793223, "pdfPage": 6 }
+    ],
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 5,
+    "printedPage": 5,
+    "sourcePages": [5, 7],
+    "saroNumber": "SARO-BMB-F-25-0015837",
+    "date": "2025-10-16",
+    "department": "Department of Education",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of the Infrastructure for Safe and Resilient Schools Project, as financed by the International Bank for Reconstruction and Development under Loan Agreement No. 9704-PH",
+    "allocations": [
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "MOOE", "amountPesos": 475139006, "pdfPage": 5 }
+    ],
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 5,
+    "printedPage": 5,
+    "sourcePages": [5, 7],
+    "saroNumber": "SARO-BMB-A-25-0010166",
+    "date": "2025-05-15",
+    "department": "Department of Finance",
+    "agency": "Bureau of Local Government Finances",
+    "purpose": "To cover the Loan Proceeds requirement for the implementation of the Local Governance Reform Project under Asian Development Bank (ADB) Loan No. 3944-PHI",
+    "allocations": [
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "MOOE", "amountPesos": 628324013, "pdfPage": 5 },
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "CO", "amountPesos": 149357026, "pdfPage": 5 }
+    ],
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 5,
+    "printedPage": 5,
+    "sourcePages": [5, 6],
+    "saroNumber": "SARO-BMB-A-25-0015560",
+    "date": "2025-10-08",
+    "department": "Department of Finance",
+    "agency": "Bureau of Local Government Finances",
+    "purpose": "To cover the Government of the Philippines counterpart requirement of the Local Governance Reform Project ADB Loan No. P3944-PHI",
+    "allocations": [
+      { "category": "For Government Counterpart of Foreign-Assisted Projects", "expenseClass": "MOOE", "amountPesos": 65496350, "pdfPage": 6 },
+      { "category": "For Government Counterpart of Foreign-Assisted Projects", "expenseClass": "CO", "amountPesos": 17896083, "pdfPage": 6 }
+    ],
+    "reviewNote": null
+  }
+]

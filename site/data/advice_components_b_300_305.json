@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "source": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-annex-v1/Annex-B-Compliance-G.R.-No.271059.pdf",
+  "method": "Visual review of rendered advice PDF page images only; no PDF text extraction or OCR",
+  "records": [
+    {
+      "sourcePage": 300,
+      "documentId": "B-p300-advice",
+      "section": "Advice of SARO Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 1,
+      "lineNumber": 1,
+      "description": "New Communications, Navigation and Surveillance/Air Traffic Management (CNS/ATM) System Development Project, JICA, PH-P228",
+      "amountPesos": "596195950.00",
+      "amountType": "project",
+      "relatedSaroNumber": "SARO-BMB-A-24-0002525 (dated 5/3/2024)",
+      "reviewNote": "First project amount cell in the table; the SARO number/date cell spans the two project rows."
+    },
+    {
+      "sourcePage": 300,
+      "documentId": "B-p300-advice",
+      "section": "Advice of SARO Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 1,
+      "lineNumber": 2,
+      "description": "New Bohol Airport Construction and Sustainable Environment Protection Project (NBACSEPP), formerly New Bohol (Panglao) International Airport Development Project, JICA, PH-P268",
+      "amountPesos": "87804055.00",
+      "amountType": "project",
+      "relatedSaroNumber": "SARO-BMB-A-24-0002525 (dated 5/3/2024)",
+      "reviewNote": "Second project amount cell in the table; grouped with the preceding project under the same SARO."
+    },
+    {
+      "sourcePage": 300,
+      "documentId": "B-p300-advice",
+      "section": "Advice of SARO Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 0,
+      "lineNumber": 3,
+      "description": "Total",
+      "amountPesos": "684000005.00",
+      "amountType": "grand_total",
+      "relatedSaroNumber": "SARO-BMB-A-24-0002525 (dated 5/3/2024)",
+      "reviewNote": "Printed table total; equals ₱596,195,950.00 + ₱87,804,055.00. It aggregates the two project rows above."
+    },
+    {
+      "sourcePage": 304,
+      "documentId": "B-p304-305-advice",
+      "section": "Advice of SAROs Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 2,
+      "lineNumber": 1,
+      "description": "LRT Line 1 Cavite Extension Project",
+      "amountPesos": "1082737000.00",
+      "amountType": "project",
+      "relatedSaroNumber": "SARO-BMB-A-24-0004290 (dated 6/11/2024)",
+      "reviewNote": "Project row in the table under SARO 0004290; grouped into the following printed subtotal."
+    },
+    {
+      "sourcePage": 304,
+      "documentId": "B-p304-305-advice",
+      "section": "Advice of SAROs Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 2,
+      "lineNumber": 2,
+      "description": "Metro Manila Subway Project (Phase I)",
+      "amountPesos": "15741766000.00",
+      "amountType": "project",
+      "relatedSaroNumber": "SARO-BMB-A-24-0004290 (dated 6/11/2024)",
+      "reviewNote": "Project row in the table under SARO 0004290; grouped with the LRT row into the following printed subtotal."
+    },
+    {
+      "sourcePage": 304,
+      "documentId": "B-p304-305-advice",
+      "section": "Advice of SAROs Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 1,
+      "lineNumber": 3,
+      "description": "Sub-total",
+      "amountPesos": "16824503000.00",
+      "amountType": "subtotal",
+      "relatedSaroNumber": "SARO-BMB-A-24-0004290 (dated 6/11/2024)",
+      "reviewNote": "Printed subtotal for the two project rows under SARO 0004290; equals ₱1,082,737,000.00 + ₱15,741,766,000.00."
+    },
+    {
+      "sourcePage": 304,
+      "documentId": "B-p304-305-advice",
+      "section": "Advice of SAROs Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 1,
+      "lineNumber": 4,
+      "description": "North-South Commuter Railway System",
+      "amountPesos": "22413484000.00",
+      "amountType": "project",
+      "relatedSaroNumber": "SARO-BMB-A-24-0004291 (dated 6/11/2024)",
+      "reviewNote": "Project row under the second SARO in the table; its amount is included in the printed grand total."
+    },
+    {
+      "sourcePage": 304,
+      "documentId": "B-p304-305-advice",
+      "section": "Advice of SAROs Issued — Fund Cluster 01 105 428; project amount table",
+      "level": 0,
+      "lineNumber": 5,
+      "description": "Total",
+      "amountPesos": "39237987000.00",
+      "amountType": "grand_total",
+      "relatedSaroNumber": null,
+      "reviewNote": "Printed grand total across SARO 0004290 subtotal and SARO 0004291 project amount; equals ₱16,824,503,000.00 + ₱22,413,484,000.00. Table is on source page 304 (page 1 of 2); p.305 continues explanatory variance text and has no further table amount cell."
+    }
+  ]
+}

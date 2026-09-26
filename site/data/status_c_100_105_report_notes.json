@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 101,
+      "printedPage": 101,
+      "type": "report metadata note",
+      "scope": "Explanation of supporting documentation for DBM Central Office and Regional Office UA releases tagged for PS, including Various SAROs",
+      "noteText": "Entries of UA releases made by the DBM Central Office and Regional Offices and tagged for Personnel Services (PS), including those identified as 'Various SAROs', are voluminous to physically produce within the deadline. Instead of individual digital copies of the SAROs, an eBudget System-generated SARO listing was submitted.",
+      "reviewNote": "This is a report-level explanation of substituted system-generated listings, not a numbered SARO and not an allocation."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "source": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-annex-v1/Annex-B-Compliance-G.R.-No.271059.pdf",
+  "method": "Visual review of rendered PDF page images only; no PDF text extraction or OCR",
+  "records": [
+    {
+      "id": "B-context-p067-saro-0000660",
+      "annexId": "B",
+      "type": "SARO attachment",
+      "pageStart": 67,
+      "pageEnd": 67,
+      "title": "Special Allotment Release Order — Metro Manila Flood Management Project, Phase I and PSRRRP",
+      "saroNumber": "SARO-BMB-A-24-0000660",
+      "date": "2024-02-27",
+      "agency": "Department of Public Works and Highways — Office of the Secretary, Central Office",
+      "amountPesos": 462220000,
+      "amountStage": "released",
+      "reviewNotes": "Attachment to SARO form says Page 1 of 1. Directly matched to the SARO 0000660 row on the advice at pp.68–70 by printed number/date and the ₱462,220,000 subtotal."
+    },
+    {
+      "id": "B-gap-p068-070-advice",
+      "annexId": "B",
+      "type": "Advice of SAROs issued",
+      "pageStart": 68,
+      "pageEnd": 70,
+      "title": "Advice of SAROs issued — FY 2024 partial loan proceeds, January to March, DPWH foreign-assisted projects",
+      "relatedSaroNumbers": [
+        "SARO-BMB-A-24-0000656",
+        "SARO-BMB-A-24-0000657",
+        "SARO-BMB-A-24-0000658",
+        "SARO-BMB-A-24-0000659",
+        "SARO-BMB-A-24-0000660"
+      ],
+      "date": "2024-02-27",
+      "agency": "Department of Public Works and Highways — Central Office",
+      "amountPesos": 3224264000,
+      "amountStage": "released",
+      "reviewNotes": "Reference Nos. 2024-BA-0004874-E / 0009276-E. Printed counters show p.68 Page 1 of 3, p.69 Page 2 of 3, p.70 Page 3 of 3. Five SARO subtotals are JICA ₱1,208,886,000; KEDCF ₱394,847,000; CHEXIM ₱350,620,000; ADB ₱807,691,000; IBRD ₱462,220,000; these sum to the printed grand total ₱3,224,264,000. The advice states a ₱74,368,641,000 variance from requested ₱77,592,905,000. Forms for SAROs 0000656 and 0000660 are visually matched at pp.71 and 67; the other SARO numbers are recorded as explicit advice-table references."
+    },
+    {
+      "id": "B-context-p071-saro-0000656",
+      "annexId": "B",
+      "type": "SARO attachment",
+      "pageStart": 71,
+      "pageEnd": 71,
+      "title": "Special Allotment Release Order — first-quarter JICA-assisted DPWH projects",
+      "saroNumber": "SARO-BMB-A-24-0000656",
+      "date": "2024-02-27",
+      "agency": "Department of Public Works and Highways — Office of the Secretary, Central Office",
+      "amountPesos": 1208886000,
+      "amountStage": "released",
+      "reviewNotes": "Form says Page 1 of 1 page(s). Directly matched to the 0000656 row/table subtotal on advice pp.68–70 by printed SARO number/date and ₱1,208,886,000 amount."
+    },
+    {
+      "id": "B-context-p085-saro-0002834",
+      "annexId": "B",
+      "type": "SARO attachment",
+      "pageStart": 85,
+      "pageEnd": 85,
+      "title": "Special Allotment Release Order — Panay–Guimaras–Negros Island Bridges Project loan proceeds",
+      "saroNumber": "SARO-BMB-A-24-0002834",
+      "date": "2024-05-10",
+      "agency": "Department of Public Works and Highways — Office of the Secretary, Central Office",
+      "amountPesos": 2836003000,
+      "amountStage": "released",
+      "reviewNotes": "Form says Page 1 of 1 page(s). Directly matched to the 0002834 PGN SARO row/subtotal on advice pp.86–88 by printed number/date/amount."
+    },
+    {
+      "id": "B-gap-p086-088-advice",
+      "annexId": "B",
+      "type": "Advice of SAROs issued",
+      "pageStart": 86,
+      "pageEnd": 88,
+      "title": "Advice of SAROs issued — DPWH FY 2024 second-to-fourth-quarter loan proceeds and PGN Island Bridges Project",
+      "relatedSaroNumbers": [
+        "SARO-BMB-A-24-0002829",
+        "SARO-BMB-A-24-0002830",
+        "SARO-BMB-A-24-0002831",
+        "SARO-BMB-A-24-0002832",
+        "SARO-BMB-A-24-0002833",
+        "SARO-BMB-A-24-0002834"
+      ],
+      "date": "2024-05-10",
+      "agency": "Department of Public Works and Highways — Central Office",
+      "amountPesos": 44967701000,
+      "amountStage": "released",
+      "reviewNotes": "Reference No. 2024-BA-0041809-E. Printed counters show p.86 Page 1 of 3, p.87 Page 2 of 3, and p.88 Page 3 of 3. Six listed lending-institution subtotals total ₱44,967,701,000. Advice states variance ₱22,508,886,000 from requested ₱67,476,587,000. The SARO 0002834 form on p.85 directly matches a number, date, and amount in its advice table."
+    },
+    {
+      "id": "B-context-p089-saro-0003585",
+      "annexId": "B",
+      "type": "SARO referenced as prior release",
+      "pageStart": 89,
+      "pageEnd": 89,
+      "title": "Special Allotment Release Order — routine maintenance of national roads and bridges",
+      "saroNumber": "SARO-BMB-A-24-0003585",
+      "date": "2024-05-27",
+      "agency": "Department of Public Works and Highways — Office of the Secretary, Central Office",
+      "amountPesos": 6000000000,
+      "amountStage": "released",
+      "reviewNotes": "Form says Page 1 of 1. Directly cited on p.96 of the advice pp.95–97 as a previously released ₱6,000,000,000 for routine road and bridge maintenance; identified here by the matching printed number/date/amount."
+    },
+    {
+      "id": "B-gap-p095-097-advice",
+      "annexId": "B",
+      "type": "Advice of SAROs issued",
+      "pageStart": 95,
+      "pageEnd": 97,
+      "title": "Advice of SAROs issued — DPWH unprogrammed appropriations requests, June 2024",
+      "relatedSaroNumbers": [
+        "SARO-BMB-A-24-0004246",
+        "SARO-BMB-A-24-0004248",
+        "SARO-BMB-A-24-0004247",
+        "SARO-BMB-A-24-0003585"
+      ],
+      "date": "2024-06-10",
+      "agency": "Department of Public Works and Highways",
+      "amountPesos": 12463386000,
+      "amountStage": "released",
+      "reviewNotes": "Printed counters show p.95 Page 1 of 3, p.96 Page 2 of 3, and p.97 Page 3 of 3. Four DPWH request references total ₱39,948,750,656.55. The advice lists SAROs 0004246 (₱10,564,000), 0004248 (₱1,680,398,000), and 0004247 (₱10,772,424,000), which sum to its printed ₱12,463,386,000 released total. Page 96 explicitly cites SARO 0003585 dated May 27, 2024 as a prior ₱6,000,000,000 release; its form is on p.89. Variance from request is printed as ₱27,485,364,656.55."
+    },
+    {
+      "id": "B-context-p107-saro-0014802",
+      "annexId": "B",
+      "type": "SARO attachment",
+      "pageStart": 107,
+      "pageEnd": 107,
+      "title": "Special Allotment Release Order — PGN Island Bridges Project government counterpart",
+      "saroNumber": "SARO-BMB-A-24-0014802",
+      "date": "2024-09-17",
+      "agency": "Department of Public Works and Highways — Office of the Secretary, Central Office",
+      "amountPesos": 153436000,
+      "amountStage": "released",
+      "reviewNotes": "Form says Page 1 of 1 page(s). Directly matched to SARO 0014802 in the p.110 advice table by printed number/date/amount. The same table and matching amount also appear in duplicate advice copy pp.105–106."
+    },
+    {
+      "id": "B-context-p108-saro-0014803",
+      "annexId": "B",
+      "type": "SARO attachment",
+      "pageStart": 108,
+      "pageEnd": 108,
+      "title": "Special Allotment Release Order — GOP counterpart of various DPWH foreign-assisted projects",
+      "saroNumber": "SARO-BMB-A-24-0014803",
+      "date": "2024-09-17",
+      "agency": "Department of Public Works and Highways — Office of the Secretary, Central Office",
+      "amountPesos": 11914935000,
+      "amountStage": "released",
+      "reviewNotes": "Form says Page 1 of 1 page(s). Directly matched to SARO 0014803 in the p.110 advice table by printed number/date/amount. The same table and matching amount also appear in duplicate advice copy pp.105–106."
+    },
+    {
+      "id": "B-gap-p109-110-advice-copy",
+      "annexId": "B",
+      "type": "Advice of SAROs issued",
+      "pageStart": 109,
+      "pageEnd": 110,
+      "title": "Advice of SAROs issued — DPWH requests for unprogrammed appropriations",
+      "relatedSaroNumbers": [
+        "SARO-BMB-A-24-0014802",
+        "SARO-BMB-A-24-0014803",
+        "SARO-BMB-A-24-0014804",
+        "SARO-BMB-A-24-0014805"
+      ],
+      "date": "2024-09-17",
+      "agency": "Department of Public Works and Highways",
+      "amountPesos": 12325553000,
+      "amountStage": "released",
+      "reviewNotes": "DMS Reference Nos. 2024-AMDV-0095297A-E and 2024-BA-0105084-E. Printed counters show p.109 Page 1 of 2 and p.110 Page 2 of 2. The advice responds to two requests totaling ₱34,966,985,000 and lists four SAROs totaling ₱12,325,553,000 (153,436,000 + 11,914,935,000 + 201,256,000 + 55,926,000). SAROs 0014802 and 0014803 directly match the forms on pp.107–108 by number/date/amount. This two-page advice copy repeats the request and release details visible on pp.105–106; those pages have different printed page-count markers, so this record is bounded by the explicit 1-of-2 and 2-of-2 counters on pp.109–110."
+    }
+  ]
+}

@@ -1,0 +1,1182 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 18,
+  "printedPage": 378,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Other Executive Offices (OEOs)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 93165206,
+          "capitalOutlaysAndNetLending": 1347500,
+          "financialExpenses": 0,
+          "total": 94512706
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 75192190,
+          "capitalOutlaysAndNetLending": 789427,
+          "financialExpenses": 0,
+          "total": 75981617
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 49962269,
+          "capitalOutlaysAndNetLending": 1555231,
+          "financialExpenses": 0,
+          "total": 51517500
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "National Irrigation Administration",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "National Irrigation Administration"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 77759044,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 77759044
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 69368217,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 69368217
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 45066230,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 45066230
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Philippine Reclamation Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Philippine Reclamation Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 6000000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 6000000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Philippine Deposit Insurance Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Philippine Deposit Insurance Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 4600533,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 4600533
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Authority of the Freeport Area of Bataan",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Authority of the Freeport Area of Bataan"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 140000,
+          "financialExpenses": 0,
+          "total": 140000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 200000,
+          "financialExpenses": 0,
+          "total": 200000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 100000,
+          "capitalOutlaysAndNetLending": 150000,
+          "financialExpenses": 0,
+          "total": 250000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Bangko Sentral ng Pilipinas",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Bangko Sentral ng Pilipinas"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 40000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 40000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Bases Conversion and Development Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Bases Conversion and Development Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2801865,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2801865
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2490215,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2490215
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2787175,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2787175
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Cagayan Economic Zone Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Cagayan Economic Zone Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 1000000,
+          "financialExpenses": 0,
+          "total": 1000000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 324427,
+          "financialExpenses": 0,
+          "total": 324427
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 1095231,
+          "financialExpenses": 0,
+          "total": 1095231
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Credit Information Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Credit Information Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 60000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 60000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Cultural Center of the Philippines",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Cultural Center of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 882861,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 882861
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1563087,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1563087
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 413455,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 413455
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Philippine Center for Economic Development",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Philippine Center for Economic Development"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 30258,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 30258
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 56828,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 56828
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 109264,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 109264
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Philippine Postal Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Philippine Postal Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 70000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 70000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 858465,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 858465
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Southern Philippines Development Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Southern Philippines Development Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 197547,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 197547
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 83029,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 83029
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 83029,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 83029
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Subic Bay Metropolitan Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Subic Bay Metropolitan Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 681010,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 681010
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1587464,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1587464
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 500000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Zamboanga City Special Economic Zone Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Other Executive Offices (OEOs)",
+        "Zamboanga City Special Economic Zone Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 42088,
+          "capitalOutlaysAndNetLending": 207500,
+          "financialExpenses": 0,
+          "total": 249588
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 43350,
+          "capitalOutlaysAndNetLending": 265000,
+          "financialExpenses": 0,
+          "total": 308350
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 44651,
+          "capitalOutlaysAndNetLending": 310000,
+          "financialExpenses": 0,
+          "total": 354651
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Department of Transportation (DOTr)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Transportation (DOTr)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 5082994,
+          "capitalOutlaysAndNetLending": 121052,
+          "financialExpenses": 0,
+          "total": 5204046
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2581706,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2581706
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1268658,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1268658
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Civil Aviation Authority of the Philippines",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Transportation (DOTr)",
+        "Civil Aviation Authority of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1030000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1030000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Light Rail Transit Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Transportation (DOTr)",
+        "Light Rail Transit Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 3521557,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 3521557
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 890326,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 890326
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 917036,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 917036
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Manila International Airport Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Transportation (DOTr)",
+        "Manila International Airport Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Philippine National Railways",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Transportation (DOTr)",
+        "Philippine National Railways"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 531437,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 531437
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 341380,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 341380
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 351622,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 351622
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Philippine Ports Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Transportation (DOTr)",
+        "Philippine Ports Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1350000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1350000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Davao International Airport Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Transportation (DOTr)",
+        "Davao International Airport Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 121052,
+          "financialExpenses": 0,
+          "total": 121052
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Department of Human Settlements and Urban Development (DHSUD)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Human Settlements and Urban Development (DHSUD)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 3199564,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 3199564
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2571486,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2571486
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2366530,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2366530
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "National Home Mortgage Finance Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Human Settlements and Urban Development (DHSUD)",
+        "National Home Mortgage Finance Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 450,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 450
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 450,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 450
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "National Housing Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Human Settlements and Urban Development (DHSUD)",
+        "National Housing Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2748743,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2748743
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2450000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2450000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2200000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2200000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Social Housing Finance Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Human Settlements and Urban Development (DHSUD)",
+        "Social Housing Finance Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 450821,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 450821
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 121036,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 121036
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 166080,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 166080
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "BSGC - Others",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "BSGC - Others"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 28606,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 28606
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 28606,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 28606
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 18,
+      "printedPage": 378,
+      "particulars": "Net Lending",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Net Lending"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 6931000,
+          "financialExpenses": 0,
+          "total": 6931000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 28700000,
+          "financialExpenses": 0,
+          "total": 28700000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 28700000,
+          "financialExpenses": 0,
+          "total": 28700000
+        }
+      }
+    }
+  ]
+}

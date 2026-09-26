@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "grain": "separate visible aggregates labelled Various SAROs; not distinct SARO rows",
+  "records": [
+    {"annexId":"F","sourcePage":31,"printedPage":31,"scope":"Various SAROs issued in December; Commission on Higher Education benefits aggregate","agency":"Other Executive Offices — Commission on Higher Education","category":"For payment of monetization of leave credits and PS deficiency","unit":"pesos","amounts":{"MLC":2117019,"Other PS Deficiencies":12719511,"Total":14836530}},
+    {"annexId":"F","sourcePage":31,"printedPage":31,"scope":"Various SAROs issued in December; National Intelligence Coordinating Agency benefits aggregate","agency":"Other Executive Offices — National Intelligence Coordinating Agency","category":"For payment of terminal leave benefits and FY 2023 PBB","unit":"pesos","amounts":{"TL/RG":1529247,"FY 2023 PBB":4787450,"Total":6316697}},
+    {"annexId":"F","sourcePage":31,"printedPage":31,"scope":"Various SAROs issued in December; Presidential Management Staff benefits aggregate","agency":"Other Executive Offices — Presidential Management Staff","category":"For payment of terminal leave benefits and PS deficiency","unit":"pesos","amounts":{"TL/RG":2291361,"Other PS Deficiencies":14796689,"Total":17088050}},
+    {"annexId":"F","sourcePage":31,"printedPage":31,"scope":"Various SAROs benefits aggregate","agency":"Civil Service Commission","category":"For payment of terminal leave benefits and PS deficiency","unit":"pesos","amounts":{"FY 2023 PBB":5309539,"Total":5309539}},
+    {"annexId":"F","sourcePage":34,"printedPage":34,"scope":"Various SAROs issued in December; BARMM benefits aggregate","agency":"Special Purpose Fund — BARMM","category":"For payment of terminal leave benefits and monetization of leave credits","unit":"pesos","amounts":{"TL/RG":30383677,"MLC":12842041,"Total":43225718}}
+  ]
+}

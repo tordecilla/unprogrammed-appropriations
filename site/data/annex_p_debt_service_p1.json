@@ -1,0 +1,60 @@
+{
+  "sourceAnnex": "P",
+  "embeddedAnnex": "BESF Table B.17",
+  "sourcePage": 1,
+  "printedPage": 159,
+  "table": "National Government Debt Service Expenditures, 2024-2026",
+  "unit": "million pesos",
+  "rowGrain": "expense type, funding split, and year",
+  "years": [2024, 2025, 2026],
+  "rows": [
+    {
+      "particulars": "INTEREST PAYMENTS",
+      "rowType": "subtotal",
+      "2024": {"domestic": 539829, "foreign": 223484, "total": 763313},
+      "2025": {"domestic": 618250, "foreign": 229781, "total": 848031},
+      "2026": {"domestic": 707477, "foreign": 242523, "total": 950000}
+    },
+    {
+      "particulars": "NG Regular",
+      "rowType": "detail",
+      "hierarchyPath": ["INTEREST PAYMENTS", "NG Regular"],
+      "2024": {"domestic": 539829, "foreign": 223484, "total": 763313},
+      "2025": {"domestic": 618250, "foreign": 229781, "total": 848031},
+      "2026": {"domestic": 707477, "foreign": 242523, "total": 950000}
+    },
+    {
+      "particulars": "PRINCIPAL AMORTIZATION",
+      "rowType": "subtotal",
+      "2024": {"domestic": 1018036, "foreign": 239293, "total": 1257329},
+      "2025": {"domestic": 987050, "foreign": 219094, "total": 1206145},
+      "2026": {"domestic": 889338, "foreign": 166271, "total": 1055609}
+    },
+    {
+      "particulars": "NG Regular",
+      "rowType": "detail",
+      "hierarchyPath": ["PRINCIPAL AMORTIZATION", "NG Regular"],
+      "2024": {"domestic": 1018036, "foreign": 239293, "total": 1257329},
+      "2025": {"domestic": 987050, "foreign": 219094, "total": 1206145},
+      "2026": {"domestic": 889338, "foreign": 166271, "total": 1055609}
+    },
+    {
+      "particulars": "GRAND TOTAL",
+      "rowType": "grandTotal",
+      "2024": {"domestic": 1557865, "foreign": 462777, "total": 2020642},
+      "2025": {"domestic": 1605300, "foreign": 448875, "total": 2054175},
+      "2026": {"domestic": 1596815, "foreign": 408794, "total": 2005609}
+    }
+  ],
+  "footnotes": {
+    "a": "Based on actual data reported in the revised version of Cash Operations Report.",
+    "b": "Includes discounts/premiums from reissuance of Treasury bonds.",
+    "c": "Includes relent loans assumed by the NG based on Subsidiary Loan Agreement.",
+    "d": "Based on the Government Finance Statistics Manual 2014 concept wherein reporting of amortization reflects actual principal repayments to creditors, including those serviced by the Bond Sinking Fund.",
+    "e": "Net of T-bills roll-over (Table D1 T-bills maturities).",
+    "f": "Includes settlement of P68.352 billion Promissory Note to Bangko Sentral ng Pilipinas (BSP) for advances made in 2016 to cover increase in IMF quota subscription.",
+    "g": "Assumes USD/PHP of 57.00 for FY 2025–2026 (mid-point)."
+  },
+  "source": "Bureau of the Treasury",
+  "reviewNote": "Each section subtotal matches its NG Regular line. GRAND TOTAL equals interest payments plus principal amortization for all years."
+}

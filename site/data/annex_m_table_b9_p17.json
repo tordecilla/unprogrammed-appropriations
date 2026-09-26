@@ -1,0 +1,888 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 17,
+  "printedPage": 377,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Philippine Tax Academy",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Finance (DOF)",
+        "Philippine Tax Academy"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 49799,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 49799
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 58227,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 58227
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 58227,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 58227
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Department of Health (DOH)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Health (DOH)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 68725065,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 68725065
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 6076583,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 6076583
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 59948557,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 59948557
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Lung Center of the Philippines",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Health (DOH)",
+        "Lung Center of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 791107,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 791107
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 713585,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 713585
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 918790,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 918790
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "National Kidney and Transplant Institute",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Health (DOH)",
+        "National Kidney and Transplant Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1626054,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1626054
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1491386,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1491386
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1512329,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1512329
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Philippine Children’s Medical Center",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Health (DOH)",
+        "Philippine Children’s Medical Center"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1955587,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1955587
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1399466,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1399466
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1657594,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1657594
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Philippine Health Insurance Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Health (DOH)",
+        "Philippine Health Insurance Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 61758649,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 61758649
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 53261930,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 53261930
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Philippine Heart Center",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Health (DOH)",
+        "Philippine Heart Center"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2419814,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2419814
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2317420,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2317420
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2423665,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2423665
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Philippine Institute of Traditional and Alternative Health Care",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Health (DOH)",
+        "Philippine Institute of Traditional and Alternative Health Care"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 173854,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 173854
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 154726,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 154726
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 174249,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 174249
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Department of Tourism (DOT)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Tourism (DOT)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 152383,
+          "maintenanceAndOtherOperatingExpenses": 2093309,
+          "capitalOutlaysAndNetLending": 854147,
+          "financialExpenses": 0,
+          "total": 3099839
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 152383,
+          "maintenanceAndOtherOperatingExpenses": 2751233,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2903616
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 152383,
+          "maintenanceAndOtherOperatingExpenses": 1187225,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1339608
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Tourism Infrastructure and Enterprise Zone Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Tourism (DOT)",
+        "Tourism Infrastructure and Enterprise Zone Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 620000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 620000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1545000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1545000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Tourism Promotions Board",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Tourism (DOT)",
+        "Tourism Promotions Board"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 152383,
+          "maintenanceAndOtherOperatingExpenses": 1473309,
+          "capitalOutlaysAndNetLending": 854147,
+          "financialExpenses": 0,
+          "total": 2479839
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 152383,
+          "maintenanceAndOtherOperatingExpenses": 1206233,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1358616
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 152383,
+          "maintenanceAndOtherOperatingExpenses": 1187225,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1339608
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Department of Trade and Industry (DTI)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Trade and Industry (DTI)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1431407,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1431407
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 915466,
+          "capitalOutlaysAndNetLending": 130160,
+          "financialExpenses": 0,
+          "total": 1045626
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2337230,
+          "capitalOutlaysAndNetLending": 136597,
+          "financialExpenses": 0,
+          "total": 2473827
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Aurora Pacific Economic Zone and Freeport Authority",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Trade and Industry (DTI)",
+        "Aurora Pacific Economic Zone and Freeport Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 235850,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 235850
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 125858,
+          "capitalOutlaysAndNetLending": 130160,
+          "financialExpenses": 0,
+          "total": 256018
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 125858,
+          "capitalOutlaysAndNetLending": 136597,
+          "financialExpenses": 0,
+          "total": 262455
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Center for International Trade Expositions and Missions",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Trade and Industry (DTI)",
+        "Center for International Trade Expositions and Missions"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 195557,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 195557
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 289608,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 289608
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 711372,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 711372
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Small Business Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Trade and Industry (DTI)",
+        "Small Business Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1000000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1000000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 500000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1500000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Department of Economy, Planning, and Development (DEPDev)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Economy, Planning, and Development (DEPDev)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 973805,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 973805
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 728806,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 728806
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1291488,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1291488
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Philippine Institute for Development Studies",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Economy, Planning, and Development (DEPDev)",
+        "Philippine Institute for Development Studies"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 267452,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 267452
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 291537,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 291537
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 368033,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 368033
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Development Academy of the Philippines",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Economy, Planning, and Development (DEPDev)",
+        "Development Academy of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 706353,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 706353
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 437269,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 437269
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 923455,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 923455
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Presidential Communications Office (PCO)",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Presidential Communications Office (PCO)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1048949,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1048949
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1315857,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1315857
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 258764,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 258764
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "People’s Television Network, Inc.",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Presidential Communications Office (PCO)",
+        "People’s Television Network, Inc."
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 307914,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 307914
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 215257,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 215257
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 136764,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 136764
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 17,
+      "printedPage": 377,
+      "particulars": "Intercontinental Broadcasting Corporation",
+      "hierarchyPath": [
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Presidential Communications Office (PCO)",
+        "Intercontinental Broadcasting Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 741035,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 741035
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1100600,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1100600
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 122000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 122000
+        }
+      }
+    }
+  ]
+}

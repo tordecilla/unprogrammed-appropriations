@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "grain": "separate visible Various SAROs aggregates; not distinct numbered SARO leaves",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 114,
+      "printedPage": 114,
+      "sourcePages": [
+        112,
+        113,
+        114,
+        115
+      ],
+      "scope": "Various SAROs in September; MARINA salary-increase aggregate",
+      "agency": "Department of Transportation (DOTr) — Maritime Industry Authority (MARINA)",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 22053000,
+        "Total": 22053000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 114,
+      "printedPage": 114,
+      "sourcePages": [
+        112,
+        113,
+        114,
+        115
+      ],
+      "scope": "Various SAROs issued in December; MARINA benefits aggregate",
+      "agency": "Department of Transportation (DOTr) — Maritime Industry Authority (MARINA)",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 253836,
+        "Monetization of Leave Credits": 2397149,
+        "Total": 2650985
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 114,
+      "printedPage": 114,
+      "sourcePages": [
+        112,
+        113,
+        114,
+        115
+      ],
+      "scope": "Various SAROs issued in December; Philippine Coast Guard PS benefits aggregate",
+      "agency": "Department of Transportation (DOTr) — Philippine Coast Guard",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 323090855,
+        "Other PS Deficiencies": 966058880,
+        "Total": 1289149735
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 118,
+      "printedPage": 118,
+      "sourcePages": [
+        116,
+        117,
+        118,
+        119
+      ],
+      "scope": "Various SARO issued in September; Commission on Higher Education salary-increase aggregate",
+      "agency": "Other Executive Offices (OEO) — Commission on Higher Education",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 11149000,
+        "Total": 11149000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 118,
+      "printedPage": 118,
+      "sourcePages": [
+        116,
+        117,
+        118,
+        119
+      ],
+      "scope": "Various SARO issued in October; Commission on Higher Education benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — Commission on Higher Education",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Monetization of Leave Credits": 638300,
+        "Total": 638300
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 118,
+      "printedPage": 118,
+      "sourcePages": [
+        116,
+        117,
+        118,
+        119
+      ],
+      "scope": "Various SARO issued in October; Energy Regulatory Commission benefits aggregate",
+      "agency": "Other Executive Offices (OEO) — Energy Regulatory Commission",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Pension": 521560,
+        "Terminal Leave/Retirement Gratuity": 766312,
+        "Total": 1287872
+      }
+    }
+  ]
+}

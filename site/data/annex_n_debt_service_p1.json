@@ -1,0 +1,28 @@
+{
+  "sourceAnnex": "N",
+  "embeddedAnnex": "B",
+  "sourcePage": 1,
+  "printedPage": 807,
+  "publication": "Official Gazette, December 25, 2023 — Summary of FY 2024 New Appropriations",
+  "table": "Debt Service - Principal Amortization",
+  "unit": "PHP",
+  "rowGrain": "purpose line and table total",
+  "amountColumns": ["personnelServices", "maintenanceAndOtherOperatingExpenses", "capitalOutlays", "total"],
+  "rows": [
+    {
+      "particulars": "For the Payment of Principal Amortization of Foreign and Domestic Indebtedness",
+      "personnelServices": null,
+      "maintenanceAndOtherOperatingExpenses": null,
+      "capitalOutlays": 1241179000000,
+      "total": 1241179000000
+    },
+    {
+      "particulars": "TOTAL",
+      "personnelServices": null,
+      "maintenanceAndOtherOperatingExpenses": null,
+      "capitalOutlays": 1241179000000,
+      "total": 1241179000000
+    }
+  ],
+  "reviewNote": "Values in capital outlays and total agree visually; no uncertainty noted."
+}

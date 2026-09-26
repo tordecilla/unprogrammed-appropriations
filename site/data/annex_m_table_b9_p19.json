@@ -1,0 +1,666 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 19,
+  "printedPage": 379,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Allocations to Local Government Units (ALGU)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Allocations to Local Government Units (ALGU)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 507219,
+          "maintenanceAndOtherOperatingExpenses": 1011204386,
+          "capitalOutlaysAndNetLending": 3306730,
+          "financialExpenses": 0,
+          "total": 1015018335
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 68831,
+          "maintenanceAndOtherOperatingExpenses": 1188733308,
+          "capitalOutlaysAndNetLending": 5888477,
+          "financialExpenses": 0,
+          "total": 1194690616
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 78139,
+          "maintenanceAndOtherOperatingExpenses": 1347294848,
+          "capitalOutlaysAndNetLending": 2853606,
+          "financialExpenses": 0,
+          "total": 1350226593
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Metropolitan Manila Development Authority",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Metropolitan Manila Development Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 71379,
+          "maintenanceAndOtherOperatingExpenses": 2736009,
+          "capitalOutlaysAndNetLending": 3306730,
+          "financialExpenses": 0,
+          "total": 6114118
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 68831,
+          "maintenanceAndOtherOperatingExpenses": 2900229,
+          "capitalOutlaysAndNetLending": 5888477,
+          "financialExpenses": 0,
+          "total": 8857537
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 78139,
+          "maintenanceAndOtherOperatingExpenses": 2951999,
+          "capitalOutlaysAndNetLending": 2853606,
+          "financialExpenses": 0,
+          "total": 5883744
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "National Tax Allotment",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "National Tax Allotment"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 871375199,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 871375199
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1034604869,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1034604869
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1190509672,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1190509672
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Special Shares of LGUs in the Proceeds of National Taxes",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Special Shares of LGUs in the Proceeds of National Taxes"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 30536264,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 30536264
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 32655520,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 32655520
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 31724961,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 31724961
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Local Government Support Fund (formerly Financial Subsidy to LGUs)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Local Government Support Fund (formerly Financial Subsidy to LGUs)"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 22705330,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 22705330
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 22999970,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 22999970
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 16080000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 16080000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Special Shares of LGUs in the Proceeds of Fire Code Fees",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Special Shares of LGUs in the Proceeds of Fire Code Fees"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 776859,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 776859
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1111052,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1111052
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1405731,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1405731
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Barangay Officials Death Benefits",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Barangay Officials Death Benefits"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 50000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 50000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 50000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 50000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 435840,
+          "maintenanceAndOtherOperatingExpenses": 83074725,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 83510565
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 94411668,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 94411668
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 104572485,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 104572485
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Customs duties and taxes, including tax expenditures",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Customs duties and taxes, including tax expenditures"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 14500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 14500000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 14500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 14500000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Debt Interest Payments",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Debt Interest Payments"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 763313000,
+          "total": 763313000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 848030688,
+          "total": 848030688
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 950000000,
+          "total": 950000000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "National Disaster Risk Reduction and Management Fund (Calamity Fund)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "National Disaster Risk Reduction and Management Fund (Calamity Fund)"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 11685250,
+          "capitalOutlaysAndNetLending": 9314750,
+          "financialExpenses": 0,
+          "total": 21000000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 16285000,
+          "capitalOutlaysAndNetLending": 14715000,
+          "financialExpenses": 0,
+          "total": 31000000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Contingent Fund",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Contingent Fund"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 8000000,
+          "capitalOutlaysAndNetLending": 5000000,
+          "financialExpenses": 0,
+          "total": 13000000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 8000000,
+          "capitalOutlaysAndNetLending": 5000000,
+          "financialExpenses": 0,
+          "total": 13000000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Miscellaneous Personnel Benefits Fund",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Miscellaneous Personnel Benefits Fund"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 108927872,
+          "maintenanceAndOtherOperatingExpenses": 200000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 109127872
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 111317037,
+          "maintenanceAndOtherOperatingExpenses": 200000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 111517037
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Pension and Gratuity Fund",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Pension and Gratuity Fund"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 144696104,
+          "maintenanceAndOtherOperatingExpenses": 28071,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 144724175
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 197967622,
+          "maintenanceAndOtherOperatingExpenses": 23661,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 197991283
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "Revised AFP Modernization Program",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Revised AFP Modernization Program"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 35000000,
+          "financialExpenses": 0,
+          "total": 35000000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 40000000,
+          "financialExpenses": 0,
+          "total": 40000000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 19,
+      "printedPage": 379,
+      "particulars": "GRAND TOTAL",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS"
+      ],
+      "rowType": "grandTotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": "After correcting the visually misread 2025 MOOE for Batangas State University on source page 4 (1,227,276; printed row total 2,001,544), staged detail sums match the printed grand total except 2025 MOOE, which remains +18,000. This residual is explained by Philippine Carabao Center on source page 1: printed classes sum to 874,170 while its printed total is 856,170. Preserve both source values.",
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1558650462,
+          "maintenanceAndOtherOperatingExpenses": 2394536599,
+          "capitalOutlaysAndNetLending": 1556054026,
+          "financialExpenses": 763841163,
+          "total": 6273082250
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1632858868,
+          "maintenanceAndOtherOperatingExpenses": 2384143821,
+          "capitalOutlaysAndNetLending": 1461252962,
+          "financialExpenses": 848068649,
+          "total": 6326324300
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1879333837,
+          "maintenanceAndOtherOperatingExpenses": 2640231069,
+          "capitalOutlaysAndNetLending": 1323563344,
+          "financialExpenses": 950033750,
+          "total": 6793162000
+        }
+      }
+    }
+  ]
+}

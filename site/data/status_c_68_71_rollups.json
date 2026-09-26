@@ -1,0 +1,121 @@
+﻿{
+    "version":  1,
+    "grain":  "report-level note or visible subtotal not attributed to a numbered SARO",
+    "records":  [
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  70,
+                        "printedPage":  70,
+                        "scope":  "Various SAROs issued in September; DOST Office of the Secretary salary-increase aggregate",
+                        "agency":  "Department of Science and Technology â€” Office of the Secretary",
+                        "category":  "For payment of Personnel Benefits",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Salary Increase":  28667000,
+                                        "Total":  28667000
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  70,
+                        "printedPage":  70,
+                        "scope":  "Various SAROs issued in October; DOST Office of the Secretary FY 2024 PS deficiency aggregate",
+                        "agency":  "Department of Science and Technology â€” Office of the Secretary",
+                        "category":  "For payment of Personnel Benefits",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Other PS Deficiencies":  222339466,
+                                        "Total":  222339466
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  70,
+                        "printedPage":  70,
+                        "scope":  "Various SAROs issued in November; DOST Office of the Secretary terminal-leave and monetization aggregate",
+                        "agency":  "Department of Science and Technology â€” Office of the Secretary",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  478494,
+                                        "Monetization of Leave Credits":  60168,
+                                        "Total":  538662
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  70,
+                        "printedPage":  70,
+                        "scope":  "Various SAROs issued in December; DOST Office of the Secretary FY 2024 PS deficiency aggregate",
+                        "agency":  "Department of Science and Technology â€” Office of the Secretary",
+                        "category":  "For payment of Personnel Benefits",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Other PS Deficiencies":  20976000,
+                                        "Total":  20976000
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  70,
+                        "printedPage":  70,
+                        "scope":  "Various SAROs issued in December; DOST Office of the Secretary terminal-leave and monetization aggregate",
+                        "agency":  "Department of Science and Technology â€” Office of the Secretary",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  978054,
+                                        "Monetization of Leave Credits":  1917996,
+                                        "Total":  2896050
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  70,
+                        "printedPage":  70,
+                        "scope":  "Printed agency subtotal; DOST Office of the Secretary",
+                        "agency":  "Department of Science and Technology â€” Office of the Secretary",
+                        "category":  "Agency subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Salary Increase":  28667000,
+                                        "Other PS Deficiencies":  243315466,
+                                        "Personnel Benefits Total":  271982466,
+                                        "Terminal Leave/Retirement Gratuity":  1456548,
+                                        "Monetization of Leave Credits":  1978164,
+                                        "Pension and Gratuity Fund Total":  3434712,
+                                        "Total":  275417178
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  70,
+                        "printedPage":  70,
+                        "scope":  "Printed department subtotal; DOST component-category subtotals",
+                        "agency":  "Department of Science and Technology",
+                        "category":  "Department subtotal components",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Salary Increase":  160227000,
+                                        "Other PS Deficiencies":  287951908,
+                                        "Personnel Benefits Total":  448178908,
+                                        "Terminal Leave/Retirement Gratuity":  10201172,
+                                        "Monetization of Leave Credits":  9837730,
+                                        "Pension and Gratuity Fund Total":  20038902
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  71,
+                        "printedPage":  71,
+                        "scope":  "Printed department subtotal; DOST final total row",
+                        "agency":  "Department of Science and Technology",
+                        "category":  "Department subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Personnel Services":  468217810,
+                                        "Total":  468217810
+                                    }
+                    }
+                ]
+}

@@ -1,0 +1,271 @@
+{
+  "sourceAnnex": "J",
+  "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-annex-v1/Annex-J-Compliance-G.R.-No.-271059.pdf",
+  "transcriptionMethod": "visual review of rendered page images; no text extraction or OCR",
+  "schemaVersion": "annex-j-certificates-v1",
+  "documents": [
+    {
+      "documentId": "J-p4",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-10-16",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says the remittance to the National Government occurred on 16 October 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "third tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Health Insurance Corporation (PHIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-10-16",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          6,
+          10
+        ],
+        "relationshipNote": "Separate PHIC tranche certifications; page 4 does not continue another page."
+      },
+      "sourcePage": 4,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. Footnote references Special Provision 1(d), XLIII, UA of the FY 2024 GAA and DOF Circular No. 003-2024."
+    },
+    {
+      "documentId": "J-p5",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-04",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; remittance is described as occurring in August 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 24900000000,
+          "amountText": "Twenty Four Billion Nine Hundred Million Pesos (P24,900,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "fourth tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "August 2024",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          7,
+          8,
+          9
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 5 does not continue another page."
+      },
+      "sourcePage": 5,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. The certificate date is 04 September 2024; no specific August remittance day is given."
+    },
+    {
+      "documentId": "J-p6",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-08-22",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says remitted on 21 August 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 10000000000,
+          "amountText": "Ten Billion Pesos (P10,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "second tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Health Insurance Corporation (PHIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-08-21",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          4,
+          10
+        ],
+        "relationshipNote": "Separate PHIC tranche certifications; page 6 does not continue another page."
+      },
+      "sourcePage": 6,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. Document date is 22 August 2024; remittance date printed in the body is 21 August 2024."
+    },
+    {
+      "documentId": "J-p7",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-08-14",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; remittance is described as occurring in July 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 20000000000,
+          "amountText": "Twenty Billion Pesos (P20,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "third tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "July 2024",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          5,
+          8,
+          9
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 7 does not continue another page."
+      },
+      "sourcePage": 7,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. No specific July remittance day is given."
+    },
+    {
+      "documentId": "J-p8",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-07-01",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate describes the remittance as of 28 June 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "second tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "As of 2024-06-28",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          5,
+          7,
+          9
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 8 does not continue another page."
+      },
+      "sourcePage": 8,
+      "reviewNotes": "Standalone certification. Body says remitted to NG 'as of June 28, 2024'; certificate date is 01 July 2024. Amount is a certified remittance, not a release."
+    },
+    {
+      "documentId": "J-p9",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-06-05",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says remitted on 30 May 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "first tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-05-30",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          5,
+          7,
+          8
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 9 does not continue another page."
+      },
+      "sourcePage": 9,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release."
+    },
+    {
+      "documentId": "J-p10",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-05-13",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says remitted on 10 May 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 20000000000,
+          "amountText": "Twenty Billion Pesos (P20,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "first tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Health Insurance Corporation (PhilHealth); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-05-10",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          4,
+          6
+        ],
+        "relationshipNote": "Separate PHIC tranche certifications; page 10 does not continue another page."
+      },
+      "sourcePage": 10,
+      "reviewNotes": "Standalone certification. The body uses 'Philippine Health Insurance Corporation (PhilHealth)' while pages 4 and 6 use PHIC. Amount is a certified remittance, not a release."
+    }
+  ],
+  "reconciliation": {
+    "pageCount": 7,
+    "certificateAmountTotalPesos": 164900000000,
+    "totalsByCategoryPesos": {
+      "PDIC": 104900000000,
+      "PHIC": 60000000000
+    },
+    "notes": [
+      "Sum is the arithmetic total of the seven certificate amounts on source pages 4–10; it is not represented as a release total.",
+      "PDIC pages 5, 7, 8, and 9 total P104.9 billion; PHIC pages 4, 6, and 10 total P60 billion.",
+      "These pages are independent certifications, not multi-page continuation documents. Tranche labels repeat within each corporation and should not be treated as a single shared sequence across entities.",
+      "The certificates do not state the underlying fiscal period for the fund balances; dates in the body refer to remittance timing."
+    ]
+  }
+}

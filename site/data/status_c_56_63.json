@@ -1,0 +1,678 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0016800",
+    "date": null,
+    "department": "DND",
+    "agency": "Government Arsenal",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 660767,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 660767,
+    "reviewNote": "The printed row shows no date; amount appears on p. 58."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0018472",
+    "date": "2024-12-02",
+    "department": "DND",
+    "agency": "National Defense College of the Philippines",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 244752,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 244752,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0014793",
+    "date": "2024-09-17",
+    "department": "DND",
+    "agency": "Office of Civil Defense",
+    "purpose": "FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 12342013,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 12342013,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0017523",
+    "date": "2024-11-07",
+    "department": "DND",
+    "agency": "Office of Civil Defense",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 546372,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 546372,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0018341",
+    "date": "2024-11-28",
+    "department": "DND",
+    "agency": "Office of Civil Defense",
+    "purpose": "FY 2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 31099115,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 31099115,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0018931",
+    "date": "2024-12-13",
+    "department": "DND",
+    "agency": "Office of Civil Defense",
+    "purpose": "FY 2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 18957911,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 18957911,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0016360",
+    "date": "2024-10-03",
+    "department": "DND",
+    "agency": "Philippine Veterans Affairs Office (PVAO) - Proper",
+    "purpose": "FY 2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 2452407,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 2452407,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0018884",
+    "date": "2024-12-13",
+    "department": "DND",
+    "agency": "Philippine Veterans Affairs Office (PVAO) - Proper",
+    "purpose": "FY 2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 7759587,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 7759587,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0015751",
+    "date": "2024-09-27",
+    "department": "DND",
+    "agency": "Philippine Army (Land Forces)",
+    "purpose": "FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 1720524739,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 1720524739,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0018755",
+    "date": "2024-12-10",
+    "department": "DND",
+    "agency": "Philippine Army (Land Forces)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 13276870,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 13276870,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0014794",
+    "date": "2024-09-17",
+    "department": "DND",
+    "agency": "Philippine Air Force (Air Forces)",
+    "purpose": "FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 305472582,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 305472582,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0017320",
+    "date": "2024-10-30",
+    "department": "DND",
+    "agency": "Philippine Air Force (Air Forces)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 62214930,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 62214930,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0018621",
+    "date": "2024-12-05",
+    "department": "DND",
+    "agency": "Philippine Air Force (Air Forces)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 34060493,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 34060493,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 56,
+    "sourcePages": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "printedPage": 56,
+    "saroNumber": "SARO-BMB-D-24-0017817",
+    "date": "2024-11-15",
+    "department": "DND",
+    "agency": "Philippine Navy (Naval Forces)",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 210588822,
+        "pdfPage": 58
+      }
+    ],
+    "reportedTotalPesos": 210588822,
+    "reviewNote": "Row continues across pp. 56?59; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-D-24-0015786",
+    "date": "2024-09-27",
+    "department": "DND",
+    "agency": "General Headquarters - Proper",
+    "purpose": "To cover the funding requirements for various projects under the Revised Armed Forces of the Philippines Modernization Program",
+    "allocations": [
+      {
+        "category": "Revised AFP Modernization Program",
+        "expenseClass": "CO",
+        "amountPesos": 10000000000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 10000000000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-B-24-0017723",
+    "date": "2024-11-13",
+    "department": "DMW",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 134801493,
+        "pdfPage": 62
+      }
+    ],
+    "reportedTotalPesos": 134801493,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-B-24-0019268",
+    "date": "2024-12-20",
+    "department": "DMW",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1475044,
+        "pdfPage": 62
+      }
+    ],
+    "reportedTotalPesos": 1475044,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0000658",
+    "date": "2024-02-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 1st quarter loan proceeds requirements of The Export-Import Bank of China assisted projects",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 350620000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 350620000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0000659",
+    "date": "2024-02-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 1st quarter loan proceeds requirements of Asian Development Bank assisted projects",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 807691000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 807691000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0000660",
+    "date": "2024-02-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 1st quarter loan proceeds requirements of International Bank for Reconstruction and Development assisted projects",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 462220000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 462220000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0000656",
+    "date": "2024-02-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 1st quarter loan proceeds requirements of Japan International Cooperation Agency assisted projects",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 1208886000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 1208886000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0000657",
+    "date": "2024-02-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 1st quarter loan proceeds requirements of Korea Economic Development Cooperation Fund assisted projects",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 394847000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 394847000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0002833",
+    "date": "2024-05-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the loan proceeds requirements of International Bank for Reconstruction and Development assisted projects for the 2nd to 4th Quarters of FY 2024",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 5610290000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 5610290000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0002830",
+    "date": "2024-05-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the loan proceeds requirements of Asian Development Bank assisted projects for the 2nd to 4th Quarters of FY 2024",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 20565590000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 20565590000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0002832",
+    "date": "2024-05-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the loan proceeds requirements of The Export-Import Bank of China assisted projects for the 2nd to 4th Quarters of FY 2024",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 4870111000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 4870111000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 60,
+    "sourcePages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "printedPage": 60,
+    "saroNumber": "SARO-BMB-A-24-0002829",
+    "date": "2024-05-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the loan proceeds requirements of Japan International Cooperation Agency assisted projects for the 2nd to 4th Quarters of FY 2024",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 10680620000,
+        "pdfPage": 61
+      }
+    ],
+    "reportedTotalPesos": 10680620000,
+    "reviewNote": "Row continues across pp. 60?63; amount page(s) cited in allocations."
+  }
+]

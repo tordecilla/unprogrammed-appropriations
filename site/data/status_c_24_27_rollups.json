@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Agency subtotal",
+      "agency": "Environmental Management Bureau",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 37084465,
+        "Total": 37084465
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Agency subtotal",
+      "agency": "Environmental Management Bureau",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 3368593,
+        "Monetization of Leave Credits": 86612,
+        "Total": 3455205
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Agency subtotal",
+      "agency": "Mines and Geosciences Bureau",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 21082735,
+        "Other PS Deficiencies": 31091096,
+        "Total": 52173831
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Agency subtotal",
+      "agency": "Mines and Geosciences Bureau",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 3271455,
+        "Total": 3271455
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Agency subtotal",
+      "agency": "National Water Resources Board",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Monetization of Leave Credits": 354035,
+        "Total": 354035
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Agency subtotal",
+      "agency": "Palawan Council for Sustainable Development Staff",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 5494819,
+        "Total": 5494819
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Various SAROs issued in November aggregate",
+      "agency": "Environmental Management Bureau",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 486441,
+        "Monetization of Leave Credits": 56111,
+        "Total": 542552
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "Environmental Management Bureau",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 1964798,
+        "Monetization of Leave Credits": 30501,
+        "Total": 1995299
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Department subtotal",
+      "agency": "DOF",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 549363000,
+        "FY 2022 PBB": 339141,
+        "Other PS Deficiencies": 689005466,
+        "Total": 1238707607
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Department subtotal",
+      "agency": "DOF",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 14892891,
+        "Total": 14892891
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 27,
+      "printedPage": 27,
+      "scope": "Department subtotal",
+      "agency": "DOF",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 1253600498,
+        "MOOE": 98874000,
+        "CO": 21011000,
+        "Total": 1373485498
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 27,
+      "printedPage": 27,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DOF - Office of the Secretary",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 18790764,
+        "Total": 18790764
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "Mines and Geosciences Bureau",
+      "category": "FY 2022 PBB and FY 2024 PS Deficiency",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 21082735,
+        "Other PS Deficiencies": 31091096,
+        "Total": 52173831
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "Mines and Geosciences Bureau",
+      "category": "For payment of terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2256614,
+        "Total": 2256614
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 26,
+      "printedPage": 26,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DOF - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 1428676,
+        "Total": 1428676
+      }
+    }
+  ]
+}

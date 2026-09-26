@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "grain": "separate visible aggregates labelled Various SAROs; not distinct SARO rows",
+  "records": [
+    {
+      "annexId": "F", "sourcePage": 28, "printedPage": 28,
+      "scope": "Various SAROs issued in December; Office of the Secretary benefits aggregate",
+      "agency": "Department of Transportation — Office of the Secretary",
+      "category": "For payment of terminal leave benefits, monetization of leave credits and PS deficiency",
+      "unit": "pesos", "amounts": {"TL/RG": 10361152, "MLC": 91870, "Other PS Deficiencies": 131661726, "Total": 142114748}
+    },
+    {
+      "annexId": "F", "sourcePage": 28, "printedPage": 28,
+      "scope": "Various SAROs issued in December; Office for Transportation Security benefits aggregate",
+      "agency": "Department of Transportation — Office for Transportation Security",
+      "category": "For payment of terminal leave benefits and PS deficiency",
+      "unit": "pesos", "amounts": {"TL/RG": 753948, "MLC": 25980314, "Total": 26734262}
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 34,
+      "printedPage": 34,
+      "scope": "Various SAROs issued in August and September aggregate",
+      "agency": "DOH - Office of the Secretary",
+      "category": "Salary Increase",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 817513838,
+        "Total": 817513838
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 34,
+      "printedPage": 34,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DOH - Office of the Secretary",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 47584451,
+        "Monetization of Leave Credits": 9857212,
+        "Total": 57441663
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 34,
+      "printedPage": 34,
+      "scope": "Various SAROs issued in November aggregate",
+      "agency": "DOH - Office of the Secretary",
+      "category": "Terminal leave benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 39729617,
+        "Total": 39729617
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 34,
+      "printedPage": 34,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DOH - Office of the Secretary",
+      "category": "FY 2024 PS Deficiency",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 3328665107,
+        "Total": 3328665107
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 34,
+      "printedPage": 34,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DOH - Office of the Secretary",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 25355902,
+        "Monetization of Leave Credits": 23880175,
+        "Total": 49236077
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 32,
+      "printedPage": 32,
+      "scope": "Department subtotal",
+      "agency": "DOH",
+      "category": "Support to Foreign-Assisted Projects (FAPs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 1067583521,
+        "CO": 37711891,
+        "Total": 1105295412
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 32,
+      "printedPage": 32,
+      "scope": "Department subtotal",
+      "agency": "DOH",
+      "category": "Public Health Emergency Benefits and Allowances",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 27453233268,
+        "Total": 27453233268
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 33,
+      "printedPage": 33,
+      "scope": "Department subtotal",
+      "agency": "DOH",
+      "category": "Priority Social Programs for Health etc.",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 10000000000,
+        "CO": 9169664755,
+        "Total": 19169664755
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 33,
+      "printedPage": 33,
+      "scope": "Department subtotal",
+      "agency": "DOH",
+      "category": "Financial Subsidy for Purchase of Photovoltaic Mainstreaming",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 138792140,
+        "Total": 138792140
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 34,
+      "printedPage": 34,
+      "scope": "Department subtotal",
+      "agency": "DOH",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 817513838,
+        "Other PS Deficiencies": 4055316240,
+        "Total": 4872830078
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 34,
+      "printedPage": 34,
+      "scope": "Department subtotal",
+      "agency": "DOH",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 113668351,
+        "Monetization of Leave Credits": 33737387,
+        "Total": 147405738
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 35,
+      "printedPage": 35,
+      "scope": "Department subtotal",
+      "agency": "DOH",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 5020235816,
+        "MOOE": 38659608929,
+        "CO": 9207376646,
+        "Total": 52887221391
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 35,
+      "printedPage": 35,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DOH - Office of the Secretary",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 5018356027,
+        "MOOE": 38659608929,
+        "CO": 9207376646,
+        "Total": 52885341602
+      }
+    }
+  ]
+}

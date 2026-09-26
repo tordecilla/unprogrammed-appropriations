@@ -1,0 +1,59 @@
+[
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 84,
+    "parentDocumentId": "B-p84",
+    "saroNumber": "SARO-BMB-A-24-0002831",
+    "lineNumber": 1,
+    "description": "Philippines-Korea Project Preparation Facility (PK-PPF)",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 16931200000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 84,
+    "parentDocumentId": "B-p84",
+    "saroNumber": "SARO-BMB-A-24-0002831",
+    "lineNumber": 2,
+    "description": "Panguil Bay Bridge Construction Project, Misamis Occidental and Lanao del Norte Provinces, Region X, Cooperation",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 9025000000,
+    "reviewNote": "Description visibly ends with 'Cooperation' at the page edge; no further text legible on this schedule."
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 84,
+    "parentDocumentId": "B-p84",
+    "saroNumber": "SARO-BMB-A-24-0002831",
+    "lineNumber": 3,
+    "description": "Philippines - Korea Project Preparation Facility (PK-PPF), KEDCF PHL-20, Output 2 (Flood Control)",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Flood Control Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 14552500000,
+    "reviewNote": null
+  }
+]

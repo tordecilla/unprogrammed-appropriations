@@ -1,0 +1,1109 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 2,
+  "printedPage": 362,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "for each year: personnelServices, maintenanceAndOtherOperatingExpenses, capitalOutlaysAndNetLending, financialExpenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Department of Budget and Management (DBM)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Budget and Management (DBM)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1330302,
+          "maintenanceAndOtherOperatingExpenses": 1015305,
+          "capitalOutlaysAndNetLending": 197520,
+          "financialExpenses": 0,
+          "total": 2543127
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1134759,
+          "maintenanceAndOtherOperatingExpenses": 1848723,
+          "capitalOutlaysAndNetLending": 208353,
+          "financialExpenses": 0,
+          "total": 3191835
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1400696,
+          "maintenanceAndOtherOperatingExpenses": 1968893,
+          "capitalOutlaysAndNetLending": 199545,
+          "financialExpenses": 0,
+          "total": 3569134
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Budget and Management (DBM)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1270667,
+          "maintenanceAndOtherOperatingExpenses": 974526,
+          "capitalOutlaysAndNetLending": 174306,
+          "financialExpenses": 0,
+          "total": 2419499
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1083166,
+          "maintenanceAndOtherOperatingExpenses": 1788604,
+          "capitalOutlaysAndNetLending": 193957,
+          "financialExpenses": 0,
+          "total": 3065727
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1346302,
+          "maintenanceAndOtherOperatingExpenses": 1889392,
+          "capitalOutlaysAndNetLending": 147249,
+          "financialExpenses": 0,
+          "total": 3382943
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Government Procurement Policy Board",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Budget and Management (DBM)",
+        "Government Procurement Policy Board"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 59635,
+          "maintenanceAndOtherOperatingExpenses": 40779,
+          "capitalOutlaysAndNetLending": 23214,
+          "financialExpenses": 0,
+          "total": 123628
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 51593,
+          "maintenanceAndOtherOperatingExpenses": 60119,
+          "capitalOutlaysAndNetLending": 14396,
+          "financialExpenses": 0,
+          "total": 126108
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 54394,
+          "maintenanceAndOtherOperatingExpenses": 79501,
+          "capitalOutlaysAndNetLending": 52296,
+          "financialExpenses": 0,
+          "total": 186191
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "-Technical Support Office",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Budget and Management (DBM)",
+        "Government Procurement Policy Board",
+        "-Technical Support Office"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 59635,
+          "maintenanceAndOtherOperatingExpenses": 40779,
+          "capitalOutlaysAndNetLending": 23214,
+          "financialExpenses": 0,
+          "total": 123628
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 51593,
+          "maintenanceAndOtherOperatingExpenses": 60119,
+          "capitalOutlaysAndNetLending": 14396,
+          "financialExpenses": 0,
+          "total": 126108
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 54394,
+          "maintenanceAndOtherOperatingExpenses": 79501,
+          "capitalOutlaysAndNetLending": 52296,
+          "financialExpenses": 0,
+          "total": 186191
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Department of Education (DepEd)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 612281356,
+          "maintenanceAndOtherOperatingExpenses": 137275643,
+          "capitalOutlaysAndNetLending": 10422313,
+          "financialExpenses": 0,
+          "total": 759979312
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 589645545,
+          "maintenanceAndOtherOperatingExpenses": 157742574,
+          "capitalOutlaysAndNetLending": 34782915,
+          "financialExpenses": 0,
+          "total": 782171034
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 704170330,
+          "maintenanceAndOtherOperatingExpenses": 182526537,
+          "capitalOutlaysAndNetLending": 41822291,
+          "financialExpenses": 0,
+          "total": 928519158
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 611795411,
+          "maintenanceAndOtherOperatingExpenses": 135968431,
+          "capitalOutlaysAndNetLending": 9826807,
+          "financialExpenses": 0,
+          "total": 757590649
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 589240055,
+          "maintenanceAndOtherOperatingExpenses": 156080132,
+          "capitalOutlaysAndNetLending": 33922842,
+          "financialExpenses": 0,
+          "total": 779243029
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 703626302,
+          "maintenanceAndOtherOperatingExpenses": 181417644,
+          "capitalOutlaysAndNetLending": 41785695,
+          "financialExpenses": 0,
+          "total": 926829641
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "National Book Development Board",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "National Book Development Board"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 57677,
+          "maintenanceAndOtherOperatingExpenses": 180762,
+          "capitalOutlaysAndNetLending": 650,
+          "financialExpenses": 0,
+          "total": 239089
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 49297,
+          "maintenanceAndOtherOperatingExpenses": 289776,
+          "capitalOutlaysAndNetLending": 9338,
+          "financialExpenses": 0,
+          "total": 348411
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 54635,
+          "maintenanceAndOtherOperatingExpenses": 101936,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 156571
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "National Council for Children's Television",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "National Council for Children's Television"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 19131,
+          "maintenanceAndOtherOperatingExpenses": 54318,
+          "capitalOutlaysAndNetLending": 4853,
+          "financialExpenses": 0,
+          "total": 78302
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 21590,
+          "maintenanceAndOtherOperatingExpenses": 85950,
+          "capitalOutlaysAndNetLending": 4200,
+          "financialExpenses": 0,
+          "total": 111740
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 26003,
+          "maintenanceAndOtherOperatingExpenses": 46585,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 72588
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "National Museum of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "National Museum of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 306891,
+          "maintenanceAndOtherOperatingExpenses": 464830,
+          "capitalOutlaysAndNetLending": 573942,
+          "financialExpenses": 0,
+          "total": 1345663
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 241171,
+          "maintenanceAndOtherOperatingExpenses": 552444,
+          "capitalOutlaysAndNetLending": 795406,
+          "financialExpenses": 0,
+          "total": 1589021
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 350263,
+          "maintenanceAndOtherOperatingExpenses": 490724,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 840987
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Philippine High School for the Arts",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "Philippine High School for the Arts"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 42167,
+          "maintenanceAndOtherOperatingExpenses": 72556,
+          "capitalOutlaysAndNetLending": 1979,
+          "financialExpenses": 0,
+          "total": 116702
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 40982,
+          "maintenanceAndOtherOperatingExpenses": 85817,
+          "capitalOutlaysAndNetLending": 26455,
+          "financialExpenses": 0,
+          "total": 153254
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 49861,
+          "maintenanceAndOtherOperatingExpenses": 75160,
+          "capitalOutlaysAndNetLending": 35716,
+          "financialExpenses": 0,
+          "total": 160737
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Early Childhood Care and Development Council",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "Early Childhood Care and Development Council"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 16744,
+          "maintenanceAndOtherOperatingExpenses": 296895,
+          "capitalOutlaysAndNetLending": 3116,
+          "financialExpenses": 0,
+          "total": 316755
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 15295,
+          "maintenanceAndOtherOperatingExpenses": 401435,
+          "capitalOutlaysAndNetLending": 2522,
+          "financialExpenses": 0,
+          "total": 419252
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "National Academy of Sports",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "National Academy of Sports"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 43335,
+          "maintenanceAndOtherOperatingExpenses": 237851,
+          "capitalOutlaysAndNetLending": 10966,
+          "financialExpenses": 0,
+          "total": 292152
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 37155,
+          "maintenanceAndOtherOperatingExpenses": 247020,
+          "capitalOutlaysAndNetLending": 22152,
+          "financialExpenses": 0,
+          "total": 306327
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 58361,
+          "maintenanceAndOtherOperatingExpenses": 192779,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 251140
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Teacher Education Council",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Education (DepEd)",
+        "Teacher Education Council"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 4905,
+          "maintenanceAndOtherOperatingExpenses": 201709,
+          "capitalOutlaysAndNetLending": 880,
+          "financialExpenses": 0,
+          "total": 207494
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "State Universities and Colleges (SUCs)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 70682950,
+          "maintenanceAndOtherOperatingExpenses": 37102219,
+          "capitalOutlaysAndNetLending": 25635528,
+          "financialExpenses": 0,
+          "total": 133420697
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 70238541,
+          "maintenanceAndOtherOperatingExpenses": 39605181,
+          "capitalOutlaysAndNetLending": 17383782,
+          "financialExpenses": 0,
+          "total": 127227504
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 83125015,
+          "maintenanceAndOtherOperatingExpenses": 42310255,
+          "capitalOutlaysAndNetLending": 9555735,
+          "financialExpenses": 0,
+          "total": 134991005
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "National Capital Region (NCR)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 21705738,
+          "maintenanceAndOtherOperatingExpenses": 9314358,
+          "capitalOutlaysAndNetLending": 2384370,
+          "financialExpenses": 0,
+          "total": 33404466
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 21056552,
+          "maintenanceAndOtherOperatingExpenses": 10232045,
+          "capitalOutlaysAndNetLending": 1250920,
+          "financialExpenses": 0,
+          "total": 32539517
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 24418416,
+          "maintenanceAndOtherOperatingExpenses": 10507402,
+          "capitalOutlaysAndNetLending": 1922292,
+          "financialExpenses": 0,
+          "total": 36848110
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Eulogio 'Amang' Rodriguez Institute of Science and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Eulogio 'Amang' Rodriguez Institute of Science and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 247739,
+          "maintenanceAndOtherOperatingExpenses": 192016,
+          "capitalOutlaysAndNetLending": 24802,
+          "financialExpenses": 0,
+          "total": 464557
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 279299,
+          "maintenanceAndOtherOperatingExpenses": 194363,
+          "capitalOutlaysAndNetLending": 5000,
+          "financialExpenses": 0,
+          "total": 478662
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 327337,
+          "maintenanceAndOtherOperatingExpenses": 193549,
+          "capitalOutlaysAndNetLending": 23058,
+          "financialExpenses": 0,
+          "total": 543944
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Marikina Polytechnic College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Marikina Polytechnic College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 155189,
+          "maintenanceAndOtherOperatingExpenses": 46063,
+          "capitalOutlaysAndNetLending": 24249,
+          "financialExpenses": 0,
+          "total": 225501
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 160646,
+          "maintenanceAndOtherOperatingExpenses": 101365,
+          "capitalOutlaysAndNetLending": 5000,
+          "financialExpenses": 0,
+          "total": 267011
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 208297,
+          "maintenanceAndOtherOperatingExpenses": 115814,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 332111
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Philippine Normal University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Philippine Normal University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 694029,
+          "maintenanceAndOtherOperatingExpenses": 214265,
+          "capitalOutlaysAndNetLending": 14978,
+          "financialExpenses": 0,
+          "total": 923272
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 738033,
+          "maintenanceAndOtherOperatingExpenses": 293583,
+          "capitalOutlaysAndNetLending": 238050,
+          "financialExpenses": 0,
+          "total": 1269666
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 859922,
+          "maintenanceAndOtherOperatingExpenses": 274729,
+          "capitalOutlaysAndNetLending": 449685,
+          "financialExpenses": 0,
+          "total": 1584336
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Philippine State College of Aeronautics",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Philippine State College of Aeronautics"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 176364,
+          "maintenanceAndOtherOperatingExpenses": 132517,
+          "capitalOutlaysAndNetLending": 24937,
+          "financialExpenses": 0,
+          "total": 333818
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 191239,
+          "maintenanceAndOtherOperatingExpenses": 265413,
+          "capitalOutlaysAndNetLending": 48000,
+          "financialExpenses": 0,
+          "total": 504652
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 216915,
+          "maintenanceAndOtherOperatingExpenses": 265354,
+          "capitalOutlaysAndNetLending": 48000,
+          "financialExpenses": 0,
+          "total": 530269
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Polytechnic University of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Polytechnic University of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1894206,
+          "maintenanceAndOtherOperatingExpenses": 935979,
+          "capitalOutlaysAndNetLending": 25577,
+          "financialExpenses": 0,
+          "total": 2855762
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1543699,
+          "maintenanceAndOtherOperatingExpenses": 1531192,
+          "capitalOutlaysAndNetLending": 463341,
+          "financialExpenses": 0,
+          "total": 3538232
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1958751,
+          "maintenanceAndOtherOperatingExpenses": 1544791,
+          "capitalOutlaysAndNetLending": 259311,
+          "financialExpenses": 0,
+          "total": 3762853
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Rizal Technological University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Rizal Technological University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 395977,
+          "maintenanceAndOtherOperatingExpenses": 393579,
+          "capitalOutlaysAndNetLending": 22940,
+          "financialExpenses": 0,
+          "total": 812496
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 462601,
+          "maintenanceAndOtherOperatingExpenses": 451455,
+          "capitalOutlaysAndNetLending": 22500,
+          "financialExpenses": 0,
+          "total": 936556
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 524728,
+          "maintenanceAndOtherOperatingExpenses": 434749,
+          "capitalOutlaysAndNetLending": 150500,
+          "financialExpenses": 0,
+          "total": 1109977
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Technological University of the Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Technological University of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 725978,
+          "maintenanceAndOtherOperatingExpenses": 464597,
+          "capitalOutlaysAndNetLending": 13247,
+          "financialExpenses": 0,
+          "total": 1203822
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 847558,
+          "maintenanceAndOtherOperatingExpenses": 584485,
+          "capitalOutlaysAndNetLending": 25000,
+          "financialExpenses": 0,
+          "total": 1457043
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 968660,
+          "maintenanceAndOtherOperatingExpenses": 586394,
+          "capitalOutlaysAndNetLending": 19860,
+          "financialExpenses": 0,
+          "total": 1574914
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "University of the Philippines System",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "University of the Philippines System"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 17416256,
+          "maintenanceAndOtherOperatingExpenses": 6935342,
+          "capitalOutlaysAndNetLending": 2233640,
+          "financialExpenses": 0,
+          "total": 26585238
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 16809511,
+          "maintenanceAndOtherOperatingExpenses": 6777189,
+          "capitalOutlaysAndNetLending": 431529,
+          "financialExpenses": 0,
+          "total": 24018229
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 19326694,
+          "maintenanceAndOtherOperatingExpenses": 7059022,
+          "capitalOutlaysAndNetLending": 950000,
+          "financialExpenses": 0,
+          "total": 27335716
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Philippine Energy Research and Policy Institute",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "State Universities and Colleges (SUCs)",
+        "National Capital Region (NCR)",
+        "Philippine Energy Research and Policy Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 23966,
+          "maintenanceAndOtherOperatingExpenses": 33000,
+          "capitalOutlaysAndNetLending": 12500,
+          "financialExpenses": 0,
+          "total": 69466
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 27112,
+          "maintenanceAndOtherOperatingExpenses": 33000,
+          "capitalOutlaysAndNetLending": 13878,
+          "financialExpenses": 0,
+          "total": 73990
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Region I - Ilocos",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region I - Ilocos"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 3768159,
+          "maintenanceAndOtherOperatingExpenses": 1293577,
+          "capitalOutlaysAndNetLending": 1673849,
+          "financialExpenses": 0,
+          "total": 6735585
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 3733756,
+          "maintenanceAndOtherOperatingExpenses": 1485490,
+          "capitalOutlaysAndNetLending": 343650,
+          "financialExpenses": 0,
+          "total": 5562896
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 4396048,
+          "maintenanceAndOtherOperatingExpenses": 1593431,
+          "capitalOutlaysAndNetLending": 781805,
+          "financialExpenses": 0,
+          "total": 6771284
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 2,
+      "printedPage": 362,
+      "particulars": "Don Mariano Marcos Memorial State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region I - Ilocos",
+        "Don Mariano Marcos Memorial State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1053117,
+          "maintenanceAndOtherOperatingExpenses": 354305,
+          "capitalOutlaysAndNetLending": 92666,
+          "financialExpenses": 0,
+          "total": 1500088
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1106169,
+          "maintenanceAndOtherOperatingExpenses": 352530,
+          "capitalOutlaysAndNetLending": 90000,
+          "financialExpenses": 0,
+          "total": 1548699
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1250061,
+          "maintenanceAndOtherOperatingExpenses": 354930,
+          "capitalOutlaysAndNetLending": 234200,
+          "financialExpenses": 0,
+          "total": 1839191
+        }
+      }
+    }
+  ]
+}

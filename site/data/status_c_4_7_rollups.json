@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 44897747950,
+        "CO": 155131103931,
+        "Total": 200028851881
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Budgetary Support to Government-Owned and/or -Controlled Corporations (BSGCs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 10157162000,
+        "Total": 10157162000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Support to Foreign-Assisted Projects (FAPs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 14475935124,
+        "CO": 112585241892,
+        "Total": 127061177016
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Public Health Emergency Benefits and Allowances for Health Care and Non-Health Care Workers",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 27453233268,
+        "Total": 27453233268
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Panay-Guimaras-Negros (PGN) Island Bridges Project",
+      "unit": "pesos",
+      "amounts": {
+        "CO": 3000003000,
+        "Total": 3000003000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 5,
+      "printedPage": 5,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Priority Social Programs for Health, Social Welfare and Development, Higher Education and Technical Vocational Education",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 10000000000,
+        "CO": 9169664755,
+        "Total": 19169664755
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 5,
+      "printedPage": 5,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Revised AFP Modernization Program",
+      "unit": "pesos",
+      "amounts": {
+        "CO": 10000000000,
+        "Total": 10000000000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 5,
+      "printedPage": 5,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "For Payment of Right-of-Way",
+      "unit": "pesos",
+      "amounts": {
+        "CO": 3004558017,
+        "Total": 3004558017
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 5,
+      "printedPage": 5,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Maintenance, Repair and Rehabilitation of Infrastructure Facilities (Routine Maintenance of National Roads)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 13500000000,
+        "Total": 13500000000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 5,
+      "printedPage": 5,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "For Government Counterpart of Foreign-Assisted Projects",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 102037000,
+        "MOOE": 6904636317,
+        "CO": 33870840371,
+        "Total": 40877513688
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 24270561197,
+        "FY 2022 PBB": 10834041613,
+        "Other PS Deficiencies": 21789596369,
+        "Total": 56894199179
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Pension": 1032479678,
+        "Terminal Leave/Retirement Gratuity": 7341022054,
+        "Monetization of Leave Credits": 244048122,
+        "Separation Incentives": 45441228,
+        "Total": 8662991082
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Management and Supervision of the Comprehensive Peace Process",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 15559189,
+        "Total": 15559189
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Financial Subsidy for Purchase of Photovoltaic Mainstreaming (Solar Home System) for Rural Electrification",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 3000000000,
+        "Total": 3000000000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 7,
+      "printedPage": 7,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Cold Storage Expansion Project",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 25000000,
+        "CO": 1475000000,
+        "Total": 1500000000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 7,
+      "printedPage": 7,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Support to the Barangay Development Program of the NTF-ELCAC",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 4320000000,
+        "Total": 4320000000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 7,
+      "printedPage": 7,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Fiscal Support Arrearages for Comprehensive Automotive Resurgence Strategy (CARS) Program",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 410824940,
+        "Total": 410824940
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 7,
+      "printedPage": 7,
+      "scope": "GRAND TOTAL",
+      "agency": "All agencies",
+      "category": "Marawi Siege Victims Compensation Program",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 2318397600,
+        "Total": 2318397600
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DAR - Office of the Secretary",
+      "category": "Support to Foreign-Assisted Projects (FAPs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 2804197000,
+        "CO": 79998000,
+        "Total": 2884195000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 5,
+      "printedPage": 5,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DAR - Office of the Secretary",
+      "category": "For Government Counterpart of Foreign-Assisted Projects",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 93237000,
+        "MOOE": 720254000,
+        "Total": 813491000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DAR - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 14854480,
+        "Monetization of Leave Credits": 1294925,
+        "Total": 16149405
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "Various SAROs issued in November aggregate",
+      "agency": "DAR - Office of the Secretary",
+      "category": "For payment of monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Monetization of Leave Credits": 2361394,
+        "Total": 2361394
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DAR - Office of the Secretary",
+      "category": "For payment of PS Deficiency FY 2024 and PBB FY 2022",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 924934,
+        "Other PS Deficiencies": 374055000,
+        "Total": 374979934
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DAR - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 26657198,
+        "Monetization of Leave Credits": 792970,
+        "Total": 27450168
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 7,
+      "printedPage": 7,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DAR - Office of the Secretary",
+      "category": "Total across printed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 514177901,
+        "MOOE": 3524451000,
+        "CO": 79998000,
+        "Total": 4118626901
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "Department subtotal",
+      "agency": "DA",
+      "category": "Program total",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 17625963950,
+        "Total": 17625963950
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "Department subtotal",
+      "agency": "DA",
+      "category": "Support to Foreign-Assisted Projects (FAPs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 3094008327,
+        "CO": 6827525920,
+        "Total": 9921534247
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 4,
+      "printedPage": 4,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DA - Office of the Secretary",
+      "category": "For Government Counterpart of Foreign-Assisted Projects",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 2108562079,
+        "CO": 6137208920,
+        "Total": 8245770999
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 5,
+      "printedPage": 5,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DA - Office of the Secretary",
+      "category": "For Government Counterpart of Foreign-Assisted Projects",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 528842327,
+        "CO": 775507000,
+        "Total": 1304349327
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "Department subtotal",
+      "agency": "DA",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 2922000,
+        "FY 2022 PBB": 8447162,
+        "Other PS Deficiencies": 231865206,
+        "Total": 243234368
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 6,
+      "printedPage": 6,
+      "scope": "Department subtotal",
+      "agency": "DA",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 47675673,
+        "Monetization of Leave Credits": 9468448,
+        "Total": 57144121
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 7,
+      "printedPage": 7,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DA - Office of the Secretary",
+      "category": "Total across printed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 119366688,
+        "MOOE": 20288368356,
+        "CO": 8387715920,
+        "Total": 28795450964
+      }
+    }
+  ]
+}

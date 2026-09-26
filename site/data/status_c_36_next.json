@@ -1,0 +1,314 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0018548",
+    "date": "2024-12-03",
+    "department": "DOH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the FY 2024 Government Counterpart of the Philippine Multisectoral Nutrition Project (PMNP) under Loan Agreement No. 9382-PH",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "MOOE",
+        "amountPesos": 138792140,
+        "pdfPage": 37
+      }
+    ],
+    "reportedTotalPesos": 138792140,
+    "reviewNote": "The department and agency labels are not repeated beside this continuation row on page 36; DOH / Office of the Secretary carries forward from the preceding table page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0019382",
+    "date": "2024-12-23",
+    "department": "DOH",
+    "agency": "Philippine National AIDS Council",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 881408,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 881408,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0019242",
+    "date": "2024-12-20",
+    "department": "DOH",
+    "agency": "National Nutrition Council",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 361918,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 361918,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0016730",
+    "date": "2024-10-11",
+    "department": "DHSUD",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 4513888,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 4513888,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0017580",
+    "date": "2024-11-08",
+    "department": "DHSUD",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of PS Deficiency FY 2024",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 36320175,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 36320175,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0019236",
+    "date": "2024-12-19",
+    "department": "DHSUD",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of PS Deficiency FY 2024",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 12649312,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 12649312,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0016726",
+    "date": "2024-10-28",
+    "department": "DHSUD",
+    "agency": "Human Settlements Adjudication Commission",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 719825,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 719825,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0019238",
+    "date": "2024-12-19",
+    "department": "DHSUD",
+    "agency": "Human Settlements Adjudication Commission",
+    "purpose": "For Payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 5285196,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 5285196,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-B-24-0018594",
+    "date": "2024-12-04",
+    "department": "DHSUD",
+    "agency": "Human Settlements Adjudication Commission",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 506056,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 506056,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-E-24-0016728",
+    "date": "2024-10-11",
+    "department": "DICT",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 3373152,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 3373152,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-E-24-0018877",
+    "date": "2024-12-12",
+    "department": "DICT",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 62675967,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 62675967,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 36,
+    "sourcePages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "printedPage": 36,
+    "saroNumber": "SARO-BMB-E-24-0016729",
+    "date": "2024-10-11",
+    "department": "DICT",
+    "agency": "National Privacy Commission",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 130150,
+        "pdfPage": 38
+      }
+    ],
+    "reportedTotalPesos": 130150,
+    "reviewNote": null
+  }
+]

@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "DHSUD",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 82851893,
+        "Total": 82851893
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "DHSUD",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 6624716,
+        "Monetization of Leave Credits": 1156802,
+        "Total": 7781518
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "Human Settlements Adjudication Commission",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 33882406,
+        "Total": 33882406
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "Human Settlements Adjudication Commission",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 1558424,
+        "Total": 1558424
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "DICT",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 346299,
+        "Other PS Deficiencies": 80084143,
+        "Total": 80430442
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "DICT",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 9811934,
+        "Monetization of Leave Credits": 608586,
+        "Total": 10420520
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "National Privacy Commission",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 346299,
+        "Total": 346299
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Agency/department subtotal",
+      "agency": "National Privacy Commission",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Monetization of Leave Credits": 366367,
+        "Total": 366367
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 39,
+      "printedPage": 39,
+      "scope": "Department subtotal",
+      "agency": "DHSUD",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 90633411,
+        "Total": 90633411
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 39,
+      "printedPage": 39,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DHSUD - Office of the Secretary",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 55192581,
+        "Total": 55192581
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 39,
+      "printedPage": 39,
+      "scope": "Department subtotal",
+      "agency": "DICT",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 90850962,
+        "Total": 90850962
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 39,
+      "printedPage": 39,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DICT - Office of the Secretary",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 68490142,
+        "Total": 68490142
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Various SAROs issued in November aggregate",
+      "agency": "DHSUD - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 552404,
+        "Monetization of Leave Credits": 1156802,
+        "Total": 1709206
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Various SAROs issued in November aggregate",
+      "agency": "DICT - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 658049,
+        "Monetization of Leave Credits": 113412,
+        "Total": 771461
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 38,
+      "printedPage": 38,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DICT - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 1540755,
+        "Monetization of Leave Credits": 128807,
+        "Total": 1669562
+      }
+    }
+  ]
+}

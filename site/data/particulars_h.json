@@ -1,0 +1,98 @@
+[
+  {
+    "documentId": "H-p001",
+    "saroNumber": "SARO-BMB-B-26-0000181",
+    "pageStart": 1,
+    "department": "Department of Social Welfare and Development (DSWD)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "20 001 0100000 (B1420)",
+    "fundingSource": "Foreign Assisted Projects Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "02 1 05 428",
+    "formPurpose": "To cover the funding requirements for the implementation of the Panahon ng Pagkilos: Philippine Community Resilience Project (PCRP) under Loan Agreement No. 98460-PH dated September 8, 2025, foreign loan assistance from International Bank for Reconstruction and Development.",
+    "totalAmountPesos": 9553523000,
+    "validUntil": "December 31, 2027",
+    "particulars": [
+      {"mfoPapCode":"409902000000000","description":"Maintenance and Other Operating Expenses","programPath":["Support to Foreign-Assisted Projects"],"objectCode":"5020000000 00","amountPesos":9496523000},
+      {"mfoPapCode":"409902000000000","description":"Office Equipment","programPath":["Support to Foreign-Assisted Projects","Capital Outlays"],"objectCode":"5060405002","amountPesos":80000},
+      {"mfoPapCode":"409902000000000","description":"Information and Communication Technology Equipment","programPath":["Support to Foreign-Assisted Projects","Capital Outlays"],"objectCode":"5060405003","amountPesos":54332180},
+      {"mfoPapCode":"409902000000000","description":"ICT Software","programPath":["Support to Foreign-Assisted Projects","Capital Outlays"],"objectCode":"5060405015","amountPesos":587820},
+      {"mfoPapCode":"409902000000000","description":"Motor Vehicles","programPath":["Support to Foreign-Assisted Projects","Capital Outlays"],"objectCode":"5060406001","amountPesos":2000000}
+    ]
+  },
+  {
+    "documentId": "H-p003",
+    "saroNumber": "SARO-BMB-A-26-0000542",
+    "pageStart": 3,
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "38 001 0100000 (B5082)",
+    "fundingSource": "Foreign Assisted Projects Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "02 1 05 428",
+    "formPurpose": "To cover the loan proceeds requirements for the implementation of the New Communications, Navigation and Surveillance/Air Traffic Management (CNS/ATM) Systems Development Project which is finance by the Japan International Cooperation Agency under Loan Agreement No. PH-P228.",
+    "totalAmountPesos": 736701928,
+    "validUntil": "December 31, 2027",
+    "particulars": [
+      {"mfoPapCode":"409902000000000","description":"Airport Systems","programPath":["Support to Foreign-Assisted Projects","Capital Outlays"],"objectCode":"5060403008","amountPesos":736701928}
+    ]
+  },
+  {
+    "documentId": "H-p004-005",
+    "saroNumber": "SARO-BMB-A-26-0000984",
+    "pageStart": 4,
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "38 001 0100000 (B5082)",
+    "fundingSource": "Foreign Assisted Projects Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "02 1 05 428",
+    "formPurpose": "To cover the Loan Proceeds requirement for the implementation of the North-South Commuter Railway System, as financed by Asian Development Bank under Loan Agreement Nos. 3796-PHI, 4188-PHI and 4589-PHI.",
+    "totalAmountPesos": 22881267144,
+    "validUntil": "December 31, 2027",
+    "particulars": [
+      {"mfoPapCode":"310102300008000","description":"Railway Systems","programPath":["Operations","OO : Rail transport services improved","RAIL TRANSPORT PROGRAM","RAILWAY CONSTRUCTION, REHABILITATION AND IMPROVEMENT SUB-PROGRAM","Foreign-Assisted Project(s)","North-South Commuter Railway (NSCR) System ADB Loan Nos. 3796-PHI and 4188-PHI, and JICA Loan Nos. PH-P262, PH-P270, PH-P277 and PH-P276","Capital Outlays"],"objectCode":"5060403010","amountPesos":22881267144}
+    ]
+  },
+  {
+    "documentId": "H-p007-008",
+    "saroNumber": "SARO-BMB-A-26-0000983",
+    "pageStart": 7,
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "38 001 0100000 (B5082)",
+    "fundingSource": "Foreign Assisted Projects Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "02 1 05 428",
+    "formPurpose": "To cover the Loan Proceeds requirements for the implementation of the Metro Manila Subway Project Phase I and North-South Commuter Railway System, as financed by Japan International Cooperation Agency under Loan Agreement Nos. PH-P267/PH-P275/PH-P279 and PH-P262/PH-P270/PH-P276/PH-P277, respectively.",
+    "totalAmountPesos": 21283933178,
+    "validUntil": "December 31, 2027",
+    "particulars": [
+      {"mfoPapCode":"310102300004000","description":"Railway Systems","programPath":["Operations","OO : Rail transport services improved","RAIL TRANSPORT PROGRAM","RAILWAY CONSTRUCTION, REHABILITATION AND IMPROVEMENT SUB-PROGRAM","Foreign-Assisted Project(s)","Metro Manila Subway Project (MMSP) Phase I JICA Loan Nos. PH-P267, PH-P275 and PH-P279","Capital Outlays"],"objectCode":"5060403010","amountPesos":7094879303},
+      {"mfoPapCode":"310102300008000","description":"Railway Systems","programPath":["Operations","OO : Rail transport services improved","RAIL TRANSPORT PROGRAM","RAILWAY CONSTRUCTION, REHABILITATION AND IMPROVEMENT SUB-PROGRAM","Foreign-Assisted Project(s)","North-South Commuter Railway (NSCR) System JICA Loan Nos. PH-P262, PH-P270, PH-P277 and PH-P276","Capital Outlays"],"objectCode":"5060403010","amountPesos":14189053875}
+    ]
+  },
+  {
+    "documentId": "H-p009",
+    "saroNumber": "SARO-BMB-C-26-0000410",
+    "pageStart": 9,
+    "department": "Other Executive Offices (OEOs)",
+    "agency": "Philippine Competition Commission",
+    "operatingUnit": null,
+    "locality": null,
+    "orgCode": "26 038 0000000",
+    "fundingSource": "Foreign Assisted Projects Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "02 1 05 428",
+    "formPurpose": "To cover the loan proceeds requirements of PCC’s Foreign-Assisted Project, or the \"Capacity Building to Foster Competition Project\".",
+    "totalAmountPesos": 326048000,
+    "validUntil": "December 31, 2027",
+    "particulars": [
+      {"mfoPapCode":"409902000000000","description":"Maintenance and Other Operating Expenses","programPath":["Support to Foreign-Assisted Projects"],"objectCode":"5020000000 00","amountPesos":323399000},
+      {"mfoPapCode":"409902000000000","description":"Office Equipment","programPath":["Support to Foreign-Assisted Projects","Capital Outlays"],"objectCode":"5060405002","amountPesos":2649000}
+    ]
+  }
+]

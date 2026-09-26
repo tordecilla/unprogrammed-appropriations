@@ -1,0 +1,884 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0017754",
+    "date": "2024-11-14",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of the LRT Line 1 South (Cavite) Extension Project as financed by the Japan International Cooperation Agency under Loan Agreement No. PH-P255.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 1958253760,
+        "pdfPage": 112
+      }
+    ],
+    "reportedTotalPesos": 1958253760,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0013456",
+    "date": "2024-09-10",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Civil Aeronautics Board",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 3413000,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 3413000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0017041",
+    "date": "2024-10-21",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Civil Aeronautics Board",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 323464,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 323464,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0018484",
+    "date": "2024-12-02",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Civil Aeronautics Board",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1611258,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 1611258,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0017040",
+    "date": "2024-10-21",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Maritime Industry Authority (MARINA)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 303542,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 303542,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0018446",
+    "date": "2024-11-29",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Maritime Industry Authority (MARINA)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1734723,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 1734723,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0018938",
+    "date": "2024-12-13",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Maritime Industry Authority (MARINA)",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 7037146,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 7037146,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0013458",
+    "date": "2024-09-10",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of Transportation Cooperatives",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1122000,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 1122000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0013460",
+    "date": "2024-09-10",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office for Transportation Security",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 6237000,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 6237000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0018332",
+    "date": "2024-11-28",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office for Transportation Security",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 16086851,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 16086851,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0018129",
+    "date": "2024-11-22",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office for Transportation Security",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 863121,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 863121,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0013462",
+    "date": "2024-09-10",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Philippine Coast Guard",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 5992000,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 5992000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0018352",
+    "date": "2024-11-28",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Philippine Coast Guard",
+    "purpose": "For payment of retirement gratuity/terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 58405379,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 58405379,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0018768",
+    "date": "2024-12-10",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Philippine Coast Guard",
+    "purpose": "For payment of retirement gratuity/terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 8346555,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 8346555,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0013463",
+    "date": "2024-09-10",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Toll Regulatory Board",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 920000,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 920000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 112,
+    "sourcePages": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "printedPage": 112,
+    "saroNumber": "SARO-BMB-A-24-0017657",
+    "date": "2024-11-12",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Toll Regulatory Board",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1253696,
+        "pdfPage": 114
+      }
+    ],
+    "reportedTotalPesos": 1253696,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-A-24-0013378",
+    "date": "2024-09-10",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Anti-Red Tape Authority",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 7845000,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 7845000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-A-24-0017307",
+    "date": "2024-10-29",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Anti-Red Tape Authority",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 155621,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 155621,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-A-24-0017740",
+    "date": "2024-11-14",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Anti-Red Tape Authority",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 169115,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 169115,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-A-24-0018170",
+    "date": "2024-11-25",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Anti-Red Tape Authority",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 50069180,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 50069180,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-E-24-0018362",
+    "date": "2024-11-28",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Climate Change Commission",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 259679,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 259679,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-D-24-0017621",
+    "date": "2024-11-11",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Commission on Filipinos Overseas",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 4016215,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 4016215,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-F-24-0019287",
+    "date": "2024-12-20",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Commission on Higher Education",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 14370022,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 14370022,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-D-24-0018062",
+    "date": "2024-11-21",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Dangerous Drugs Board",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 4869901,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 4869901,
+    "reviewNote": "Printed purpose says FY2024 PS Deficiency, while p118 puts the amount in the Salary Increase column; transcribed from the visible allocation cell."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-D-24-0018277",
+    "date": "2024-11-27",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Dangerous Drugs Board",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 66975,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 66975,
+    "reviewNote": "Printed purpose says monetization of leave credits, while p118 puts the amount in the Terminal Leave/Retirement Gratuity column; transcribed from the visible allocation cell."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-E-24-0016802",
+    "date": "2024-10-16",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Energy Regulatory Commission",
+    "purpose": "FY 2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 66968694,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 66968694,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-E-24-0017701",
+    "date": "2024-11-13",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Energy Regulatory Commission",
+    "purpose": "For payment of FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 160978,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 160978,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-E-24-0017795",
+    "date": "2024-11-15",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Energy Regulatory Commission",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1180445,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 1180445,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-A-24-0013102",
+    "date": "2024-09-10",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Film Development Council of the Philippines",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 972000,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 972000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-A-24-0016743",
+    "date": "2024-10-11",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Film Development Council of the Philippines",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1100565,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 1100565,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-A-24-0017800",
+    "date": "2024-11-15",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Film Development Council of the Philippines",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 55537,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 55537,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 116,
+    "sourcePages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "printedPage": 116,
+    "saroNumber": "SARO-BMB-C-24-0018896",
+    "date": "2024-12-13",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Games and Amusements Board",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 2023997,
+        "pdfPage": 118
+      }
+    ],
+    "reportedTotalPesos": 2023997,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-C-24-0018703",
+    "date": "2024-12-09",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Games and Amusements Board",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 2319228,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 2319228,
+    "reviewNote": "Top row on p120 continues the Games and Amusements Board sequence from p119; its p122 TL amount matches the p119 agency PGF subtotal."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-D-24-0017618",
+    "date": "2024-11-11",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Office of the Presidential Adviser on Peace, Reconciliation and Unity",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 50354597,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 50354597,
+    "reviewNote": "The separate Management and Supervision of Comprehensive Peace Process subtotal of ?15,559,189 is attributable to SARO-BMB-D-24-0005929 on p123/p126; it is not part of this SARO."
+  }
+]

@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 14,
+      "printedPage": 14,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DBM - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2161786,
+        "Monetization of Leave Credits": 3012098,
+        "Total": 5173884
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 14,
+      "printedPage": 14,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DBM - Office of the Secretary",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 26722777,
+        "Terminal Leave/Retirement Gratuity": 4074324,
+        "Monetization of Leave Credits": 13408586,
+        "Total": 44205687
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 14,
+      "printedPage": 14,
+      "scope": "Department subtotal",
+      "agency": "DBM",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 27957903,
+        "Terminal Leave/Retirement Gratuity": 4074324,
+        "Monetization of Leave Credits": 13408586,
+        "Total": 45440813
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Department subtotal",
+      "agency": "DA",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 300378489,
+        "MOOE": 21354860604,
+        "CO": 9089136920,
+        "Total": 30744376013
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Agency subtotal",
+      "agency": "National Meat Inspection Service",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 28896235,
+        "Total": 28896235
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Agency subtotal",
+      "agency": "National Fisheries Research and Development Institute",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 7796735,
+        "Total": 7796735
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Carabao Center",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 21447534,
+        "MOOE": 187040000,
+        "Total": 208487534
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Center for Post-Harvest Development and Mechanization",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 148610,
+        "Total": 148610
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Fiber Industry Development Authority",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 18255769,
+        "Total": 18255769
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Council for Agriculture and Fisheries",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 628706,
+        "MOOE": 9986248,
+        "Total": 10614954
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DBM - Office of the Secretary",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 44205687,
+        "Total": 44205687
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 15,
+      "printedPage": 15,
+      "scope": "Department subtotal",
+      "agency": "DBM",
+      "category": "All visible categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 45440813,
+        "Total": 45440813
+      }
+    }
+  ]
+}

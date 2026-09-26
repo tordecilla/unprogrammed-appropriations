@@ -1,0 +1,14 @@
+﻿[
+  {"annexId":"B","type":"saro","pageStart":155,"pageEnd":155,"saroNumber":"SARO-BMB-A-24-0017785","confidence":"high"},
+  {"annexId":"B","type":"advice","pageStart":156,"pageEnd":156,"saroNumber":"SARO-BMB-A-24-0017785","relatedSaroNumber":"SARO-BMB-A-24-0017785","confidence":"high"},
+  {"annexId":"B","type":"attachment","pageStart":157,"pageEnd":194,"saroNumber":"SARO-BMB-A-24-0017785","confidence":"high","note":"Annex A schedule, pages 1-38 of 38."},
+  {"annexId":"B","type":"attachment","pageStart":195,"pageEnd":205,"saroNumber":"SARO-BMB-A-24-0017785","confidence":"high","note":"Annex B schedule, pages 1-11 of 11."},
+  {"annexId":"B","type":"attachment","pageStart":206,"pageEnd":206,"saroNumber":"SARO-BMB-A-24-0017785","confidence":"medium","note":"Annex C schedule begins on this page; visible footer says page 1 of 1."},
+  {"annexId":"H","type":"saro","pageStart":1,"pageEnd":1,"saroNumber":"SARO-BMB-B-26-0000181","confidence":"high"},
+  {"annexId":"H","type":"advice","pageStart":2,"pageEnd":2,"saroNumber":"SARO-BMB-B-26-0000181","relatedSaroNumber":"SARO-BMB-B-26-0000181","confidence":"high"},
+  {"annexId":"H","type":"saro","pageStart":3,"pageEnd":3,"saroNumber":"SARO-BMB-A-26-0000542","confidence":"high"},
+  {"annexId":"H","type":"saro","pageStart":4,"pageEnd":5,"saroNumber":"SARO-BMB-A-26-0000984","confidence":"high"},
+  {"annexId":"H","type":"advice","pageStart":6,"pageEnd":6,"saroNumber":"SARO-BMB-A-26-0000984","relatedSaroNumber":"SARO-BMB-A-26-0000983","confidence":"medium","note":"Advice summarizes multiple SAROs; page 6 mentions the North-South Commuter Railway and Metro Manila Subway, connecting it to SAROs 0000984 and 0000983."},
+  {"annexId":"H","type":"saro","pageStart":7,"pageEnd":8,"saroNumber":"SARO-BMB-A-26-0000983","confidence":"high"},
+  {"annexId":"H","type":"saro","pageStart":9,"pageEnd":9,"saroNumber":"SARO-BMB-C-26-0000410","confidence":"high"}
+]

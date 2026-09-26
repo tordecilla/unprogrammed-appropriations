@@ -1,0 +1,639 @@
+[
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-A-25-0011034",
+    "date": "2025-06-10",
+    "department": "Department of Public Works and Highways",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2025 loan proceeds requirements of Asian Development Bank assisted projects.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 44223031000,
+        "pdfPage": 17
+      }
+    ],
+    "reportedTotalPesos": 44223031000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-A-25-0011040",
+    "date": "2025-06-10",
+    "department": "Department of Public Works and Highways",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2025 loan proceeds requirements of an Asian Development Bank assisted project.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 150000000,
+        "pdfPage": 17
+      }
+    ],
+    "reportedTotalPesos": 150000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-A-25-0011037",
+    "date": "2025-06-10",
+    "department": "Department of Public Works and Highways",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2025 loan proceeds requirements of The Export-Import Bank of China assisted projects.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 1870220000,
+        "pdfPage": 17
+      }
+    ],
+    "reportedTotalPesos": 1870220000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-A-25-0011038",
+    "date": "2025-06-10",
+    "department": "Department of Public Works and Highways",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2025 loan proceeds requirements of International Bank for Reconstruction and Development assisted projects.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 3056354000,
+        "pdfPage": 17
+      }
+    ],
+    "reportedTotalPesos": 3056354000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-A-25-0011035",
+    "date": "2025-06-10",
+    "department": "Department of Public Works and Highways",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2025 loan proceeds requirements of Japan International Cooperation Agency assisted projects.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 6983403000,
+        "pdfPage": 17
+      }
+    ],
+    "reportedTotalPesos": 6983403000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-A-25-0011036",
+    "date": "2025-06-10",
+    "department": "Department of Public Works and Highways",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2025 loan proceeds requirements of Korea Economic Development Cooperation Fund assisted projects.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 493301000,
+        "pdfPage": 17
+      }
+    ],
+    "reportedTotalPesos": 493301000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-A-25-0011039",
+    "date": "2025-06-10",
+    "department": "Department of Public Works and Highways",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2025 loan proceeds requirement of an Asian Infrastructure Investment Bank assisted project.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 2069088000,
+        "pdfPage": 17
+      }
+    ],
+    "reportedTotalPesos": 2069088000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018421",
+    "date": "2025-12-15",
+    "department": "Department of Science and Technology",
+    "agency": "Industrial Technology Development Institute",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 20191957,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 20191957,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018423",
+    "date": "2025-12-15",
+    "department": "Department of Science and Technology",
+    "agency": "Metals Industry Research and Development Center",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 7896879,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 7896879,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018515",
+    "date": "2025-12-15",
+    "department": "Department of Science and Technology",
+    "agency": "National Research Council of the Philippines",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 610544,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 610544,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018367",
+    "date": "2025-12-12",
+    "department": "Department of Science and Technology",
+    "agency": "Philippine Atmospheric, Geophysical and Astronomical Services Administration",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 59950466,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 59950466,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0019077",
+    "date": "2025-12-22",
+    "department": "Department of Science and Technology",
+    "agency": "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+    "purpose": "FY 2023 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2023 PBB",
+        "amountPesos": 4392866,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 4392866,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018408",
+    "date": "2025-12-12",
+    "department": "Department of Science and Technology",
+    "agency": "Philippine Institute of Volcanology and Seismology",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 2492745,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 2492745,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018000",
+    "date": "2025-12-09",
+    "department": "Department of Science and Technology",
+    "agency": "Philippine Science High School System",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "MLC",
+        "amountPesos": 665800,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 665800,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 17,
+    "printedPage": 17,
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018810",
+    "date": "2025-12-18",
+    "department": "Department of Science and Technology",
+    "agency": "Science Education Institute",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 4252673,
+        "pdfPage": 19
+      }
+    ],
+    "reportedTotalPesos": 4252673,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-F-25-0018599",
+    "date": "2025-12-17",
+    "department": "Department of Science and Technology",
+    "agency": "Science and Technology Information Institute",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 6298129,
+        "pdfPage": 22
+      }
+    ],
+    "reportedTotalPesos": 6298129,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0011929",
+    "date": "2025-07-07",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 9168-PH, Beneficiary FIRST ? Fast, Innovative, and Responsive Service Transformation (Emergency Social Protection Project).",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "MOOE",
+        "amountPesos": 192980000,
+        "pdfPage": 20
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 357217373,
+        "pdfPage": 20
+      }
+    ],
+    "reportedTotalPesos": 550197373,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0015681",
+    "date": "2025-10-13",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the implementation of Assistance to Individuals in Crisis Situations Program.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 5000000000,
+        "pdfPage": 20
+      }
+    ],
+    "reportedTotalPesos": 5000000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0016171",
+    "date": "2025-10-30",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the first year implementation of the Reducing Food Insecurity and Undernutrition with Electronic Vouchers (REFUEL) Project under Loan Agreement No. 4616-PHI dated August 28, 2025, foreign loan assistance from Asian Development Bank.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "MOOE",
+        "amountPesos": 6354938538,
+        "pdfPage": 20
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 30975711,
+        "pdfPage": 20
+      }
+    ],
+    "reportedTotalPesos": 6385914249,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0016267",
+    "date": "2025-11-04",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the implementation of Pantawid Pamilyang Pilipino Program.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 3501727150,
+        "pdfPage": 20
+      }
+    ],
+    "reportedTotalPesos": 3501727150,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0017179",
+    "date": "2025-11-04",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Office of the Secretary",
+    "purpose": "The additional funding requirements for the implementation of Assistance to Individuals in Crisis Situations Program.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 5000000000,
+        "pdfPage": 20
+      }
+    ],
+    "reportedTotalPesos": 5000000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018353",
+    "date": "2025-12-11",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the implementation of Assistance to Individuals in Crisis Situations Program.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 4000000000,
+        "pdfPage": 20
+      }
+    ],
+    "reportedTotalPesos": 4000000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018394",
+    "date": "2025-12-12",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the procurement of family food packs and non-food items and the implementation of Emergency Cash Transfer (ECT) for disaster-affected families.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 2984784076,
+        "pdfPage": 20
+      }
+    ],
+    "reportedTotalPesos": 2984784076,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018411",
+    "date": "2025-12-15",
+    "department": "Department of Social Welfare and Development",
+    "agency": "National Council on Disability Affairs",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1261000,
+        "pdfPage": 22
+      }
+    ],
+    "reportedTotalPesos": 1261000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 20,
+    "printedPage": 20,
+    "sourcePages": [
+      20,
+      21,
+      22
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018413",
+    "date": "2025-12-15",
+    "department": "Department of Social Welfare and Development",
+    "agency": "Presidential Commission for the Urban Poor",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 6122742,
+        "pdfPage": 22
+      }
+    ],
+    "reportedTotalPesos": 6122742,
+    "reviewNote": null
+  }
+]

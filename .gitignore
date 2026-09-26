@@ -7,4 +7,4 @@ site/preview-*.png
 **/__pycache__/
 *.pyc
 .DS_Store
-
+download-retries.html

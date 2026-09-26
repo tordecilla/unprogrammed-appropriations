@@ -1,0 +1,595 @@
+[
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-C-25-0014880",
+    "date": "2025-09-23",
+    "department": "Other Executive Offices",
+    "agency": "Philippine Competition Commission",
+    "purpose": "To cover the GoP Counterpart requirements of PCC’s Foreign-Assisted Project, or the Capacity Building to Foster Competition Project.",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "PS",
+        "amountPesos": 8800000,
+        "pdfPage": 30
+      },
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "MOOE",
+        "amountPesos": 12391000,
+        "pdfPage": 30
+      }
+    ],
+    "reportedTotalPesos": 21191000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-C-25-0017810",
+    "date": "2025-12-05",
+    "department": "Other Executive Offices",
+    "agency": "Philippine Competition Commission",
+    "purpose": "Modification of allotment from MOOE to CO covering a portion of Special Allotment Release Order (SARO) No. SARO-BMB-C-25-0009330, released on April 7, 2025, to provide funding for the implementation of the Integrated Financial Management Information System (IFMIS).",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "MOOE",
+        "amountPesos": -30136500,
+        "pdfPage": 29
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 30136500,
+        "pdfPage": 29
+      }
+    ],
+    "reportedTotalPesos": 0,
+    "reviewNote": "MOOE decrease appears in parentheses; transfer nets to zero."
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-C-25-0019490",
+    "date": "2025-12-26",
+    "department": "Other Executive Offices",
+    "agency": "Philippine Competition Commission",
+    "purpose": "FY 2023 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2023 PBB",
+        "amountPesos": 8542914,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 8542914,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-C-25-0017672",
+    "date": "2025-12-02",
+    "department": "Other Executive Offices",
+    "agency": "Philippine Space Agency",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 2074711,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 2074711,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-C-25-0019146",
+    "date": "2025-12-22",
+    "department": "Other Executive Offices",
+    "agency": "Marawi Compensation Board",
+    "purpose": "For the payment of the Marawi Siege victims’ compensation.",
+    "allocations": [
+      {
+        "category": "Marawi Siege Victims Compensation Program",
+        "expenseClass": "MOOE",
+        "amountPesos": 2000000000,
+        "pdfPage": 30
+      }
+    ],
+    "reportedTotalPesos": 2000000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018536",
+    "date": "2025-12-16",
+    "department": "Other Executive Offices",
+    "agency": "Commission on the Filipino Language",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1239397,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 1239397,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-E-25-0019486",
+    "date": "2025-12-26",
+    "department": "Other Executive Offices",
+    "agency": "Energy Regulatory Commission",
+    "purpose": "FY 2023 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2023 PBB",
+        "amountPesos": 8982103,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 8982103,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-A-25-0018525",
+    "date": "2025-12-16",
+    "department": "Other Executive Offices",
+    "agency": "Film Development Council of the Philippines",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 7194726,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 7194726,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-A-25-0018025",
+    "date": "2025-12-16",
+    "department": "Other Executive Offices",
+    "agency": "Mindanao Development Authority",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 9029348,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 9029348,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018318",
+    "date": "2025-12-10",
+    "department": "Other Executive Offices",
+    "agency": "National Commission for Culture and the Arts — Proper",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 9296997,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 9296997,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018241",
+    "date": "2025-12-10",
+    "department": "Other Executive Offices",
+    "agency": "National Library of the Philippines",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 3999572,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 3999572,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-B-25-0018430",
+    "date": "2025-12-15",
+    "department": "Other Executive Offices",
+    "agency": "National Commission on Indigenous Peoples",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 42538489,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 42538489,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-C-25-0018330",
+    "date": "2025-12-10",
+    "department": "Other Executive Offices",
+    "agency": "Philippine Racing Commission",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 5453434,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 5453434,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-B-25-0017809",
+    "date": "2025-12-05",
+    "department": "Other Executive Offices",
+    "agency": "Philippine Sports Commission",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 712510,
+        "pdfPage": 31
+      }
+    ],
+    "reportedTotalPesos": 712510,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 29,
+    "printedPage": 29,
+    "sourcePages": [
+      29,
+      30,
+      31
+    ],
+    "saroNumber": "SARO-BMB-C-25-0015753",
+    "date": "2025-10-14",
+    "department": "Other Executive Offices",
+    "agency": "Civil Service Commission",
+    "purpose": "To cover the loan proceeds requirements of the CSC’s Foreign-Assisted Project, or the Philippine Civil Service Modernization Project.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "MOOE",
+        "amountPesos": 282566000,
+        "pdfPage": 29
+      },
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 394101000,
+        "pdfPage": 29
+      }
+    ],
+    "reportedTotalPesos": 676667000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-BMB-C-25-0019058",
+    "date": "2025-12-22",
+    "department": "Commission on Audit",
+    "agency": "Commission on Audit",
+    "purpose": "FY 2023 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2023 PBB",
+        "amountPesos": 286400650,
+        "pdfPage": 34
+      }
+    ],
+    "reportedTotalPesos": 286400650,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-BMB-D-25-0017713",
+    "date": "2025-03-03",
+    "department": "Commission on Human Rights",
+    "agency": "Proper",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 969106,
+        "pdfPage": 34
+      }
+    ],
+    "reportedTotalPesos": 969106,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-BMB-D-25-0018328",
+    "date": "2025-12-10",
+    "department": "Commission on Human Rights",
+    "agency": "Human Rights Violations Victims’ Memorial Commission",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 2374646,
+        "pdfPage": 34
+      }
+    ],
+    "reportedTotalPesos": 2374646,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-BMB-C-25-0008767",
+    "date": "2025-03-25",
+    "department": "Special Purpose Fund",
+    "agency": "National Food Authority",
+    "purpose": "To cover the conversion of National Government advances into subsidy for the National Food Authority.",
+    "allocations": [
+      {
+        "category": "Budgetary Support to Government-Owned and/or -Controlled Corporations (BSGCs)",
+        "expenseClass": "MOOE",
+        "amountPesos": 6269000000,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 6269000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-BMB-C-25-0015732",
+    "date": "2025-10-10",
+    "department": "Special Purpose Fund",
+    "agency": "Philippine Rice Research Institute",
+    "purpose": "To cover additional subsidy for the implementation of the Rice Seed Program.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 1665000000,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 1665000000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-NCR-25-0006271",
+    "date": "2025-02-28",
+    "department": "Special Purpose Fund",
+    "agency": "Metropolitan Manila Development Authority",
+    "purpose": "To cover the FY 2025 Loan Proceeds of the Metro Manila Flood Management Project Phase 1 per International Bank for Reconstruction and Development (IBRD) Loan Number 8784-PH.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 547744723,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 547744723,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-NCR-25-0006269",
+    "date": "2025-02-28",
+    "department": "Special Purpose Fund",
+    "agency": "Metropolitan Manila Development Authority",
+    "purpose": "To cover the FY 2025 Loan Proceeds of the Metro Manila Flood Management Project Phase 1 per Asian Infrastructure Investment Bank (AIIB) Loan Number LN 000023-1-PHL.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPs)",
+        "expenseClass": "CO",
+        "amountPesos": 547744724,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 547744724,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 32,
+    "printedPage": 32,
+    "sourcePages": [
+      32,
+      33,
+      34
+    ],
+    "saroNumber": "SARO-LGRCB-25-0019171",
+    "date": "2025-12-22",
+    "department": "Special Purpose Fund",
+    "agency": "Local Government Units (LGUs)",
+    "purpose": "To cover the funding requirements for the implementation of priority projects of recipient local government units under the Support to the Barangay Development Program of the NTF-ELCAC.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 1950000000,
+        "pdfPage": 32
+      }
+    ],
+    "reportedTotalPesos": 1950000000,
+    "reviewNote": null
+  }
+]

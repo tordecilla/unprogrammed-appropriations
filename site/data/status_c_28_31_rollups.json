@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 30,
+      "printedPage": 30,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DFA - Office of the Secretary",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 8255356,
+        "Monetization of Leave Credits": 4369920,
+        "Total": 12625276
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 30,
+      "printedPage": 30,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DFA - Office of the Secretary",
+      "category": "Terminal leave and monetization",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 4719955,
+        "Monetization of Leave Credits": 14977778,
+        "Total": 19697733
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 30,
+      "printedPage": 30,
+      "scope": "Department subtotal",
+      "agency": "DFA",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 80207211,
+        "Other PS Deficiencies": 1065796814,
+        "Total": 1146004025
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 30,
+      "printedPage": 30,
+      "scope": "Department subtotal",
+      "agency": "DFA",
+      "category": "Pension and Gratuity Fund",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 19046038,
+        "Monetization of Leave Credits": 19347698,
+        "Total": 38393736
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 31,
+      "printedPage": 31,
+      "scope": "Department subtotal",
+      "agency": "DFA",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 1184397761,
+        "Total": 1184397761
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 31,
+      "printedPage": 31,
+      "scope": "Office of the Secretary subtotal",
+      "agency": "DFA - Office of the Secretary",
+      "category": "Total across displayed categories",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 1182765052,
+        "Total": 1182765052
+      }
+    }
+  ]
+}

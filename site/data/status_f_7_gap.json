@@ -1,0 +1,48 @@
+[
+  {
+    "annexId": "F",
+    "pdfPage": 7,
+    "printedPage": 7,
+    "sourcePages": [
+      7
+    ],
+    "saroNumber": "SARO-BMB-D-25-0018529",
+    "date": "2025-12-16",
+    "department": "Department of Education",
+    "agency": "Early Childhood Care and Development Council",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1906645,
+        "pdfPage": 7
+      }
+    ],
+    "reportedTotalPesos": 1906645,
+    "reviewNote": "The printed date appears as 'December 16, 225'; normalized to 2025 based on report year and surrounding 2025 entries."
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 7,
+    "printedPage": 7,
+    "sourcePages": [
+      7
+    ],
+    "saroNumber": "SARO-BMB-E-25-0018211",
+    "date": "2025-12-10",
+    "department": "Department of Environment and Natural Resources",
+    "agency": "Palawan Council for Sustainable Development Staff",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "TL/RG",
+        "amountPesos": 159674,
+        "pdfPage": 7
+      }
+    ],
+    "reportedTotalPesos": 159674,
+    "reviewNote": null
+  }
+]

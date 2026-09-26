@@ -1,0 +1,78 @@
+[
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 65,
+    "parentDocumentId": "B-p65",
+    "saroNumber": "SARO-BMB-A-24-0000659",
+    "lineNumber": 1,
+    "description": "Infrastructure Preparation and Innovation Facility (IPIF) - Additional Financing, ADB Loan No. 3886 - PHI",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 3453000000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 65,
+    "parentDocumentId": "B-p65",
+    "saroNumber": "SARO-BMB-A-24-0000659",
+    "lineNumber": 2,
+    "description": "Improving Growth Corridors in Mindanao Road Sector Project",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 62231000000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 65,
+    "parentDocumentId": "B-p65",
+    "saroNumber": "SARO-BMB-A-24-0000659",
+    "lineNumber": 3,
+    "description": "Reconstruction and Development Plan for Greater Marawi, Stage 2, ADB Loan No. 3769-PHI",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 15031100000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 65,
+    "parentDocumentId": "B-p65",
+    "saroNumber": "SARO-BMB-A-24-0000659",
+    "lineNumber": 4,
+    "description": "Infrastructure Preparation and Innovation Facility (IPIF), Output 2 (Water Projects), ADB, Technical Assistance Loan, ADB 3886-PHI - Additional Financing",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Flood Control Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 54000000,
+    "reviewNote": null
+  }
+]

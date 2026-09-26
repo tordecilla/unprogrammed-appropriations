@@ -1,0 +1,154 @@
+﻿{
+    "version":  1,
+    "grain":  "report-level note or visible subtotal not attributed to a numbered SARO",
+    "records":  [
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  62,
+                        "printedPage":  62,
+                        "scope":  "Various SAROs issued in October; General Headquarters-Proper pension and retirement-gratuity aggregate",
+                        "agency":  "General Headquarters â€” Proper",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Pension":  98658882,
+                                        "Terminal Leave/Retirement Gratuity":  159067898,
+                                        "Total":  257726780
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  62,
+                        "printedPage":  62,
+                        "scope":  "Various SAROs issued in November; General Headquarters-Proper pension and retirement-gratuity aggregate",
+                        "agency":  "General Headquarters â€” Proper",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Pension":  139045469,
+                                        "Terminal Leave/Retirement Gratuity":  12989999,
+                                        "Total":  152035468
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  62,
+                        "printedPage":  62,
+                        "scope":  "Various SAROs issued in December; General Headquarters-Proper pension and retirement-gratuity aggregate",
+                        "agency":  "General Headquarters â€” Proper",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Pension":  68106940,
+                                        "Terminal Leave/Retirement Gratuity":  448753053,
+                                        "Total":  516859993
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  62,
+                        "printedPage":  62,
+                        "scope":  "Various SAROs issued in November; Department of Migrant Workers terminal-leave aggregate",
+                        "agency":  "Department of Migrant Workers â€” Office of the Secretary",
+                        "category":  "Pension and Gratuity Fund",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Terminal Leave/Retirement Gratuity":  3061509,
+                                        "Total":  3061509
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  63,
+                        "printedPage":  63,
+                        "scope":  "Printed agency subtotal; General Headquarters-Proper, including the separate SARO-BMB-D-24-0015786 modernization-program CO",
+                        "agency":  "General Headquarters â€” Proper",
+                        "category":  "Printed agency subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Personnel Services":  926622241,
+                                        "CO":  10000000000,
+                                        "Total":  10926622241
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  63,
+                        "printedPage":  63,
+                        "scope":  "Printed department subtotal; Department of Migrant Workers",
+                        "agency":  "Department of Migrant Workers",
+                        "category":  "Department subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Other PS Deficiencies":  134801493,
+                                        "Pension and Gratuity Fund":  4536553,
+                                        "Total":  139338046
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  60,
+                        "printedPage":  60,
+                        "scope":  "Printed department subtotal; DPWH special-purpose categories shown on p60",
+                        "agency":  "Department of Public Works and Highways â€” Office of the Secretary",
+                        "category":  "Special-purpose program subtotals",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "SAGIP MOOE":  750000000,
+                                        "SAGIP CO":  155131103931,
+                                        "SAGIP Total":  155881103931,
+                                        "FAPS CO":  45910916000,
+                                        "FAPS Total":  45910916000,
+                                        "PGN CO":  3000003000
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  61,
+                        "printedPage":  61,
+                        "scope":  "Printed department subtotal; DPWH ROW, maintenance and foreign-assistance counterpart categories shown on p61",
+                        "agency":  "Department of Public Works and Highways â€” Office of the Secretary",
+                        "category":  "Program subtotals",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Payment of Right of Way CO":  3004558017,
+                                        "Maintenance and Rehabilitation MOOE":  13500000000,
+                                        "Government Counterpart of Foreign-Assisted Projects CO":  22701793000,
+                                        "Government Counterpart of Foreign-Assisted Projects Total":  22701793000
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  62,
+                        "printedPage":  62,
+                        "scope":  "Printed DPWH subtotal; Personnel Benefits and Pension and Gratuity Fund",
+                        "agency":  "Department of Public Works and Highways â€” Office of the Secretary",
+                        "category":  "Agency subtotal components",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Salary Increase":  393593319,
+                                        "FY 2022 PBB":  996311,
+                                        "Other PS Deficiencies":  303820000,
+                                        "Personnel Benefits Total":  698409630,
+                                        "Terminal Leave/Retirement Gratuity":  42559761,
+                                        "Monetization of Leave Credits":  2622404,
+                                        "Pension and Gratuity Fund Total":  45182165
+                                    }
+                    },
+                    {
+                        "annexId":  "C",
+                        "sourcePage":  63,
+                        "printedPage":  63,
+                        "scope":  "Printed department subtotal; DPWH final Total row",
+                        "agency":  "Department of Public Works and Highways â€” Office of the Secretary",
+                        "category":  "Department subtotal",
+                        "unit":  "pesos",
+                        "amounts":  {
+                                        "Personnel Services":  743591795,
+                                        "MOOE":  14250000000,
+                                        "CO":  229748373948,
+                                        "Total":  244741965743
+                                    }
+                    }
+                ]
+}

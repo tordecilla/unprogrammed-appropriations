@@ -1,0 +1,148 @@
+[
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-A-25-0018812",
+    "date": "2025-12-18",
+    "department": null,
+    "agency": null,
+    "purpose": "For PS deficiency",
+    "allocations": [
+      { "category": "For payment of Personnel Benefits", "expenseClass": "TL/RG", "amountPesos": 11903000, "pdfPage": 10 }
+    ],
+    "reportedTotalPesos": 11903000,
+    "reviewNote": "The department and agency cells are blank on PDF pp. 8-10; left null rather than inferring them from the following rows."
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-A-25-0018243",
+    "date": "2025-12-10",
+    "department": "Department of Finance",
+    "agency": "Bureau of the Treasury",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      { "category": "For payment of Personnel Benefits", "expenseClass": "Other PS Deficiencies", "amountPesos": 20658518, "pdfPage": 10 }
+    ],
+    "reportedTotalPesos": 20658518,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-A-25-0018311",
+    "date": "2025-12-10",
+    "department": "Department of Finance",
+    "agency": "Privatization and Management Office",
+    "purpose": "For PS deficiency",
+    "allocations": [
+      { "category": "For payment of Personnel Benefits", "expenseClass": "Other PS Deficiencies", "amountPesos": 4851801, "pdfPage": 10 }
+    ],
+    "reportedTotalPesos": 4851801,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-D-25-0019050",
+    "date": "2025-12-22",
+    "department": "Department of Foreign Affairs",
+    "agency": "Office of the Secretary",
+    "purpose": "Additional FY 2023 PBB",
+    "allocations": [
+      { "category": "For payment of Personnel Benefits", "expenseClass": "FY 2023 PBB", "amountPesos": 24297, "pdfPage": 10 }
+    ],
+    "reportedTotalPesos": 24297,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-B-25-0008116",
+    "date": "2025-03-07",
+    "department": "Department of Health",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the Project Technical Staff Unit and variation orders for the civil works of eight (8) DOH health facilities under the Health System Enhancement to Address and Limit COVID-19 Project 1 (HEAL 1), Loan No. 3961-PHI dated September 8, 2020",
+    "allocations": [
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "MOOE", "amountPesos": 24988730, "pdfPage": 8 },
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "CO", "amountPesos": 55019107, "pdfPage": 8 }
+    ],
+    "reportedTotalPesos": 80007837,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-B-25-0011443",
+    "date": "2025-06-23",
+    "department": "Department of Health",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the salaries and other allowances of the project staffs under the Health System Enhancement to Address and Limit COVID-19 Project 1 (HEAL 1), Loan No. 3961-PHI dated September 8, 2020.",
+    "allocations": [
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "MOOE", "amountPesos": 10341982, "pdfPage": 8 }
+    ],
+    "reportedTotalPesos": 10341982,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-B-25-0012586",
+    "date": "2025-07-31",
+    "department": "Department of Health",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the first year implementation of the Philippines: Health System Resilience Project, Phase 1 under Loan Agreement Number 9781-PH dated April 4, 2025, a foreign loan assistance from International Bank for Reconstruction and Development or World Bank",
+    "allocations": [
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "MOOE", "amountPesos": 1579720000, "pdfPage": 8 },
+      { "category": "Support to Foreign-Assisted Projects (FAPs)", "expenseClass": "CO", "amountPesos": 1824666000, "pdfPage": 8 }
+    ],
+    "reportedTotalPesos": 3404386000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-B-25-0013849",
+    "date": "2025-09-01",
+    "department": "Department of Health",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the payment of Public Health Emergency Benefits and Allowances of eligible public and private health care workers (HCWs) and Non-HCWs",
+    "allocations": [
+      { "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)", "expenseClass": "MOOE", "amountPesos": 6766760056, "pdfPage": 8 }
+    ],
+    "reportedTotalPesos": 6766760056,
+    "reviewNote": null
+  },
+  {
+    "annexId": "F",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8, 9, 10],
+    "saroNumber": "SARO-BMB-B-25-0014378",
+    "date": "2025-09-11",
+    "department": "Department of Health",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the FY 2025 Government Counterpart of the World Bank foreign-assisted loan, the Philippine Multi-Sectoral Nutrition Project (WB-PMNP), IBRD Loan No. 9382-PH dated June 25, 2022.",
+    "allocations": [
+      { "category": "For Government Counterpart of Foreign-Assisted Projects", "expenseClass": "MOOE", "amountPesos": 369260880, "pdfPage": 9 }
+    ],
+    "reportedTotalPesos": 369260880,
+    "reviewNote": null
+  }
+]

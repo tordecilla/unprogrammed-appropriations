@@ -1,0 +1,59 @@
+[
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 74,
+    "parentDocumentId": "B-p74",
+    "saroNumber": "SARO-BMB-A-24-0000657",
+    "lineNumber": 1,
+    "description": "Panay - Guimaras - Negros (PGN) Island Bridges Project",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 17999700000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 74,
+    "parentDocumentId": "B-p74",
+    "saroNumber": "SARO-BMB-A-24-0000657",
+    "lineNumber": 2,
+    "description": "Panguil Bay Bridge Construction Project, Misamis Occidental and Lanao del Norte Provinces, Region X, Cooperation Fund, KEDCF, L/A No. 18",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 17927000000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 74,
+    "parentDocumentId": "B-p74",
+    "saroNumber": "SARO-BMB-A-24-0000657",
+    "lineNumber": 3,
+    "description": "Philippines - Korea Project Preparation Facility (PK-PPF), KEDCF PHL-20, Output 2 (Flood Control)",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Flood Control Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 3558000000,
+    "reviewNote": null
+  }
+]

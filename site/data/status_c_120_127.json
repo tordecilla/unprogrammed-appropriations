@@ -1,0 +1,705 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-D-24-0019614",
+    "date": "2024-12-27",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Marawi Compensation Board",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 10978801,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 10978801,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-D-24-0019255",
+    "date": "2024-12-20",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Marawi Compensation Board",
+    "purpose": "For the payment of the Marawi Siege victims? compensation.",
+    "allocations": [
+      {
+        "category": "Marawi Siege Victims Compensation Program",
+        "expenseClass": "MOOE",
+        "amountPesos": 2318397600,
+        "pdfPage": 123
+      }
+    ],
+    "reportedTotalPesos": 2318397600,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-A-24-0013380",
+    "date": "2024-09-10",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Mindanao Development Authority",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 4793000,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 4793000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-A-24-0018979",
+    "date": "2024-12-13",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Mindanao Development Authority",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 4516772,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 4516772,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-A-24-0018767",
+    "date": "2024-12-10",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Mindanao Development Authority",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 283883,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 283883,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-B-24-0018903",
+    "date": "2024-12-13",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Movie and Television Review and Classification Board",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 2619714,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 2619714,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-A-24-0018429",
+    "date": "2024-11-29",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Commission for Culture and the Arts - Proper",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 405322,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 405322,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-B-24-0018239",
+    "date": "2024-11-26",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Library of the Philippines",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 3791220,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 3791220,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-B-24-0017521",
+    "date": "2024-11-06",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Archives of the Philippines",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 9766705,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 9766705,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-B-24-0019189",
+    "date": "2024-12-18",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Archives of the Philippines",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 593939,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 593939,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-B-24-0018214",
+    "date": "2024-11-26",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Commission of Senior Citizens",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 4161878,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 4161878,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-B-24-0018943",
+    "date": "2024-12-13",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Commission of Senior Citizens",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 2159105,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 2159105,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-D-24-0018371",
+    "date": "2024-11-28",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Intelligence Coordinating Agency",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 221566,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 221566,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-D-24-0018625",
+    "date": "2024-12-05",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Intelligence Coordinating Agency",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 48571442,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 48571442,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 120,
+    "sourcePages": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "printedPage": 120,
+    "saroNumber": "SARO-BMB-D-24-0018992",
+    "date": "2024-12-16",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "National Security Council",
+    "purpose": "For payment of FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 4641369,
+        "pdfPage": 122
+      }
+    ],
+    "reportedTotalPesos": 4641369,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 123,
+    "sourcePages": [
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 123,
+    "saroNumber": "SARO-BMB-D-24-0005929",
+    "date": "2024-07-23",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Office of the Presidential Adviser on Peace, Reconciliation and Unity",
+    "purpose": "To cover implementation of Management and Supervision of the Comprehensive Peace Process.",
+    "allocations": [
+      {
+        "category": "Management and Supervision of Comprehensive Peace Process",
+        "expenseClass": "MOOE",
+        "amountPesos": 15559189,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 15559189,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-B-24-0014786",
+    "date": "2024-09-17",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Optical Media Board",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1606000,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 1606000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0018990",
+    "date": "2024-12-16",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Philippine Competition Commission",
+    "purpose": "To cover the funding requirements for the honoraria of PCC?s Project Steering Committee and the Technical Working Group chargeable against UA - Purpose No. 17 For Government Counterpart under RA No. 11975, FY 2024 GAA.",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "PS",
+        "amountPesos": 8800000,
+        "pdfPage": 125
+      }
+    ],
+    "reportedTotalPesos": 8800000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-D-24-0018824",
+    "date": "2024-12-12",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Philippine Drug Enforcement Agency",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 95542023,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 95542023,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0018900",
+    "date": "2024-12-13",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Philippine Racing Commission",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1180164,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 1180164,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-B-24-0018426",
+    "date": "2024-11-29",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Philippine Sports Commission",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 10109960,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 10109960,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0019460",
+    "date": "2024-12-26",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Presidential Legislative Liaison Office",
+    "purpose": "For payment of FY2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 937543,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 937543,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0013306",
+    "date": "2024-09-10",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Presidential Management Staff",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 10051000,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 10051000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0018045",
+    "date": "2024-11-21",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Presidential Management Staff",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 42429079,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 42429079,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0019357",
+    "date": "2024-12-23",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Presidential Management Staff",
+    "purpose": "For payment of FY2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 2149052,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 2149052,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0018173",
+    "date": "2024-11-25",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Philippine Space Agency",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 42183168,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 42183168,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 124,
+    "sourcePages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "printedPage": 124,
+    "saroNumber": "SARO-BMB-C-24-0019271",
+    "date": "2024-12-20",
+    "department": "Other Executive Offices (OEO)",
+    "agency": "Philippine Space Agency",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 46301,
+        "pdfPage": 126
+      }
+    ],
+    "reportedTotalPesos": 46301,
+    "reviewNote": null
+  }
+]

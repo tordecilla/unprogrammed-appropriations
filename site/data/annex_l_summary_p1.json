@@ -1,0 +1,105 @@
+{
+  "sourceAnnex": "L",
+  "embeddedAnnex": "C",
+  "sourcePage": 1,
+  "printedPage": null,
+  "table": "FYs 2024-2025 Status of Fund Releases — Special Road Fund - Motor Vehicle User's Charge (MVUC) as per R.A. 11239",
+  "unit": "PHP",
+  "rowGrain": "fiscal year and appropriation class (summary)",
+  "amountColumns": [
+    "authorizedAppropriationUnderGAA",
+    "allotments",
+    "obligations",
+    "disbursements",
+    "unreleasedAppropriation",
+    "unobligatedAllotments",
+    "unpaidObligations"
+  ],
+  "rows": [
+    {
+      "fiscalYear": 2024,
+      "appropriationClass": "Total",
+      "authorizedAppropriationUnderGAA": 24553974000.00,
+      "allotments": 25335668144.17,
+      "obligations": 24572733747.48,
+      "disbursements": 15800592580.49,
+      "unreleasedAppropriation": null,
+      "unreleasedAppropriationPrinted": "-",
+      "unobligatedAllotments": 762934396.69,
+      "unpaidObligations": 8772141166.99,
+      "remarks": null
+    },
+    {
+      "fiscalYear": 2024,
+      "appropriationClass": "Current Year",
+      "authorizedAppropriationUnderGAA": 24553974000.00,
+      "allotments": 24553974000.00,
+      "obligations": 23806228171.21,
+      "disbursements": 15411627067.03,
+      "unreleasedAppropriation": null,
+      "unreleasedAppropriationPrinted": "-",
+      "unobligatedAllotments": 747745828.79,
+      "unpaidObligations": 8394601104.18,
+      "remarks": "Details in Schedule 1"
+    },
+    {
+      "fiscalYear": 2024,
+      "appropriationClass": "Continuing Appropriations",
+      "authorizedAppropriationUnderGAA": null,
+      "allotments": 781694144.17,
+      "obligations": 766505576.27,
+      "disbursements": 388965513.46,
+      "unreleasedAppropriation": null,
+      "unreleasedAppropriationPrinted": "",
+      "unobligatedAllotments": 15188567.90,
+      "unpaidObligations": 377540062.81,
+      "remarks": "Details in Schedule 2"
+    },
+    {
+      "fiscalYear": 2025,
+      "appropriationClass": "Total",
+      "authorizedAppropriationUnderGAA": 34748020000.00,
+      "allotments": 35503791299.61,
+      "obligations": 30081471088.01,
+      "disbursements": 13155990404.95,
+      "unreleasedAppropriation": null,
+      "unreleasedAppropriationPrinted": "-",
+      "unobligatedAllotments": 5422320211.60,
+      "unpaidObligations": 16925480683.06,
+      "remarks": null
+    },
+    {
+      "fiscalYear": 2025,
+      "appropriationClass": "Current Year",
+      "authorizedAppropriationUnderGAA": 34748020000.00,
+      "allotments": 34748020000.00,
+      "obligations": 29603685755.53,
+      "disbursements": 12934006858.86,
+      "unreleasedAppropriation": null,
+      "unreleasedAppropriationPrinted": "-",
+      "unobligatedAllotments": 5144334244.47,
+      "unpaidObligations": 16669678896.67,
+      "remarks": "Details in Schedule 3"
+    },
+    {
+      "fiscalYear": 2025,
+      "appropriationClass": "Continuing Appropriations",
+      "authorizedAppropriationUnderGAA": null,
+      "allotments": 755771299.61,
+      "obligations": 477785332.48,
+      "disbursements": 221983546.09,
+      "unreleasedAppropriation": null,
+      "unreleasedAppropriationPrinted": "",
+      "unobligatedAllotments": 277985967.13,
+      "unpaidObligations": 255801786.39,
+      "remarks": "Details in Schedule 4"
+    }
+  ],
+  "notes": [
+    "Amounts in the table are in pesos.",
+    "Footnote 1: Amount reflected in the line-item in Volume I-B of the GAA and per project details in Volume I-C, however, only P15,232,000,000.00 was reflected in the Special Provision (SP) No. 14 of the DPWH budget in the FY 2024 GAA.",
+    "Footnote 2: Amount reflected in the line-item in Volume I-B of the GAA and per project details in Volume I-C, however, only P16,755,935,000.00 was reflected in SP No. 13 of the DPWH budget in the FY 2025 GAA. This SP was placed under General Observation - President's Veto Message.",
+    "A text note beneath the table cites the Special Road Fund, Volume I-B, page 3, and states it should be understood to pertain to the MVUC line item under RA No. 11239."
+  ],
+  "reviewNote": null
+}

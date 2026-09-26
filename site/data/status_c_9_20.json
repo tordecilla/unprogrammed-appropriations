@@ -1,0 +1,715 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0017051",
+    "date": "2024-10-21",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of Rice Farmers Financial Assistance as support to the rice farmers affected by the Rice Tariffication Law of RA No. 11203, as reiterated under Section 3 of the Cash Assistance for Filipino Farmers Act or RA No. 11598",
+    "allocations": [],
+    "reportedTotalPesos": 17625963950,
+    "reviewNote": "No numbered-row leaf expense cell is visible for this SARO on pages 9-11; its aggregate total is repeated on page 11. The row's SAGIP MOOE cell was recorded on page 8."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0018213",
+    "date": "2024-11-13",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover funding requirements for the implementation of the Cold Storage Expansion Project",
+    "allocations": [
+      {
+        "category": "Cold Storage Expansion Project",
+        "expenseClass": "MOOE",
+        "amountPesos": 25000000,
+        "pdfPage": 11
+      },
+      {
+        "category": "Cold Storage Expansion Project",
+        "expenseClass": "CO",
+        "amountPesos": 1475000000,
+        "pdfPage": 11
+      }
+    ],
+    "reportedTotalPesos": 1500000000,
+    "reviewNote": "Leaf cells and reported total are legible on page 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0017722",
+    "date": "2024-11-26",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the completion of the Second Additional Financing for Philippine Rural Development Project (PRDP-AF2) IBRD Loan No. 9271-PH",
+    "allocations": [],
+    "reportedTotalPesos": 817782999,
+    "reviewNote": "Page 11 shows the aggregate total only for this row; its FAPS MOOE and CO leaf cells were recorded on page 8."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0017721",
+    "date": "2024-11-13",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the completion of the Second Additional Financing for Philippine Rural Development Project (PRDP-AF2) IBRD Loan No. 9271-PH",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "MOOE",
+        "amountPesos": 107935327,
+        "pdfPage": 9
+      },
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 39128000,
+        "pdfPage": 9
+      }
+    ],
+    "reportedTotalPesos": 147063327,
+    "reviewNote": "The two government-counterpart leaf cells and aggregate total are legible on pages 9 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-F-24-0017907",
+    "date": "2024-11-19",
+    "department": "DA",
+    "agency": "Agricultural Credit Policy Council",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 521346,
+        "pdfPage": 10
+      }
+    ],
+    "reportedTotalPesos": 521346,
+    "reviewNote": "The terminal-leave leaf cell and row total are legible on pages 10 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-F-24-0019355",
+    "date": "2024-12-23",
+    "department": "DA",
+    "agency": "Agricultural Credit Policy Council",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 352177,
+        "pdfPage": 10
+      }
+    ],
+    "reportedTotalPesos": 352177,
+    "reviewNote": "The Other PS Deficiencies leaf cell and row total are legible on pages 10 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0001897",
+    "date": "2024-04-12",
+    "department": "DA",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "purpose": "To cover funding requirements for the implementation of the Philippine Fisheries and Coastal Resiliency (FishCORE) Project",
+    "allocations": [],
+    "reportedTotalPesos": 1478737000,
+    "reviewNote": "Page 11 shows this row's aggregate total; the FAPS MOOE and CO leaf cells were recorded on page 8."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0011507",
+    "date": "2024-09-06",
+    "department": "DA",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "purpose": "To cover the FY 2024 operating requirements for the implementation of Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "MOOE",
+        "amountPesos": 81046000,
+        "pdfPage": 9
+      },
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 11104000,
+        "pdfPage": 9
+      }
+    ],
+    "reportedTotalPesos": 92150000,
+    "reviewNote": "The two government-counterpart leaf cells and aggregate total are legible on pages 9 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0018922",
+    "date": "2024-12-13",
+    "department": "DA",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 89701029,
+        "pdfPage": 10
+      }
+    ],
+    "reportedTotalPesos": 89701029,
+    "reviewNote": "The Other PS Deficiencies leaf cell and row total are legible on pages 10 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0016648",
+    "date": "2024-10-09",
+    "department": "DA",
+    "agency": "Fertilizer and Pesticide Authority",
+    "purpose": "FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 3724611,
+        "pdfPage": 10
+      }
+    ],
+    "reportedTotalPesos": 3724611,
+    "reviewNote": "The FY 2022 PBB leaf cell and row total are legible on pages 10 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0016961",
+    "date": "2024-10-17",
+    "department": "DA",
+    "agency": "Fertilizer and Pesticide Authority",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 222899,
+        "pdfPage": 10
+      }
+    ],
+    "reportedTotalPesos": 222899,
+    "reviewNote": "The monetization leaf cell and row total are legible on pages 10 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 9,
+    "printedPage": 9,
+    "sourcePages": [
+      9,
+      10,
+      11
+    ],
+    "saroNumber": "SARO-BMB-E-24-0018977",
+    "date": "2024-12-13",
+    "department": "DA",
+    "agency": "Fertilizer and Pesticide Authority",
+    "purpose": "For payment of PS Deficiency FY 2024",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 5965669,
+        "pdfPage": 10
+      }
+    ],
+    "reportedTotalPesos": 5965669,
+    "reviewNote": "The Other PS Deficiencies leaf cell and row total are legible on pages 10 and 11."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0018875",
+    "date": "2024-12-12",
+    "agency": "National Meat Inspection Service",
+    "purpose": "For payment of PS Deficiency FY 2024",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 23657269,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 23657269,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0018595",
+    "date": "2024-12-04",
+    "agency": "National Meat Inspection Service",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 458133,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 458133,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0013310",
+    "date": "2024-09-10",
+    "agency": "National Fisheries Research and Development Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 2922000,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 2922000,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0018995",
+    "date": "2024-12-16",
+    "agency": "National Fisheries Research and Development Institute",
+    "purpose": "For payment of PS Deficiency FY 2024",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 4874735,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 4874735,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0002568",
+    "date": "2024-05-06",
+    "agency": "Philippine Carabao Center",
+    "purpose": "To cover the FY 2024 funding requirements for the implementation of the Intensified Community-Based Dairy Enterprise Development (USPL-480)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 187040000,
+        "pdfPage": 12
+      }
+    ],
+    "reportedTotalPesos": 187040000,
+    "reviewNote": "The FAPS MOOE leaf cell and row total are legible on pages 12 and 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0017793",
+    "date": "2024-11-15",
+    "agency": "Philippine Carabao Center",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 2177604,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 2177604,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0018337",
+    "date": "2024-11-28",
+    "agency": "Philippine Carabao Center",
+    "purpose": "FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 4722551,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 4722551,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0019000",
+    "date": "2024-12-16",
+    "agency": "Philippine Carabao Center",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 8916224,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 8916224,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0019070",
+    "date": "2024-12-17",
+    "agency": "Philippine Carabao Center",
+    "purpose": "For payment of TLB",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 5631155,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 5631155,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0017130",
+    "date": "2024-10-28",
+    "agency": "Philippine Center for Post-Harvest Development and Mechanization",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 148610,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 148610,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0018211",
+    "date": "2024-11-26",
+    "agency": "Philippine Fiber Industry Development",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 4220517,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 4220517,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0019008",
+    "date": "2024-12-16",
+    "agency": "Philippine Fiber Industry Development",
+    "purpose": "For payment of FY 2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 14035252,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 14035252,
+    "reviewNote": "Agency name and leaf cell are legible; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0000684",
+    "date": "2024-02-27",
+    "agency": "Philippine Council for Agencies and Fisheries",
+    "purpose": "To cover the FY 2024 funding requirements for the implementation of Intensified Community-Based Dairy Enterprise Development (USPL-480)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "MOOE",
+        "amountPesos": 9986248,
+        "pdfPage": 12
+      }
+    ],
+    "reportedTotalPesos": 9986248,
+    "reviewNote": "The FAPS MOOE leaf cell and row total are legible on pages 12 and 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0016727",
+    "date": "2024-10-11",
+    "agency": "Philippine Council for Agencies and Fisheries",
+    "purpose": "For payment of terminal leave benefits and monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 517266,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 517266,
+    "reviewNote": "The visible leaf cell is terminal leave gratuity; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DA",
+    "saroNumber": "SARO-BMB-E-24-0018882",
+    "date": "2024-12-13",
+    "agency": "Philippine Council for Agencies and Fisheries",
+    "purpose": "For payment of terminal leave benefits and monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 111440,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 111440,
+    "reviewNote": "The visible leaf cell is monetization of leave credits; aggregate total is shown on page 15."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 12,
+    "printedPage": 12,
+    "sourcePages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "department": "DBM",
+    "saroNumber": "SARO-BMB-C-24-0016615",
+    "date": "2024-10-08",
+    "agency": "Office of the Secretary",
+    "purpose": "FY 2024 PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 5501103,
+        "pdfPage": 14
+      }
+    ],
+    "reportedTotalPesos": 5501103,
+    "reviewNote": "The Other PS Deficiencies leaf cell and row total are legible on pages 14 and 15."
+  }
+]

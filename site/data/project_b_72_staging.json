@@ -1,0 +1,97 @@
+[
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 72,
+    "parentDocumentId": "B-p72",
+    "saroNumber": "SARO-BMB-A-24-0000656",
+    "lineNumber": 1,
+    "description": "Arterial Road Bypass Construction Project, Phase III, JICA, PH-P266",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 6850400000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 72,
+    "parentDocumentId": "B-p72",
+    "saroNumber": "SARO-BMB-A-24-0000656",
+    "lineNumber": 2,
+    "description": "Davao City By-Pass Construction Project (South and Center Sections), JICA, PH-P261",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 53230200000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 72,
+    "parentDocumentId": "B-p72",
+    "saroNumber": "SARO-BMB-A-24-0000656",
+    "lineNumber": 3,
+    "description": "Davao Bypass Construction Project, Package I (South and Center Sections), JICA, PH-P273",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Road Networks"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 13950000000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 72,
+    "parentDocumentId": "B-p72",
+    "saroNumber": "SARO-BMB-A-24-0000656",
+    "lineNumber": 4,
+    "description": "Cavite Industrial Area Flood Risk Management Project (CIA-FRMP)",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Flood Control Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 14941000000,
+    "reviewNote": null
+  },
+  {
+    "sourceAnnex": "B",
+    "sourcePage": 72,
+    "parentDocumentId": "B-p72",
+    "saroNumber": "SARO-BMB-A-24-0000656",
+    "lineNumber": 5,
+    "description": "Pasig - Marikina River Channel Improvement Project (PMRCIP), Phase IV, JICA, PH-P271",
+    "programPath": [
+      "Department of Public Works and Highways",
+      "Office of the Secretary-Central Office",
+      "Operations",
+      "Support to Foreign-Assisted Projects",
+      "Capital Outlays",
+      "Flood Control Systems"
+    ],
+    "uacsCode": null,
+    "amountCentavos": 31917000000,
+    "reviewNote": null
+  }
+]

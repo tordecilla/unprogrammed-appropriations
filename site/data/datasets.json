@@ -1,0 +1,359 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "saro_purpose_lists",
+      "name": "SARO purpose lists",
+      "status": "published",
+      "annexIds": [
+        "A",
+        "D",
+        "G"
+      ],
+      "fields": [
+        "fiscal_year",
+        "department",
+        "agency",
+        "saro_number",
+        "saro_date",
+        "purpose",
+        "remarks",
+        "source_page"
+      ],
+      "linkKeys": [
+        "fiscal_year",
+        "saro_number",
+        "agency"
+      ],
+      "note": "One item or SARO per row; no standalone amount column. Annex D marks two unnumbered MMDA rows not in CRD custody."
+    },
+    {
+      "id": "saro_documents",
+      "name": "SARO instruments and related documents",
+      "status": "partial",
+      "annexIds": [
+        "B",
+        "H"
+      ],
+      "fields": [
+        "document_id",
+        "document_type",
+        "pdf_page_start",
+        "pdf_page_end",
+        "printed_pages",
+        "saro_number",
+        "barcode",
+        "agency",
+        "date",
+        "title_or_purpose",
+        "amount_as_shown",
+        "signature_status",
+        "relationship_type",
+        "related_document_id"
+      ],
+      "linkKeys": [
+        "saro_number",
+        "barcode",
+        "agency",
+        "date",
+        "project_or_loan_reference",
+        "document_id"
+      ],
+      "note": "Signed SAROs and confirmed related records have standalone PDFs. Exact-number links to purpose-list entries are distinguished from possible matches with source discrepancies. Advice and attachment segmentation remains partial."
+    },
+    {
+      "id": "saro_particulars",
+      "name": "Signed SARO particulars",
+      "status": "published",
+      "annexIds": [
+        "B",
+        "H"
+      ],
+      "fields": [
+        "particular_id",
+        "document_id",
+        "saro_number",
+        "line_number",
+        "purpose",
+        "program_path",
+        "mfo_pap_code",
+        "particular_description",
+        "object_code",
+        "line_amount_pesos",
+        "signed_saro_total_pesos",
+        "source_page"
+      ],
+      "linkKeys": [
+        "document_id",
+        "saro_number",
+        "particular_id"
+      ],
+      "note": "All 102 identified signed SAROs have transcribed particulars: 184 lowest-level amount-bearing budget lines. Hierarchy subtotal and SARO total are excluded from line rows to prevent double counting; the signed total remains on the parent SARO."
+    },
+    {
+      "id": "attached_project_lines",
+      "name": "Attached schedule lines",
+      "status": "partial",
+      "annexIds": [
+        "B"
+      ],
+      "fields": [
+        "project_item_id",
+        "signed_saro_document_id",
+        "attachment_document_id",
+        "saro_number",
+        "department",
+        "agency",
+        "purpose",
+        "program_path",
+        "project_description",
+        "item_level",
+        "uacs_code",
+        "line_amount_centavos",
+        "source_page",
+        "source_pdf"
+      ],
+      "linkKeys": [
+        "signed_saro_document_id",
+        "attachment_document_id",
+        "saro_number",
+        "project_item_id"
+      ],
+      "note": "One lowest-level visible amount-bearing schedule line per row. All 26 identified project attachments in Annex B are transcribed; four regional summary lines on pp. 93-94 are flagged because the referenced detail attachments V.1-V.9 are absent. The p. 349 SARO also references a Schedule A that is absent from Annex B. Schedule lines are child details of signed SAROs and must not be added to signed-form lines as an independent release total."
+    },
+    {
+      "id": "ua_status_reports",
+      "name": "UA status report rows and allocations",
+      "status": "partial",
+      "annexIds": [
+        "C",
+        "F"
+      ],
+      "fields": [
+        "status_row_id",
+        "fiscal_year",
+        "department",
+        "agency",
+        "saro_number",
+        "saro_date",
+        "purpose",
+        "reported_total_pesos",
+        "category",
+        "expense_class",
+        "allocation_pesos",
+        "source_page"
+      ],
+      "linkKeys": [
+        "fiscal_year",
+        "saro_number",
+        "status_row_id",
+        "purpose_list_id"
+      ],
+      "note": "Numbered SARO rows from the visually audited Annex C and F status-report spans are staged separately from printed aggregates. Allocation records contain leaf expense-class cells; report totals are retained separately. Each cited page is exported as a one-page PDF."
+    },
+    {
+      "id": "ua_status_rollups",
+      "name": "UA status report summary cells",
+      "status": "partial",
+      "annexIds": ["C", "F"],
+      "fields": ["fiscal_year", "scope", "category", "measure", "expense_class", "printed_amount", "printed_unit", "amount_pesos", "precision_pesos", "source_page"],
+      "linkKeys": ["fiscal_year", "scope", "category", "measure", "expense_class"],
+      "note": "Printed aggregate cells from the visually audited Annex C and F status-report spans are separate from numbered SARO rows. Thousand-peso values retain their printed unit and rounding precision; ambiguous subtotal scopes carry review notes."
+    },
+    {
+      "id": "ebudget_saro_listings",
+      "name": "eBudget SARO listings",
+      "status": "partial",
+      "annexIds": [
+        "C",
+        "F"
+      ],
+      "fields": [
+        "fiscal_year",
+        "department",
+        "agency",
+        "saro_number",
+        "issue_date",
+        "barcode_number",
+        "funding_source_code",
+        "ps_centavos",
+        "mooe_centavos",
+        "finex_centavos",
+        "co_centavos",
+        "total_centavos",
+        "saro_type",
+        "status",
+        "status_date",
+        "purpose",
+        "source_annex",
+        "source_pdf_page",
+        "printed_page",
+        "source_pdf"
+      ],
+      "linkKeys": [
+        "fiscal_year",
+        "saro_number",
+        "barcode_number"
+      ],
+      "note": "All three visually transcribed listing page ranges are represented. Annex C has separate Pension and Gratuity and Personnel Services listings; Annex F has a 2025 Personnel Services listing. The second Annex C listing's 4,166 transaction count matches the printed grand total, while its row sum is PHP 10 lower; the discrepancy is documented. Clipped purpose cells retain visible text and review notes. Listing rows are substitute support for many Personnel Services SAROs, not signed instruments."
+    },
+    {
+      "id": "revenue_certifications",
+      "name": "Excess revenue and income certifications",
+      "status": "partial",
+      "annexIds": [
+        "J"
+      ],
+      "fields": [
+        "fiscal_year",
+        "issuer",
+        "covered_period",
+        "certificate_date",
+        "certified_amount",
+        "release_amount",
+        "balance",
+        "source_page",
+        "document_id"
+      ],
+      "linkKeys": [
+        "issuer",
+        "fiscal_year",
+        "covered_period",
+        "certificate_date",
+        "document_id"
+      ],
+      "note": "Twenty-four supporting documents on Annex J pages 4–24 and 26–28 are transcribed with issuer, covered period, dates, signatures, and 42 amount rows. The separate release-status schedule dataset preserves available income, SARO releases, and balances."
+    },
+    {
+      "id": "revenue_release_status",
+      "name": "Excess revenue and income release-status schedules",
+      "status": "published",
+      "annexIds": ["J"],
+      "fields": ["report_year", "source_page", "section", "level", "label", "agency", "saro_number", "date", "amount_type", "amount_pesos", "amount_centavos", "source_pdf"],
+      "linkKeys": ["report_year", "source_page", "saro_number", "agency", "label"],
+      "note": "All amount-bearing cells on Annex J pages 1–3 and 25 are visually transcribed with one-page source PDFs. Summary, subtotal, and leaf rows remain separate to prevent double counting. The printed 2024 Purpose 17 subtotal exceeds its visible detail by ₱841,500; both values and the review note are retained."
+    },
+    {
+      "id": "ua_release_process",
+      "name": "UA release process steps",
+      "status": "published",
+      "annexIds": [
+        "K"
+      ],
+      "fields": [
+        "step",
+        "actor",
+        "condition",
+        "required_evidence",
+        "source_page"
+      ],
+      "linkKeys": [
+        "condition",
+        "required_evidence"
+      ],
+      "note": "All three Annex K pages are indexed as process steps, criteria, and required-document groups with one-page source PDFs. These are process metadata, not money rows."
+    },
+    {
+      "id": "advice_request_variance_items",
+      "name": "Advice request and variance particulars",
+      "status": "partial",
+      "annexIds": ["B"],
+      "fields": ["source_page", "advice_date", "amount_stage", "line_number", "printed_line_number", "parent_line_number", "dms_request_reference", "description", "amount_centavos", "is_duplicate", "duplicate_of", "include_in_stage_total"],
+      "linkKeys": ["dms_request_reference", "source_page", "line_number"],
+      "note": "Annex B advice pp. 95–96 and 105: request and variance leaves are separate from released SARO amounts. Repeated item 14 and nested breakdowns are marked to prevent double counting; included leaves reconcile to each printed stage total."
+    },
+    {
+      "id": "advice_document_components",
+      "name": "Advice document monetary components",
+      "status": "published",
+      "annexIds": ["B", "H"],
+      "fields": ["source_annex", "source_page", "document_id", "section", "level", "description", "amount_type", "amount_pesos", "amount_centavos", "related_saro_number", "source_pdf"],
+      "linkKeys": ["document_id", "related_saro_number", "source_page"],
+      "note": "Twenty printed project, request, release, variance, subtotal, and total cells from Annex B pages 300 and 304–305 and Annex H pages 2 and 6. Totals are retained alongside leaves with hierarchy labels; they must not be added together."
+    },
+    {
+      "id": "special_road_fund_projects",
+      "name": "Special Road Fund project fiscal schedules",
+      "status": "published",
+      "annexIds": [
+        "L"
+      ],
+      "fields": [
+        "fiscal_year",
+        "appropriation_type",
+        "uacs_code",
+        "particulars",
+        "operating_unit",
+        "authorized_appropriation",
+        "allotment",
+        "obligation",
+        "disbursement",
+        "unobligated_balance",
+        "unpaid_obligation",
+        "source_page"
+      ],
+      "linkKeys": [
+        "fiscal_year",
+        "uacs_code",
+        "operating_unit",
+        "particulars"
+      ],
+      "note": "The Annex L summary and all four current and continuing schedules are transcribed with one-page source PDFs and integer-centavo amounts. Schedules 2 and 4 match printed totals; Schedule 3 retains documented row-sum differences from its repeated printed header. Annex L has no SARO number, so these rows are not linked to SAROs by inference."
+    },
+    {
+      "id": "agency_expenditure_context",
+      "name": "Agency expenditure program by expense class",
+      "status": "published",
+      "annexIds": [
+        "M"
+      ],
+      "fields": [
+        "agency",
+        "year",
+        "expense_class",
+        "amount",
+        "amount_unit",
+        "source_page"
+      ],
+      "linkKeys": [
+        "agency",
+        "year",
+        "expense_class"
+      ],
+      "note": "All 20 Annex M pages are transcribed in thousand pesos. Repeated p20 rows are flagged. The 2025 Philippine Carabao Center row has a documented printed class-versus-total difference of 18,000 thousand pesos; detail-row totals otherwise reconcile to the p19 grand total. This is national expenditure context, not UA release detail."
+    },
+    {
+      "id": "debt_service_context",
+      "name": "Debt-service reference tables",
+      "status": "published",
+      "annexIds": [
+        "N",
+        "O",
+        "P"
+      ],
+      "fields": [
+        "year",
+        "component",
+        "domestic_or_foreign",
+        "amount",
+        "amount_unit",
+        "source_page"
+      ],
+      "linkKeys": [
+        "year",
+        "component",
+        "domestic_or_foreign"
+      ],
+      "note": "Annexes N-P are visually transcribed with one-page sources. Annex N uses pesos; O and P use million pesos. Annex O includes instrument-level rows and source exceptions noted in the reconciliation file; Annex P's 2025 principal components differ from its printed total by one million pesos. Interest and principal amortization remain separate; these are not UA release details."
+    },
+    {
+      "id": "source_discrepancy_register",
+      "name": "Source discrepancies and evidence limits",
+      "status": "published",
+      "annexIds": ["B", "C", "J", "L", "M", "O", "P"],
+      "fields": ["id", "annex", "kind", "title", "detail", "verification", "sources"],
+      "linkKeys": ["id", "annex"],
+      "note": "Fifteen source checks and evidence limits. Each item states its verification extent and links to bounded PDF pages or reconciliation notes. Annex C's PHP 10 subtotal gap is verified against all 4,166 transaction amount rows, with independent second checks in the previously uncertain ranges. Annex L Schedule 3's 824 rows passed a fresh explicit six-column image comparison, leaving verified row-sum-versus-header differences. Corrected transcription errors are excluded."
+    }
+  ]
+}

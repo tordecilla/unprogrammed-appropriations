@@ -1,0 +1,1989 @@
+[
+  {
+    "documentId": "B-p001",
+    "saroNumber": "SARO-BMB-E-24-0005622",
+    "pageStart": 1,
+    "department": "Department of Agrarian Reform (DAR)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "04 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the Loan Proceeds requirements of the Support to Parcelization of Lands for Individual Titling (SPLIT) Project.",
+    "totalAmountPesos": 2884195000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Support to Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 2804197000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Information and Communication Technology Equipment",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405003",
+        "amountPesos": 79998000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p003",
+    "saroNumber": "SARO-BMB-E-24-0011508",
+    "pageStart": 3,
+    "department": "Department of Agrarian Reform (DAR)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "04 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover the Government of the Philippines counterpart requirements of the Support to Parcelization of Lands for Individual Titling (SPLIT) Project.",
+    "totalAmountPesos": 813491000,
+    "validUntil": "2024-12-31 (PS); 2025-12-31 (MOOE)",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Personnel Services",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects"
+        ],
+        "objectCode": "5010000000",
+        "amountPesos": 93237000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 720254000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p004",
+    "saroNumber": "SARO-BMB-E-24-0000902",
+    "pageStart": 4,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 operating requirements for the implementation of the Second Additional Financing for Philippine Rural Development Project (PRDP-AF2).",
+    "totalAmountPesos": 2896295000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310500300007000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Second Additional Financing for Philippine Rural Development Project (PRDP-AF2)"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 926315000
+      },
+      {
+        "mfoPapCode": "310500300007000",
+        "description": "Road Networks",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Second Additional Financing for Philippine Rural Development Project (PRDP-AF2)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 1412772000
+      },
+      {
+        "mfoPapCode": "310500300007000",
+        "description": "Water Supply Systems",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Second Additional Financing for Philippine Rural Development Project (PRDP-AF2)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403004",
+        "amountPesos": 171826000
+      },
+      {
+        "mfoPapCode": "310500300007000",
+        "description": "Other Infrastructure Assets",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Second Additional Financing for Philippine Rural Development Project (PRDP-AF2)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403099",
+        "amountPesos": 385382000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p006",
+    "saroNumber": "SARO-BMB-E-24-0001452",
+    "pageStart": 6,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 operating requirements for the implementation of the Philippine Rural Development Project - Scale-Up (PRDP-SU).",
+    "totalAmountPesos": 4067242000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310500300010000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Rural Development Project Scale - Up"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 383588000
+      },
+      {
+        "mfoPapCode": "310500300010000",
+        "description": "Road Networks",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Rural Development Project Scale - Up",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060101002",
+        "amountPesos": 2826462000
+      },
+      {
+        "mfoPapCode": "310500300010000",
+        "description": "Water Supply Systems",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Rural Development Project Scale - Up",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403004",
+        "amountPesos": 192876000
+      },
+      {
+        "mfoPapCode": "310500300010000",
+        "description": "Other Infrastructure Assets",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Rural Development Project Scale - Up",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403099",
+        "amountPesos": 664316000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p009",
+    "saroNumber": "SARO-BMB-E-24-0001777",
+    "pageStart": 9,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 operating requirements for the implementation of the Mindanao Inclusive Agriculture Development Project (MIADP).",
+    "totalAmountPesos": 464451000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310500300009000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Mindanao Inclusive Agriculture Development Project"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 317243000
+      },
+      {
+        "mfoPapCode": "310500300009000",
+        "description": "Road Networks",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Mindanao Inclusive Agriculture Development Project",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 88889000
+      },
+      {
+        "mfoPapCode": "310500300009000",
+        "description": "Other Infrastructure Assets",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Mindanao Inclusive Agriculture Development Project",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403099",
+        "amountPesos": 58319000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p012",
+    "saroNumber": "SARO-BMB-E-24-0011506",
+    "pageStart": 12,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover the FY 2024 operating requirements for the implementation of various DA-OSEC-Central Office Foreign-Assisted Projects, details per Annex A.",
+    "totalAmountPesos": 1157286000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 420907000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Other Infrastructure Assets",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403099",
+        "amountPesos": 736379000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p013",
+    "saroNumber": "SARO-BMB-E-24-0017051",
+    "pageStart": 13,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Strengthening Assistance for Government Infrastructure and Social Programs",
+    "fundingSourceCode": "01 1 05 422",
+    "formPurpose": "To cover funding requirements for the implementation of Rice Farmers Financial Assistance, as support to rice farmers affected by the Rice Tariffication Law of Republic Act (RA) No. 11203, as reiterated under Section 3 of the Cash Assistance for Filipino Farmers Act or RA No. 11598.",
+    "totalAmountPesos": 17625963950,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310500200021000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Locally-Funded Project(s)",
+          "Rice Competitiveness Enhancement Program"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 17625963950
+      }
+    ]
+  },
+  {
+    "documentId": "B-p014",
+    "saroNumber": "SARO-BMB-E-24-0018213",
+    "pageStart": 14,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Cold Storage Expansion Project",
+    "fundingSourceCode": "01 1 05 577",
+    "formPurpose": "To cover funding requirements for the implementation of the Cold Storage Expansion Project.",
+    "totalAmountPesos": 1500000000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "3105002000085000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Locally-Funded Project(s)",
+          "Cold Storage Expansion Project"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 25000000
+      },
+      {
+        "mfoPapCode": "3105002000085000",
+        "description": "Other Infrastructure Assets",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in the agricultural sector increased",
+          "LOCALLY-FUNDED AND FOREIGN-ASSISTED PROGRAM",
+          "Locally-Funded Project(s)",
+          "Cold Storage Expansion Project",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403099",
+        "amountPesos": 1475000000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p017",
+    "saroNumber": "SARO-BMB-E-24-0017722",
+    "pageStart": 17,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the additional funding requirements for the completion of the Second Additional Financing for Philippine Rural Development Project (PRDP-AF2) IBRD Loan No. 9271-PH.",
+    "totalAmountPesos": 817782999,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Support to Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 481416079
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Other Infrastructure Assets",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403099",
+        "amountPesos": 336366920
+      }
+    ]
+  },
+  {
+    "documentId": "B-p020",
+    "saroNumber": "SARO-BMB-E-24-0017721",
+    "pageStart": 20,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover the additional funding requirements for the completion of the Second Additional Financing for Philippine Rural Development Project (PRDP-AF2) IBRD Loan No. 9271-PH.",
+    "totalAmountPesos": 147063327,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 107935327
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Other Infrastructure Assets",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403099",
+        "amountPesos": 39128000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p023",
+    "saroNumber": "SARO-BMB-E-24-0001897",
+    "pageStart": 23,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 003 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover funding requirements for the implementation of the Philippine Fisheries and Coastal Resiliency (FishCORE) Project.",
+    "totalAmountPesos": 1478737000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310200300001000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in Fisheries Sector within ecological limits improved",
+          "FISHERIES REGULATORY AND LAW ENFORCEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Fisheries and Coastal Resiliency Project (FishCORE)"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 788420000
+      },
+      {
+        "mfoPapCode": "310200300001000",
+        "description": "Other Structures",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in Fisheries Sector within ecological limits improved",
+          "FISHERIES REGULATORY AND LAW ENFORCEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404099",
+        "amountPesos": 224189000
+      },
+      {
+        "mfoPapCode": "310200300001000",
+        "description": "Office Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in Fisheries Sector within ecological limits improved",
+          "FISHERIES REGULATORY AND LAW ENFORCEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405002",
+        "amountPesos": 208000
+      },
+      {
+        "mfoPapCode": "310200300001000",
+        "description": "Information and Communication Technology Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in Fisheries Sector within ecological limits improved",
+          "FISHERIES REGULATORY AND LAW ENFORCEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405003",
+        "amountPesos": 20000000
+      },
+      {
+        "mfoPapCode": "310200300001000",
+        "description": "Technical and Scientific Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in Fisheries Sector within ecological limits improved",
+          "FISHERIES REGULATORY AND LAW ENFORCEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405014",
+        "amountPesos": 180000000
+      },
+      {
+        "mfoPapCode": "310200300001000",
+        "description": "Other Machinery and Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in Fisheries Sector within ecological limits improved",
+          "FISHERIES REGULATORY AND LAW ENFORCEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405099",
+        "amountPesos": 100920000
+      },
+      {
+        "mfoPapCode": "310200300001000",
+        "description": "Watercrafts",
+        "programPath": [
+          "Operations",
+          "OO: Productivity in Fisheries Sector within ecological limits improved",
+          "FISHERIES REGULATORY AND LAW ENFORCEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060406004",
+        "amountPesos": 165000000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p026",
+    "saroNumber": "SARO-BMB-E-24-0011507",
+    "pageStart": 26,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "05 003 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover funding requirements for the implementation of the Philippine Fisheries and Coastal Resiliency (FishCORE) Project.",
+    "totalAmountPesos": 92150000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 81046000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Other Structures",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404099",
+        "amountPesos": 4262000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Marine and Fishery Equipment",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405005",
+        "amountPesos": 4000000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Other Machinery and Equipment",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405099",
+        "amountPesos": 2842000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p027",
+    "saroNumber": "SARO-BMB-E-24-0002568",
+    "pageStart": 27,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Philippine Carabao Center",
+    "operatingUnit": null,
+    "locality": null,
+    "orgCode": "05 010 0000000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 funding requirements for the implementation of the Intensified Community-Based Dairy Enterprise Development (USPL-480).",
+    "totalAmountPesos": 187040000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310100300001000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Carabao-based enterprises enhanced",
+          "NATIONAL CARABAO DEVELOPMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Intensified Community-Based Dairy Enterprise Development (USPL-480)"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 187040000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p028",
+    "saroNumber": "SARO-BMB-E-24-0000684",
+    "pageStart": 28,
+    "department": "Department of Agriculture (DA)",
+    "agency": "Philippine Council for Agriculture and Fisheries",
+    "operatingUnit": null,
+    "locality": null,
+    "orgCode": "05 013 0000000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 funding requirements for the implementation of the Intensified Community-Based Dairy Enterprise Development (USPL-480).",
+    "totalAmountPesos": 9986248,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310100300001000",
+        "description": null,
+        "programPath": [
+          "Operations",
+          "OO: Enhanced Agriculture and Fishery Stakeholders Participation in Policy Development",
+          "AGRICULTURE AND FISHERY STAKEHOLDERS ENGAGEMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Intensified Community-Based Dairy Enterprise Development (USPL-480)"
+        ],
+        "objectCode": null,
+        "amountPesos": 9986248
+      }
+    ],
+    "reviewNote": "This record’s amount is the project-level figure on the page; no amount-bearing object-code allocation is visible."
+  },
+  {
+    "documentId": "B-p030",
+    "saroNumber": "SARO-BMB-F-24-0006291",
+    "pageStart": 30,
+    "department": "Department of Education (DepEd)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "07 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the Loan Proceeds requirements for the implementation of the Teacher Effectiveness and Competencies Enhancement Project, as financed by the International Bank for Reconstruction and Development under Loan Agreement No. 9481-PH.",
+    "totalAmountPesos": 322209065,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Support to Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 322209065
+      }
+    ]
+  },
+  {
+    "documentId": "B-p031",
+    "saroNumber": "SARO-BMB-A-24-0001988",
+    "pageStart": 31,
+    "department": "Department of Finance (DOF)",
+    "agency": "Bureau of Local Government Finance",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "11 004 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the Loan Proceeds requirement for the implementation of the Local Governance Reform Project under Asian Development Bank (ADB) Loan No. 3944-PHI.",
+    "totalAmountPesos": 119885000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310101300001000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Fiscal sustainability of LGUs strengthened",
+          "LOCAL FINANCE ADMINISTRATION PROGRAM",
+          "LOCAL FINANCE POLICY REFORMS AND FISCAL PERFORMANCE MONITORING AND EVALUATION SUB-PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Local Governance Reform Project"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 98874000
+      },
+      {
+        "mfoPapCode": "310101300001000",
+        "description": "Information and Communication Technology Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Fiscal sustainability of LGUs strengthened",
+          "LOCAL FINANCE ADMINISTRATION PROGRAM",
+          "LOCAL FINANCE POLICY REFORMS AND FISCAL PERFORMANCE MONITORING AND EVALUATION SUB-PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Local Governance Reform Project",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405003",
+        "amountPesos": 21011000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p034",
+    "saroNumber": "SARO-BMB-B-24-0000868",
+    "pageStart": 34,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 funding requirements for the implementation of the Philippines Multi-Sectoral Nutrition Project (Loan No. 9382-PH), chargeable against the Unprogrammed Appropriations – Support to Foreign-Assisted Projects (UA-SFAPs) of the FY 2024 General Appropriations Act (GAA), Republic Act No. 11975.",
+    "totalAmountPesos": 1039871786,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310300300007000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "PUBLIC HEALTH PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "World Bank Philippine Multi-Sectoral Nutrition Project"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 1039871786
+      }
+    ]
+  },
+  {
+    "documentId": "B-p036",
+    "saroNumber": "SARO-BMB-B-24-0002527",
+    "pageStart": 36,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the funding requirements for the civil works and salaries of the project staffs under the Health System Enhancement to Address and Limit COVID-19 Project 1 (HEAL 1), a foreign loan assistance from Asian Development Bank (Loan No. 3961-PHI) dated September 18, 2020.",
+    "totalAmountPesos": 53823626,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310300300002000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "PUBLIC HEALTH PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Health System Enhancement to Address and Limit (HEAL) COVID-19"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 16111735
+      },
+      {
+        "mfoPapCode": "310300300002000",
+        "description": "Hospitals and Health Centers",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "PUBLIC HEALTH PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Health System Enhancement to Address and Limit (HEAL) COVID-19",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404003",
+        "amountPesos": 37711891
+      }
+    ]
+  },
+  {
+    "documentId": "B-p038",
+    "saroNumber": "SARO-BMB-B-24-0004262",
+    "pageStart": 38,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the funding requirements for the salaries of the project staffs covering the period of July to December 2024, chargeable against the Philippines COVID-19 Emergency Response Project 2 (PCERP 2), a foreign loan assistance from International Bank for Reconstruction and Development, Loan No. 9220-PH dated March 19, 2021.",
+    "totalAmountPesos": 11600000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310300300004000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "PUBLIC HEALTH PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Philippines COVID-19 Emergency Response Project 2 (PCERP 2) (WB Loan No. 9220-PH)"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 11600000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p039",
+    "saroNumber": "SARO-BMB-B-24-0005240",
+    "pageStart": 39,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Public Health Emergency Benefits and Allowances for Health Care and Non-Healthcare Workers",
+    "fundingSourceCode": "01 1 05 513",
+    "formPurpose": "To cover the funding requirements for the payment of Public Health Emergency Benefits and Allowances of eligible public and private health care workers (HCWs) and Non-HCWs.",
+    "totalAmountPesos": 27453233268,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310300200003000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "PUBLIC HEALTH PROGRAM",
+          "Locally-Funded Project(s)",
+          "Public Health Emergency Benefits and Allowances for Health Care and Non-Health Care Workers"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 27453233268
+      }
+    ]
+  },
+  {
+    "documentId": "B-p041",
+    "saroNumber": "SARO-BMB-B-24-0015788",
+    "pageStart": 41,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Priority Social Programs for Health (including Health Facilities Enhancement Program), Social Welfare and Development, Higher Education, and Technical and Vocational Education",
+    "fundingSourceCode": "01 1 05 516",
+    "formPurpose": "To cover the funding requirements for the construction, completion, and equipping of three (3) DOH health facilities.",
+    "totalAmountPesos": 3370000000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310201100002000",
+        "description": "Hospitals and Health Centers",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "HEALTH SYSTEMS STRENGTHENING PROGRAM",
+          "SERVICE DELIVERY SUB-PROGRAM",
+          "Health Facilities Enhancement Program",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404003",
+        "amountPesos": 3200000000
+      },
+      {
+        "mfoPapCode": "310201100002000",
+        "description": "Medical Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "HEALTH SYSTEMS STRENGTHENING PROGRAM",
+          "SERVICE DELIVERY SUB-PROGRAM",
+          "Health Facilities Enhancement Program",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405011",
+        "amountPesos": 170000000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p044",
+    "saroNumber": "SARO-BMB-B-24-0017131",
+    "pageStart": 44,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Priority Social Programs for Health (including Health Facilities Enhancement Program), Social Welfare and Development, Higher Education, and Technical and Vocational Education",
+    "fundingSourceCode": "01 1 05 516",
+    "formPurpose": "To cover the funding requirements for the implementation of the Medical Assistance to Indigent and Financially-Incapacitated Patients Program.",
+    "totalAmountPesos": 10000000000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "340100100003000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Access to social health protection assured",
+          "SOCIAL HEALTH PROTECTION PROGRAM",
+          "Medical Assistance to Indigent and Financially-Incapacitated Patients (MAIP)"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 10000000000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p046",
+    "saroNumber": "SARO-BMB-B-24-0018223",
+    "pageStart": 46,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Priority Social Programs for Health (including Health Facilities Enhancement Program), Social Welfare and Development, Higher Education, and Technical and Vocational Education",
+    "fundingSourceCode": "01 1 05 516",
+    "formPurpose": "To cover the funding requirements for the procurement of various medical equipment for DOH hospitals, LGU hospitals, and Primary Care Facilities.",
+    "totalAmountPesos": 2816080507,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310201100002000",
+        "description": "Medical Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "HEALTH SYSTEMS STRENGTHENING PROGRAM",
+          "SERVICE DELIVERY SUB-PROGRAM",
+          "Health Facilities Enhancement Program",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405011",
+        "amountPesos": 2816080507
+      }
+    ]
+  },
+  {
+    "documentId": "B-p048",
+    "saroNumber": "SARO-BMB-B-24-0018655",
+    "pageStart": 48,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Priority Social Programs for Health (including Health Facilities Enhancement Program), Social Welfare and Development, Higher Education, and Technical and Vocational Education",
+    "fundingSourceCode": "01 1 05 516",
+    "formPurpose": "To cover the funding requirements for the procurement of various medical equipment for DOH hospitals, LGU hospitals, and Primary Care Facilities.",
+    "totalAmountPesos": 1285000000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310201100002000",
+        "description": "Medical Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "HEALTH SYSTEMS STRENGTHENING PROGRAM",
+          "SERVICE DELIVERY SUB-PROGRAM",
+          "Health Facilities Enhancement Program",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405011",
+        "amountPesos": 1285000000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p050",
+    "saroNumber": "SARO-BMB-B-24-0019208",
+    "pageStart": 50,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Priority Social Programs for Health (including Health Facilities Enhancement Program), Social Welfare and Development, Higher Education, and Technical and Vocational Education",
+    "fundingSourceCode": "01 1 05 516",
+    "formPurpose": "To cover the funding requirements for the procurement of various medical equipment for DOH hospitals, LGU hospitals, and Primary Care Facilities.",
+    "totalAmountPesos": 1698584248,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310201100002000",
+        "description": "Hospitals and Health Centers",
+        "programPath": [
+          "Operations",
+          "OO: Access to promotive and preventive health care services improved",
+          "HEALTH SYSTEMS STRENGTHENING PROGRAM",
+          "SERVICE DELIVERY SUB-PROGRAM",
+          "Health Facilities Enhancement Program",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404003",
+        "amountPesos": 1698584248
+      }
+    ]
+  },
+  {
+    "documentId": "B-p053",
+    "saroNumber": "SARO-BMB-B-24-0018548",
+    "pageStart": 53,
+    "department": "Department of Health (DOH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "13 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover the funding requirements for the FY 2024 Government Counterpart of the Philippine Multisectoral Nutrition Project (PMNP) under Loan Agreement No. 9382-PH.",
+    "totalAmountPesos": 138792140,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 138792140
+      }
+    ]
+  },
+  {
+    "documentId": "B-p054",
+    "saroNumber": "SARO-BMB-B-24-0002569",
+    "pageStart": 54,
+    "department": "Department of Labor and Employment (DOLE)",
+    "agency": "Technical Education and Skills Development Authority",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "16 009 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the funding requirements for the implementation of the Foreign-Assisted Project under Loan Agreement No. 4268-PHI, Supporting Innovation in the Philippine Technical and Vocational Education and Training System (SIPTVETS) Project.",
+    "totalAmountPesos": 1554792000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310300300001000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Operations",
+          "OO: Employability increased and / or enhanced",
+          "TECHNICAL EDUCATION AND SKILLS DEVELOPMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Supporting Innovation in the Philippine Technical and Vocational Education and Training System (SIPTVETS) (ADB Loan No. 4268-PH)"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 285792000
+      },
+      {
+        "mfoPapCode": "310300300001000",
+        "description": "Buildings",
+        "programPath": [
+          "Operations",
+          "OO: Employability increased and / or enhanced",
+          "TECHNICAL EDUCATION AND SKILLS DEVELOPMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Supporting Innovation in the Philippine Technical and Vocational Education and Training System (SIPTVETS) (ADB Loan No. 4268-PH)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404001",
+        "amountPesos": 1198710105
+      },
+      {
+        "mfoPapCode": "310300300001000",
+        "description": "Other Machinery and Equipment",
+        "programPath": [
+          "Operations",
+          "OO: Employability increased and / or enhanced",
+          "TECHNICAL EDUCATION AND SKILLS DEVELOPMENT PROGRAM",
+          "Foreign-Assisted Project(s)",
+          "Supporting Innovation in the Philippine Technical and Vocational Education and Training System (SIPTVETS) (ADB Loan No. 4268-PH)",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060405099",
+        "amountPesos": 70289895
+      }
+    ]
+  },
+  {
+    "documentId": "B-p057",
+    "saroNumber": "SARO-BMB-B-24-0014656",
+    "pageStart": 57,
+    "department": "Department of Labor and Employment (DOLE)",
+    "agency": "Technical Education and Skills Development Authority",
+    "operatingUnit": "Central Office",
+    "locality": "National Capital Region (NCR)",
+    "orgCode": "16 009 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover the FY 2024 Government of the Philippines Counterpart for the implementation of the Foreign-Assisted Project under Loan Agreement No. 4268-PHI, Supporting Innovation in the Philippine Technical and Vocational Education and Training System (SIPTVETS) Project.",
+    "totalAmountPesos": 52472979,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 52472979
+      }
+    ]
+  },
+  {
+    "documentId": "B-p059",
+    "saroNumber": "SARO-BMB-D-24-0015786",
+    "pageStart": 59,
+    "department": "Department of National Defense (DND)",
+    "agency": "General Headquarters, AFP and AFP-Wide Service Support Units (AFPWSSUs)",
+    "operatingUnit": "General Headquarters - Proper",
+    "locality": null,
+    "orgCode": "17 010 1700001",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Revised AFP Modernization Program",
+    "fundingSourceCode": "01 1 05 514",
+    "formPurpose": "To cover the funding requirements for various projects under the Revised Armed Forces of the Philippines Modernization Program per attached Annex A.",
+    "totalAmountPesos": 10000000000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310303200001000",
+        "description": null,
+        "programPath": [
+          "Operations",
+          "OO: Sovereignty of the State and the Filipino people protected",
+          "JOINT FORCE CAPABILITY PROGRAM",
+          "AFP MODERNIZATION SUB-PROGRAM",
+          "Locally-Funded Project(s)",
+          "Revised AFP Modernization Program",
+          "Capital Outlays"
+        ],
+        "objectCode": null,
+        "amountPesos": 10000000000
+      }
+    ],
+    "reviewNote": "Amount is shown at project level; no specific object-code leaf allocation is visible."
+  },
+  {
+    "documentId": "B-p062",
+    "saroNumber": "SARO-BMB-A-24-0000658",
+    "pageStart": 62,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the 1st quarter loan proceeds requirements of The Export-Import Bank of China assisted projects, with details in Annex A.",
+    "totalAmountPesos": 350620000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 350620000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p064",
+    "saroNumber": "SARO-BMB-A-24-0000659",
+    "pageStart": 64,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the 1st quarter loan proceeds requirements of Asian Development Bank assisted projects, with details in Annex A.",
+    "totalAmountPesos": 807691000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 807151000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 540000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p066",
+    "saroNumber": "SARO-BMB-A-24-0000660",
+    "pageStart": 66,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the 1st quarter loan proceeds requirements of International Bank for Reconstruction and Development assisted projects, with details in Annex A.",
+    "totalAmountPesos": 462220000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 460220000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Other Structures",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404099",
+        "amountPesos": 2000000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p071",
+    "saroNumber": "SARO-BMB-A-24-0000656",
+    "pageStart": 71,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the 1st quarter loan proceeds requirements of Japan International Cooperation Agency assisted projects, with details in Annex A.",
+    "totalAmountPesos": 1208886000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 740306000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 468580000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p073",
+    "saroNumber": "SARO-BMB-A-24-0000657",
+    "pageStart": 73,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the 1st quarter loan proceeds requirements of Korea Economic Development Cooperation Fund assisted projects, with details in Annex A.",
+    "totalAmountPesos": 394847000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 359267000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 35580000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p075",
+    "saroNumber": "SARO-BMB-A-24-0002833",
+    "pageStart": 75,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the loan proceeds requirements of International Bank for Reconstruction and Development assisted projects for the 2nd to 4th Quarters of FY 2024, with details in Annex A.",
+    "totalAmountPesos": 5610290000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 5199680000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Other Structures",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404099",
+        "amountPesos": 410610000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p077",
+    "saroNumber": "SARO-BMB-A-24-0002830",
+    "pageStart": 77,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the loan proceeds requirements of Asian Development Bank assisted projects for the 2nd to 4th Quarters of FY 2024, with details in Annex A.",
+    "totalAmountPesos": 20565590000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 17834140000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 2731450000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p079",
+    "saroNumber": "SARO-BMB-A-24-0002832",
+    "pageStart": 79,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the loan proceeds requirements of The Export-Import Bank of China assisted projects for the 2nd to 4th Quarters of FY 2024, with details in Annex A.",
+    "totalAmountPesos": 4870111000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 4870111000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p081",
+    "saroNumber": "SARO-BMB-A-24-0002829",
+    "pageStart": 81,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the loan proceeds requirements of Japan International Cooperation Agency assisted projects for the 2nd to 4th Quarters of FY 2024, with details in Annex A.",
+    "totalAmountPesos": 10680620000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 5396262000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 5284358000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p083",
+    "saroNumber": "SARO-BMB-A-24-0002831",
+    "pageStart": 83,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the loan proceeds requirements of Korea Economic Development Cooperation Fund assisted projects for the 2nd to 4th Quarters of FY 2024, with details in Annex A.",
+    "totalAmountPesos": 405087000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 259562000
+      },
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 145525000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p085",
+    "saroNumber": "SARO-BMB-A-24-0002834",
+    "pageStart": 85,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Panay-Guimaras-Negros (PGN) Island Bridges Project: Loan Proceeds",
+    "fundingSourceCode": "01 1 05 562",
+    "formPurpose": "To cover the loan proceeds requirements of Panay-Guimaras-Negros (PGN) Island Bridges Project under the Korea Economic Development Cooperation Fund loan for the 2nd to 4th Quarters of FY 2024.",
+    "totalAmountPesos": 2836003000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "310204300012000",
+        "description": "Road Networks",
+        "programPath": [
+          "Operations",
+          "Panay - Guimaras - Negros (PGN) Island Bridges Project",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 2836003000,
+        "adviceParticular": "Panay - Guimaras - Negros (PGN) Island Bridges Project",
+        "adviceSourcePage": 87,
+        "adviceSourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-advice-pages-v1/annex-b-p087.pdf"
+      }
+    ]
+  },
+  {
+    "documentId": "B-p089",
+    "saroNumber": "SARO-BMB-A-24-0003585",
+    "pageStart": 89,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Maintenance, Repair and Rehabilitation of Infrastructure Facilities (Routine Maintenance of National Roads)",
+    "fundingSourceCode": "01 1 05 565",
+    "formPurpose": "To cover the additional funding requirements for the routine maintenance of national roads and bridges, nationwide.",
+    "totalAmountPesos": 6000000000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "200000100017000",
+        "description": "Maintenance, Repair and Rehabilitation of Infrastructure Facilities and Other Related Activities - Routine Maintenance of National Roads",
+        "programPath": [
+          "Support to Operations"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 4660666000
+      },
+      {
+        "mfoPapCode": "200000100018000",
+        "description": "Maintenance, Repair and Rehabilitation of Infrastructure Facilities and Other Related Activities - Routine Maintenance of National Bridges",
+        "programPath": [
+          "Support to Operations"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 1339334000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p090",
+    "saroNumber": "SARO-BMB-A-24-0004248",
+    "pageStart": 90,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Payment of Right-of-Way",
+    "fundingSourceCode": "01 1 05 465",
+    "formPurpose": "To cover the payment of Right-of-Way claims affected/traversed by the implementation various infrastructure projects, details in Annex A.",
+    "totalAmountPesos": 1680398000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "200000100321000",
+        "description": "Payments of Right - Of - Way (ROW) - Various Completed Projects",
+        "programPath": [
+          "Support to Operations"
+        ],
+        "objectCode": "5060403011",
+        "amountPesos": 506253581
+      },
+      {
+        "mfoPapCode": "200000101159000",
+        "description": "Payments of Right - Of - Way (ROW) - Right - Of - Way Claims with Court Orders",
+        "programPath": [
+          "Support to Operations"
+        ],
+        "objectCode": "5060403011",
+        "amountPesos": 763307021
+      },
+      {
+        "mfoPapCode": "200000101305000",
+        "description": "Payments of Right - Of - Way (ROW) - Various On-going Projects",
+        "programPath": [
+          "Support to Operations"
+        ],
+        "objectCode": "5060403011",
+        "amountPesos": 15347000
+      },
+      {
+        "mfoPapCode": "200000101306000",
+        "description": "Payments of Right-of-Way (ROW) - PPP projects under TRB - Southeast Metro Manila Expressway (C6) Project; C5 Southlink Expressway Project; South Luzon Expressway (SLEX) Phase II, Toll Road 4 (TR-4); C5 Northern Link Road Project, Segments 8.1, 8.2, 9 and 10; Manila-Cavite Toll Expressway (MCTEP); R-1 Enhancement Manila Left Turning (Phase - II Pacific Drive); Skyway Stages 1 and 2; South Luzon Tollway Extension (SLEX) Project; North Luzon Expressway / Manila North Expressway",
+        "programPath": [
+          "Support to Operations"
+        ],
+        "objectCode": "5060403011",
+        "amountPesos": 395490398
+      }
+    ]
+  },
+  {
+    "documentId": "B-p098",
+    "saroNumber": "SARO-BMB-A-24-0004246",
+    "pageStart": 98,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Panay-Guimaras-Negros (PGN) Island Bridges Project: GOP Counterpart",
+    "fundingSourceCode": "01 1 05 563",
+    "formPurpose": "To cover the 1st and 2nd quarter GOP counterpart requirements of the Panay-Guimaras-Negros (PGN) Island Bridges Project.",
+    "totalAmountPesos": 10564000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Road Networks",
+        "programPath": [
+          "Panay-Guimaras-Negros (PGN) Island Bridges Project: GOP Counterpart",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 10564000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p099",
+    "saroNumber": "SARO-BMB-A-24-0004247",
+    "pageStart": 99,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover the 1st and 2nd quarter GOP counterpart requirements of various Foreign-Assisted Projects, with details in Annex A.",
+    "totalAmountPesos": 10772424000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Road Networks",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 6845061000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 3927363000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p103",
+    "saroNumber": "SARO-BMB-A-24-0014804",
+    "pageStart": 103,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 Loan Proceeds requirement for the implementation of the Metro Manila Bridges Project (MMBP), ADB Loan No. 4168-PHI.",
+    "totalAmountPesos": 201256000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 201256000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p104",
+    "saroNumber": "SARO-BMB-A-24-0014805",
+    "pageStart": 104,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Support to Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 428",
+    "formPurpose": "To cover the FY 2024 Loan Proceeds requirement for the implementation of the Dalton Pass East Alignment Road Project, JICA Loan No. PH-P280.",
+    "totalAmountPesos": 55926000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099020000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Support to Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 55926000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p107",
+    "saroNumber": "SARO-BMB-A-24-0014802",
+    "pageStart": 107,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Panay-Guimaras-Negros (PGN) Island Bridges Project: GOP Counterpart",
+    "fundingSourceCode": "01 1 05 563",
+    "formPurpose": "To cover the 3rd and 4th quarter GOP counterpart requirements of the Panay-Guimaras-Negros (PGN) Island Bridges Project.",
+    "totalAmountPesos": 153436000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000067000",
+        "description": "Road Networks",
+        "programPath": [
+          "Panay-Guimaras-Negros (PGN) Island Bridges Project: GOP Counterpart",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 153436000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p108",
+    "saroNumber": "SARO-BMB-A-24-0014803",
+    "pageStart": 108,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, For Government Counterpart of Foreign-Assisted Projects",
+    "fundingSourceCode": "01 1 05 564",
+    "formPurpose": "To cover the FY 2024 additional GOP counterpart requirements of various Foreign-Assisted Projects, with details in Annex A.",
+    "totalAmountPesos": 11914935000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Road Networks",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 7942340000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 3866835000
+      },
+      {
+        "mfoPapCode": "409968000035000",
+        "description": "Buildings",
+        "programPath": [
+          "For Government Counterpart of Foreign-Assisted Projects",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404001",
+        "amountPesos": 105760000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p114",
+    "saroNumber": "SARO-BMB-A-24-0016272",
+    "pageStart": 114,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Strengthening Assistance for Government Infrastructure and Social Programs",
+    "fundingSourceCode": "01 1 05 422",
+    "formPurpose": "To cover the (i) operation of Weighbridge Stations and ATOME - P500,000,000; (ii) maintenance and operations of DPWH Floating Equipment - P250,000,000; and (iii) implementation of various priority projects, with details in Annex A - P6,668,125,000.",
+    "totalAmountPesos": 7418125000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "200000100006000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Support to Operations",
+          "Maintenance, Repair and Rehabilitation of Infrastructure Facilities and Other Related Activities - Operation of Weighbridge Stations and ATOME"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 500000000
+      },
+      {
+        "mfoPapCode": "200000100014000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Support to Operations",
+          "Maintenance, Repair and Rehabilitation of Infrastructure Facilities and Other Related Activities - Maintenance and Operations of DPWH Floating Equipment"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 250000000
+      },
+      {
+        "mfoPapCode": "4099030000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Strengthening Assistance for Government Infrastructure and Social Programs",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 3238125000
+      },
+      {
+        "mfoPapCode": "4099030000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Strengthening Assistance for Government Infrastructure and Social Programs",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 2770000000
+      },
+      {
+        "mfoPapCode": "4099030000000000",
+        "description": "Buildings",
+        "programPath": [
+          "Strengthening Assistance for Government Infrastructure and Social Programs",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404001",
+        "amountPesos": 545000000
+      },
+      {
+        "mfoPapCode": "4099030000000000",
+        "description": "Other Structures",
+        "programPath": [
+          "Strengthening Assistance for Government Infrastructure and Social Programs",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404099",
+        "amountPesos": 115000000
+      }
+    ]
+  },
+  {
+    "documentId": "B-p141",
+    "saroNumber": "SARO-BMB-A-24-0017624",
+    "pageStart": 141,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Strengthening Assistance for Government Infrastructure and Social Programs",
+    "fundingSourceCode": "01 1 05 422",
+    "formPurpose": "To cover the implementation of various priority projects which are essential for achieving the objectives outlined in the President?s Eight-Point Socioeconomic Agenda, with details in Annex A.",
+    "totalAmountPesos": 12024184000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "4099030000000000",
+        "description": "Road Networks",
+        "programPath": [
+          "Strengthening Assistance for Government Infrastructure and Social Programs",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403001",
+        "amountPesos": 3838050000
+      },
+      {
+        "mfoPapCode": "4099030000000000",
+        "description": "Flood Control Systems",
+        "programPath": [
+          "Strengthening Assistance for Government Infrastructure and Social Programs",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060403002",
+        "amountPesos": 7180000000
+      },
+      {
+        "mfoPapCode": "4099030000000000",
+        "description": "Buildings",
+        "programPath": [
+          "Strengthening Assistance for Government Infrastructure and Social Programs",
+          "Capital Outlays"
+        ],
+        "objectCode": "5060404001",
+        "amountPesos": 1006134000
+      }
+    ]
+  }
+]

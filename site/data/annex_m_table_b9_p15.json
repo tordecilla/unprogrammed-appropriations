@@ -1,0 +1,929 @@
+﻿{
+    "sourceAnnex":  "M",
+    "table":  "B.9",
+    "sourcePage":  15,
+    "printedPage":  375,
+    "unit":  "thousand pesos",
+    "currency":  "PHP",
+    "columnOrder":  "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+    "rows":  [
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "National Commission of Senior Citizens",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Other Executive Offices (OEOs)",
+                                           "National Commission of Senior Citizens"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  144124,
+                                                "maintenanceAndOtherOperatingExpenses":  100481,
+                                                "capitalOutlaysAndNetLending":  1798,
+                                                "financialExpenses":  0,
+                                                "total":  246403
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  138281,
+                                                "maintenanceAndOtherOperatingExpenses":  3062162,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  3200443
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  182061,
+                                                "maintenanceAndOtherOperatingExpenses":  3416057,
+                                                "capitalOutlaysAndNetLending":  3000,
+                                                "financialExpenses":  0,
+                                                "total":  3601118
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Marawi Compensation Board",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Other Executive Offices (OEOs)",
+                                           "Marawi Compensation Board"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  120160,
+                                                "maintenanceAndOtherOperatingExpenses":  1541915,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  1662075
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  114137,
+                                                "maintenanceAndOtherOperatingExpenses":  1050000,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  1164137
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  178498,
+                                                "maintenanceAndOtherOperatingExpenses":  1050000,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  1228498
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Metropolitan Baguio City, La Trinidad, Itogon, Sablan, Tuba, and Tublay Development Authority",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Other Executive Offices (OEOs)",
+                                           "Metropolitan Baguio City, La Trinidad, Itogon, Sablan, Tuba, and Tublay Development Authority"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  0,
+                                                "maintenanceAndOtherOperatingExpenses":  0,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  0
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  0,
+                                                "maintenanceAndOtherOperatingExpenses":  0,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  0
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  3934,
+                                                "maintenanceAndOtherOperatingExpenses":  14438,
+                                                "capitalOutlaysAndNetLending":  2100,
+                                                "financialExpenses":  0,
+                                                "total":  20472
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "National Amnesty Commission",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Other Executive Offices (OEOs)",
+                                           "National Amnesty Commission"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  0,
+                                                "maintenanceAndOtherOperatingExpenses":  0,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  0
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  32508,
+                                                "maintenanceAndOtherOperatingExpenses":  85093,
+                                                "capitalOutlaysAndNetLending":  2400,
+                                                "financialExpenses":  0,
+                                                "total":  120001
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  108350,
+                                                "maintenanceAndOtherOperatingExpenses":  109194,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  217544
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "The Judiciary (JUD)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "The Judiciary (JUD)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  45275427,
+                                                "maintenanceAndOtherOperatingExpenses":  10193608,
+                                                "capitalOutlaysAndNetLending":  5592600,
+                                                "financialExpenses":  0,
+                                                "total":  61061635
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  41867116,
+                                                "maintenanceAndOtherOperatingExpenses":  14341319,
+                                                "capitalOutlaysAndNetLending":  7804465,
+                                                "financialExpenses":  0,
+                                                "total":  64012900
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  44712543,
+                                                "maintenanceAndOtherOperatingExpenses":  16760690,
+                                                "capitalOutlaysAndNetLending":  6471561,
+                                                "financialExpenses":  0,
+                                                "total":  67944794
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Supreme Court of the Philippines and the Lower Courts",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "The Judiciary (JUD)",
+                                           "Supreme Court of the Philippines and the Lower Courts"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  40233163,
+                                                "maintenanceAndOtherOperatingExpenses":  7780701,
+                                                "capitalOutlaysAndNetLending":  4715517,
+                                                "financialExpenses":  0,
+                                                "total":  52729381
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  37494676,
+                                                "maintenanceAndOtherOperatingExpenses":  11163153,
+                                                "capitalOutlaysAndNetLending":  6571990,
+                                                "financialExpenses":  0,
+                                                "total":  55229819
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  39844923,
+                                                "maintenanceAndOtherOperatingExpenses":  13182303,
+                                                "capitalOutlaysAndNetLending":  5526725,
+                                                "financialExpenses":  0,
+                                                "total":  58553951
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Presidential Electoral Tribunal",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "The Judiciary (JUD)",
+                                           "Presidential Electoral Tribunal"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  151301,
+                                                "maintenanceAndOtherOperatingExpenses":  9672,
+                                                "capitalOutlaysAndNetLending":  7300,
+                                                "financialExpenses":  0,
+                                                "total":  168273
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  149730,
+                                                "maintenanceAndOtherOperatingExpenses":  13980,
+                                                "capitalOutlaysAndNetLending":  8000,
+                                                "financialExpenses":  0,
+                                                "total":  171710
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  157843,
+                                                "maintenanceAndOtherOperatingExpenses":  14026,
+                                                "capitalOutlaysAndNetLending":  6000,
+                                                "financialExpenses":  0,
+                                                "total":  177869
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Sandiganbayan",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "The Judiciary (JUD)",
+                                           "Sandiganbayan"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  1454502,
+                                                "maintenanceAndOtherOperatingExpenses":  743001,
+                                                "capitalOutlaysAndNetLending":  503457,
+                                                "financialExpenses":  0,
+                                                "total":  2700960
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  1079764,
+                                                "maintenanceAndOtherOperatingExpenses":  772100,
+                                                "capitalOutlaysAndNetLending":  525575,
+                                                "financialExpenses":  0,
+                                                "total":  2377439
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  1221587,
+                                                "maintenanceAndOtherOperatingExpenses":  840161,
+                                                "capitalOutlaysAndNetLending":  315999,
+                                                "financialExpenses":  0,
+                                                "total":  2377747
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Court of Appeals",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "The Judiciary (JUD)",
+                                           "Court of Appeals"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  2702287,
+                                                "maintenanceAndOtherOperatingExpenses":  1429848,
+                                                "capitalOutlaysAndNetLending":  263502,
+                                                "financialExpenses":  0,
+                                                "total":  4395637
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  2554065,
+                                                "maintenanceAndOtherOperatingExpenses":  2133543,
+                                                "capitalOutlaysAndNetLending":  526910,
+                                                "financialExpenses":  0,
+                                                "total":  5214518
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  2789949,
+                                                "maintenanceAndOtherOperatingExpenses":  2426187,
+                                                "capitalOutlaysAndNetLending":  572155,
+                                                "financialExpenses":  0,
+                                                "total":  5788291
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Court of Tax Appeals",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "The Judiciary (JUD)",
+                                           "Court of Tax Appeals"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  734174,
+                                                "maintenanceAndOtherOperatingExpenses":  230386,
+                                                "capitalOutlaysAndNetLending":  102824,
+                                                "financialExpenses":  0,
+                                                "total":  1067384
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  588881,
+                                                "maintenanceAndOtherOperatingExpenses":  258543,
+                                                "capitalOutlaysAndNetLending":  171990,
+                                                "financialExpenses":  0,
+                                                "total":  1019414
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  698241,
+                                                "maintenanceAndOtherOperatingExpenses":  298013,
+                                                "capitalOutlaysAndNetLending":  50682,
+                                                "financialExpenses":  0,
+                                                "total":  1046936
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Civil Service Commission (CSC)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Civil Service Commission (CSC)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  1704160,
+                                                "maintenanceAndOtherOperatingExpenses":  566227,
+                                                "capitalOutlaysAndNetLending":  185263,
+                                                "financialExpenses":  0,
+                                                "total":  2455650
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  1648147,
+                                                "maintenanceAndOtherOperatingExpenses":  748593,
+                                                "capitalOutlaysAndNetLending":  486489,
+                                                "financialExpenses":  0,
+                                                "total":  2883229
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  1838589,
+                                                "maintenanceAndOtherOperatingExpenses":  1189195,
+                                                "capitalOutlaysAndNetLending":  1267066,
+                                                "financialExpenses":  0,
+                                                "total":  4294850
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Civil Service Commission",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Civil Service Commission (CSC)",
+                                           "Civil Service Commission"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  1654904,
+                                                "maintenanceAndOtherOperatingExpenses":  524438,
+                                                "capitalOutlaysAndNetLending":  185034,
+                                                "financialExpenses":  0,
+                                                "total":  2364376
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  1605621,
+                                                "maintenanceAndOtherOperatingExpenses":  691622,
+                                                "capitalOutlaysAndNetLending":  485989,
+                                                "financialExpenses":  0,
+                                                "total":  2783232
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  1789047,
+                                                "maintenanceAndOtherOperatingExpenses":  1132738,
+                                                "capitalOutlaysAndNetLending":  1266436,
+                                                "financialExpenses":  0,
+                                                "total":  4188221
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Career Executive Service Board",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Civil Service Commission (CSC)",
+                                           "Career Executive Service Board"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  49256,
+                                                "maintenanceAndOtherOperatingExpenses":  41789,
+                                                "capitalOutlaysAndNetLending":  229,
+                                                "financialExpenses":  0,
+                                                "total":  91274
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  42526,
+                                                "maintenanceAndOtherOperatingExpenses":  56971,
+                                                "capitalOutlaysAndNetLending":  500,
+                                                "financialExpenses":  0,
+                                                "total":  99997
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  49542,
+                                                "maintenanceAndOtherOperatingExpenses":  56457,
+                                                "capitalOutlaysAndNetLending":  630,
+                                                "financialExpenses":  0,
+                                                "total":  106629
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Commission on Audit (COA)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Commission on Audit (COA)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  13394901,
+                                                "maintenanceAndOtherOperatingExpenses":  921037,
+                                                "capitalOutlaysAndNetLending":  870518,
+                                                "financialExpenses":  0,
+                                                "total":  15186456
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  12551130,
+                                                "maintenanceAndOtherOperatingExpenses":  954447,
+                                                "capitalOutlaysAndNetLending":  111763,
+                                                "financialExpenses":  0,
+                                                "total":  13617340
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  14236459,
+                                                "maintenanceAndOtherOperatingExpenses":  724927,
+                                                "capitalOutlaysAndNetLending":  112374,
+                                                "financialExpenses":  0,
+                                                "total":  15073760
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Commission on Audit (COA)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Commission on Audit (COA)",
+                                           "Commission on Audit (COA)"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  13394901,
+                                                "maintenanceAndOtherOperatingExpenses":  921037,
+                                                "capitalOutlaysAndNetLending":  870518,
+                                                "financialExpenses":  0,
+                                                "total":  15186456
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  12551130,
+                                                "maintenanceAndOtherOperatingExpenses":  954447,
+                                                "capitalOutlaysAndNetLending":  111763,
+                                                "financialExpenses":  0,
+                                                "total":  13617340
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  14236459,
+                                                "maintenanceAndOtherOperatingExpenses":  724927,
+                                                "capitalOutlaysAndNetLending":  112374,
+                                                "financialExpenses":  0,
+                                                "total":  15073760
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Commission on Elections (COMELEC)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Commission on Elections (COMELEC)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  5438379,
+                                                "maintenanceAndOtherOperatingExpenses":  25050993,
+                                                "capitalOutlaysAndNetLending":  403556,
+                                                "financialExpenses":  0,
+                                                "total":  30892928
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  6277802,
+                                                "maintenanceAndOtherOperatingExpenses":  25033844,
+                                                "capitalOutlaysAndNetLending":  4191025,
+                                                "financialExpenses":  0,
+                                                "total":  35502671
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  4296494,
+                                                "maintenanceAndOtherOperatingExpenses":  3717536,
+                                                "capitalOutlaysAndNetLending":  3834313,
+                                                "financialExpenses":  0,
+                                                "total":  11848343
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Commission on Elections (COMELEC)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Commission on Elections (COMELEC)",
+                                           "Commission on Elections (COMELEC)"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  5438379,
+                                                "maintenanceAndOtherOperatingExpenses":  25050993,
+                                                "capitalOutlaysAndNetLending":  403556,
+                                                "financialExpenses":  0,
+                                                "total":  30892928
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  6277802,
+                                                "maintenanceAndOtherOperatingExpenses":  25033844,
+                                                "capitalOutlaysAndNetLending":  4191025,
+                                                "financialExpenses":  0,
+                                                "total":  35502671
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  4296494,
+                                                "maintenanceAndOtherOperatingExpenses":  3717536,
+                                                "capitalOutlaysAndNetLending":  3834313,
+                                                "financialExpenses":  0,
+                                                "total":  11848343
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Office of the Ombudsman (OMB)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Office of the Ombudsman (OMB)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  3156945,
+                                                "maintenanceAndOtherOperatingExpenses":  1922270,
+                                                "capitalOutlaysAndNetLending":  663533,
+                                                "financialExpenses":  0,
+                                                "total":  5742748
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  3289235,
+                                                "maintenanceAndOtherOperatingExpenses":  2067790,
+                                                "capitalOutlaysAndNetLending":  515129,
+                                                "financialExpenses":  0,
+                                                "total":  5872154
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  3670445,
+                                                "maintenanceAndOtherOperatingExpenses":  2204639,
+                                                "capitalOutlaysAndNetLending":  515325,
+                                                "financialExpenses":  0,
+                                                "total":  6390409
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Office of the Ombudsman",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Office of the Ombudsman (OMB)",
+                                           "Office of the Ombudsman"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  3156945,
+                                                "maintenanceAndOtherOperatingExpenses":  1922270,
+                                                "capitalOutlaysAndNetLending":  663533,
+                                                "financialExpenses":  0,
+                                                "total":  5742748
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  3289235,
+                                                "maintenanceAndOtherOperatingExpenses":  2067790,
+                                                "capitalOutlaysAndNetLending":  515129,
+                                                "financialExpenses":  0,
+                                                "total":  5872154
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  3670445,
+                                                "maintenanceAndOtherOperatingExpenses":  2204639,
+                                                "capitalOutlaysAndNetLending":  515325,
+                                                "financialExpenses":  0,
+                                                "total":  6390409
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Commission on Human Rights (CHR)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Commission on Human Rights (CHR)"
+                                       ],
+                     "rowType":  "subtotal",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  670030,
+                                                "maintenanceAndOtherOperatingExpenses":  357617,
+                                                "capitalOutlaysAndNetLending":  45103,
+                                                "financialExpenses":  0,
+                                                "total":  1072750
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  576014,
+                                                "maintenanceAndOtherOperatingExpenses":  464327,
+                                                "capitalOutlaysAndNetLending":  155931,
+                                                "financialExpenses":  0,
+                                                "total":  1196272
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  691498,
+                                                "maintenanceAndOtherOperatingExpenses":  515671,
+                                                "capitalOutlaysAndNetLending":  155075,
+                                                "financialExpenses":  0,
+                                                "total":  1362244
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Commission on Human Rights (CHR)",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Commission on Human Rights (CHR)",
+                                           "Commission on Human Rights (CHR)"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  645700,
+                                                "maintenanceAndOtherOperatingExpenses":  335143,
+                                                "capitalOutlaysAndNetLending":  45103,
+                                                "financialExpenses":  0,
+                                                "total":  1025946
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  553992,
+                                                "maintenanceAndOtherOperatingExpenses":  435062,
+                                                "capitalOutlaysAndNetLending":  151831,
+                                                "financialExpenses":  0,
+                                                "total":  1140885
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  663231,
+                                                "maintenanceAndOtherOperatingExpenses":  482078,
+                                                "capitalOutlaysAndNetLending":  152165,
+                                                "financialExpenses":  0,
+                                                "total":  1297474
+                                            }
+                               }
+                 },
+                 {
+                     "sourceAnnex":  "M",
+                     "table":  "B.9",
+                     "sourcePage":  15,
+                     "printedPage":  375,
+                     "particulars":  "Human Rights Violations Victims\u0027 Memorial Commission",
+                     "hierarchyPath":  [
+                                           "DEPARTMENTS",
+                                           "Commission on Human Rights (CHR)",
+                                           "Human Rights Violations Victims\u0027 Memorial Commission"
+                                       ],
+                     "rowType":  "detail",
+                     "unit":  "thousand pesos",
+                     "currency":  "PHP",
+                     "reviewNote":  null,
+                     "years":  {
+                                   "2024":  {
+                                                "basis":  "actual",
+                                                "personnelServices":  24330,
+                                                "maintenanceAndOtherOperatingExpenses":  22474,
+                                                "capitalOutlaysAndNetLending":  0,
+                                                "financialExpenses":  0,
+                                                "total":  46804
+                                            },
+                                   "2025":  {
+                                                "basis":  "program",
+                                                "personnelServices":  22022,
+                                                "maintenanceAndOtherOperatingExpenses":  29265,
+                                                "capitalOutlaysAndNetLending":  4100,
+                                                "financialExpenses":  0,
+                                                "total":  55387
+                                            },
+                                   "2026":  {
+                                                "basis":  "proposed",
+                                                "personnelServices":  28267,
+                                                "maintenanceAndOtherOperatingExpenses":  33593,
+                                                "capitalOutlaysAndNetLending":  2910,
+                                                "financialExpenses":  0,
+                                                "total":  64770
+                                            }
+                               }
+                 }
+             ]
+}

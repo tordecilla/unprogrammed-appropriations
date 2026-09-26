@@ -1,0 +1,1099 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 4,
+  "printedPage": 364,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Tarlac Agricultural University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region III - Central Luzon",
+        "Tarlac Agricultural University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 277889,
+          "maintenanceAndOtherOperatingExpenses": 162066,
+          "capitalOutlaysAndNetLending": 35752,
+          "financialExpenses": 0,
+          "total": 475707
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 282125,
+          "maintenanceAndOtherOperatingExpenses": 149908,
+          "capitalOutlaysAndNetLending": 39000,
+          "financialExpenses": 0,
+          "total": 471033
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 332989,
+          "maintenanceAndOtherOperatingExpenses": 147947,
+          "capitalOutlaysAndNetLending": 12420,
+          "financialExpenses": 0,
+          "total": 493356
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Tarlac State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region III - Central Luzon",
+        "Tarlac State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 456736,
+          "maintenanceAndOtherOperatingExpenses": 409402,
+          "capitalOutlaysAndNetLending": 83209,
+          "financialExpenses": 0,
+          "total": 949347
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 452754,
+          "maintenanceAndOtherOperatingExpenses": 432486,
+          "capitalOutlaysAndNetLending": 61921,
+          "financialExpenses": 0,
+          "total": 947161
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 523432,
+          "maintenanceAndOtherOperatingExpenses": 460804,
+          "capitalOutlaysAndNetLending": 50000,
+          "financialExpenses": 0,
+          "total": 1034236
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Region IVA - CALABARZON",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVA - CALABARZON"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 2719094,
+          "maintenanceAndOtherOperatingExpenses": 3257861,
+          "capitalOutlaysAndNetLending": 440381,
+          "financialExpenses": 0,
+          "total": 6417336
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 2945915,
+          "maintenanceAndOtherOperatingExpenses": 3185132,
+          "capitalOutlaysAndNetLending": 701116,
+          "financialExpenses": 0,
+          "total": 6832163
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 3399628,
+          "maintenanceAndOtherOperatingExpenses": 3291946,
+          "capitalOutlaysAndNetLending": 543208,
+          "financialExpenses": 0,
+          "total": 7234782
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Batangas State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVA - CALABARZON",
+        "Batangas State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 671063,
+          "maintenanceAndOtherOperatingExpenses": 1090045,
+          "capitalOutlaysAndNetLending": 85730,
+          "financialExpenses": 0,
+          "total": 1846838
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 675268,
+          "maintenanceAndOtherOperatingExpenses": 1227276,
+          "capitalOutlaysAndNetLending": 99000,
+          "financialExpenses": 0,
+          "total": 2001544
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 805391,
+          "maintenanceAndOtherOperatingExpenses": 1226415,
+          "capitalOutlaysAndNetLending": 150000,
+          "financialExpenses": 0,
+          "total": 2181806
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Cavite State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVA - CALABARZON",
+        "Cavite State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 637616,
+          "maintenanceAndOtherOperatingExpenses": 1397465,
+          "capitalOutlaysAndNetLending": 184870,
+          "financialExpenses": 0,
+          "total": 2219951
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 697531,
+          "maintenanceAndOtherOperatingExpenses": 1127389,
+          "capitalOutlaysAndNetLending": 398616,
+          "financialExpenses": 0,
+          "total": 2223536
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 799463,
+          "maintenanceAndOtherOperatingExpenses": 1164109,
+          "capitalOutlaysAndNetLending": 164700,
+          "financialExpenses": 0,
+          "total": 2128272
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Laguna State Polytechnic University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVA - CALABARZON",
+        "Laguna State Polytechnic University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 506348,
+          "maintenanceAndOtherOperatingExpenses": 304328,
+          "capitalOutlaysAndNetLending": 23511,
+          "financialExpenses": 0,
+          "total": 834187
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 543489,
+          "maintenanceAndOtherOperatingExpenses": 347252,
+          "capitalOutlaysAndNetLending": 122000,
+          "financialExpenses": 0,
+          "total": 1012741
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 634532,
+          "maintenanceAndOtherOperatingExpenses": 380702,
+          "capitalOutlaysAndNetLending": 158000,
+          "financialExpenses": 0,
+          "total": 1173234
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Southern Luzon State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVA - CALABARZON",
+        "Southern Luzon State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 336890,
+          "maintenanceAndOtherOperatingExpenses": 258993,
+          "capitalOutlaysAndNetLending": 133709,
+          "financialExpenses": 0,
+          "total": 729592
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 374965,
+          "maintenanceAndOtherOperatingExpenses": 258257,
+          "capitalOutlaysAndNetLending": 45000,
+          "financialExpenses": 0,
+          "total": 678222
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 432455,
+          "maintenanceAndOtherOperatingExpenses": 285604,
+          "capitalOutlaysAndNetLending": 62505,
+          "financialExpenses": 0,
+          "total": 780564
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "University of Rizal System",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVA - CALABARZON",
+        "University of Rizal System"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 567177,
+          "maintenanceAndOtherOperatingExpenses": 207030,
+          "capitalOutlaysAndNetLending": 12561,
+          "financialExpenses": 0,
+          "total": 786768
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 654662,
+          "maintenanceAndOtherOperatingExpenses": 224958,
+          "capitalOutlaysAndNetLending": 36500,
+          "financialExpenses": 0,
+          "total": 916120
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 727787,
+          "maintenanceAndOtherOperatingExpenses": 235116,
+          "capitalOutlaysAndNetLending": 8003,
+          "financialExpenses": 0,
+          "total": 970906
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Region IVB - MIMAROPA",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVB - MIMAROPA"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1963661,
+          "maintenanceAndOtherOperatingExpenses": 1437322,
+          "capitalOutlaysAndNetLending": 3395348,
+          "financialExpenses": 0,
+          "total": 6796331
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1880939,
+          "maintenanceAndOtherOperatingExpenses": 1462061,
+          "capitalOutlaysAndNetLending": 266939,
+          "financialExpenses": 0,
+          "total": 3609939
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 2359736,
+          "maintenanceAndOtherOperatingExpenses": 1412341,
+          "capitalOutlaysAndNetLending": 73921,
+          "financialExpenses": 0,
+          "total": 3845998
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Marinduque State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVB - MIMAROPA",
+        "Marinduque State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 225464,
+          "maintenanceAndOtherOperatingExpenses": 88883,
+          "capitalOutlaysAndNetLending": 1706868,
+          "financialExpenses": 0,
+          "total": 2021215
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 229119,
+          "maintenanceAndOtherOperatingExpenses": 114888,
+          "capitalOutlaysAndNetLending": 42400,
+          "financialExpenses": 0,
+          "total": 386407
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 280192,
+          "maintenanceAndOtherOperatingExpenses": 129872,
+          "capitalOutlaysAndNetLending": 14315,
+          "financialExpenses": 0,
+          "total": 424379
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Mindoro State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVB - MIMAROPA",
+        "Mindoro State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 245377,
+          "maintenanceAndOtherOperatingExpenses": 156679,
+          "capitalOutlaysAndNetLending": 8009,
+          "financialExpenses": 0,
+          "total": 410065
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 235980,
+          "maintenanceAndOtherOperatingExpenses": 201505,
+          "capitalOutlaysAndNetLending": 32671,
+          "financialExpenses": 0,
+          "total": 470156
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 292889,
+          "maintenanceAndOtherOperatingExpenses": 176356,
+          "capitalOutlaysAndNetLending": 8745,
+          "financialExpenses": 0,
+          "total": 477990
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Occidental Mindoro State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVB - MIMAROPA",
+        "Occidental Mindoro State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 356140,
+          "maintenanceAndOtherOperatingExpenses": 242951,
+          "capitalOutlaysAndNetLending": 16217,
+          "financialExpenses": 0,
+          "total": 615308
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 293575,
+          "maintenanceAndOtherOperatingExpenses": 314940,
+          "capitalOutlaysAndNetLending": 34900,
+          "financialExpenses": 0,
+          "total": 643415
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 378048,
+          "maintenanceAndOtherOperatingExpenses": 273940,
+          "capitalOutlaysAndNetLending": 18626,
+          "financialExpenses": 0,
+          "total": 670614
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Palawan State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVB - MIMAROPA",
+        "Palawan State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 488244,
+          "maintenanceAndOtherOperatingExpenses": 536723,
+          "capitalOutlaysAndNetLending": 34940,
+          "financialExpenses": 0,
+          "total": 1059907
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 505333,
+          "maintenanceAndOtherOperatingExpenses": 453515,
+          "capitalOutlaysAndNetLending": 47193,
+          "financialExpenses": 0,
+          "total": 1006041
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 635552,
+          "maintenanceAndOtherOperatingExpenses": 438505,
+          "capitalOutlaysAndNetLending": 10480,
+          "financialExpenses": 0,
+          "total": 1084537
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Romblon State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVB - MIMAROPA",
+        "Romblon State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 344590,
+          "maintenanceAndOtherOperatingExpenses": 145330,
+          "capitalOutlaysAndNetLending": 1607900,
+          "financialExpenses": 0,
+          "total": 2097820
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 335803,
+          "maintenanceAndOtherOperatingExpenses": 169587,
+          "capitalOutlaysAndNetLending": 35175,
+          "financialExpenses": 0,
+          "total": 540565
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 408079,
+          "maintenanceAndOtherOperatingExpenses": 188174,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 604253
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Western Philippines University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IVB - MIMAROPA",
+        "Western Philippines University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 303846,
+          "maintenanceAndOtherOperatingExpenses": 266756,
+          "capitalOutlaysAndNetLending": 21414,
+          "financialExpenses": 0,
+          "total": 592016
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 281129,
+          "maintenanceAndOtherOperatingExpenses": 207626,
+          "capitalOutlaysAndNetLending": 74600,
+          "financialExpenses": 0,
+          "total": 563355
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 364976,
+          "maintenanceAndOtherOperatingExpenses": 205494,
+          "capitalOutlaysAndNetLending": 13755,
+          "financialExpenses": 0,
+          "total": 584225
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Region V - Bicol",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 3411449,
+          "maintenanceAndOtherOperatingExpenses": 1894793,
+          "capitalOutlaysAndNetLending": 2486688,
+          "financialExpenses": 0,
+          "total": 7792930
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 3412189,
+          "maintenanceAndOtherOperatingExpenses": 2115249,
+          "capitalOutlaysAndNetLending": 794530,
+          "financialExpenses": 0,
+          "total": 6321968
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 3993118,
+          "maintenanceAndOtherOperatingExpenses": 2438235,
+          "capitalOutlaysAndNetLending": 490684,
+          "financialExpenses": 0,
+          "total": 6922037
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Bicol University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Bicol University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 996967,
+          "maintenanceAndOtherOperatingExpenses": 362003,
+          "capitalOutlaysAndNetLending": 1077680,
+          "financialExpenses": 0,
+          "total": 2436650
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1021200,
+          "maintenanceAndOtherOperatingExpenses": 416582,
+          "capitalOutlaysAndNetLending": 44000,
+          "financialExpenses": 0,
+          "total": 1481782
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1144578,
+          "maintenanceAndOtherOperatingExpenses": 423778,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 1576356
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Bicol State College of Applied Sciences and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Bicol State College of Applied Sciences and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 156151,
+          "maintenanceAndOtherOperatingExpenses": 89642,
+          "capitalOutlaysAndNetLending": 34472,
+          "financialExpenses": 0,
+          "total": 280265
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 159141,
+          "maintenanceAndOtherOperatingExpenses": 96243,
+          "capitalOutlaysAndNetLending": 22500,
+          "financialExpenses": 0,
+          "total": 277884
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 188212,
+          "maintenanceAndOtherOperatingExpenses": 118781,
+          "capitalOutlaysAndNetLending": 11100,
+          "financialExpenses": 0,
+          "total": 318093
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Camarines Norte State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Camarines Norte State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 282247,
+          "maintenanceAndOtherOperatingExpenses": 157079,
+          "capitalOutlaysAndNetLending": 6612,
+          "financialExpenses": 0,
+          "total": 445938
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 281066,
+          "maintenanceAndOtherOperatingExpenses": 165990,
+          "capitalOutlaysAndNetLending": 152200,
+          "financialExpenses": 0,
+          "total": 599256
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 342036,
+          "maintenanceAndOtherOperatingExpenses": 184127,
+          "capitalOutlaysAndNetLending": 51337,
+          "financialExpenses": 0,
+          "total": 577500
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Camarines Sur Polytechnic Colleges",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Camarines Sur Polytechnic Colleges"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 265611,
+          "maintenanceAndOtherOperatingExpenses": 249351,
+          "capitalOutlaysAndNetLending": 65690,
+          "financialExpenses": 0,
+          "total": 580652
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 235733,
+          "maintenanceAndOtherOperatingExpenses": 292696,
+          "capitalOutlaysAndNetLending": 59530,
+          "financialExpenses": 0,
+          "total": 587959
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 290806,
+          "maintenanceAndOtherOperatingExpenses": 328372,
+          "capitalOutlaysAndNetLending": 106750,
+          "financialExpenses": 0,
+          "total": 725928
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Catanduanes State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Catanduanes State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 458722,
+          "maintenanceAndOtherOperatingExpenses": 145563,
+          "capitalOutlaysAndNetLending": 1196,
+          "financialExpenses": 0,
+          "total": 605481
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 445603,
+          "maintenanceAndOtherOperatingExpenses": 168095,
+          "capitalOutlaysAndNetLending": 127700,
+          "financialExpenses": 0,
+          "total": 741398
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 489248,
+          "maintenanceAndOtherOperatingExpenses": 196759,
+          "capitalOutlaysAndNetLending": 83519,
+          "financialExpenses": 0,
+          "total": 769526
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Central Bicol State University of Agriculture",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Central Bicol State University of Agriculture"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 442775,
+          "maintenanceAndOtherOperatingExpenses": 478214,
+          "capitalOutlaysAndNetLending": 1267742,
+          "financialExpenses": 0,
+          "total": 2188731
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 470943,
+          "maintenanceAndOtherOperatingExpenses": 488716,
+          "capitalOutlaysAndNetLending": 264900,
+          "financialExpenses": 0,
+          "total": 1224559
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 552925,
+          "maintenanceAndOtherOperatingExpenses": 659399,
+          "capitalOutlaysAndNetLending": 14135,
+          "financialExpenses": 0,
+          "total": 1226459
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 157471,
+          "maintenanceAndOtherOperatingExpenses": 110786,
+          "capitalOutlaysAndNetLending": 13809,
+          "financialExpenses": 0,
+          "total": 282066
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 152386,
+          "maintenanceAndOtherOperatingExpenses": 119221,
+          "capitalOutlaysAndNetLending": 35000,
+          "financialExpenses": 0,
+          "total": 306607
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 188676,
+          "maintenanceAndOtherOperatingExpenses": 130811,
+          "capitalOutlaysAndNetLending": 9108,
+          "financialExpenses": 0,
+          "total": 328595
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Partido State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Partido State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 298070,
+          "maintenanceAndOtherOperatingExpenses": 119129,
+          "capitalOutlaysAndNetLending": 19447,
+          "financialExpenses": 0,
+          "total": 436646
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 325014,
+          "maintenanceAndOtherOperatingExpenses": 145019,
+          "capitalOutlaysAndNetLending": 27500,
+          "financialExpenses": 0,
+          "total": 497533
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 402283,
+          "maintenanceAndOtherOperatingExpenses": 175160,
+          "capitalOutlaysAndNetLending": 149378,
+          "financialExpenses": 0,
+          "total": 726821
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Sorsogon State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region V - Bicol",
+        "Sorsogon State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 353435,
+          "maintenanceAndOtherOperatingExpenses": 183026,
+          "capitalOutlaysAndNetLending": 40,
+          "financialExpenses": 0,
+          "total": 536501
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 321103,
+          "maintenanceAndOtherOperatingExpenses": 222687,
+          "capitalOutlaysAndNetLending": 61200,
+          "financialExpenses": 0,
+          "total": 604990
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 394354,
+          "maintenanceAndOtherOperatingExpenses": 221048,
+          "capitalOutlaysAndNetLending": 57357,
+          "financialExpenses": 0,
+          "total": 672759
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 4,
+      "printedPage": 364,
+      "particulars": "Region VI - Western Visayas",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 4789908,
+          "maintenanceAndOtherOperatingExpenses": 2102839,
+          "capitalOutlaysAndNetLending": 1104072,
+          "financialExpenses": 0,
+          "total": 7996819
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 4650725,
+          "maintenanceAndOtherOperatingExpenses": 2399604,
+          "capitalOutlaysAndNetLending": 497906,
+          "financialExpenses": 0,
+          "total": 7548235
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 5560733,
+          "maintenanceAndOtherOperatingExpenses": 2547786,
+          "capitalOutlaysAndNetLending": 211689,
+          "financialExpenses": 0,
+          "total": 8320208
+        }
+      }
+    }
+  ]
+}

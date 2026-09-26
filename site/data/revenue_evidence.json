@@ -1,0 +1,976 @@
+{
+  "version": 1,
+  "grain": "one visually identified revenue-evidence document",
+  "records": [
+    {
+      "documentId": "J-p4",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-10-16",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says the remittance to the National Government occurred on 16 October 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "third tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Health Insurance Corporation (PHIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-10-16",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          6,
+          10
+        ],
+        "relationshipNote": "Separate PHIC tranche certifications; page 4 does not continue another page."
+      },
+      "sourcePage": 4,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. Footnote references Special Provision 1(d), XLIII, UA of the FY 2024 GAA and DOF Circular No. 003-2024.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p004.pdf"
+    },
+    {
+      "documentId": "J-p5",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-04",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; remittance is described as occurring in August 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 24900000000,
+          "amountText": "Twenty Four Billion Nine Hundred Million Pesos (P24,900,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "fourth tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "August 2024",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          7,
+          8,
+          9
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 5 does not continue another page."
+      },
+      "sourcePage": 5,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. The certificate date is 04 September 2024; no specific August remittance day is given.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p005.pdf"
+    },
+    {
+      "documentId": "J-p6",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-08-22",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says remitted on 21 August 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 10000000000,
+          "amountText": "Ten Billion Pesos (P10,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "second tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Health Insurance Corporation (PHIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-08-21",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          4,
+          10
+        ],
+        "relationshipNote": "Separate PHIC tranche certifications; page 6 does not continue another page."
+      },
+      "sourcePage": 6,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. Document date is 22 August 2024; remittance date printed in the body is 21 August 2024.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p006.pdf"
+    },
+    {
+      "documentId": "J-p7",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-08-14",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; remittance is described as occurring in July 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 20000000000,
+          "amountText": "Twenty Billion Pesos (P20,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "third tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "July 2024",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          5,
+          8,
+          9
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 7 does not continue another page."
+      },
+      "sourcePage": 7,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release. No specific July remittance day is given.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p007.pdf"
+    },
+    {
+      "documentId": "J-p8",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-07-01",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate describes the remittance as of 28 June 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "second tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "As of 2024-06-28",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          5,
+          7,
+          9
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 8 does not continue another page."
+      },
+      "sourcePage": 8,
+      "reviewNotes": "Standalone certification. Body says remitted to NG 'as of June 28, 2024'; certificate date is 01 July 2024. Amount is a certified remittance, not a release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p008.pdf"
+    },
+    {
+      "documentId": "J-p9",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-06-05",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says remitted on 30 May 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "first tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Deposit Insurance Corporation (PDIC); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-05-30",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          5,
+          7,
+          8
+        ],
+        "relationshipNote": "Separate PDIC tranche certifications; page 9 does not continue another page."
+      },
+      "sourcePage": 9,
+      "reviewNotes": "Standalone certification. Amount is a certified remittance, not a release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p009.pdf"
+    },
+    {
+      "documentId": "J-p10",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-05-13",
+      "coveredPeriod": null,
+      "coveredPeriodNote": "No fiscal or collection period is stated; the certificate says remitted on 10 May 2024.",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 20000000000,
+          "amountText": "Twenty Billion Pesos (P20,000,000,000.00)",
+          "amountType": "certified remittance",
+          "tranche": "first tranche"
+        }
+      ],
+      "collectionCategory": "Total fund balance of Philippine Health Insurance Corporation (PhilHealth); collected/remitted under DOF Circular No. 003-2024",
+      "recipientOrDestination": "National Government (NG)",
+      "remittanceDateOrPeriod": "2024-05-10",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": false
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          4,
+          6
+        ],
+        "relationshipNote": "Separate PHIC tranche certifications; page 10 does not continue another page."
+      },
+      "sourcePage": 10,
+      "reviewNotes": "Standalone certification. The body uses 'Philippine Health Insurance Corporation (PhilHealth)' while pages 4 and 6 use PHIC. Amount is a certified remittance, not a release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p010.pdf"
+    },
+    {
+      "documentId": "J-p11",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 96454857018.05,
+          "amountText": "Ninety-Six Billion, Four Hundred Fifty-Four Million, Eight Hundred Fifty-Seven Thousand, Eighteen and 05/100 Pesos (P96,454,857,018.05)",
+          "amountType": "actual dividend collections remitted to National Government",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 16000000000,
+        "amountText": "Sixteen Billion Pesos (P16,000,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "Dividend collections",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          12
+        ],
+        "relationshipNote": "Page 12 is a supplementary certification to this dividend collections certification."
+      },
+      "sourcePage": 11,
+      "reviewNotes": "Standalone certification dated by stamp 17 September 2024. Covers 1 January–30 August 2024 and states collections already exceeded the FY 2024 program. Certified actual collections, not a release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p011.pdf"
+    },
+    {
+      "documentId": "J-p12",
+      "documentType": "Supplemental certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-12-12",
+      "coveredPeriod": "2024-09-02/2024-12-05",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 40149945573.01,
+          "amountText": "Forty Billion, One Hundred Forty-Nine Million, Nine Hundred Forty-Five Thousand, Five Hundred Seventy-Three and 01/100 Pesos (P40,149,945,573.01)",
+          "amountType": "additional dividends remitted to National Government",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Dividend collections",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          11
+        ],
+        "relationshipNote": "Explicitly states this is supplemental to the dividend collections certification dated 17 September 2024 on source page 11."
+      },
+      "sourcePage": 12,
+      "reviewNotes": "Stamped 12 December 2024. Dates and amount cover dividends remitted from 2 September to 5 December 2024. Adds to the earlier stated dividend period without overlap in dates.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p012.pdf"
+    },
+    {
+      "documentId": "J-p13",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 13753818275.91,
+          "amountText": "Thirteen Billion, Seven Hundred Fifty-Three Million, Eight Hundred Eighteen Thousand, Two Hundred Seventy-Five and 91/100 Pesos (P13,753,818,275.91)",
+          "amountType": "interest income earned by BTr from National Government advances to GOCCs",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 58000000,
+        "amountText": "Fifty-Eight Million Pesos (P58,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "Interest income from NG advances to government-owned and controlled corporations (GOCCs)",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [],
+        "relationshipNote": null
+      },
+      "sourcePage": 13,
+      "reviewNotes": "Stamped 17 September 2024; also bears a handwritten 'TOP'S COPY' marking and round Bureau of the Treasury seal. States amount already exceeded the FY 2024 program. This category may overlap with broader investment income certified on page 15; do not aggregate without reconciliation.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p013.pdf"
+    },
+    {
+      "documentId": "J-p14",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 3733674570.09,
+          "amountText": "Three Billion, Seven Hundred Thirty-Three Million, Six Hundred Seventy-Four Thousand, Five Hundred Seventy and 9/100 Pesos (P3,733,674,570.09)",
+          "amountType": "additional revenue from remittance of balance of cancelled Domestic Letters of Credit",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Remittance of balance of cancelled Domestic Letters of Credit by the Department of Health (DOH)",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [],
+        "relationshipNote": null
+      },
+      "sourcePage": 14,
+      "reviewNotes": "Stamped 17 September 2024. The certificate states the period 1 January–30 August 2024 and identifies the source as cancelled DOH Domestic Letters of Credit.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p014.pdf"
+    },
+    {
+      "documentId": "J-p15",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-18",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 35253713264.33,
+          "amountText": "Thirty-Five Billion, Two Hundred Fifty-Three Million, Seven Hundred Thirteen Thousand, Two Hundred Sixty-Four and 33/100 Pesos (P35,253,713,264.33)",
+          "amountType": "total income from investments generated by BTr",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 17000000000,
+        "amountText": "Seventeen Billion Pesos (P17,000,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "BTr investment income; certificate says it supersedes the certification on Bond Sinking Fund (BSF) income dated 17 September 2024",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          16
+        ],
+        "relationshipNote": "Page 16 is a supplemental certification to this investment income certification; page 15 supersedes an earlier BSF income certification dated 17 September 2024 (earlier certificate page not identified here)."
+      },
+      "sourcePage": 15,
+      "reviewNotes": "Dated 18 September 2024. Covers 1 January–30 August 2024 and says income already exceeded the full-year program. Treat as superseding the prior BSF certification; do not count prior certification as an additional amount. Potential overlap with the narrower interest income on page 13 is unresolved.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p015.pdf"
+    },
+    {
+      "documentId": "J-p16",
+      "documentType": "Supplemental certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-11-29",
+      "coveredPeriod": "2024-09-02/2024-11-22",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 10547492112.08,
+          "amountText": "Ten Billion, Five Hundred Forty-Seven Million, Four Hundred Ninety-Two Thousand, One Hundred Twelve and 08/100 Pesos (P10,547,492,112.08)",
+          "amountType": "additional income from investments",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "BTr investment income",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          15
+        ],
+        "relationshipNote": "Explicitly states it is supplemental to the certification on income from investments dated 18 September 2024 on source page 15."
+      },
+      "sourcePage": 16,
+      "reviewNotes": "Stamped 29 November 2024. Stated earning period begins after page 15's 30 August cutoff; the reported period is 2 September–22 November 2024.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p016.pdf"
+    },
+    {
+      "documentId": "J-p17",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-09-16",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 30000000000,
+          "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+          "amountType": "additional revenue collected by National Government",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Upfront payment from San Miguel Corporation (SMC) to NG, through Manila International Airport Authority (MIAA), for the bid of the Ninoy Aquino International Airport (NAIA) Public-Private Partnership Project",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [],
+        "relationshipNote": null
+      },
+      "sourcePage": 17,
+      "reviewNotes": "Stamped 17 September 2024. States NG collected this additional revenue during 1 January–16 September 2024. It is a revenue certification for an upfront PPP bid payment, not a release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p017.pdf"
+    },
+    {
+      "documentId": "J-p18",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-09-17",
+      "coveredPeriod": "2024-01-01/2024-08-30",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 11322166522.77,
+          "amountText": "Eleven Billion, Three Hundred Twenty-Two Million, One Hundred Sixty-Six Thousand, Five Hundred Twenty-Two and 77/100 Pesos (P11,322,166,522.77)",
+          "amountType": "actual interest income earned from National Government deposits",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 1700000000,
+        "amountText": "One Billion, Seven Hundred Million Pesos (P1,700,000,000.00)",
+        "period": "2024 full year"
+      },
+      "collectionCategory": "Interest income on National Government deposits",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          19
+        ],
+        "relationshipNote": "Page 19 is explicitly supplemental to this certification dated 17 September 2024."
+      },
+      "sourcePage": 18,
+      "reviewNotes": "Stamped 17 September 2024. States actual interest income for 1 January–30 August 2024 had exceeded the FY 2024 program. Certified income, not a release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p018.pdf"
+    },
+    {
+      "documentId": "J-p19",
+      "documentType": "Supplemental certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2024-11-29",
+      "coveredPeriod": "2024-09-02/2024-11-22",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 5704196546.35,
+          "amountText": "Five Billion, Seven Hundred Four Million, One Hundred Ninety-Six Thousand, Five Hundred Forty-Six and 35/100 Pesos (P5,704,196,546.35)",
+          "amountType": "additional interest income on National Government deposits",
+          "tranche": null
+        }
+      ],
+      "collectionCategory": "Interest income on National Government deposits",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          18
+        ],
+        "relationshipNote": "Explicitly states it is supplemental to the certification on interest income on NG deposits dated 17 September 2024 on source page 18."
+      },
+      "sourcePage": 19,
+      "reviewNotes": "Stamped 29 November 2024. Additional interest earned from 2 September to 22 November 2024; period follows page 18's 30 August cutoff.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p019.pdf"
+    },
+    {
+      "documentId": "J-p20",
+      "documentType": "Transmittal letter with summarized collection report",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2024-08-27",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-01-01/2023-12-31",
+      "reportedAmounts": [
+        {
+          "amountPesos": 5454077278.98,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q1"
+        },
+        {
+          "amountPesos": 8181380624.66,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q2"
+        },
+        {
+          "amountPesos": 7582872092.4,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q3"
+        },
+        {
+          "amountPesos": 8708988347.63,
+          "amountType": "BOC-reported collected duties on rice imports",
+          "period": "2023 Q4"
+        },
+        {
+          "amountPesos": 29927318343.67,
+          "amountType": "reported annual total collected duties on rice imports",
+          "period": "2023"
+        },
+        {
+          "amountPesos": 10000000000.0,
+          "amountType": "portion to be allotted to the Rice Competitiveness Enhancement Fund (RCEF)",
+          "period": "2023 collection"
+        },
+        {
+          "amountPesos": 19927318343.67,
+          "amountType": "excess tariff revenues for inclusion in GAA of following year",
+          "period": "2023 collection"
+        }
+      ],
+      "collectionCategory": "Rice import duties / tariff revenues",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          21,
+          22,
+          23,
+          24
+        ],
+        "relationshipNote": "Pages 21–24 are BOC supporting letters with monthly schedules corresponding to the four quarterly amounts summarized here."
+      },
+      "sourcePage": 20,
+      "reviewNotes": "Receipt markings include DBM receipt stamp 18 September 2024 and BTr receipt stamp 06 September 2024. The printed quarterly totals sum to the printed P29,927,318,343.67 annual total. The letter says P10bn is for RCEF and P19,927,318,343.67 is excess tariff revenue; it also says for BOC collection-performance purposes this amount still forms part of 2023 collection. This is BOC correspondence/reporting, not a BTr certification or a release. Quarter 4 differs by P0.03 from the supporting page 24 total.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p020.pdf"
+    },
+    {
+      "documentId": "J-p21",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2023-06-08",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-01-01/2023-03-31",
+      "reportedAmounts": [
+        {
+          "amountPesos": 1277505603.7,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-01"
+        },
+        {
+          "amountPesos": 927316304.17,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-02"
+        },
+        {
+          "amountPesos": 3249255371.11,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-03"
+        },
+        {
+          "amountPesos": 5454077278.98,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q1"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 1 schedule supports and exactly matches the Q1 amount in the BOC annual summary on source page 20."
+      },
+      "sourcePage": 21,
+      "reviewNotes": "Commissioner's signature date appears as 19 June 2023. Visible receipt markings include 05 July 2023 and a 05 June 2023 stamp that predates the letter's printed 08 June 2023 date; record as visible stamp date, not letter date. Monthly amounts add exactly to P5,454,077,278.98. BOC correspondence, not a BTr certification or release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p021.pdf"
+    },
+    {
+      "documentId": "J-p22",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2023-09-05",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-04-01/2023-06-30",
+      "reportedAmounts": [
+        {
+          "amountPesos": 3639422800.3,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-04"
+        },
+        {
+          "amountPesos": 2643498743.26,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-05"
+        },
+        {
+          "amountPesos": 1898459081.1,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-06"
+        },
+        {
+          "amountPesos": 8181380624.66,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q2"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 2 schedule supports and exactly matches the Q2 amount in the BOC annual summary on source page 20."
+      },
+      "sourcePage": 22,
+      "reviewNotes": "Commissioner's signature date stamp appears 08 September 2023. Monthly amounts add exactly to P8,181,380,624.66. BOC correspondence, not a BTr certification or release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p022.pdf"
+    },
+    {
+      "documentId": "J-p23",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2023-10-24",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-07-01/2023-09-30",
+      "reportedAmounts": [
+        {
+          "amountPesos": 1232396881.56,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-07"
+        },
+        {
+          "amountPesos": 2498409393.7,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-08"
+        },
+        {
+          "amountPesos": 3852065817.14,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-09"
+        },
+        {
+          "amountPesos": 7582872092.4,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q3"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 3 schedule supports and exactly matches the Q3 amount in the BOC annual summary on source page 20."
+      },
+      "sourcePage": 23,
+      "reviewNotes": "Commissioner's signature date stamp appears 09 November 2023; DBM and BTr receipt stamps appear 14 November 2023. Monthly amounts add exactly to P7,582,872,092.40. BOC correspondence, not a BTr certification or release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p023.pdf"
+    },
+    {
+      "documentId": "J-p24",
+      "documentType": "BOC transmittal letter with monthly collection schedule",
+      "issuer": "Bureau of Customs (BOC), Republic of the Philippines",
+      "documentDate": "2024-01-24",
+      "recipient": "Amenah F. Pangandaman, Secretary, Department of Budget and Management; through Gemma G. Ilagan, Acting Director, Budget and Management Bureau-E",
+      "coveredPeriod": "2023-10-01/2023-12-31",
+      "reportedAmounts": [
+        {
+          "amountPesos": 1586507341.08,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-10"
+        },
+        {
+          "amountPesos": 2726681710.95,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-11"
+        },
+        {
+          "amountPesos": 4395799295.63,
+          "amountType": "collected duties on rice imports",
+          "period": "2023-12"
+        },
+        {
+          "amountPesos": 8708988347.66,
+          "amountType": "quarterly total collected duties on rice imports",
+          "period": "2023 Q4"
+        }
+      ],
+      "collectionCategory": "Rice import duties; a portion is for the Rice Competitiveness Enhancement Fund (RCEF)",
+      "signature": {
+        "name": "Bienvenido Y. Rubio",
+        "title": "Commissioner, Bureau of Customs",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          20
+        ],
+        "relationshipNote": "Quarter 4 schedule supports the Q4 amount in the BOC annual summary on source page 20, but the printed total differs by P0.03."
+      },
+      "sourcePage": 24,
+      "reviewNotes": "Commissioner's signature date stamp appears 26 January 2024; DBM and BTr received stamps appear 29 January 2024. The three monthly amounts add to P8,708,988,347.66 as printed here, which is P0.03 above the P8,708,988,347.63 Q4 amount on page 20. BOC correspondence, not a BTr certification or release.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p024.pdf"
+    },
+    {
+      "documentId": "J-p26",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2025-11-18",
+      "coveredPeriod": "2025-01-01/2025-10-31",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 106529682065.94,
+          "amountText": "One Hundred Six Billion, Five Hundred Twenty-Nine Million, Six Hundred Eighty-Two Thousand, Sixty-Five and 94/100 Pesos (P106,529,682,065.94)",
+          "amountType": "actual dividend collections remitted to National Government",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 20000000000,
+        "amountText": "Twenty Billion Pesos (P20,000,000,000.00)",
+        "period": "2025 full year"
+      },
+      "collectionCategory": "Dividend collections",
+      "recipientOrDestination": "National Government (NG)",
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          25
+        ],
+        "relationshipNote": "The status summary on page 25 cites this 18 November 2025 certificate and marks earlier dividend certifications as superseded."
+      },
+      "supersedes": {
+        "earlierCertificationDates": [
+          "2025-11-03"
+        ],
+        "note": "The certificate says it supersedes the certification on dividend collections dated 03 November 2025. Page 25 also lists superseded certifications dated 14 May, 15 July, 28 July, and 3 November 2025."
+      },
+      "sourcePage": 26,
+      "reviewNotes": "Standalone certification dated 18 November 2025. Actual collections/remittances for 1 January–31 October 2025 had exceeded the full-year program. Amount matches the cumulative dividend collections figure on page 25; do not add the status summary or superseded certificates as new amounts.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p026.pdf"
+    },
+    {
+      "documentId": "J-p27",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2025-11-18",
+      "coveredPeriod": "2025-01-01/2025-10-31",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 41295050745.42,
+          "amountText": "Forty-One Billion, Two Hundred Ninety-Five Million, Fifty Thousand, Seven Hundred Forty-Five and 42/100 Pesos (P41,295,050,745.42)",
+          "amountType": "total income from investments generated by BTr",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 30000000000,
+        "amountText": "Thirty Billion Pesos (P30,000,000,000.00)",
+        "period": "2025 full year"
+      },
+      "collectionCategory": "BTr investment income",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          25
+        ],
+        "relationshipNote": "The status summary on page 25 cites this 18 November 2025 certificate and marks the 3 November 2025 investment-income certificate as superseded."
+      },
+      "supersedes": {
+        "earlierCertificationDates": [
+          "2025-11-03"
+        ],
+        "note": "The certificate says it supersedes the certification on income from investments dated 03 November 2025."
+      },
+      "sourcePage": 27,
+      "reviewNotes": "Standalone certification dated 18 November 2025. Total investment income for 1 January–31 October 2025 exceeded the full-year program. Amount matches page 25's cumulative figure; do not add page 25 status amount or the superseded certificate as a new amount.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p027.pdf"
+    },
+    {
+      "documentId": "J-p28",
+      "documentType": "Certification",
+      "issuer": "Bureau of the Treasury (BTr), Republic of the Philippines",
+      "documentDate": "2025-11-03",
+      "coveredPeriod": "2025-01-01/2025-07-31",
+      "certifiedAmounts": [
+        {
+          "amountPesos": 9252725491.82,
+          "amountText": "Nine Billion, Two Hundred Fifty-Two Million, Seven Hundred Twenty-Five Thousand, Four Hundred Ninety-One and 82/100 Pesos (P9,252,725,491.82)",
+          "amountType": "actual interest income earned from National Government deposits",
+          "tranche": null
+        }
+      ],
+      "benchmarkProgram": {
+        "amountPesos": 4800000000,
+        "amountText": "Four Billion, Eight Hundred Million Pesos (P4,800,000,000.00)",
+        "period": "2025 full year"
+      },
+      "collectionCategory": "Interest income on National Government deposits",
+      "recipientOrDestination": null,
+      "signature": {
+        "name": "Sharon P. Almanza",
+        "title": "Treasurer of the Philippines",
+        "visibleSignature": true,
+        "visibleStamp": true
+      },
+      "continuation": {
+        "isContinuation": false,
+        "relatedPages": [
+          25
+        ],
+        "relationshipNote": "Page 25 summarizes this certification dated 3 November 2025 as the cumulative NG deposit interest amount for 1 January–31 July 2025."
+      },
+      "sourcePage": 28,
+      "reviewNotes": "Standalone certification dated 03 November 2025. States actual NG deposit interest income for 1 January–31 July 2025 exceeded the FY program. Amount matches the cumulative page 25 status figure; it is not an incremental amount to add to that summary.",
+      "sourceAnnex": "J",
+      "sourcePdf": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-revenue-pages-v1/annex-j-p028.pdf"
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0013294",
+    "date": "2024-09-10",
+    "department": "PCO",
+    "agency": "Presidential Communications Office (Proper)",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 8541000,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 8541000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0018191",
+    "date": "2024-11-25",
+    "department": "PCO",
+    "agency": "Presidential Communications Office (Proper)",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 29031668,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 29031668,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0018430",
+    "date": "2024-11-29",
+    "department": "PCO",
+    "agency": "Presidential Communications Office (Proper)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 2153361,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 2153361,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0019573",
+    "date": "2024-12-27",
+    "department": "PCO",
+    "agency": "Presidential Communications Office (Proper)",
+    "purpose": "For payment of FY 2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 6580559,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 6580559,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0013296",
+    "date": "2024-09-10",
+    "department": "PCO",
+    "agency": "Presidential Broadcast Service-Bureau of Broadcast Services",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 14012000,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 14012000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0017987",
+    "date": "2024-11-20",
+    "department": "PCO",
+    "agency": "Presidential Broadcast Service-Bureau of Broadcast Services",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1948798,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 1948798,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0018216",
+    "date": "2024-11-26",
+    "department": "PCO",
+    "agency": "Presidential Broadcast Service-Bureau of Broadcast Services",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 18912546,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 18912546,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0018987",
+    "date": "2024-12-16",
+    "department": "PCO",
+    "agency": "Presidential Broadcast Service-Bureau of Broadcast Services",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 1042138,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 1042138,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0013298",
+    "date": "2024-09-10",
+    "department": "PCO",
+    "agency": "Bureau of Communications Services",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1513000,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 1513000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0013300",
+    "date": "2024-09-10",
+    "department": "PCO",
+    "agency": "News and Information Bureau",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 4415000,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 4415000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0018686",
+    "date": "2024-12-06",
+    "department": "PCO",
+    "agency": "News and Information Bureau",
+    "purpose": "For payment of FY2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 193318,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 193318,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0013302",
+    "date": "2024-09-10",
+    "department": "PCO",
+    "agency": "Philippine Information Agency",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 11504000,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 11504000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0016689",
+    "date": "2024-10-10",
+    "department": "PCO",
+    "agency": "Philippine Information Agency",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 834960,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 834960,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0017884",
+    "date": "2024-11-18",
+    "department": "PCO",
+    "agency": "Philippine Information Agency",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 12400860,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 12400860,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0018697",
+    "date": "2024-12-09",
+    "department": "PCO",
+    "agency": "Philippine Information Agency",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 291105,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 291105,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0013304",
+    "date": "2024-09-10",
+    "department": "PCO",
+    "agency": "Presidential Broadcast Staff (RTVM)",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 2821000,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 2821000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0017991",
+    "date": "2024-11-20",
+    "department": "PCO",
+    "agency": "Presidential Broadcast Staff (RTVM)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 265173,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 265173,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 100,
+    "sourcePages": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "printedPage": 100,
+    "saroNumber": "SARO-BMB-C-24-0018408",
+    "date": "2024-11-29",
+    "department": "PCO",
+    "agency": "Presidential Broadcast Staff (RTVM)",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1093767,
+        "pdfPage": 102
+      }
+    ],
+    "reportedTotalPesos": 1093767,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0002721",
+    "date": "2024-05-09",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirement for the implementation of the Cebu Bus Rapid Transit Project as financed by the International Bank for Reconstruction and Development and Clean Technology Fund under Loan Agreement Nos. 8444-PH and TF017646-PH, respectively.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 1619857000,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 1619857000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0002525",
+    "date": "2024-05-03",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of Communications, Navigation and Surveillance/Air Traffic Management (CNS/ATM) System Development Project and New Bohol Airport Construction and Sustainable Environment Protection Project (NBACSEPP) under Japan International Cooperation Agency Loan Agreements No. PH-P228 and PH-P268, respectively.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 684000005,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 684000005,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0002722",
+    "date": "2024-05-09",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirement for the implementation of the Cebu Bus Rapid Transit Project as financed by the Agence Francaise de Developpement under Loan Agreement No. CPH 1007 02 R.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 761436000,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 761436000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0004291",
+    "date": "2024-06-11",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of the North-South Commuter Railway System, as financed by the Asian Development Bank under Loan Agreements Nos. 3796-PHI and 4188-PHI.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 22413484000,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 22413484000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0004290",
+    "date": "2024-06-11",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of the LRT Line 1 Cavite Extension Project and Metro Manila Subway Project Phase I, as financed by the Japan International Cooperation Agency under Loan Agreements Nos. PH-P255 and PH-P267/PH-P275, respectively.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 16824503000,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 16824503000,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0004360",
+    "date": "2024-06-13",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of the Maritime Safety Capability Improvement Project Phase 1 as financed by the Japan International Cooperation Agency under Loan Agreement No. PH-P257.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 29413784,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 29413784,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0006511",
+    "date": "2024-08-09",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirement for the implementation of the Davao Public Transport Modernization Project as financed by the Asian Development Bank under Loan Agreements Nos. 4324-PHI, 8450-PHI and 8449-PHI.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 9106722636,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 9106722636,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 104,
+    "sourcePages": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "printedPage": 104,
+    "saroNumber": "SARO-BMB-A-24-0011674",
+    "date": "2024-09-06",
+    "department": "Department of Transportation (DOTr)",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements for the implementation of the New Cebu International Container Port Project as financed by the Export-Import Bank of Korea under Loan Agreement No. PHL-19.",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 1884077510,
+        "pdfPage": 104
+      }
+    ],
+    "reportedTotalPesos": 1884077510,
+    "reviewNote": null
+  }
+]

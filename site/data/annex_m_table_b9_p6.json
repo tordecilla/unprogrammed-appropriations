@@ -1,0 +1,977 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 6,
+  "printedPage": 366,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "notes": [
+    "Footnote: For BSGC: PS and MOOE are Subsidy and CO are Equity."
+  ],
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Visayas State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Visayas State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 730720,
+          "maintenanceAndOtherOperatingExpenses": 401508,
+          "capitalOutlaysAndNetLending": 95315,
+          "financialExpenses": 0,
+          "total": 1227543
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 772707,
+          "maintenanceAndOtherOperatingExpenses": 389389,
+          "capitalOutlaysAndNetLending": 68370,
+          "financialExpenses": 0,
+          "total": 1230466
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 934382,
+          "maintenanceAndOtherOperatingExpenses": 401261,
+          "capitalOutlaysAndNetLending": 200765,
+          "financialExpenses": 0,
+          "total": 1536408
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Region IX - Zamboanga Peninsula",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IX - Zamboanga Peninsula"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 2026129,
+          "maintenanceAndOtherOperatingExpenses": 1195963,
+          "capitalOutlaysAndNetLending": 197372,
+          "financialExpenses": 0,
+          "total": 3419464
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 2115796,
+          "maintenanceAndOtherOperatingExpenses": 1041591,
+          "capitalOutlaysAndNetLending": 2383800,
+          "financialExpenses": 0,
+          "total": 5541187
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 2513553,
+          "maintenanceAndOtherOperatingExpenses": 1171368,
+          "capitalOutlaysAndNetLending": 592789,
+          "financialExpenses": 0,
+          "total": 4277710
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "J. H. Cerilles State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IX - Zamboanga Peninsula",
+        "J. H. Cerilles State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 255249,
+          "maintenanceAndOtherOperatingExpenses": 187495,
+          "capitalOutlaysAndNetLending": 32251,
+          "financialExpenses": 0,
+          "total": 474995
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 257219,
+          "maintenanceAndOtherOperatingExpenses": 144416,
+          "capitalOutlaysAndNetLending": 40300,
+          "financialExpenses": 0,
+          "total": 441935
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 296958,
+          "maintenanceAndOtherOperatingExpenses": 148283,
+          "capitalOutlaysAndNetLending": 88585,
+          "financialExpenses": 0,
+          "total": 533826
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Jose Rizal Memorial State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IX - Zamboanga Peninsula",
+        "Jose Rizal Memorial State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 475075,
+          "maintenanceAndOtherOperatingExpenses": 426337,
+          "capitalOutlaysAndNetLending": 7327,
+          "financialExpenses": 0,
+          "total": 908739
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 480474,
+          "maintenanceAndOtherOperatingExpenses": 321124,
+          "capitalOutlaysAndNetLending": 990000,
+          "financialExpenses": 0,
+          "total": 1791598
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 602844,
+          "maintenanceAndOtherOperatingExpenses": 333147,
+          "capitalOutlaysAndNetLending": 11600,
+          "financialExpenses": 0,
+          "total": 947591
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Western Mindanao State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IX - Zamboanga Peninsula",
+        "Western Mindanao State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 749399,
+          "maintenanceAndOtherOperatingExpenses": 211725,
+          "capitalOutlaysAndNetLending": 34156,
+          "financialExpenses": 0,
+          "total": 995280
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 813963,
+          "maintenanceAndOtherOperatingExpenses": 220398,
+          "capitalOutlaysAndNetLending": 1100000,
+          "financialExpenses": 0,
+          "total": 2134361
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 950905,
+          "maintenanceAndOtherOperatingExpenses": 235130,
+          "capitalOutlaysAndNetLending": 234710,
+          "financialExpenses": 0,
+          "total": 1420745
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Zamboanga Peninsula Polytechnic State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IX - Zamboanga Peninsula",
+        "Zamboanga Peninsula Polytechnic State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 231924,
+          "maintenanceAndOtherOperatingExpenses": 176361,
+          "capitalOutlaysAndNetLending": 7762,
+          "financialExpenses": 0,
+          "total": 416047
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 228106,
+          "maintenanceAndOtherOperatingExpenses": 184334,
+          "capitalOutlaysAndNetLending": 101000,
+          "financialExpenses": 0,
+          "total": 513440
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 258131,
+          "maintenanceAndOtherOperatingExpenses": 229848,
+          "capitalOutlaysAndNetLending": 233974,
+          "financialExpenses": 0,
+          "total": 721953
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Zamboanga State College of Marine Sciences and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IX - Zamboanga Peninsula",
+        "Zamboanga State College of Marine Sciences and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 188320,
+          "maintenanceAndOtherOperatingExpenses": 66506,
+          "capitalOutlaysAndNetLending": 45818,
+          "financialExpenses": 0,
+          "total": 300644
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 206470,
+          "maintenanceAndOtherOperatingExpenses": 57711,
+          "capitalOutlaysAndNetLending": 37500,
+          "financialExpenses": 0,
+          "total": 301681
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 234312,
+          "maintenanceAndOtherOperatingExpenses": 93923,
+          "capitalOutlaysAndNetLending": 12920,
+          "financialExpenses": 0,
+          "total": 341155
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Basilan State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region IX - Zamboanga Peninsula",
+        "Basilan State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 126162,
+          "maintenanceAndOtherOperatingExpenses": 127539,
+          "capitalOutlaysAndNetLending": 70058,
+          "financialExpenses": 0,
+          "total": 323759
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 129564,
+          "maintenanceAndOtherOperatingExpenses": 113608,
+          "capitalOutlaysAndNetLending": 115000,
+          "financialExpenses": 0,
+          "total": 358172
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 170403,
+          "maintenanceAndOtherOperatingExpenses": 131037,
+          "capitalOutlaysAndNetLending": 11000,
+          "financialExpenses": 0,
+          "total": 312440
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Region X - Northern Mindanao",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 3035205,
+          "maintenanceAndOtherOperatingExpenses": 2235569,
+          "capitalOutlaysAndNetLending": 326535,
+          "financialExpenses": 0,
+          "total": 5597309
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 3163524,
+          "maintenanceAndOtherOperatingExpenses": 2127653,
+          "capitalOutlaysAndNetLending": 490200,
+          "financialExpenses": 0,
+          "total": 5781377
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 3710981,
+          "maintenanceAndOtherOperatingExpenses": 2318460,
+          "capitalOutlaysAndNetLending": 756445,
+          "financialExpenses": 0,
+          "total": 6785886
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Bukidnon State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "Bukidnon State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 480938,
+          "maintenanceAndOtherOperatingExpenses": 398623,
+          "capitalOutlaysAndNetLending": 72093,
+          "financialExpenses": 0,
+          "total": 951654
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 486122,
+          "maintenanceAndOtherOperatingExpenses": 431007,
+          "capitalOutlaysAndNetLending": 33000,
+          "financialExpenses": 0,
+          "total": 950129
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 561002,
+          "maintenanceAndOtherOperatingExpenses": 454464,
+          "capitalOutlaysAndNetLending": 67225,
+          "financialExpenses": 0,
+          "total": 1082691
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Camiguin Polytechnic State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "Camiguin Polytechnic State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 101863,
+          "maintenanceAndOtherOperatingExpenses": 38586,
+          "capitalOutlaysAndNetLending": 4995,
+          "financialExpenses": 0,
+          "total": 145444
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 94934,
+          "maintenanceAndOtherOperatingExpenses": 39075,
+          "capitalOutlaysAndNetLending": 25000,
+          "financialExpenses": 0,
+          "total": 159009
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 111227,
+          "maintenanceAndOtherOperatingExpenses": 39437,
+          "capitalOutlaysAndNetLending": 115600,
+          "financialExpenses": 0,
+          "total": 266264
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Central Mindanao University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "Central Mindanao University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 688045,
+          "maintenanceAndOtherOperatingExpenses": 273525,
+          "capitalOutlaysAndNetLending": 50309,
+          "financialExpenses": 0,
+          "total": 1011879
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 644635,
+          "maintenanceAndOtherOperatingExpenses": 322503,
+          "capitalOutlaysAndNetLending": 62200,
+          "financialExpenses": 0,
+          "total": 1029338
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 747327,
+          "maintenanceAndOtherOperatingExpenses": 369789,
+          "capitalOutlaysAndNetLending": 40800,
+          "financialExpenses": 0,
+          "total": 1157916
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "University of Science and Technology of Southern Philippines - Cagayan de Oro Campus",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "University of Science and Technology of Southern Philippines - Cagayan de Oro Campus"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 528241,
+          "maintenanceAndOtherOperatingExpenses": 669311,
+          "capitalOutlaysAndNetLending": 31587,
+          "financialExpenses": 0,
+          "total": 1229139
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 584624,
+          "maintenanceAndOtherOperatingExpenses": 509171,
+          "capitalOutlaysAndNetLending": 32500,
+          "financialExpenses": 0,
+          "total": 1126295
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "MSU-Iligan Institute of Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "MSU-Iligan Institute of Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 941878,
+          "maintenanceAndOtherOperatingExpenses": 380160,
+          "capitalOutlaysAndNetLending": 83909,
+          "financialExpenses": 0,
+          "total": 1405947
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 986241,
+          "maintenanceAndOtherOperatingExpenses": 418770,
+          "capitalOutlaysAndNetLending": 70000,
+          "financialExpenses": 0,
+          "total": 1475011
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1150528,
+          "maintenanceAndOtherOperatingExpenses": 441583,
+          "capitalOutlaysAndNetLending": 133700,
+          "financialExpenses": 0,
+          "total": 1725811
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "University of Science and Technology of Southern Philippines - Claveria Campus",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "University of Science and Technology of Southern Philippines - Claveria Campus"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 130207,
+          "maintenanceAndOtherOperatingExpenses": 155488,
+          "capitalOutlaysAndNetLending": 17468,
+          "financialExpenses": 0,
+          "total": 303163
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 159959,
+          "maintenanceAndOtherOperatingExpenses": 125123,
+          "capitalOutlaysAndNetLending": 80000,
+          "financialExpenses": 0,
+          "total": 365082
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Northwestern Mindanao State College of Science and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "Northwestern Mindanao State College of Science and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 108502,
+          "maintenanceAndOtherOperatingExpenses": 141283,
+          "capitalOutlaysAndNetLending": 4894,
+          "financialExpenses": 0,
+          "total": 254679
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 148024,
+          "maintenanceAndOtherOperatingExpenses": 162454,
+          "capitalOutlaysAndNetLending": 170000,
+          "financialExpenses": 0,
+          "total": 480478
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 168315,
+          "maintenanceAndOtherOperatingExpenses": 183406,
+          "capitalOutlaysAndNetLending": 144000,
+          "financialExpenses": 0,
+          "total": 495721
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Northern Bukidnon State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "Northern Bukidnon State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 55531,
+          "maintenanceAndOtherOperatingExpenses": 178593,
+          "capitalOutlaysAndNetLending": 61280,
+          "financialExpenses": 0,
+          "total": 295404
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 58985,
+          "maintenanceAndOtherOperatingExpenses": 119550,
+          "capitalOutlaysAndNetLending": 17500,
+          "financialExpenses": 0,
+          "total": 196035
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 72416,
+          "maintenanceAndOtherOperatingExpenses": 142388,
+          "capitalOutlaysAndNetLending": 60120,
+          "financialExpenses": 0,
+          "total": 274924
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "University of Science and Technology of Southern Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region X - Northern Mindanao",
+        "University of Science and Technology of Southern Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 900166,
+          "maintenanceAndOtherOperatingExpenses": 687393,
+          "capitalOutlaysAndNetLending": 195000,
+          "financialExpenses": 0,
+          "total": 1782559
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Region XI - Davao",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XI - Davao"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1606753,
+          "maintenanceAndOtherOperatingExpenses": 754054,
+          "capitalOutlaysAndNetLending": 191020,
+          "financialExpenses": 0,
+          "total": 2551827
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1621539,
+          "maintenanceAndOtherOperatingExpenses": 841300,
+          "capitalOutlaysAndNetLending": 873757,
+          "financialExpenses": 0,
+          "total": 3336596
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1987331,
+          "maintenanceAndOtherOperatingExpenses": 972342,
+          "capitalOutlaysAndNetLending": 290658,
+          "financialExpenses": 0,
+          "total": 3250331
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "University of Southeastern Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XI - Davao",
+        "University of Southeastern Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 554674,
+          "maintenanceAndOtherOperatingExpenses": 228506,
+          "capitalOutlaysAndNetLending": 110300,
+          "financialExpenses": 0,
+          "total": 893480
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 580322,
+          "maintenanceAndOtherOperatingExpenses": 227764,
+          "capitalOutlaysAndNetLending": 458000,
+          "financialExpenses": 0,
+          "total": 1266086
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 669973,
+          "maintenanceAndOtherOperatingExpenses": 240422,
+          "capitalOutlaysAndNetLending": 108481,
+          "financialExpenses": 0,
+          "total": 1018876
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Davao de Oro State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XI - Davao",
+        "Davao de Oro State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 239983,
+          "maintenanceAndOtherOperatingExpenses": 109744,
+          "capitalOutlaysAndNetLending": 35365,
+          "financialExpenses": 0,
+          "total": 385092
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 292422,
+          "maintenanceAndOtherOperatingExpenses": 125040,
+          "capitalOutlaysAndNetLending": 82121,
+          "financialExpenses": 0,
+          "total": 499583
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 260555,
+          "maintenanceAndOtherOperatingExpenses": 152998,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 421553
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Davao del Sur State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XI - Davao",
+        "Davao del Sur State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 148685,
+          "maintenanceAndOtherOperatingExpenses": 80535,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 229220
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 134789,
+          "maintenanceAndOtherOperatingExpenses": 105096,
+          "capitalOutlaysAndNetLending": 30000,
+          "financialExpenses": 0,
+          "total": 269885
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 206158,
+          "maintenanceAndOtherOperatingExpenses": 132066,
+          "capitalOutlaysAndNetLending": 38268,
+          "financialExpenses": 0,
+          "total": 376492
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 6,
+      "printedPage": 366,
+      "particulars": "Davao Oriental State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XI - Davao",
+        "Davao Oriental State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 351095,
+          "maintenanceAndOtherOperatingExpenses": 168603,
+          "capitalOutlaysAndNetLending": 21640,
+          "financialExpenses": 0,
+          "total": 541338
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 345396,
+          "maintenanceAndOtherOperatingExpenses": 193341,
+          "capitalOutlaysAndNetLending": 154737,
+          "financialExpenses": 0,
+          "total": 693474
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 403330,
+          "maintenanceAndOtherOperatingExpenses": 220185,
+          "capitalOutlaysAndNetLending": 33570,
+          "financialExpenses": 0,
+          "total": 657085
+        }
+      }
+    }
+  ]
+}

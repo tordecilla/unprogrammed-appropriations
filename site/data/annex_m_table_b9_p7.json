@@ -1,0 +1,933 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 7,
+  "printedPage": 367,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "notes": [
+    "Footnote: For BSGC: PS and MOOE are Subsidy and CO are Equity."
+  ],
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Southern Philippines Agri-Business and Marine and Aquatic School of Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XI - Davao",
+        "Southern Philippines Agri-Business and Marine and Aquatic School of Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 121856,
+          "maintenanceAndOtherOperatingExpenses": 53835,
+          "capitalOutlaysAndNetLending": 14467,
+          "financialExpenses": 0,
+          "total": 190158
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 119438,
+          "maintenanceAndOtherOperatingExpenses": 69202,
+          "capitalOutlaysAndNetLending": 108899,
+          "financialExpenses": 0,
+          "total": 297539
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 164341,
+          "maintenanceAndOtherOperatingExpenses": 72747,
+          "capitalOutlaysAndNetLending": 11365,
+          "financialExpenses": 0,
+          "total": 248453
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Davao del Norte State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XI - Davao",
+        "Davao del Norte State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 190460,
+          "maintenanceAndOtherOperatingExpenses": 112831,
+          "capitalOutlaysAndNetLending": 9248,
+          "financialExpenses": 0,
+          "total": 312539
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 149172,
+          "maintenanceAndOtherOperatingExpenses": 120857,
+          "capitalOutlaysAndNetLending": 40000,
+          "financialExpenses": 0,
+          "total": 310029
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 282974,
+          "maintenanceAndOtherOperatingExpenses": 153924,
+          "capitalOutlaysAndNetLending": 90974,
+          "financialExpenses": 0,
+          "total": 527872
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Region XII - SOCCSKSARGEN",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XII - SOCCSKSARGEN"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1234105,
+          "maintenanceAndOtherOperatingExpenses": 633149,
+          "capitalOutlaysAndNetLending": 95411,
+          "financialExpenses": 0,
+          "total": 1962665
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1317380,
+          "maintenanceAndOtherOperatingExpenses": 702237,
+          "capitalOutlaysAndNetLending": 230000,
+          "financialExpenses": 0,
+          "total": 2249617
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1529634,
+          "maintenanceAndOtherOperatingExpenses": 767961,
+          "capitalOutlaysAndNetLending": 52134,
+          "financialExpenses": 0,
+          "total": 2349729
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Cotabato Foundation College of Science and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XII - SOCCSKSARGEN",
+        "Cotabato Foundation College of Science and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 185664,
+          "maintenanceAndOtherOperatingExpenses": 125943,
+          "capitalOutlaysAndNetLending": 10204,
+          "financialExpenses": 0,
+          "total": 321811
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 202198,
+          "maintenanceAndOtherOperatingExpenses": 132000,
+          "capitalOutlaysAndNetLending": 22500,
+          "financialExpenses": 0,
+          "total": 356698
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 228200,
+          "maintenanceAndOtherOperatingExpenses": 157107,
+          "capitalOutlaysAndNetLending": 23274,
+          "financialExpenses": 0,
+          "total": 408581
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Sultan Kudarat State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XII - SOCCSKSARGEN",
+        "Sultan Kudarat State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 377837,
+          "maintenanceAndOtherOperatingExpenses": 207615,
+          "capitalOutlaysAndNetLending": 34624,
+          "financialExpenses": 0,
+          "total": 620076
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 378436,
+          "maintenanceAndOtherOperatingExpenses": 223086,
+          "capitalOutlaysAndNetLending": 22500,
+          "financialExpenses": 0,
+          "total": 624022
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 443846,
+          "maintenanceAndOtherOperatingExpenses": 256185,
+          "capitalOutlaysAndNetLending": 8610,
+          "financialExpenses": 0,
+          "total": 708641
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "University of Southern Mindanao",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XII - SOCCSKSARGEN",
+        "University of Southern Mindanao"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 621272,
+          "maintenanceAndOtherOperatingExpenses": 265332,
+          "capitalOutlaysAndNetLending": 43445,
+          "financialExpenses": 0,
+          "total": 930049
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 685141,
+          "maintenanceAndOtherOperatingExpenses": 315237,
+          "capitalOutlaysAndNetLending": 80000,
+          "financialExpenses": 0,
+          "total": 1080378
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 798461,
+          "maintenanceAndOtherOperatingExpenses": 304376,
+          "capitalOutlaysAndNetLending": 12250,
+          "financialExpenses": 0,
+          "total": 1115087
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "South Cotabato State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XII - SOCCSKSARGEN",
+        "South Cotabato State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 49332,
+          "maintenanceAndOtherOperatingExpenses": 34259,
+          "capitalOutlaysAndNetLending": 7138,
+          "financialExpenses": 0,
+          "total": 90729
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 51605,
+          "maintenanceAndOtherOperatingExpenses": 31914,
+          "capitalOutlaysAndNetLending": 105000,
+          "financialExpenses": 0,
+          "total": 188519
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 59127,
+          "maintenanceAndOtherOperatingExpenses": 50293,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 117420
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Region XIII - CARAGA",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XIII - CARAGA"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1506931,
+          "maintenanceAndOtherOperatingExpenses": 1087849,
+          "capitalOutlaysAndNetLending": 61000,
+          "financialExpenses": 0,
+          "total": 2655780
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1422424,
+          "maintenanceAndOtherOperatingExpenses": 1209330,
+          "capitalOutlaysAndNetLending": 732344,
+          "financialExpenses": 0,
+          "total": 3364098
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 2153664,
+          "maintenanceAndOtherOperatingExpenses": 1560226,
+          "capitalOutlaysAndNetLending": 165455,
+          "financialExpenses": 0,
+          "total": 3879345
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Agusan del Sur State College of Agriculture and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XIII - CARAGA",
+        "Agusan del Sur State College of Agriculture and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 170666,
+          "maintenanceAndOtherOperatingExpenses": 201275,
+          "capitalOutlaysAndNetLending": 19911,
+          "financialExpenses": 0,
+          "total": 391852
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 170585,
+          "maintenanceAndOtherOperatingExpenses": 188462,
+          "capitalOutlaysAndNetLending": 202508,
+          "financialExpenses": 0,
+          "total": 561555
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 267842,
+          "maintenanceAndOtherOperatingExpenses": 193603,
+          "capitalOutlaysAndNetLending": 69750,
+          "financialExpenses": 0,
+          "total": 531195
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Caraga State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XIII - CARAGA",
+        "Caraga State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 479213,
+          "maintenanceAndOtherOperatingExpenses": 287990,
+          "capitalOutlaysAndNetLending": 19695,
+          "financialExpenses": 0,
+          "total": 786898
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 417396,
+          "maintenanceAndOtherOperatingExpenses": 362301,
+          "capitalOutlaysAndNetLending": 435000,
+          "financialExpenses": 0,
+          "total": 1214697
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 645912,
+          "maintenanceAndOtherOperatingExpenses": 512409,
+          "capitalOutlaysAndNetLending": 33000,
+          "financialExpenses": 0,
+          "total": 1191321
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "North Eastern Mindanao State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XIII - CARAGA",
+        "North Eastern Mindanao State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 549763,
+          "maintenanceAndOtherOperatingExpenses": 399286,
+          "capitalOutlaysAndNetLending": 4436,
+          "financialExpenses": 0,
+          "total": 953485
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 484713,
+          "maintenanceAndOtherOperatingExpenses": 449713,
+          "capitalOutlaysAndNetLending": 55000,
+          "financialExpenses": 0,
+          "total": 989426
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 814376,
+          "maintenanceAndOtherOperatingExpenses": 592324,
+          "capitalOutlaysAndNetLending": 28000,
+          "financialExpenses": 0,
+          "total": 1434700
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Surigao del Norte State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region XIII - CARAGA",
+        "Surigao del Norte State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 307289,
+          "maintenanceAndOtherOperatingExpenses": 199298,
+          "capitalOutlaysAndNetLending": 16958,
+          "financialExpenses": 0,
+          "total": 523545
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 349730,
+          "maintenanceAndOtherOperatingExpenses": 208854,
+          "capitalOutlaysAndNetLending": 39836,
+          "financialExpenses": 0,
+          "total": 598420
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 425534,
+          "maintenanceAndOtherOperatingExpenses": 261890,
+          "capitalOutlaysAndNetLending": 34705,
+          "financialExpenses": 0,
+          "total": 722129
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 5143969,
+          "maintenanceAndOtherOperatingExpenses": 1189304,
+          "capitalOutlaysAndNetLending": 10052125,
+          "financialExpenses": 0,
+          "total": 16385398
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 5232348,
+          "maintenanceAndOtherOperatingExpenses": 1448553,
+          "capitalOutlaysAndNetLending": 3425604,
+          "financialExpenses": 0,
+          "total": 10106505
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 6072518,
+          "maintenanceAndOtherOperatingExpenses": 1729889,
+          "capitalOutlaysAndNetLending": 971201,
+          "financialExpenses": 0,
+          "total": 8773608
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Cotabato State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "Cotabato State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 196838,
+          "maintenanceAndOtherOperatingExpenses": 126482,
+          "capitalOutlaysAndNetLending": 10000,
+          "financialExpenses": 0,
+          "total": 333320
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 180598,
+          "maintenanceAndOtherOperatingExpenses": 113890,
+          "capitalOutlaysAndNetLending": 22500,
+          "financialExpenses": 0,
+          "total": 316988
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 242089,
+          "maintenanceAndOtherOperatingExpenses": 144638,
+          "capitalOutlaysAndNetLending": 10150,
+          "financialExpenses": 0,
+          "total": 396877
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Adiong Memorial State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "Adiong Memorial State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 57562,
+          "maintenanceAndOtherOperatingExpenses": 48998,
+          "capitalOutlaysAndNetLending": 9512,
+          "financialExpenses": 0,
+          "total": 116072
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 47103,
+          "maintenanceAndOtherOperatingExpenses": 47997,
+          "capitalOutlaysAndNetLending": 17500,
+          "financialExpenses": 0,
+          "total": 112600
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 83666,
+          "maintenanceAndOtherOperatingExpenses": 62686,
+          "capitalOutlaysAndNetLending": 8120,
+          "financialExpenses": 0,
+          "total": 154472
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Mindanao State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "Mindanao State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 3871692,
+          "maintenanceAndOtherOperatingExpenses": 779872,
+          "capitalOutlaysAndNetLending": 7876714,
+          "financialExpenses": 0,
+          "total": 12528278
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 4045692,
+          "maintenanceAndOtherOperatingExpenses": 958276,
+          "capitalOutlaysAndNetLending": 2288104,
+          "financialExpenses": 0,
+          "total": 7292072
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 4600585,
+          "maintenanceAndOtherOperatingExpenses": 1130556,
+          "capitalOutlaysAndNetLending": 768639,
+          "financialExpenses": 0,
+          "total": 6499780
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "MSU-Tawi-Tawi College of Technology and Oceanography",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "MSU-Tawi-Tawi College of Technology and Oceanography"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 642366,
+          "maintenanceAndOtherOperatingExpenses": 111748,
+          "capitalOutlaysAndNetLending": 2146169,
+          "financialExpenses": 0,
+          "total": 2900283
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 621522,
+          "maintenanceAndOtherOperatingExpenses": 106780,
+          "capitalOutlaysAndNetLending": 1037500,
+          "financialExpenses": 0,
+          "total": 1765802
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 743725,
+          "maintenanceAndOtherOperatingExpenses": 162478,
+          "capitalOutlaysAndNetLending": 125373,
+          "financialExpenses": 0,
+          "total": 1031576
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Sulu State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "Sulu State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 187310,
+          "maintenanceAndOtherOperatingExpenses": 80183,
+          "capitalOutlaysAndNetLending": 4750,
+          "financialExpenses": 0,
+          "total": 272243
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 188540,
+          "maintenanceAndOtherOperatingExpenses": 158588,
+          "capitalOutlaysAndNetLending": 30000,
+          "financialExpenses": 0,
+          "total": 377128
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 214596,
+          "maintenanceAndOtherOperatingExpenses": 155531,
+          "capitalOutlaysAndNetLending": 50919,
+          "financialExpenses": 0,
+          "total": 421046
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Tawi-Tawi Regional Agricultural College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "Tawi-Tawi Regional Agricultural College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 188201,
+          "maintenanceAndOtherOperatingExpenses": 42021,
+          "capitalOutlaysAndNetLending": 4980,
+          "financialExpenses": 0,
+          "total": 235202
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 148893,
+          "maintenanceAndOtherOperatingExpenses": 63022,
+          "capitalOutlaysAndNetLending": 30000,
+          "financialExpenses": 0,
+          "total": 241915
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 187857,
+          "maintenanceAndOtherOperatingExpenses": 74000,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 269857
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Department of Energy (DOE)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Energy (DOE)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 874313,
+          "maintenanceAndOtherOperatingExpenses": 1189181,
+          "capitalOutlaysAndNetLending": 589902,
+          "financialExpenses": 0,
+          "total": 2653396
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 761272,
+          "maintenanceAndOtherOperatingExpenses": 1633033,
+          "capitalOutlaysAndNetLending": 690899,
+          "financialExpenses": 0,
+          "total": 3085204
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 910255,
+          "maintenanceAndOtherOperatingExpenses": 1946724,
+          "capitalOutlaysAndNetLending": 982372,
+          "financialExpenses": 0,
+          "total": 3839351
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Office of the Secretary",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Energy (DOE)",
+        "Office of the Secretary"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 874313,
+          "maintenanceAndOtherOperatingExpenses": 1189181,
+          "capitalOutlaysAndNetLending": 589902,
+          "financialExpenses": 0,
+          "total": 2653396
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 761272,
+          "maintenanceAndOtherOperatingExpenses": 1633033,
+          "capitalOutlaysAndNetLending": 690899,
+          "financialExpenses": 0,
+          "total": 3085204
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 910255,
+          "maintenanceAndOtherOperatingExpenses": 1946724,
+          "capitalOutlaysAndNetLending": 982372,
+          "financialExpenses": 0,
+          "total": 3839351
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 7,
+      "printedPage": 367,
+      "particulars": "Department of Environment and Natural Resources (DENR)",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Department of Environment and Natural Resources (DENR)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 12591313,
+          "maintenanceAndOtherOperatingExpenses": 10777693,
+          "capitalOutlaysAndNetLending": 3486619,
+          "financialExpenses": 0,
+          "total": 26855625
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 10963544,
+          "maintenanceAndOtherOperatingExpenses": 12444945,
+          "capitalOutlaysAndNetLending": 3883742,
+          "financialExpenses": 0,
+          "total": 27292231
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 12452133,
+          "maintenanceAndOtherOperatingExpenses": 13018265,
+          "capitalOutlaysAndNetLending": 3871856,
+          "financialExpenses": 0,
+          "total": 29342254
+        }
+      }
+    }
+  ]
+}

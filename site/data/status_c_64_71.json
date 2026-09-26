@@ -1,0 +1,632 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0002831",
+    "date": "2024-05-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the loan proceeds requirements of Korea Economic Development Cooperation Fund assisted projects for the 2nd to 4th Quarters of FY 2024",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 405087000,
+        "pdfPage": 64
+      }
+    ],
+    "reportedTotalPesos": 405087000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0002834",
+    "date": "2024-05-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the loan proceeds requirements of Panay-Guimaras-Negros (PGN) Island Bridges Project under the Korea Economic Development Cooperation Fund loan for the 2nd to 4th Quarters of FY 2024",
+    "allocations": [
+      {
+        "category": "Panay-Guimaras-Negros (PGN) Island Bridges Project",
+        "expenseClass": "CO",
+        "amountPesos": 2836003000,
+        "pdfPage": 64
+      }
+    ],
+    "reportedTotalPesos": 2836003000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0003585",
+    "date": "2024-05-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the routine maintenance of national roads and bridges, nationwide",
+    "allocations": [
+      {
+        "category": "Maintenance, Repair and Rehabilitation of Infrastructure Facilities (Routine Maintenance of National Roads)",
+        "expenseClass": "MOOE",
+        "amountPesos": 6000000000,
+        "pdfPage": 65
+      }
+    ],
+    "reportedTotalPesos": 6000000000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0004248",
+    "date": "2024-06-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the payment of Right-of-Way claims affected/traversed by the implementation of various infrastructure projects",
+    "allocations": [
+      {
+        "category": "For Payment of Right of Way",
+        "expenseClass": "CO",
+        "amountPesos": 1680398000,
+        "pdfPage": 65
+      }
+    ],
+    "reportedTotalPesos": 1680398000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0004246",
+    "date": "2024-06-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 1st and 2nd quarter GOP counterpart requirements of the Panay-Guimaras-Negros (PGN) Island Bridges Project",
+    "allocations": [
+      {
+        "category": "Panay-Guimaras-Negros (PGN) Island Bridges Project",
+        "expenseClass": "CO",
+        "amountPesos": 10564000,
+        "pdfPage": 64
+      }
+    ],
+    "reportedTotalPesos": 10564000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0004247",
+    "date": "2024-06-10",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 1st and 2nd quarter GOP counterpart requirements of various Foreign-Assisted Projects",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 10772424000,
+        "pdfPage": 65
+      }
+    ],
+    "reportedTotalPesos": 10772424000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0014804",
+    "date": "2024-09-17",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 Loan Proceeds requirement for the implementation of the Metro Manila Bridges Project (MMBP), ADB Loan No. 4168-PHI",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 201256000,
+        "pdfPage": 64
+      }
+    ],
+    "reportedTotalPesos": 201256000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0014805",
+    "date": "2024-09-17",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 Loan Proceeds requirement for the implementation of the Dalton Pass East Alignment Road Project, JICA Loan No. PH-P280",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 55926000,
+        "pdfPage": 64
+      }
+    ],
+    "reportedTotalPesos": 55926000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0014802",
+    "date": "2024-09-17",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the 3rd and 4th quarter GOP counterpart requirements of the Panay-Guimaras-Negros (PGN) Island Bridges Project",
+    "allocations": [
+      {
+        "category": "Panay-Guimaras-Negros (PGN) Island Bridges Project",
+        "expenseClass": "CO",
+        "amountPesos": 153436000,
+        "pdfPage": 64
+      }
+    ],
+    "reportedTotalPesos": 153436000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0014803",
+    "date": "2024-09-17",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 additional GOP counterpart requirements of various Foreign-Assisted Projects",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 11914935000,
+        "pdfPage": 65
+      }
+    ],
+    "reportedTotalPesos": 11914935000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0016272",
+    "date": "2024-10-01",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the (i) operation of Weighbridge Stations and ATOME - P500,000,000; (ii) maintenance and operations of DPWH Floating Equipment - P250,000,000; and (iii) implementation of various priority projects, with details in Annex A - P6,668,125,000.",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "MOOE",
+        "amountPesos": 750000000,
+        "pdfPage": 64
+      },
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 6668125000,
+        "pdfPage": 64
+      }
+    ],
+    "reportedTotalPesos": 7418125000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0017786",
+    "date": "2024-11-14",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 303820000,
+        "pdfPage": 66
+      }
+    ],
+    "reportedTotalPesos": 303820000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 64,
+    "sourcePages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "printedPage": 64,
+    "saroNumber": "SARO-BMB-A-24-0017623",
+    "date": "2024-11-11",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the routine maintenance of national roads, nationwide",
+    "allocations": [
+      {
+        "category": "Maintenance, Repair and Rehabilitation of Infrastructure Facilities (Routine Maintenance of National Roads)",
+        "expenseClass": "MOOE",
+        "amountPesos": 7500000000,
+        "pdfPage": 65
+      }
+    ],
+    "reportedTotalPesos": 7500000000,
+    "reviewNote": "Row continues across pp. 64?67; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0017624",
+    "date": "2024-11-11",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the implementation of various priority projects which are essential for achieving the objectives outlined in the President's Eight-Point Socioeconomic Agenda",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 12024184000,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 12024184000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0017785",
+    "date": "2024-11-14",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the implementation of various priority projects that are essential for the achievement of the objectives outlined in the President's Eight-Point Socioeconomic Agenda",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 69994940000,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 69994940000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0018351",
+    "date": "2024-11-28",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the implementation of various disaster-related infrastructure projects",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 1000000000,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 1000000000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0018374",
+    "date": "2024-11-28",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the implementation of various priority projects which are essential for the achievement of the objectives outlined in the President's Eight-Point Socioeconomic Agenda",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 3018250000,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 3018250000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0018545",
+    "date": "2024-12-03",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "For payment of FY2022 PBB",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "FY 2022 PBB",
+        "amountPesos": 996311,
+        "pdfPage": 70
+      }
+    ],
+    "reportedTotalPesos": 996311,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0018945",
+    "date": "2024-12-13",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional LP requirements for the implementation of the Metro Manila Bridges Project (MMBP)",
+    "allocations": [
+      {
+        "category": "Support to Foreign-Assisted Projects (FAPS)",
+        "expenseClass": "CO",
+        "amountPesos": 297772000,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 297772000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0018544",
+    "date": "2024-12-03",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the implementation of various priority projects which are essential for achieving the objectives outlined in the President's Eight-Point Socioeconomic Agenda",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 9980000000,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 9980000000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0018926",
+    "date": "2024-12-13",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the implementation of various disaster-related infrastructure projects",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 1104184931,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 1104184931,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0019575",
+    "date": "2024-12-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the implementation of various priority projects which are essential for achieving the objectives outlined in the President's Eight-Point Socioeconomic Agenda",
+    "allocations": [
+      {
+        "category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)",
+        "expenseClass": "CO",
+        "amountPesos": 51341420000,
+        "pdfPage": 68
+      }
+    ],
+    "reportedTotalPesos": 51341420000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0019576",
+    "date": "2024-12-27",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the payment of Right-Of-Way (ROW) claims for properties affected by various infrastructure projects",
+    "allocations": [
+      {
+        "category": "For Payment of Right of Way",
+        "expenseClass": "CO",
+        "amountPesos": 1324160017,
+        "pdfPage": 69
+      }
+    ],
+    "reportedTotalPesos": 1324160017,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 68,
+    "sourcePages": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "printedPage": 68,
+    "saroNumber": "SARO-BMB-A-24-0018946",
+    "date": "2024-12-13",
+    "department": "DPWH",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional GOP requirements for the implementation of the Metro Manila Bridges Project (MMBP)",
+    "allocations": [
+      {
+        "category": "For Government Counterpart of Foreign-Assisted Projects",
+        "expenseClass": "CO",
+        "amountPesos": 14434000,
+        "pdfPage": 69
+      }
+    ],
+    "reportedTotalPesos": 14434000,
+    "reviewNote": "Row continues across pp. 68?71; allocation page(s) cited in allocations."
+  }
+]

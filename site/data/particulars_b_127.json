@@ -1,0 +1,30 @@
+[
+  {
+    "documentId": "B-p127",
+    "saroNumber": "SARO-BMB-A-24-0017623",
+    "pageStart": 127,
+    "department": "Department of Public Works and Highways (DPWH)",
+    "agency": "Office of the Secretary",
+    "operatingUnit": "Central Office",
+    "locality": null,
+    "orgCode": "18 001 0100000",
+    "fundingSource": "Regular Agency Fund, Unprogrammed Appropriations, Maintenance, Repair and Rehabilitation of Infrastructure Facilities (Routine Maintenance of National Roads)",
+    "fundingSourceCode": "01 1 05 565",
+    "formPurpose": "To cover the additional funding requirements for the routine maintenance of national roads, nationwide.",
+    "totalAmountPesos": 7500000000,
+    "validUntil": "2025-12-31",
+    "particulars": [
+      {
+        "mfoPapCode": "200000100017000",
+        "description": "Maintenance and Other Operating Expenses",
+        "programPath": [
+          "Support to Operations",
+          "Maintenance, Repair and Rehabilitation of Infrastructure Facilities and Other Related Activities - Routine Maintenance of National Roads"
+        ],
+        "objectCode": "5020000000",
+        "amountPesos": 7500000000
+      }
+    ],
+    "reviewNote": "The printed footer SARO number is partly obscured; it appears to read SARO-BMB-A-24-0017623. The amount-bearing line sums to the printed total of P7,500,000,000."
+  }
+]

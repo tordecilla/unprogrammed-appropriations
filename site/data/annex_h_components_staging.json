@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "source": "https://github.com/tordecilla/unprogrammed-appropriations/releases/download/pdfs-annex-v1/Annex-H-Compliance-G.R.-No.-271059.pdf",
+  "method": "Visual review of rendered PDF page images only; no OCR or programmatic PDF content extraction",
+  "records": [
+    {
+      "sourcePage": 2,
+      "documentId": "H-p002",
+      "label": "Requested amount",
+      "amountPesos": "11079509000.00",
+      "amountType": "request",
+      "hierarchy": 0,
+      "relatedSaro": "SARO-BMB-B-26-0000181",
+      "reviewNote": "Amount named in the variance paragraph as the total requested amount."
+    },
+    {
+      "sourcePage": 2,
+      "documentId": "H-p002",
+      "label": "Released amount",
+      "amountPesos": "9553523000.00",
+      "amountType": "release",
+      "hierarchy": 0,
+      "relatedSaro": "SARO-BMB-B-26-0000181",
+      "reviewNote": "Amount stated in the opening release paragraph."
+    },
+    {
+      "sourcePage": 2,
+      "documentId": "H-p002",
+      "label": "Variance between requested and released amounts",
+      "amountPesos": "1525986000.00",
+      "amountType": "variance",
+      "hierarchy": 0,
+      "relatedSaro": "SARO-BMB-B-26-0000181",
+      "reviewNote": "Printed variance; equals ₱11,079,509,000.00 minus ₱9,553,523,000.00."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "Total SAROs issued for DOTr Loan Proceeds requirements",
+      "amountPesos": "44165200322.00",
+      "amountType": "release_total",
+      "hierarchy": 0,
+      "relatedSaro": null,
+      "reviewNote": "Opening paragraph total; repeated as the table total below."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "Japan International Cooperation Agency subtotal",
+      "amountPesos": "21283933178.00",
+      "amountType": "subtotal",
+      "hierarchy": 1,
+      "relatedSaro": "SARO-BMB-A-26-0000983",
+      "reviewNote": "Printed JICA subtotal; equals the NSCR System and MMSP Phase I rows below."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "JICA — North-South Commuter Railway (NSCR) System",
+      "amountPesos": "14189053875.00",
+      "amountType": "project",
+      "hierarchy": 2,
+      "relatedSaro": "SARO-BMB-A-26-0000983",
+      "reviewNote": "JICA project amount cell."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "JICA — Metro Manila Subway Project (MMSP) Phase I",
+      "amountPesos": "7094879303.00",
+      "amountType": "project",
+      "hierarchy": 2,
+      "relatedSaro": "SARO-BMB-A-26-0000983",
+      "reviewNote": "JICA project amount cell."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "Asian Development Bank subtotal",
+      "amountPesos": "22881267144.00",
+      "amountType": "subtotal",
+      "hierarchy": 1,
+      "relatedSaro": "SARO-BMB-A-26-0000984",
+      "reviewNote": "Printed ADB amount heading; repeated in the NSCR System row below."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "ADB — North-South Commuter Railway (NSCR) System",
+      "amountPesos": "22881267144.00",
+      "amountType": "project",
+      "hierarchy": 2,
+      "relatedSaro": "SARO-BMB-A-26-0000984",
+      "reviewNote": "ADB project amount cell; same value as the ADB heading subtotal."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "Table total",
+      "amountPesos": "44165200322.00",
+      "amountType": "grand_total",
+      "hierarchy": 0,
+      "relatedSaro": null,
+      "reviewNote": "Printed table total; equals ₱21,283,933,178.00 + ₱22,881,267,144.00."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "Total requested amount",
+      "amountPesos": "129797114604.00",
+      "amountType": "request",
+      "hierarchy": 0,
+      "relatedSaro": null,
+      "reviewNote": "Rounded-off request total stated in the variance paragraph."
+    },
+    {
+      "sourcePage": 6,
+      "documentId": "H-p006",
+      "label": "Variance between total requested amount and release",
+      "amountPesos": "85631914282.00",
+      "amountType": "variance",
+      "hierarchy": 0,
+      "relatedSaro": null,
+      "reviewNote": "Printed rounded-off variance; equals ₱129,797,114,604.00 minus ₱44,165,200,322.00."
+    }
+  ]
+}

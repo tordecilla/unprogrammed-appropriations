@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "grain": "separate visible aggregates labelled Various SAROs; not distinct SARO rows",
+  "records": [
+    {
+      "annexId": "F", "sourcePage": 25, "printedPage": 25,
+      "scope": "Various SAROs issued in December; Board of Investments benefits aggregate",
+      "agency": "Board of Investments", "category": "For payment of monetization of leave credits and PS deficiency",
+      "unit": "pesos", "amounts": {"MLC": 158946, "Other PS Deficiencies": 22422399, "Total": 22581345}
+    },
+    {
+      "annexId": "F", "sourcePage": 25, "printedPage": 25,
+      "scope": "Various SAROs issued in December; Office of the Secretary benefits aggregate",
+      "agency": "Department of Economy, Planning and Development (formerly NEDA) — Office of the Secretary",
+      "category": "For payment of terminal leave benefits, monetization of leave credits and FY 2023 PBB",
+      "unit": "pesos", "amounts": {"TL/RG": 4848152, "MLC": 911453, "FY 2023 PBB": 31858304, "Total": 37617909}
+    },
+    {
+      "annexId": "F", "sourcePage": 25, "printedPage": 25,
+      "scope": "Various SAROs issued in December; ProPer benefits aggregate",
+      "agency": "Presidential Communications Office — ProPer",
+      "category": "For payment of terminal leave benefits and FY 2023 PBB",
+      "unit": "pesos", "amounts": {"TL/RG": 860938, "FY 2023 PBB": 7275581, "Total": 8136519}
+    }
+  ]
+}

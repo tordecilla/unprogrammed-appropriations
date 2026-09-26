@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "grain": "report-level note or visible subtotal not attributed to a numbered SARO",
+  "records": [
+    {
+      "annexId": "C",
+      "sourcePage": 8,
+      "printedPage": 8,
+      "scope": "Various SAROs issued in October aggregate",
+      "agency": "DA - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 10018044,
+        "Monetization of Leave Credits": 7814535,
+        "Total": 17832579
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 8,
+      "printedPage": 8,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DA - Office of the Secretary",
+      "category": "For payment of FY2024 PS Deficiency",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 84362851,
+        "Total": 84362851
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 8,
+      "printedPage": 8,
+      "scope": "Various SAROs issued in December aggregate",
+      "agency": "DA - Office of the Secretary",
+      "category": "For payment of terminal leave benefits and monetization of leave credits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 2155263,
+        "Monetization of Leave Credits": 129232,
+        "Total": 2284495
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 9,
+      "printedPage": 9,
+      "scope": "Agency subtotal",
+      "agency": "Bureau of Fisheries and Aquatic Resources",
+      "category": "Support to Foreign-Assisted Projects (FAPs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 788420000,
+        "CO": 690317000,
+        "Total": 1478737000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "National Meat Inspection Service",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 23657269,
+        "Terminal Leave/Retirement Gratuity": 5056568,
+        "Monetization of Leave Credits": 182398,
+        "Total": 28896235
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "National Fisheries Research and Development Institute",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Salary Increase": 2922000,
+        "Other PS Deficiencies": 4874735,
+        "Total": 7796735
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Carabao Center",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "FY 2022 PBB": 4722551,
+        "Other PS Deficiencies": 8916224,
+        "Terminal Leave/Retirement Gratuity": 7808759,
+        "Total": 21447534
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Carabao Center",
+      "category": "Support to Foreign-Assisted Projects (FAPs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 187040000,
+        "Total": 187040000
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Center for Post-Harvest Development and Mechanization",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 148610,
+        "Total": 148610
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Fiber Industry Development Authority",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Other PS Deficiencies": 14035252,
+        "Terminal Leave/Retirement Gratuity": 4220517,
+        "Total": 18255769
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Council for Agriculture and Fisheries",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "Terminal Leave/Retirement Gratuity": 517266,
+        "Monetization of Leave Credits": 111440,
+        "Total": 628706
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 10,
+      "printedPage": 10,
+      "scope": "Agency subtotal",
+      "agency": "Philippine Council for Agriculture and Fisheries",
+      "category": "Support to Foreign-Assisted Projects (FAPs)",
+      "unit": "pesos",
+      "amounts": {
+        "MOOE": 9986248,
+        "Total": 9986248
+      }
+    },
+    {
+      "annexId": "C",
+      "sourcePage": 11,
+      "printedPage": 11,
+      "scope": "Department subtotal",
+      "agency": "DA",
+      "category": "For payment of Personnel Benefits",
+      "unit": "pesos",
+      "amounts": {
+        "PS": 300378489,
+        "MOOE": 21354860604,
+        "CO": 9089136920,
+        "Total": 30744376013
+      }
+    }
+  ]
+}

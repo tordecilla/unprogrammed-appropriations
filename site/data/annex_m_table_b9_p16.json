@@ -1,0 +1,946 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 16,
+  "printedPage": 376,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "SPECIAL PURPOSE FUNDS",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS"
+      ],
+      "rowType": "section",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 878521,
+          "maintenanceAndOtherOperatingExpenses": 1251879599,
+          "capitalOutlaysAndNetLending": 14919153,
+          "financialExpenses": 763313000,
+          "total": 2030990273
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 254064109,
+          "maintenanceAndOtherOperatingExpenses": 1358307520,
+          "capitalOutlaysAndNetLending": 85677814,
+          "financialExpenses": 848030688,
+          "total": 2546080131
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 309734100,
+          "maintenanceAndOtherOperatingExpenses": 1542927941,
+          "capitalOutlaysAndNetLending": 93832934,
+          "financialExpenses": 950000000,
+          "total": 2896494975
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Budgetary Support to Government Corporations (BSGC)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 371302,
+          "maintenanceAndOtherOperatingExpenses": 240675213,
+          "capitalOutlaysAndNetLending": 11612423,
+          "financialExpenses": 0,
+          "total": 252658938
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 371302,
+          "maintenanceAndOtherOperatingExpenses": 135160891,
+          "capitalOutlaysAndNetLending": 30474587,
+          "financialExpenses": 0,
+          "total": 166006780
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 371302,
+          "maintenanceAndOtherOperatingExpenses": 156624432,
+          "capitalOutlaysAndNetLending": 31264328,
+          "financialExpenses": 0,
+          "total": 188260062
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Department of Agriculture (DA)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 218919,
+          "maintenanceAndOtherOperatingExpenses": 39787243,
+          "capitalOutlaysAndNetLending": 60000,
+          "financialExpenses": 0,
+          "total": 40066162
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 218919,
+          "maintenanceAndOtherOperatingExpenses": 28457736,
+          "capitalOutlaysAndNetLending": 60000,
+          "financialExpenses": 0,
+          "total": 28736655
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 218919,
+          "maintenanceAndOtherOperatingExpenses": 22486704,
+          "capitalOutlaysAndNetLending": 62500,
+          "financialExpenses": 0,
+          "total": 22768123
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "National Dairy Authority",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "National Dairy Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 522374,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 522374
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 537813,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 537813
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 531016,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 531016
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "National Food Authority",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "National Food Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 21532000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 21532000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 14453000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 14453000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 11176528,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 11176528
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "National Tobacco Administration",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "National Tobacco Administration"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 218919,
+          "maintenanceAndOtherOperatingExpenses": 271585,
+          "capitalOutlaysAndNetLending": 60000,
+          "financialExpenses": 0,
+          "total": 550504
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 218919,
+          "maintenanceAndOtherOperatingExpenses": 271585,
+          "capitalOutlaysAndNetLending": 60000,
+          "financialExpenses": 0,
+          "total": 550504
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 218919,
+          "maintenanceAndOtherOperatingExpenses": 274608,
+          "capitalOutlaysAndNetLending": 62500,
+          "financialExpenses": 0,
+          "total": 556027
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Philippine Coconut Authority",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "Philippine Coconut Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1181117,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1181117
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1215397,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1215397
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1924720,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1924720
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Philippine Crop Insurance Corporation",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "Philippine Crop Insurance Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 4500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 4500000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 4500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 4500000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 4500000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 4500000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Philippine Fisheries Development Authority",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "Philippine Fisheries Development Authority"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 6037082,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 6037082
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 5525549,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 5525549
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2100000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2100000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Philippine Rice Research Institute",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "Philippine Rice Research Institute"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 5231245,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 5231245
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 954392,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 954392
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 979832,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 979832
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Sugar Regulatory Administration",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Agriculture (DA)",
+        "Sugar Regulatory Administration"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 511840,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 511840
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1000000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1000000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1000000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1000000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Department of Energy (DOE)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Energy (DOE)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 22908065,
+          "capitalOutlaysAndNetLending": 470000,
+          "financialExpenses": 0,
+          "total": 23378065
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 13918242,
+          "capitalOutlaysAndNetLending": 795000,
+          "financialExpenses": 0,
+          "total": 14713242
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 15193577,
+          "capitalOutlaysAndNetLending": 810000,
+          "financialExpenses": 0,
+          "total": 16003577
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "National Electrification Administration",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Energy (DOE)",
+        "National Electrification Administration"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 5551892,
+          "capitalOutlaysAndNetLending": 470000,
+          "financialExpenses": 0,
+          "total": 6021892
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 5047337,
+          "capitalOutlaysAndNetLending": 795000,
+          "financialExpenses": 0,
+          "total": 5842337
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 5634200,
+          "capitalOutlaysAndNetLending": 810000,
+          "financialExpenses": 0,
+          "total": 6444200
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "National Power Corporation",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Energy (DOE)",
+        "National Power Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 7345988,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 7345988
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 870905,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 870905
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1559377,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1559377
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "National Transmission Corporation",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Energy (DOE)",
+        "National Transmission Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 2010185,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 2010185
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Power Sector Assets and Liabilities Management Corporation",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Energy (DOE)",
+        "Power Sector Assets and Liabilities Management Corporation"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 8000000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 8000000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 8000000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 8000000
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 8000000,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 8000000
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Department of Environment and Natural Resources (DENR)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Environment and Natural Resources (DENR)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1053023,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 1053023
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 564753,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 564753
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 236597,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 236597
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Local Water Utilities Administration",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Local Water Utilities Administration"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 884626,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 884626
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 395170,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 395170
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 29550,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 29550
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Metropolitan Waterworks and Sewerage System - Regulatory Office",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Metropolitan Waterworks and Sewerage System - Regulatory Office"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 168397,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 168397
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 169583,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 169583
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 207047,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 207047
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Department of Finance (DOF)",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Finance (DOF)"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1206583,
+          "capitalOutlaysAndNetLending": 1828724,
+          "financialExpenses": 0,
+          "total": 3035307
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 58227,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 58227
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 58227,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 58227
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Land Bank of the Philippines",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Finance (DOF)",
+        "Land Bank of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 1156784,
+          "capitalOutlaysAndNetLending": 1328724,
+          "financialExpenses": 0,
+          "total": 2485508
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 16,
+      "printedPage": 376,
+      "particulars": "Development Bank of the Philippines",
+      "hierarchyPath": [
+        "SPECIAL PURPOSE FUNDS",
+        "Budgetary Support to Government Corporations (BSGC)",
+        "Department of Finance (DOF)",
+        "Development Bank of the Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 500000,
+          "financialExpenses": 0,
+          "total": 500000
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 0,
+          "maintenanceAndOtherOperatingExpenses": 0,
+          "capitalOutlaysAndNetLending": 0,
+          "financialExpenses": 0,
+          "total": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1187 @@
+{
+  "sourceAnnex": "M",
+  "table": "B.9",
+  "sourcePage": 5,
+  "printedPage": 365,
+  "unit": "thousand pesos",
+  "currency": "PHP",
+  "columnOrder": "per year: personnel services, maintenance and other operating expenses, capital outlays and net lending, financial expenses, total",
+  "notes": [
+    "Footnote: For BSGC: PS and MOOE are Subsidy and CO are Equity."
+  ],
+  "rows": [
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Aklan State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "Aklan State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 397293,
+          "maintenanceAndOtherOperatingExpenses": 179461,
+          "capitalOutlaysAndNetLending": 28484,
+          "financialExpenses": 0,
+          "total": 605238
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 431469,
+          "maintenanceAndOtherOperatingExpenses": 178329,
+          "capitalOutlaysAndNetLending": 37000,
+          "financialExpenses": 0,
+          "total": 646798
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 559468,
+          "maintenanceAndOtherOperatingExpenses": 199604,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 767072
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Capiz State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "Capiz State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 701625,
+          "maintenanceAndOtherOperatingExpenses": 182636,
+          "capitalOutlaysAndNetLending": 21616,
+          "financialExpenses": 0,
+          "total": 905877
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 755864,
+          "maintenanceAndOtherOperatingExpenses": 335671,
+          "capitalOutlaysAndNetLending": 70000,
+          "financialExpenses": 0,
+          "total": 1161535
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 849026,
+          "maintenanceAndOtherOperatingExpenses": 364374,
+          "capitalOutlaysAndNetLending": 80000,
+          "financialExpenses": 0,
+          "total": 1293400
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Guimaras State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "Guimaras State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 153284,
+          "maintenanceAndOtherOperatingExpenses": 148475,
+          "capitalOutlaysAndNetLending": 39945,
+          "financialExpenses": 0,
+          "total": 341704
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 140929,
+          "maintenanceAndOtherOperatingExpenses": 154872,
+          "capitalOutlaysAndNetLending": 65432,
+          "financialExpenses": 0,
+          "total": 361233
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 173164,
+          "maintenanceAndOtherOperatingExpenses": 182996,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 364160
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Iloilo State University of Fisheries Science and Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "Iloilo State University of Fisheries Science and Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 372451,
+          "maintenanceAndOtherOperatingExpenses": 221362,
+          "capitalOutlaysAndNetLending": 9495,
+          "financialExpenses": 0,
+          "total": 603308
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 348504,
+          "maintenanceAndOtherOperatingExpenses": 171311,
+          "capitalOutlaysAndNetLending": 57500,
+          "financialExpenses": 0,
+          "total": 577315
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 423090,
+          "maintenanceAndOtherOperatingExpenses": 189874,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 620964
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Northern Iloilo State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "Northern Iloilo State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 473781,
+          "maintenanceAndOtherOperatingExpenses": 232717,
+          "capitalOutlaysAndNetLending": 10491,
+          "financialExpenses": 0,
+          "total": 716989
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 414240,
+          "maintenanceAndOtherOperatingExpenses": 263207,
+          "capitalOutlaysAndNetLending": 36500,
+          "financialExpenses": 0,
+          "total": 713947
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 552794,
+          "maintenanceAndOtherOperatingExpenses": 287204,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 847998
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "University of Antique",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "University of Antique"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 355158,
+          "maintenanceAndOtherOperatingExpenses": 336328,
+          "capitalOutlaysAndNetLending": 37715,
+          "financialExpenses": 0,
+          "total": 729201
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 354129,
+          "maintenanceAndOtherOperatingExpenses": 365021,
+          "capitalOutlaysAndNetLending": 61475,
+          "financialExpenses": 0,
+          "total": 780625
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 414605,
+          "maintenanceAndOtherOperatingExpenses": 363310,
+          "capitalOutlaysAndNetLending": 13000,
+          "financialExpenses": 0,
+          "total": 790915
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Iloilo Science and Technology University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "Iloilo Science and Technology University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 642705,
+          "maintenanceAndOtherOperatingExpenses": 354389,
+          "capitalOutlaysAndNetLending": 14805,
+          "financialExpenses": 0,
+          "total": 1011899
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 596543,
+          "maintenanceAndOtherOperatingExpenses": 426526,
+          "capitalOutlaysAndNetLending": 57499,
+          "financialExpenses": 0,
+          "total": 1080568
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 695919,
+          "maintenanceAndOtherOperatingExpenses": 426937,
+          "capitalOutlaysAndNetLending": 50559,
+          "financialExpenses": 0,
+          "total": 1173415
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "West Visayas State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VI - Western Visayas",
+        "West Visayas State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1693611,
+          "maintenanceAndOtherOperatingExpenses": 447471,
+          "capitalOutlaysAndNetLending": 941521,
+          "financialExpenses": 0,
+          "total": 3082603
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1609047,
+          "maintenanceAndOtherOperatingExpenses": 504667,
+          "capitalOutlaysAndNetLending": 112500,
+          "financialExpenses": 0,
+          "total": 2226214
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1892667,
+          "maintenanceAndOtherOperatingExpenses": 533487,
+          "capitalOutlaysAndNetLending": 36130,
+          "financialExpenses": 0,
+          "total": 2462284
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Negros Island Region",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Negros Island Region"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1395046,
+          "maintenanceAndOtherOperatingExpenses": 1359794,
+          "capitalOutlaysAndNetLending": 74983,
+          "financialExpenses": 0,
+          "total": 2829823
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1421617,
+          "maintenanceAndOtherOperatingExpenses": 1188348,
+          "capitalOutlaysAndNetLending": 402915,
+          "financialExpenses": 0,
+          "total": 3012880
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1802161,
+          "maintenanceAndOtherOperatingExpenses": 1259107,
+          "capitalOutlaysAndNetLending": 53410,
+          "financialExpenses": 0,
+          "total": 3114678
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Carlos Hilado Memorial State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Negros Island Region",
+        "Carlos Hilado Memorial State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 414329,
+          "maintenanceAndOtherOperatingExpenses": 308107,
+          "capitalOutlaysAndNetLending": 19773,
+          "financialExpenses": 0,
+          "total": 742209
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 375215,
+          "maintenanceAndOtherOperatingExpenses": 267758,
+          "capitalOutlaysAndNetLending": 27500,
+          "financialExpenses": 0,
+          "total": 670473
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 497300,
+          "maintenanceAndOtherOperatingExpenses": 264230,
+          "capitalOutlaysAndNetLending": 9950,
+          "financialExpenses": 0,
+          "total": 771480
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Central Philippines State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Negros Island Region",
+        "Central Philippines State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 255933,
+          "maintenanceAndOtherOperatingExpenses": 282532,
+          "capitalOutlaysAndNetLending": 9990,
+          "financialExpenses": 0,
+          "total": 548455
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 228594,
+          "maintenanceAndOtherOperatingExpenses": 304840,
+          "capitalOutlaysAndNetLending": 35000,
+          "financialExpenses": 0,
+          "total": 568434
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 280426,
+          "maintenanceAndOtherOperatingExpenses": 336605,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 625031
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "State University of Northern Negros",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Negros Island Region",
+        "State University of Northern Negros"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 175065,
+          "maintenanceAndOtherOperatingExpenses": 174328,
+          "capitalOutlaysAndNetLending": 26050,
+          "financialExpenses": 0,
+          "total": 375443
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 165968,
+          "maintenanceAndOtherOperatingExpenses": 125505,
+          "capitalOutlaysAndNetLending": 235400,
+          "financialExpenses": 0,
+          "total": 526873
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 203772,
+          "maintenanceAndOtherOperatingExpenses": 139902,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 351674
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Negros Oriental State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Negros Island Region",
+        "Negros Oriental State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 452648,
+          "maintenanceAndOtherOperatingExpenses": 568694,
+          "capitalOutlaysAndNetLending": 1700,
+          "financialExpenses": 0,
+          "total": 1023042
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 557926,
+          "maintenanceAndOtherOperatingExpenses": 437092,
+          "capitalOutlaysAndNetLending": 65000,
+          "financialExpenses": 0,
+          "total": 1060018
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 693553,
+          "maintenanceAndOtherOperatingExpenses": 455971,
+          "capitalOutlaysAndNetLending": 19460,
+          "financialExpenses": 0,
+          "total": 1168984
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Siquijor State College",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Negros Island Region",
+        "Siquijor State College"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 97071,
+          "maintenanceAndOtherOperatingExpenses": 26133,
+          "capitalOutlaysAndNetLending": 17470,
+          "financialExpenses": 0,
+          "total": 140674
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 93914,
+          "maintenanceAndOtherOperatingExpenses": 53153,
+          "capitalOutlaysAndNetLending": 40015,
+          "financialExpenses": 0,
+          "total": 187082
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 127110,
+          "maintenanceAndOtherOperatingExpenses": 62399,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 197509
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Region VII - Central Visayas",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VII - Central Visayas"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 2003691,
+          "maintenanceAndOtherOperatingExpenses": 1802325,
+          "capitalOutlaysAndNetLending": 2043872,
+          "financialExpenses": 0,
+          "total": 5849888
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1920769,
+          "maintenanceAndOtherOperatingExpenses": 1934408,
+          "capitalOutlaysAndNetLending": 156822,
+          "financialExpenses": 0,
+          "total": 4011999
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 2465567,
+          "maintenanceAndOtherOperatingExpenses": 2005772,
+          "capitalOutlaysAndNetLending": 161701,
+          "financialExpenses": 0,
+          "total": 4633040
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Bohol Island State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VII - Central Visayas",
+        "Bohol Island State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 501214,
+          "maintenanceAndOtherOperatingExpenses": 200104,
+          "capitalOutlaysAndNetLending": 61298,
+          "financialExpenses": 0,
+          "total": 762616
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 514281,
+          "maintenanceAndOtherOperatingExpenses": 327425,
+          "capitalOutlaysAndNetLending": 27500,
+          "financialExpenses": 0,
+          "total": 869206
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 644018,
+          "maintenanceAndOtherOperatingExpenses": 361987,
+          "capitalOutlaysAndNetLending": 11701,
+          "financialExpenses": 0,
+          "total": 1017706
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Cebu Normal University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VII - Central Visayas",
+        "Cebu Normal University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 400644,
+          "maintenanceAndOtherOperatingExpenses": 142583,
+          "capitalOutlaysAndNetLending": 1964828,
+          "financialExpenses": 0,
+          "total": 2508055
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 401655,
+          "maintenanceAndOtherOperatingExpenses": 121980,
+          "capitalOutlaysAndNetLending": 37500,
+          "financialExpenses": 0,
+          "total": 561135
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 515650,
+          "maintenanceAndOtherOperatingExpenses": 126973,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 650623
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Cebu Technological University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VII - Central Visayas",
+        "Cebu Technological University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 1101833,
+          "maintenanceAndOtherOperatingExpenses": 1459638,
+          "capitalOutlaysAndNetLending": 17746,
+          "financialExpenses": 0,
+          "total": 2579217
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 1004833,
+          "maintenanceAndOtherOperatingExpenses": 1485003,
+          "capitalOutlaysAndNetLending": 91822,
+          "financialExpenses": 0,
+          "total": 2581658
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 1305899,
+          "maintenanceAndOtherOperatingExpenses": 1516812,
+          "capitalOutlaysAndNetLending": 142000,
+          "financialExpenses": 0,
+          "total": 2964711
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Region VIII - Eastern Visayas",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas"
+      ],
+      "rowType": "subtotal",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 4211761,
+          "maintenanceAndOtherOperatingExpenses": 1785049,
+          "capitalOutlaysAndNetLending": 389162,
+          "financialExpenses": 0,
+          "total": 6385972
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 4191288,
+          "maintenanceAndOtherOperatingExpenses": 2151244,
+          "capitalOutlaysAndNetLending": 866062,
+          "financialExpenses": 0,
+          "total": 7208594
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 4963240,
+          "maintenanceAndOtherOperatingExpenses": 2305320,
+          "capitalOutlaysAndNetLending": 1335671,
+          "financialExpenses": 0,
+          "total": 8604231
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Eastern Samar State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Eastern Samar State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 600761,
+          "maintenanceAndOtherOperatingExpenses": 183620,
+          "capitalOutlaysAndNetLending": 14975,
+          "financialExpenses": 0,
+          "total": 799356
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 532114,
+          "maintenanceAndOtherOperatingExpenses": 216905,
+          "capitalOutlaysAndNetLending": 244100,
+          "financialExpenses": 0,
+          "total": 993119
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 608538,
+          "maintenanceAndOtherOperatingExpenses": 238022,
+          "capitalOutlaysAndNetLending": 35895,
+          "financialExpenses": 0,
+          "total": 882455
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Eastern Visayas State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Eastern Visayas State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 542398,
+          "maintenanceAndOtherOperatingExpenses": 187500,
+          "capitalOutlaysAndNetLending": 40467,
+          "financialExpenses": 0,
+          "total": 770365
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 549999,
+          "maintenanceAndOtherOperatingExpenses": 305948,
+          "capitalOutlaysAndNetLending": 27500,
+          "financialExpenses": 0,
+          "total": 883447
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 666095,
+          "maintenanceAndOtherOperatingExpenses": 333697,
+          "capitalOutlaysAndNetLending": 8000,
+          "financialExpenses": 0,
+          "total": 1007792
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Leyte Normal University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Leyte Normal University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 252264,
+          "maintenanceAndOtherOperatingExpenses": 134675,
+          "capitalOutlaysAndNetLending": 132500,
+          "financialExpenses": 0,
+          "total": 519439
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 261461,
+          "maintenanceAndOtherOperatingExpenses": 177111,
+          "capitalOutlaysAndNetLending": 27500,
+          "financialExpenses": 0,
+          "total": 466072
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 296311,
+          "maintenanceAndOtherOperatingExpenses": 117708,
+          "capitalOutlaysAndNetLending": 198210,
+          "financialExpenses": 0,
+          "total": 612229
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Biliran Province State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Biliran Province State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 310586,
+          "maintenanceAndOtherOperatingExpenses": 189467,
+          "capitalOutlaysAndNetLending": 24492,
+          "financialExpenses": 0,
+          "total": 524545
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 292121,
+          "maintenanceAndOtherOperatingExpenses": 188473,
+          "capitalOutlaysAndNetLending": 85000,
+          "financialExpenses": 0,
+          "total": 565594
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 338974,
+          "maintenanceAndOtherOperatingExpenses": 215065,
+          "capitalOutlaysAndNetLending": 178615,
+          "financialExpenses": 0,
+          "total": 732654
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Northwest Samar State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Northwest Samar State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 233485,
+          "maintenanceAndOtherOperatingExpenses": 94815,
+          "capitalOutlaysAndNetLending": 11623,
+          "financialExpenses": 0,
+          "total": 339923
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 211490,
+          "maintenanceAndOtherOperatingExpenses": 159683,
+          "capitalOutlaysAndNetLending": 106400,
+          "financialExpenses": 0,
+          "total": 477573
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 270540,
+          "maintenanceAndOtherOperatingExpenses": 265866,
+          "capitalOutlaysAndNetLending": 133500,
+          "financialExpenses": 0,
+          "total": 669906
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Palompon Institute of Technology",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Palompon Institute of Technology"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 208880,
+          "maintenanceAndOtherOperatingExpenses": 81150,
+          "capitalOutlaysAndNetLending": 5267,
+          "financialExpenses": 0,
+          "total": 295297
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 213149,
+          "maintenanceAndOtherOperatingExpenses": 89237,
+          "capitalOutlaysAndNetLending": 35000,
+          "financialExpenses": 0,
+          "total": 337386
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 269201,
+          "maintenanceAndOtherOperatingExpenses": 90890,
+          "capitalOutlaysAndNetLending": 88339,
+          "financialExpenses": 0,
+          "total": 448430
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Samar State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Samar State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 319004,
+          "maintenanceAndOtherOperatingExpenses": 140186,
+          "capitalOutlaysAndNetLending": 26505,
+          "financialExpenses": 0,
+          "total": 485695
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 313898,
+          "maintenanceAndOtherOperatingExpenses": 192761,
+          "capitalOutlaysAndNetLending": 173000,
+          "financialExpenses": 0,
+          "total": 679659
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 356557,
+          "maintenanceAndOtherOperatingExpenses": 160511,
+          "capitalOutlaysAndNetLending": 203870,
+          "financialExpenses": 0,
+          "total": 720938
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "Southern Leyte State University",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "Southern Leyte State University"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 455166,
+          "maintenanceAndOtherOperatingExpenses": 161699,
+          "capitalOutlaysAndNetLending": 13585,
+          "financialExpenses": 0,
+          "total": 630450
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 451550,
+          "maintenanceAndOtherOperatingExpenses": 209560,
+          "capitalOutlaysAndNetLending": 29500,
+          "financialExpenses": 0,
+          "total": 690610
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 527072,
+          "maintenanceAndOtherOperatingExpenses": 228654,
+          "capitalOutlaysAndNetLending": 169175,
+          "financialExpenses": 0,
+          "total": 924901
+        }
+      }
+    },
+    {
+      "sourceAnnex": "M",
+      "table": "B.9",
+      "sourcePage": 5,
+      "printedPage": 365,
+      "particulars": "University of Eastern Philippines",
+      "hierarchyPath": [
+        "DEPARTMENTS",
+        "Region VIII - Eastern Visayas",
+        "University of Eastern Philippines"
+      ],
+      "rowType": "detail",
+      "unit": "thousand pesos",
+      "currency": "PHP",
+      "reviewNote": null,
+      "years": {
+        "2024": {
+          "basis": "actual",
+          "personnelServices": 558497,
+          "maintenanceAndOtherOperatingExpenses": 210429,
+          "capitalOutlaysAndNetLending": 24433,
+          "financialExpenses": 0,
+          "total": 793359
+        },
+        "2025": {
+          "basis": "program",
+          "personnelServices": 592799,
+          "maintenanceAndOtherOperatingExpenses": 222177,
+          "capitalOutlaysAndNetLending": 69692,
+          "financialExpenses": 0,
+          "total": 884668
+        },
+        "2026": {
+          "basis": "proposed",
+          "personnelServices": 695570,
+          "maintenanceAndOtherOperatingExpenses": 253646,
+          "capitalOutlaysAndNetLending": 119302,
+          "financialExpenses": 0,
+          "total": 1068518
+        }
+      }
+    }
+  ]
+}

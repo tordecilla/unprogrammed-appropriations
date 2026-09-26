@@ -1,0 +1,309 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-C-24-0018044",
+    "date": "2024-11-21",
+    "department": "OP",
+    "agency": null,
+    "purpose": "FY 2024 PS Deficiency",
+    "allocations": [],
+    "reportedTotalPesos": 84095345,
+    "reviewNote": "The printed page 7 aggregate shows this SARO's figure, but I could not visually assign a component cell on pages 4–6 with confidence."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-C-24-0017372",
+    "date": "2024-10-30",
+    "department": "OVP",
+    "agency": null,
+    "purpose": "FY 2022 PBB",
+    "allocations": [{"category": "For payment of Personnel Benefits", "expenseClass": "FY 2022 PBB", "amountPesos": 5161127, "pdfPage": 6}],
+    "reportedTotalPesos": 5161127,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-C-24-0019622",
+    "date": "2024-12-27",
+    "department": "OVP",
+    "agency": null,
+    "purpose": "FY 2022 PBB",
+    "allocations": [{"category": "For payment of Personnel Benefits", "expenseClass": "FY 2022 PBB", "amountPesos": 195246, "pdfPage": 6}],
+    "reportedTotalPesos": 195246,
+    "reviewNote": null
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-E-24-0005622",
+    "date": "2024-07-12",
+    "department": "DAR",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Loan Proceeds requirements of the Support to Parcelization of Lands for Individual Titling (SPLIT) Project",
+    "allocations": [
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "MOOE", "amountPesos": 2804197000, "pdfPage": 4},
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "CO", "amountPesos": 79998000, "pdfPage": 4}
+    ],
+    "reportedTotalPesos": 2884195000,
+    "reviewNote": "Department and agency label carried from the visible DAR - Office of the Secretary heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-E-24-0011508",
+    "date": "2024-09-06",
+    "department": "DAR",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the Government of the Philippines counterpart requirements of the Support to Parcelization of Lands for Individual Titling (SPLIT) Project",
+    "allocations": [],
+    "reportedTotalPesos": 813491000,
+    "reviewNote": "The per-SARO figure is legible on the printed page 7 aggregate-only panel; page 7 has no category breakdown, so no expense-class cells are recorded. Department and agency carried from the visible heading."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-E-24-0000902",
+    "date": "2024-03-05",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 operating requirements for the implementation of Second Additional Financing for Philippine Rural Development Project (PRDP-AF2)",
+    "allocations": [
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "MOOE", "amountPesos": 926315000, "pdfPage": 5},
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "CO", "amountPesos": 1969980000, "pdfPage": 5}
+    ],
+    "reportedTotalPesos": 2896295000,
+    "reviewNote": "Department and agency carried from the visible DA / Office of the Secretary headings."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-E-24-0001452",
+    "date": "2024-03-25",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 operating requirements for the implementation of the Philippine Rural Development Project - Scale-Up (PRDP-SU)",
+    "allocations": [
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "MOOE", "amountPesos": 383588000, "pdfPage": 5},
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "CO", "amountPesos": 3683654000, "pdfPage": 5}
+    ],
+    "reportedTotalPesos": 4067242000,
+    "reviewNote": "Department and agency carried from the visible DA / Office of the Secretary headings."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-E-24-0001777",
+    "date": "2024-04-05",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 operating requirements for the implementation of the Mindanao Inclusive Agriculture Development Project (MIADP)",
+    "allocations": [
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "MOOE", "amountPesos": 317243000, "pdfPage": 5},
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "CO", "amountPesos": 147208000, "pdfPage": 5}
+    ],
+    "reportedTotalPesos": 464451000,
+    "reviewNote": "Department and agency carried from the visible DA / Office of the Secretary headings."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 4,
+    "printedPage": 4,
+    "sourcePages": [4, 5, 6, 7],
+    "saroNumber": "SARO-BMB-E-24-0011506",
+    "date": "2024-09-06",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the FY 2024 operating requirements for the implementation of various DA FAPs: Second Additional Financing for Philippine Rural Development Project (PRDP-AF2), Mindanao Inclusive Agriculture Development Project (MIADP), Philippine Rural Development Project Scale-Up (PRDP Scale-Up)",
+    "allocations": [
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "MOOE", "amountPesos": 420907000, "pdfPage": 5},
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "CO", "amountPesos": 736379000, "pdfPage": 5}
+    ],
+    "reportedTotalPesos": 1157286000,
+    "reviewNote": "Department and agency carried from the visible DA / Office of the Secretary headings."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0017051",
+    "date": "2024-10-21",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the funding requirements for the implementation of Rice Farmers Financial Assistance as support to the rice farmers affected by the Rice Tariffication Law of RA No. 11203, as reiterated under Section 3 of the Cash Assistance for Filipino Farmers Act or RA No. 11598",
+    "allocations": [
+      {"category": "Strengthening Assistance for Government Infrastructure and Social Programs (SAGIP)", "expenseClass": "MOOE", "amountPesos": 17625963950, "pdfPage": 8}
+    ],
+    "reviewNote": "DA / Office of the Secretary carried forward from the preceding agency group."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0018213",
+    "date": "2024-11-13",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover funding requirements for the implementation of the Cold Storage Expansion Project",
+    "allocations": [],
+    "reviewNote": "DA / Office of the Secretary carried forward from the preceding agency group; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0017722",
+    "date": "2024-11-26",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the completion of the Second Additional Financing for Philippine Rural Development Project (PRDP-AF2) IBRD Loan No. 9271-PH",
+    "allocations": [
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "MOOE", "amountPesos": 481416079, "pdfPage": 8},
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "CO", "amountPesos": 336366920, "pdfPage": 8}
+    ],
+    "reportedTotalPesos": 817782999,
+    "reviewNote": "DA / Office of the Secretary carried forward from the preceding agency group."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0017721",
+    "date": "2024-11-13",
+    "department": "DA",
+    "agency": "Office of the Secretary",
+    "purpose": "To cover the additional funding requirements for the completion of the Second Additional Financing for Philippine Rural Development Project (PRDP-AF2) IBRD Loan No. 9271-PH",
+    "allocations": [],
+    "reviewNote": "DA / Office of the Secretary carried forward from the preceding agency group; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-F-24-0017907",
+    "date": "2024-11-19",
+    "department": "DA",
+    "agency": "Agricultural Credit Policy Council",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [],
+    "reviewNote": "Agency name is visually legible; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-F-24-0019355",
+    "date": "2024-12-23",
+    "department": "DA",
+    "agency": "Agricultural Credit Policy Council",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [],
+    "reviewNote": "Agency name is visually legible; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0001897",
+    "date": "2024-04-12",
+    "department": "DA",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "purpose": "To cover funding requirements for the implementation of the Philippine Fisheries and Coastal Resiliency (FishCORE) Project",
+    "allocations": [
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "MOOE", "amountPesos": 788420000, "pdfPage": 8},
+      {"category": "Support to Foreign-Assisted Projects (FAPS)", "expenseClass": "CO", "amountPesos": 690317000, "pdfPage": 8}
+    ],
+    "reportedTotalPesos": 1478737000,
+    "reviewNote": "Agency name is visually legible."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0011507",
+    "date": "2024-09-06",
+    "department": "DA",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "purpose": "To cover the FY 2024 operating requirements for the implementation of Philippine Fisheries and Coastal Resiliency Project (FishCORE)",
+    "allocations": [],
+    "reviewNote": "Agency name is visually legible; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0018922",
+    "date": "2024-12-13",
+    "department": "DA",
+    "agency": "Bureau of Fisheries and Aquatic Resources",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [],
+    "reviewNote": "Agency name is visually legible; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0016648",
+    "date": "2024-10-09",
+    "department": "DA",
+    "agency": "Fertilizer and Pesticide Authority",
+    "purpose": "FY 2022 PBB",
+    "allocations": [],
+    "reviewNote": "Agency name is visually legible; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0016961",
+    "date": "2024-10-17",
+    "department": "DA",
+    "agency": "Fertilizer and Pesticide Authority",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [],
+    "reviewNote": "Agency name is visually legible; no nonzero row allocation is legible on the reviewed page."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 8,
+    "printedPage": 8,
+    "sourcePages": [8],
+    "saroNumber": "SARO-BMB-E-24-0018977",
+    "date": "2024-12-13",
+    "department": "DA",
+    "agency": "Fertilizer and Pesticide Authority",
+    "purpose": "For payment of PS Deficiency FY 2024",
+    "allocations": [],
+    "reviewNote": "Agency name is visually legible; no nonzero row allocation is legible on the reviewed page."
+  }
+]

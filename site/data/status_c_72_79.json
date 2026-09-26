@@ -1,0 +1,860 @@
+[
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012646",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Advanced Science and Technology Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 2696000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 2696000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0019098",
+    "date": "2024-12-17",
+    "department": "DOST",
+    "agency": "Advanced Science and Technology Institute",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 408904,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 408904,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012643",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Food and Nutrition Research Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 4779000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 4779000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0018059",
+    "date": "2024-11-21",
+    "department": "DOST",
+    "agency": "Food and Nutrition Research Institute",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 11973945,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 11973945,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012647",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Forest Products Research and Development Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 4776000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 4776000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012645",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Industrial Technology Development Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 9037000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 9037000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012648",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Metals Industry Research and Development Center",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 5927000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 5927000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012649",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "National Academy of Science and Technology",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 629000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 629000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0019076",
+    "date": "2024-12-17",
+    "department": "DOST",
+    "agency": "National Academy of Science and Technology",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1001715,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 1001715,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012659",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "National Research Council of the Philippines",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1092000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 1092000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0018609",
+    "date": "2024-12-05",
+    "department": "DOST",
+    "agency": "National Research Council of the Philippines",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 3623801,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 3623801,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012664",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Philippine Atmospheric, Geophysical and Astronomical Services Administration",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 20434000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 20434000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0019262",
+    "date": "2024-12-20",
+    "department": "DOST",
+    "agency": "Philippine Atmospheric, Geophysical and Astronomical Services Administration",
+    "purpose": "FY 2024 PS deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 19300604,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 19300604,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012666",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 6728000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 6728000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0018147",
+    "date": "2024-11-22",
+    "department": "DOST",
+    "agency": "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 6514496,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 6514496,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0012665",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Philippine Council for Health Research and Development",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 2001000,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 2001000,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0018205",
+    "date": "2024-11-25",
+    "department": "DOST",
+    "agency": "Philippine Council for Health Research and Development",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 51926,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 51926,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 72,
+    "sourcePages": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "printedPage": 72,
+    "saroNumber": "SARO-BMB-F-24-0018872",
+    "date": "2024-12-12",
+    "department": "DOST",
+    "agency": "Philippine Council for Health Research and Development",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 5754529,
+        "pdfPage": 74
+      }
+    ],
+    "reportedTotalPesos": 5754529,
+    "reviewNote": "Row continues across pp. 72?75; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0012667",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD)",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 2620000,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 2620000,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0018702",
+    "date": "2024-12-09",
+    "department": "DOST",
+    "agency": "Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD)",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 498452,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 498452,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0012674",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Philippine Institute of Volcanology and Seismology",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 5316000,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 5316000,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0018553",
+    "date": "2024-12-03",
+    "department": "DOST",
+    "agency": "Philippine Institute of Volcanology and Seismology",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 4269203,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 4269203,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0012656",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Philippine Nuclear Research Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 6920000,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 6920000,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0017271",
+    "date": "2024-10-29",
+    "department": "DOST",
+    "agency": "Philippine Science High School System",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 613903,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 613903,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0017953",
+    "date": "2024-11-20",
+    "department": "DOST",
+    "agency": "Philippine Science High School System",
+    "purpose": "For payment of terminal leave benefits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Terminal Leave/Retirement Gratuity",
+        "amountPesos": 688858,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 688858,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0019186",
+    "date": "2024-12-18",
+    "department": "DOST",
+    "agency": "Philippine Science High School System",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 258242,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 258242,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0012658",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Philippine Textile Research Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1955000,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 1955000,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0012662",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Science Education Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1842000,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 1842000,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0019363",
+    "date": "2024-12-23",
+    "department": "DOST",
+    "agency": "Science Education Institute",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1093042,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 1093042,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0018592",
+    "date": "2024-12-04",
+    "department": "DOST",
+    "agency": "Science Education Institute",
+    "purpose": "For payment of monetization of leave credits",
+    "allocations": [
+      {
+        "category": "Pension and Gratuity Fund",
+        "expenseClass": "Monetization of Leave Credits",
+        "amountPesos": 1243808,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 1243808,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0012672",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Science and Technology Information Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 1725000,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 1725000,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0019096",
+    "date": "2024-12-17",
+    "department": "DOST",
+    "agency": "Science and Technology Information Institute",
+    "purpose": "For payment of FY2024 PS Deficiency",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Other PS Deficiencies",
+        "amountPesos": 1479902,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 1479902,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  },
+  {
+    "annexId": "C",
+    "pdfPage": 76,
+    "sourcePages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "printedPage": 76,
+    "saroNumber": "SARO-BMB-F-24-0012681",
+    "date": "2024-09-09",
+    "department": "DOST",
+    "agency": "Technology Application and Promotion Institute",
+    "purpose": "Implementation of Salary Increase under E.O. No. 64",
+    "allocations": [
+      {
+        "category": "For payment of Personnel Benefits",
+        "expenseClass": "Salary Increase",
+        "amountPesos": 2281000,
+        "pdfPage": 78
+      }
+    ],
+    "reportedTotalPesos": 2281000,
+    "reviewNote": "Row continues across pp. 76?79; allocation page(s) cited in allocations."
+  }
+]
