@@ -1,0 +1,10 @@
+court-documents/
+audit/
+tmp/
+tmp_*/
+site/**/*.pdf
+site/preview-*.png
+**/__pycache__/
+*.pyc
+.DS_Store
+
